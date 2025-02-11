@@ -1,1 +1,4 @@
 output/*.csv
+output/processed_tags.csv
+data/ratings.csv
+output/standardized_ratings.csv
