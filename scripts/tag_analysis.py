@@ -1,29 +1,40 @@
 import pandas as pd
 from collections import Counter
 
-# Загружаем данные, например, результаты кластеризации
-movies_df = pd.read_csv('./output/movies_with_clusters.csv')
+# Оптимизированное чтение CSV
+movies_df = pd.read_csv(
+    './output/movies_with_clusters.csv',
+    dtype={'cluster': 'int16'}  # Используем int16, так как число кластеров обычно небольшое
+)
 
-# Группировка тегов по кластерам и подсчет их частоты
-tag_counts_per_cluster = movies_df.groupby('cluster')['tag'].apply(lambda tags: Counter(tag for tag_list in tags.str.split('|') for tag in tag_list))
+# Проверяем, есть ли столбец 'tag' в данных
+if 'tag' not in movies_df.columns:
+    raise KeyError("Ошибка: В данных нет столбца 'tag'.")
 
-# Сортировка тегов в каждом кластере по убыванию их количества
-sorted_tags_by_cluster = {}
-for cluster, tag_counts in tag_counts_per_cluster.items():
-    sorted_tags_by_cluster[cluster] = sorted(tag_counts.items(), key=lambda x: x[1], reverse=True)
+# Преобразуем теги в списки и развернем их
+movies_df['tag'] = movies_df['tag'].fillna('').astype(str).str.split('|')
 
-# Преобразуем отсортированные данные в DataFrame для удобства
+# "Взрываем" (explode) DataFrame по тегам
+exploded_tags = movies_df.explode('tag')
+
+# Удаляем пустые теги, если они есть
+exploded_tags = exploded_tags[exploded_tags['tag'] != '']
+
+# Оптимизированная группировка: считаем частоту тегов в каждом кластере
+tag_counts_per_cluster = exploded_tags.groupby('cluster')['tag'].apply(lambda x: Counter(x)).reset_index()
+
+# Преобразуем данные в удобный формат
 tag_summary = []
-for cluster, tags in sorted_tags_by_cluster.items():
-    for tag, count in tags:
+for _, row in tag_counts_per_cluster.iterrows():
+    cluster = row['cluster']
+    for tag, count in row['tag'].items():
         tag_summary.append({'cluster': cluster, 'tag': tag, 'count': count})
 
-tag_summary_df = pd.DataFrame(tag_summary)
+# Создаем DataFrame и сортируем
+tag_summary_df = pd.DataFrame(tag_summary).sort_values(by=['cluster', 'count'], ascending=[True, False])
 
-# Сортируем по кластеру и количеству тегов
-tag_summary_df = tag_summary_df.sort_values(by=['cluster', 'count'], ascending=[True, False])
-
-# Сохраняем результаты
+# Сохраняем результаты (с оптимизацией записи)
 output_path = './output/sorted_tags_by_cluster.csv'
-tag_summary_df.to_csv(output_path, index=False)
+tag_summary_df.to_csv(output_path, index=False, float_format='%.0f')
+
 print(f"Сортированные теги по кластерам сохранены в '{output_path}'")

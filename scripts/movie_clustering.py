@@ -1,150 +1,155 @@
 import os
-import time  # Добавляем импорт
+import time
 import pandas as pd
 import numpy as np
-from sklearn.cluster import MiniBatchKMeans, KMeans
+import ast
+from sklearn.cluster import MiniBatchKMeans
 from sklearn.decomposition import PCA
+from sklearn.preprocessing import MultiLabelBinarizer
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+import joblib  # Для сохранения модели
+from sklearn.preprocessing import MultiLabelBinarizer
 
 # Создаем папку для результатов, если её нет
 output_dir = os.path.join(os.path.dirname(__file__), '..', 'output')
 os.makedirs(output_dir, exist_ok=True)
 
 
-def filter_rare_values(df, column, threshold=200):
-    """Удаляет редкие жанры (менее threshold вхождений)"""
-    value_counts = df[column].explode().value_counts()
-    rare_values = value_counts[value_counts < threshold].index
-    df[column] = df[column].apply(lambda x: [v for v in x if v not in rare_values])
-    return df
-import ast
 
 def safe_literal_eval(val):
-    """Безопасно выполняет ast.literal_eval, проверяя тип данных"""
+    #Преобразование строки в список (жанры)
     try:
-        if isinstance(val, str) and val.startswith('[') and val.endswith(']'):
-            return ast.literal_eval(val)
-        return val  # Если это не строка-список, оставляем как есть
+        return ast.literal_eval(val) if isinstance(val, str) and val.startswith("[") else val
     except (ValueError, SyntaxError):
-        return []  # Если ошибка, возвращаем пустой список
+        return []
+
+
+def filter_rare_values(df, column, threshold=200):
+    #Удаляет редкие жанры (менее threshold вхождений)
+    df[column] = df[column].apply(lambda x: "|".join(x) if isinstance(x, list) else x)  # Преобразуем в строку
+
+    value_counts = df[column].str.split("|").explode().value_counts()
+    rare_values = value_counts[value_counts < threshold].index
+
+    df[column] = df[column].apply(lambda x: "|".join([v for v in x.split("|") if v not in rare_values]))  # Фильтруем жанры
+    df[column] = df[column].apply(lambda x: x.split("|") if x else [])  # Преобразуем обратно в списки
+    return df
 
 
 def create_movie_features(movies_df, ratings_df, tags_df):
-    print("Анализ жанров] Начинаем обработку данных...")
+    print("[Анализ жанров] Начинаем обработку данных...")
 
-    # Применяем безопасное преобразование жанров
+    # Оптимизированное чтение жанров
     movies_df['genres'] = movies_df['genres'].apply(safe_literal_eval)
 
-    # Убираем редкие жанры
-    movies_df = filter_rare_values(movies_df, 'genres', threshold=200)
-
-    # Разворачиваем список жанров
-    movies_genres = movies_df.explode('genres')
-
     # One-Hot Encoding жанров
-    movies_genres = pd.get_dummies(movies_genres, columns=['genres'])
-
-    # Группируем по `movieId`
-    movies_genres = movies_genres.groupby('movieId').sum().reset_index()
+    mlb = MultiLabelBinarizer()
+    genres_encoded = pd.DataFrame(
+        mlb.fit_transform(movies_df['genres']),
+        columns=mlb.classes_,
+        index=movies_df["movieId"]  # Убедимся, что индекс - это movieId
+    )
 
     # Средний рейтинг и количество оценок
-    avg_ratings = ratings_df.groupby('movieId')['rating'].mean().reset_index()
-    avg_ratings.rename(columns={'rating': 'avg_rating'}, inplace=True)
+    avg_ratings = ratings_df.groupby('movieId')['rating'].mean().astype('float32').rename("avg_rating")
+    rating_counts = ratings_df.groupby('movieId')['rating'].count().astype('int32').rename("rating_count")
 
-    rating_counts = ratings_df.groupby('movieId')['rating'].count().reset_index()
-    rating_counts.rename(columns={'rating': 'rating_count'}, inplace=True)
+    # Убеждаемся, что индекс - movieId, перед `join()`
+    genres_encoded = genres_encoded.reset_index().set_index("movieId")
+    avg_ratings = avg_ratings.reset_index().set_index("movieId")
+    rating_counts = rating_counts.reset_index().set_index("movieId")
 
-    print(f"[Анализ жанров] Размер movies_df: {movies_df.shape}, tags_df: {tags_df.shape}")
-
-    # Фильтрация тегов: удаляем редкие теги
-    tag_counts = tags_df['tag'].value_counts()
-    common_tags = tag_counts[tag_counts > 10].index
-    tags_df = tags_df[tags_df['tag'].isin(common_tags)]
-    print(f"[Фильтрация тегов] Оставлено {len(common_tags)} популярных тегов")
-
-    # Удаляем дубликаты `movieId`, чтобы уменьшить размер `tags_df`
-    tags_df = tags_df[['movieId', 'tag']].drop_duplicates()
-
-    print(f"[Объединение данных] Перед объединением: movies_df={movies_df.shape}, tags_df={tags_df.shape}")
-    merged_df = pd.concat([
-        tags_df.drop_duplicates(subset=["movieId"]).set_index("movieId"),
-        movies_genres.drop_duplicates(subset=["movieId"]).set_index("movieId")
-    ], axis=1, join="inner")
-
-    print(f"[Объединение данных] После объединения: merged_df={merged_df.shape}")
-
-    # Объединяем с рейтингами
-    movie_features = merged_df.merge(avg_ratings, on='movieId', how='left')
-    movie_features = movie_features.merge(rating_counts, on='movieId', how='left')
-
-    # Заполняем пропущенные значения
-    movie_features.fillna(0, inplace=True)
+    # **Исправленный `join()`**
+    movie_features = genres_encoded \
+        .join(avg_ratings, how="left") \
+        .join(rating_counts, how="left")
 
     print("[Анализ жанров] Признаки успешно созданы!")
     return movie_features
-import os
-import time
-import pandas as pd
-import numpy as np
-from sklearn.cluster import MiniBatchKMeans
-from sklearn.decomposition import PCA
 
-def perform_clustering(movie_features, movies_df, n_clusters=10):
-    """Выполняет кластеризацию фильмов с MiniBatchKMeans + PCA"""
 
-    print("\n [Кластеризация] Начинаем обработку данных...")
-
+def perform_clustering(movie_features, movies_df, n_clusters=10, output_dir="output"):
+    #Выполняет кластеризацию фильмов с помощью MiniBatchKMeans + PCA
+    print("\n[Кластеризация] Начинаем обработку данных...")
     start_time = time.time()
 
-    # Удаляем NaN
-    initial_size = movie_features.shape[0]
+    # Удаляем строки с NaN (если они остались)
     movie_features = movie_features.dropna()
-    print(f"[Очистка] Удалены NaN, осталось {movie_features.shape[0]} строк (было {initial_size})")
 
-    if movie_features.shape[0] == 0:
+    if movie_features.empty:
         print("[Ошибка] Нет данных для кластеризации после очистки!")
         return None
 
-    # Убираем строковые столбцы
+    # Оставляем только числовые признаки
     movie_features = movie_features.select_dtypes(include=[np.number])
 
-    # Проверяем, что индексы совпадают перед кластеризацией
-    if len(movie_features) != len(movies_df):
-        print(f"⚠ Предупреждение: число строк в movies_df ({len(movies_df)}) и movie_features ({len(movie_features)}) не совпадает!")
-        movies_df = movies_df[movies_df["movieId"].isin(movie_features.index)]
-        print(f"movies_df теперь имеет {len(movies_df)} строк")
-
-    # PCA для уменьшения размерности
+    # PCA для уменьшения размерности (оставляем 95% дисперсии, но минимум 2 компоненты)
     print("[PCA] Уменьшаем размерность данных...")
-    pca_start = time.time()
-    n_components = min(movie_features.shape[1], 300)  # Число компонент не может быть больше количества признаков
+    n_components = min(0.95, len(movie_features.columns))  # Исправленная ошибка
     pca = PCA(n_components=n_components, random_state=42)
     movie_features_pca = pca.fit_transform(movie_features)
-    print(f" [PCA] Размерность снижена: {movie_features.shape[1]} → {movie_features_pca.shape[1]}")
-    print(f"Время выполнения PCA: {time.time() - pca_start:.2f} секунд")
-    if len(movie_features_pca) != len(movies_df):
-        print(f"Ошибка: размерность PCA ({len(movie_features_pca)}) ≠ movies_df ({len(movies_df)})")
-        return None
 
-    # MiniBatchKMeans
+    print(f"[PCA] Итоговая размерность: {movie_features_pca.shape[1]} компонентов")
+    print(f"[PCA] Доля сохраненной дисперсии: {sum(pca.explained_variance_ratio_):.4f}")
+
+    # Убираем NaN после PCA (если они появились)
+    movie_features_pca = np.nan_to_num(movie_features_pca)
+
+    # MiniBatchKMeans с увеличенным размером пакета
     print("[MiniBatchKMeans] Запускаем алгоритм кластеризации...")
-    clustering_start = time.time()
-
-    kmeans = MiniBatchKMeans(n_clusters=n_clusters, random_state=42, batch_size=1000, n_init=10)
+    kmeans = MiniBatchKMeans(n_clusters=n_clusters, batch_size=5000, random_state=42, n_init=10)
     clusters = kmeans.fit_predict(movie_features_pca)
 
-    if len(clusters) == len(movies_df):
-        movies_df["cluster"] = clusters
-    else:
-        print(f"Ошибка: размер кластера {len(clusters)} ≠ {len(movies_df)}")
-        return None
+    # Сохраняем модель KMeans для дальнейшего использования
+    os.makedirs(output_dir, exist_ok=True)  # Создаем папку для вывода, если ее нет
+    joblib.dump(kmeans, os.path.join(output_dir, "kmeans_model.pkl"))
+    print(f"[KMeans] Модель сохранена в '{output_dir}/kmeans_model.pkl'")
 
-    print(f" [MiniBatchKMeans] Кластеры сформированы! (время: {time.time() - clustering_start:.2f} секунд)")
+    # Синхронизируем movies_df с movie_features
+    movies_df = movies_df.set_index("movieId").reindex(movie_features.index).reset_index()
+
+    # Проверяем, совпадают ли размеры
+    if len(clusters) != len(movies_df):
+        print(f"Ошибка: размер clusters ({len(clusters)}) ≠ movies_df ({len(movies_df)})")
+        print("Оставляем только фильмы, для которых есть кластерные признаки...")
+        movies_df = movies_df[movies_df["movieId"].isin(movie_features.index)]
+
+    print(f"Проверка размеров перед записью кластеров:")
+    print(f" - кластеры: {len(clusters)}")
+    print(f" - movies_df: {len(movies_df)}")
+    print(f" - movie_features: {len(movie_features)}")
+
+    # Теперь размеры должны совпадать, записываем кластеры
+    movies_df["cluster"] = clusters
+    print(f"[MiniBatchKMeans] Кластеры сформированы!")
 
     # Сохраняем результат
-    output_file = "output/clusters_movies.csv"
+    output_file = os.path.join(output_dir, "clusters_movies.csv")
     movies_df.to_csv(output_file, index=False)
+    print(f"[Сохранение] Кластеры сохранены в '{output_file}'")
 
-    print(f"[Сохранение] Результаты кластеризации сохранены в '{output_file}'")
-    print(f"[ИТОГО] Общая длительность кластеризации: {time.time() - start_time:.2f} секунд\n")
+    print(f"[ИТОГО] Время выполнения: {time.time() - start_time:.2f} сек\n")
 
-    return movies_df
+    return movies_df, kmeans
+
+
+def train_kmeans(movies_df, n_clusters=10):
+    """Обучает KMeans для кластеризации фильмов по жанрам."""
+
+    # Проверяем, есть ли колонка с жанрами
+    if "genres" not in movies_df.columns:
+        raise ValueError("Ошибка: В movies_df отсутствует колонка 'genres'!")
+
+    # Разбиваем жанры в отдельные столбцы
+    genres_dummies = movies_df["genres"].str.get_dummies(sep="|")  # One-Hot Encoding
+    scaler = StandardScaler()
+    genres_scaled = scaler.fit_transform(genres_dummies)
+
+    # Обучаем KMeans
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
+    movies_df["cluster"] = kmeans.fit_predict(genres_scaled)
+
+    print(f"KMeans обучен! Количество кластеров: {n_clusters}")
+
+    return kmeans, movies_df

@@ -1,7 +1,28 @@
 import os
+import time
 import pandas as pd
-from scripts.cluster_analysis import analyze_clusters, analyze_genres_and_clusters
-from scripts.data_cleaning import load_data, clean_movies, clean_tags, clean_data
+import numpy as np
+from concurrent.futures import ThreadPoolExecutor
+from scripts.data_export import save_dataframe, save_model
+from scripts.data_visualization import plot_genre_ratings
+from sklearn.cluster import MiniBatchKMeans, KMeans
+from scripts.clustering import analyze_ratings_by_cluster, recommend_movies, get_favorite_cluster
+from scripts.movie_clustering import train_kmeans
+
+# Импорты из cluster_analysis
+from scripts.cluster_analysis import (
+    analyze_cluster_distribution,
+    analyze_genres_by_cluster,
+    analyze_ratings_by_cluster,
+    get_top_movies_in_clusters,
+    popular_genres_in_clusters,
+    compare_clusters,
+    analyze_sentiment,
+    filter_top_movies
+)
+
+# Остальные импорты
+from scripts.data_cleaning import clean_movies, clean_tags, clean_ratings
 from scripts.data_processing import standardize_data
 from scripts.movie_clustering import perform_clustering, create_movie_features
 from scripts.data_visualization import (
@@ -10,122 +31,110 @@ from scripts.data_visualization import (
     plot_user_ratings_distribution,
     plot_ratings_over_time,
     plot_top_movies_by_avg_rating,
-    plot_cluster_distribution,
+    plot_cluster_distribution
 )
 
 
+def ensure_output_directory():
+    """Создаёт папку 'output', если её нет."""
+    os.makedirs('output', exist_ok=True)
+
+
 def main():
-    # Очистка данных
-    clean_movies()
-    clean_tags()
+    start_time = time.time()
+    ensure_output_directory()
 
-    # Проверяем наличие папки для сохранения
-    output_dir = 'output'
-    os.makedirs(output_dir, exist_ok=True)
+    print("Очистка данных...")
+    with ThreadPoolExecutor() as executor:
+        executor.map(lambda func: func(), [clean_movies, clean_tags, clean_ratings])
 
-    # Загрузка данных
-    path = "data"
-    filenames = ['movies.csv', 'ratings.csv', 'tags.csv', 'links.csv']
-    data = load_data(path, filenames)
+    print("Загрузка данных...")
+    dtype_dict = {"userId": "uint32", "movieId": "uint32", "rating": "float32", "timestamp": "int32"}
 
-    # Очистка данных
-    movies_df = clean_data(data['movies.csv'], fillna_values={'genres': ''})
-    ratings_df = clean_data(data['ratings.csv'])
+    try:
+        tags_df = pd.read_csv("output/cleaned_tags.csv", encoding="utf-8", usecols=["movieId", "tag"])
+        movies_df = pd.read_csv("output/cleaned_movies.csv", encoding="utf-8", usecols=["movieId", "title", "genres"])
+        ratings_df = pd.read_csv("output/cleaned_ratings.csv", encoding="utf-8", dtype=dtype_dict)
+    except FileNotFoundError as e:
+        print(f"Ошибка: {e}. Проверьте, что файлы существуют.")
+        return
 
-    # Предварительная обработка данных
+    print("Стандартизация рейтингов...")
     ratings_df['rating'] = pd.to_numeric(ratings_df['rating'], errors='coerce')
-    ratings_df = ratings_df.dropna(subset=['rating'])
-    ratings_df = ratings_df[(ratings_df['rating'] >= 1) & (ratings_df['rating'] <= 5)]
-    ratings_df = ratings_df.drop_duplicates()
+    ratings_df.dropna(subset=['rating'], inplace=True)
+    ratings_df = ratings_df[(ratings_df['rating'] >= 1) & (ratings_df['rating'] <= 5)].drop_duplicates()
     ratings_df_standardized = standardize_data(ratings_df, 'rating')
 
-    # Сохранение очищенных данных
-    ratings_df.to_csv(f'{output_dir}/cleaned_ratings.csv', index=False)
-    print("Очищенные данные сохранены в 'output/cleaned_ratings.csv'")
+    print("Сохранение очищенных данных...")
+    ratings_df.to_csv('output/cleaned_ratings.csv', index=False)
+    ratings_df_standardized.to_csv('output/standardized_ratings.csv', index=False)
 
-    ratings_df_standardized.to_csv(f'{output_dir}/standardized_ratings.csv', index=False)
-    print("Стандартизированные данные сохранены в 'output/standardized_ratings.csv'")
-
-    # Построение графиков
-    print("Строим графики")
+    print("Строим графики...")
     plot_correlation_matrix(ratings_df)
     plot_rating_distribution(ratings_df)
     plot_user_ratings_distribution(ratings_df)
     plot_ratings_over_time(ratings_df)
-    plot_top_movies_by_avg_rating(ratings_df, movies_df)
+    plot_genre_ratings(pd.merge(movies_df, ratings_df, on="movieId"))
 
-    # Создание признаков для кластеризации
-    print("Создаем признаки для кластеризации...")
-    movie_features = create_movie_features(movies_df, ratings_df, data['tags.csv'])
-
-    # Проверяем, что movie_features не пуст
+    print("Создание признаков для кластеризации...")
+    movie_features = create_movie_features(movies_df, ratings_df, tags_df)
     if movie_features is None or movie_features.empty:
-        print("Ошибка: movie_features пуст! Кластеризация не будет выполнена.")
+        print("Ошибка: movie_features пуст! Завершаем выполнение.")
         return
-    print(f"🎯 Перед кластеризацией: movie_features={movie_features.shape}, movies_df={movies_df.shape}")
+    print("Обучаем KMeans...")
+    kmeans, movies_df = train_kmeans(movies_df, n_clusters=10)
 
-    # Оставляем только те фильмы, которые есть в обоих DataFrame
-    movies_df = movies_df[movies_df['movieId'].isin(movie_features['movieId'])]
-    movie_features = movie_features[movie_features['movieId'].isin(movies_df['movieId'])]
-
-    print(f"✅ После синхронизации: movie_features={movie_features.shape}, movies_df={movies_df.shape}")
-
-    # Кластеризация (используется MiniBatchKMeans + PCA)
-    print("🔍 Выполняем кластеризацию...")
-    movies_df = perform_clustering(movie_features, movies_df, n_clusters=10)
-
-    # Проверяем, что кластеризация завершена успешно
-    if movies_df is not None:
-        print("Строим график распределения фильмов по кластерам")
-        plot_cluster_distribution(movies_df)
-    else:
-        print("Ошибка: кластеризация не выполнена! Пропускаем построение графика.")
+    print("Выполняем кластеризацию...")
+    movies_df, kmeans = perform_clustering(movie_features, movies_df, n_clusters=10)
+    if movies_df is None:
+        print("Ошибка: кластеризация не удалась! Останавливаем выполнение.")
         return
 
-    # Проверяем наличие processed_tags.csv и создаем, если его нет
-    file_path = "output/processed_tags.csv"
+    print("Строим график распределения фильмов по кластерам...")
+    plot_cluster_distribution(movies_df)
 
-    if not os.path.exists(file_path):
-        print(f"⚠ Файл '{file_path}' не найден. Создаём новый...")
+    print("Анализируем кластеры...")
+    analyze_cluster_distribution(movies_df)
+    analyze_genres_by_cluster(movies_df)
+    analyze_ratings_by_cluster(movies_df, ratings_df)
+    popular_genres_in_clusters(movies_df)
+    compare_clusters(movies_df, ratings_df)
+    filter_top_movies(movies_df, ratings_df)
+    analyze_sentiment(tags_df, movies_df, verbose=True)
 
-        try:
-            tags_df = pd.read_csv("output/cleaned_tags.csv", encoding="utf-8")  # Файл с тегами
-            movies_df = pd.read_csv("output/cleaned_movies.csv", encoding="utf-8")  # Файл с фильмами
-        except FileNotFoundError:
-            print("❌ Ошибка: Один из файлов ('cleaned_tags.csv' или 'cleaned_movies.csv') не найден!")
-            exit(1)
+    print("Получаем ТОП-5 фильмов в каждом кластере...")
+    top_movies = get_top_movies_in_clusters(movies_df, ratings_df, top_n=5)
+    print(top_movies)
 
-        # Объединяем данные по movieId
-        processed_tags_df = tags_df.merge(movies_df, on="movieId", how="left")
-
-        # Сохраняем объединённые данные в новый файл
-        processed_tags_df.to_csv(file_path, index=False, encoding="utf-8")
-        print(f"✅ Файл '{file_path}' успешно создан!")
+    save_dataframe(movies_df, "clusters_movies.csv")
+    if kmeans is not None:
+        save_model(kmeans, "kmeans_model.pkl")
     else:
-        print(f"✅ Файл '{file_path}' уже существует, пропускаем создание.")
+        print("Ошибка: KMeans не был создан, пропускаем сохранение модели!")
 
-    # 🔍 Загружаем объединённые данные tags_with_genres_df
-    print(f"🔍 Загружаем {file_path}...")
-    try:
-        global tags_with_genres_df  # Используем глобальную переменную
-        tags_with_genres_df = pd.read_csv(file_path, encoding="utf-8")
-        print(f"✅ Загружено! Размерность: {tags_with_genres_df.shape}")
-    except Exception as e:
-        print(f"❌ Ошибка при загрузке '{file_path}': {e}")
-        exit(1)
+    print("Пример рекомендации фильмов...")
+    movie_id = 1
+    if movie_id not in movies_df['movieId'].values:
+        print(f"Ошибка: фильм с ID {movie_id} не найден!")
+    else:
+        recommendations = recommend_movies(movie_id, movies_df, ratings_df, n=5)
+        print("Рекомендованные фильмы:", recommendations)
 
-    # Анализ кластеров
-    print("🔎 Анализируем кластеры...")
-    analyze_clusters(tags_with_genres_df,n_clusters=10)
+    print("Определение любимого кластера пользователя...")
+    user_id = 5
+    favorite_cluster = get_favorite_cluster(user_id, ratings_df, movies_df)
+    print(f"Любимый кластер пользователя {user_id}: {favorite_cluster}")
 
-    # Анализ жанров по кластерам
-    analyze_genres_and_clusters(
-        movies_file='output/cleaned_movies.csv',
-        tags_file=file_path,  # Используем объединенные теги
-        n_clusters=10
-    )
+    print("Классификация нового фильма...")
+    genres_vector = np.array([0, 1, 1, 0, 1, 0])
+    features = movies_df.drop(columns=["movieId", "title", "cluster", "genres"], errors="ignore")
+    if not all(features.dtypes.apply(lambda x: np.issubdtype(x, np.number))):
+        print("Ошибка: В features есть нечисловые значения! Проверьте данные.")
+        return
 
-    print("Все шаги завершены успешно!")
+
+
+    print(f"Программа завершена за {time.time() - start_time:.2f} секунд.")
 
 
 if __name__ == "__main__":

@@ -1,197 +1,232 @@
-from collections import Counter
-from sklearn.feature_extraction.text import CountVectorizer
-import os
 import pandas as pd
-import time
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import MultiLabelBinarizer
-from sklearn.decomposition import PCA
+import seaborn as sns
 import matplotlib.pyplot as plt
-from matplotlib import rcParams
-
-# ✅ Указываем путь к файлу
-file_path = "output/processed_tags.csv"
-
-# ✅ Проверяем, существует ли файл processed_tags.csv
-if not os.path.exists(file_path):
-    print(f"⚠ Файл '{file_path}' не найден. Создаём новый...")
-
-    try:
-        tags_df = pd.read_csv("output/cleaned_tags.csv", encoding="utf-8")
-        movies_df = pd.read_csv("output/cleaned_movies.csv", encoding="utf-8")
-    except FileNotFoundError:
-        print("❌ Ошибка: Один из файлов ('cleaned_tags.csv' или 'cleaned_movies.csv') не найден!")
-        exit(1)
-
-    processed_tags_df = tags_df.merge(movies_df, on="movieId", how="left")
-    processed_tags_df.to_csv(file_path, index=False, encoding="utf-8")
-
-    print(f"✅ Файл '{file_path}' успешно создан!")
-else:
-    print(f"✅ Файл '{file_path}' уже существует, пропускаем создание.")
-
-# ✅ Загружаем processed_tags.csv
-print(f"🔍 Загружаем {file_path}...")
-try:
-    tags_with_genres_df = pd.read_csv(file_path, encoding="utf-8")
-    print(f"✅ Загружено! Размерность: {tags_with_genres_df.shape}")
-except Exception as e:
-    print(f"❌ Ошибка при загрузке '{file_path}': {e}")
-    exit(1)
-
-# ✅ Настройка шрифтов для графиков
-rcParams["font.family"] = "Arial"
-rcParams["axes.unicode_minus"] = False
+from textblob import TextBlob
 
 
-def analyze_clusters(tags_with_genres_df, n_clusters=10):
-    """Анализ распределения тегов по кластерам."""
-    print("\n[Анализ кластеров] Начинаем анализ распределения тегов...")
-    start_time = time.time()
+def analyze_sentiment(tags_df, movies_df, verbose=True):
+    #Анализирует тональность тегов с учётом кластеров
 
-    if tags_with_genres_df is None or tags_with_genres_df.empty:
-        print("❌ Ошибка: tags_with_genres_df пуст или не загружен!")
+    print("\n Анализируем тональность тегов...")
+
+    tags_df["tag"] = tags_df["tag"].astype(str).fillna("")
+    tags_df["sentiment"] = tags_df["tag"].apply(lambda x: TextBlob(x).sentiment.polarity)
+
+    avg_sentiment = tags_df["sentiment"].mean()
+    print(f"Средняя тональность всех тегов: {avg_sentiment:.2f}")
+
+    if "cluster" not in tags_df.columns:
+        print("⚠`cluster` отсутствует в tags_df, добавляем...")
+        tags_df = tags_df.merge(movies_df[["movieId", "cluster"]], on="movieId", how="left")
+
+    if verbose:
+        sentiment_by_cluster = tags_df.groupby("cluster")["sentiment"].mean().reset_index()
+        print("\n Средняя тональность по кластерам:")
+        print(sentiment_by_cluster.sort_values("sentiment", ascending=False))
+
+    return tags_df
+
+def filter_top_movies(movies_df, ratings_df, min_rating=3.5, min_votes=20):
+    #Фильтрует фильмы с высоким рейтингом и достаточным числом голосов, учитывая стандартизированные рейтинги
+
+    print("\n Фильтрация топовых фильмов...")
+
+    # Объединяем фильмы с рейтингами
+    merged_df = movies_df.merge(ratings_df, on="movieId", how="left")
+
+    # Проверяем, какие есть реальные `rating`
+    print("Пример реальных значений рейтингов:")
+    print(merged_df["rating"].describe())
+
+    # Считаем средний рейтинг и количество голосов
+    movie_stats = merged_df.groupby("movieId").agg(
+        avg_rating=("rating", "mean"),  # Средний рейтинг фильма
+        vote_count=("rating", "count")  # Количество голосов
+    ).reset_index()
+
+    print(f"Всего фильмов в dataset: {movie_stats.shape[0]}")
+    print("Пример данных перед фильтрацией:")
+    print(movie_stats.head(100))
+
+    # Если рейтинги стандартизированы, переводим обратно к шкале 1-5
+    if movie_stats["avg_rating"].min() < 0 and movie_stats["avg_rating"].max() < 5:
+        print("Обнаружены стандартизированные рейтинги! Переводим их обратно...")
+        movie_stats["avg_rating"] = (movie_stats["avg_rating"] * ratings_df["rating"].std()) + ratings_df["rating"].mean()
+
+    print("Пример после перевода рейтингов в шкалу 1-5:")
+    print(movie_stats.head(100))
+
+    # Используем `percentile`, если рейтинги всё ещё не дают результатов
+    if movie_stats["avg_rating"].max() < min_rating:
+        min_rating = movie_stats["avg_rating"].quantile(0.8)  # Берём топ-20% фильмов
+
+    # Фильтруем фильмы с высоким рейтингом и достаточным числом голосов
+    top_movies = movie_stats[(movie_stats["avg_rating"] >= min_rating) & (movie_stats["vote_count"] >= min_votes)]
+
+    # Соединяем с `movies_df`, чтобы вернуть полные данные
+    filtered_movies = top_movies.merge(movies_df, on="movieId", how="left")
+
+    print(f"Найдено {filtered_movies.shape[0]} фильмов с рейтингом ≥ {min_rating:.2f} и голосами ≥ {min_votes}")
+    print("ТОП-10 фильмов после фильтрации:")
+    print(filtered_movies.head(100))
+
+    return filtered_movies
+def analyze_cluster_distribution(movies_df):
+    #Анализирует количество фильмов в каждом кластере и строит график
+
+    print("\nАнализ распределения фильмов по кластерам...")
+
+    # Проверяем, есть ли нужные колонки
+    if "rating" not in movies_df.columns or "rating_count" not in movies_df.columns:
+        print("Ошибка: Колонки 'rating' и 'rating_count' отсутствуют в movies_df!")
         return
 
-    # ✅ Заполнение пропущенных значений
-    tags_with_genres_df['tag'] = tags_with_genres_df['tag'].fillna('')
+    cluster_stats = movies_df.groupby("cluster").agg(
+        movie_count=("movieId", "count"),
+        avg_rating=("rating", "mean"),
+        total_votes=("rating_count", "sum")
+    ).reset_index()
 
-    # ✅ Заполняем пропущенные значения, чтобы избежать ошибок
-    tags_with_genres_df['tag'] = tags_with_genres_df['tag'].fillna('')
+    print(cluster_stats)
 
-    # ✅ Преобразование тегов в числовые вектора
-    print("[Анализ кластеров] Преобразуем теги в числовые вектора...")
-
-    vectorizer = CountVectorizer(tokenizer=lambda x: x.split('|'), max_features=500)
-    tag_matrix = vectorizer.fit_transform(tags_with_genres_df['tag'])
-
-    # ✅ Создаём DataFrame с обработанными тегами
-    tags_encoded_df = pd.DataFrame(tag_matrix.toarray(), columns=vectorizer.get_feature_names_out())
-
-    # ✅ Добавляем векторизованные теги к `tags_with_genres_df`
-    tags_with_genres_df = pd.concat([tags_with_genres_df, tags_encoded_df], axis=1)
-
-    print(f"[Анализ кластеров] Теги преобразованы. Новая размерность данных: {tags_with_genres_df.shape}")
-    # ✅ Удаляем нечисловые столбцы перед KMeans
-    features = tags_with_genres_df.drop(columns=['movieId', 'tag', 'title'], errors='ignore')
-
-    # ✅ Запускаем KMeans-кластеризацию
-    print("[Анализ кластеров] Запускаем KMeans-кластеризацию...")
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
-    tags_with_genres_df['cluster'] = kmeans.fit_predict(features)
-
-    print("[Анализ кластеров] Кластеризация завершена!")
-
-    # ✅ Анализ популярных тегов по кластерам
-    print("[Анализ кластеров] Анализируем популярные теги в каждом кластере...")
-    popular_tags_data = []
-
-    for cluster in tags_with_genres_df['cluster'].unique():
-        cluster_tags = tags_with_genres_df[tags_with_genres_df['cluster'] == cluster]['tag'].dropna().astype(str)
-        all_tags = ' '.join(cluster_tags)
-        tag_counts = Counter(all_tags.split('|'))
-
-        for tag, count in tag_counts.items():
-            popular_tags_data.append({'cluster': cluster, 'tag': tag, 'count': count})
-
-    popular_tags_df = pd.DataFrame(popular_tags_data)
-    print("[Анализ кластеров] Анализ тегов завершен!")
-
-    # ✅ Сохранение графика
-    output_dir = './output'
-    os.makedirs(output_dir, exist_ok=True)
-
-    print("📌 [Анализ кластеров] Строим график распределения тегов по кластерам...")
-    plt.figure(figsize=(12, 8))
-    for cluster in popular_tags_df['cluster'].unique():
-        cluster_data = popular_tags_df[popular_tags_df['cluster'] == cluster]
-        plt.bar(cluster_data['tag'], cluster_data['count'], label=f'Cluster {cluster}')
-
-    plt.xticks(rotation=90, fontsize=10)
-    plt.xlabel('Tag', fontsize=12)
-    plt.ylabel('Count', fontsize=12)
-    plt.title('Tag Distribution by Cluster', fontsize=14)
-    plt.legend()
-    plt.tight_layout(pad=4.0)
-
-    output_file = os.path.join(output_dir, 'tag_distribution_by_cluster.png')
-    plt.savefig(output_file, format='png')
+    plt.figure(figsize=(10, 5))
+    sns.barplot(x=cluster_stats["cluster"], y=cluster_stats["movie_count"], palette="Set2")
+    plt.xlabel("Кластер")
+    plt.ylabel("Количество фильмов")
+    plt.title("Распределение фильмов по кластерам")
+    plt.xticks(rotation=45)
+    plt.savefig("output/cluster_distribution_analysis.png")
+    print("График 'cluster_distribution_analysis.png' сохранён.")
     plt.close()
-    print(f"[Анализ кластеров] График сохранён в {output_file}")
-
-    print(f"[Анализ кластеров] Завершено за {time.time() - start_time:.2f} секунд\n")
 
 
-def analyze_genres_and_clusters(movies_file="output/cleaned_movies.csv",
-                                tags_file="output/processed_tags.csv",
-                                n_clusters=10):
-    """Анализирует распределение жанров по кластерам."""
-    print("[Анализ жанров] Начинаем анализ жанров по кластерам...")
-    start_time = time.time()
+def analyze_ratings_by_cluster(movies_df, ratings_df):
+    print("\nАнализ рейтингов по кластерам...")
 
-    # Загружаем данные
-    movies_df = pd.read_csv(movies_file, encoding="utf-8")
-    tags_df = pd.read_csv(tags_file, encoding="utf-8")
+    merged_df = movies_df.merge(ratings_df, on="movieId", how="left")
+    cluster_ratings = merged_df.groupby("cluster")["rating"].mean().reset_index()
 
-    # One-hot encoding жанров
-    print("[Анализ жанров] Преобразуем жанры в one-hot формат...")
-    mlb = MultiLabelBinarizer()
-    movies_df["genres"] = movies_df["genres"].apply(lambda x: x.split("|") if isinstance(x, str) else [])
-    genres_matrix = mlb.fit_transform(movies_df["genres"])
-    genres_df = pd.DataFrame(genres_matrix, columns=mlb.classes_, index=movies_df["movieId"])
+    plt.figure(figsize=(12, 6))
+    sns.barplot(
+        x="cluster",
+        y="rating",
+        hue="cluster",  # Исправляем ошибку Seaborn 0.14+
+        data=cluster_ratings,
+        dodge=False,
+        palette="coolwarm",
+        legend=False  # Отключаем легенду
+    )
 
-    # Объединяем данные по тегам и жанрам
-    print("[Анализ жанров] Объединяем данные...")
-    tags_with_genres_df = pd.merge(tags_df, movies_df[["movieId"]], on="movieId", how="left")
-    tags_with_genres_df = pd.merge(tags_with_genres_df, genres_df, on="movieId", how="left")
+    plt.axhline(0, color='gray', linestyle='--', linewidth=1)  # Линия на уровне 0
+    plt.xlabel("Кластер")
+    plt.ylabel("Средний рейтинг")
+    plt.title("Средний рейтинг фильмов по кластерам")
+    plt.xticks(rotation=45)  # Поворачиваем подписи кластеров, если их много
 
-    # PCA для снижения размерности
-    print("[Анализ жанров] Применяем PCA для снижения размерности...")
-    pca = PCA(n_components=min(38, tags_with_genres_df.shape[1] - 2), random_state=42)
-    features_pca = pca.fit_transform(tags_with_genres_df.iloc[:, 3:])  # Используем только числовые колонки
-
-    # Кластеризация KMeans
-    print("[Анализ жанров] Запускаем KMeans-кластеризацию...")
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
-    tags_with_genres_df["cluster"] = kmeans.fit_predict(features_pca)
-
-    print("[Анализ жанров] Кластеризация завершена!")
-
-    # Анализ популярных тегов
-    print("[Анализ жанров] Анализируем популярные теги в каждом кластере...")
-    popular_tags_data = []
-    for cluster in range(n_clusters):
-        cluster_tags = tags_with_genres_df[tags_with_genres_df["cluster"] == cluster]["tag"].dropna()
-        all_tags = " ".join(cluster_tags.astype(str))
-        tag_counts = Counter(all_tags.split("|"))
-
-        for tag, count in tag_counts.items():
-            popular_tags_data.append({"cluster": cluster, "tag": tag, "count": count})
-
-    popular_tags_df = pd.DataFrame(popular_tags_data)
-
-    # Построение графика
-    output_dir = "output"
-    os.makedirs(output_dir, exist_ok=True)
-
-    plt.figure(figsize=(12, 8))
-    for cluster in popular_tags_df["cluster"].unique():
-        cluster_data = popular_tags_df[popular_tags_df["cluster"] == cluster]
-        plt.bar(cluster_data["tag"], cluster_data["count"], label=f"Cluster {cluster}")
-
-    plt.xticks(rotation=90)
-    plt.xlabel("Tag")
-    plt.ylabel("Count")
-    plt.title("Tag Distribution by Cluster (with Genres)")
-    plt.legend()
-    plt.tight_layout()
-
-    output_file = os.path.join(output_dir, "tag_distribution_by_cluster_with_genres.png")
-    plt.savefig(output_file)
+    output_path = "output/cluster_ratings_fixed.png"
+    plt.savefig(output_path)
     plt.close()
-    print(f"[Анализ жанров] График сохранён в {output_file}")
-    print(f"[Анализ жанров] Завершено за {time.time() - start_time:.2f} секунд\n")
+    print(f"График '{output_path}' сохранён.")
+
+    return cluster_ratings
 
 
-# Указываем, какие функции экспортировать
-__all__ = ["analyze_clusters", "analyze_genres_and_clusters"]
+def analyze_genres_by_cluster(movies_df):
+    #Анализирует популярные жанры в каждом кластере
+
+    print("\nАнализ жанров по кластерам...")
+
+    movies_df['genres'] = movies_df['genres'].fillna("").astype(str).apply(lambda x: x.split('|'))
+
+    all_genres = []
+    for _, row in movies_df.iterrows():
+        for genre in row['genres']:
+            all_genres.append({"cluster": row["cluster"], "genre": genre})
+
+    genre_df = pd.DataFrame(all_genres)
+    genre_counts = genre_df.groupby(["cluster", "genre"]).size().reset_index(name="count")
+
+    plt.figure(figsize=(12, 6))
+    sns.barplot(data=genre_counts, x="cluster", y="count", hue="genre", dodge=True, palette="tab10")
+    plt.xlabel("Кластер")
+    plt.ylabel("Количество фильмов")
+    plt.title("Популярные жанры в кластерах")
+    plt.legend(loc="upper right", title="Жанры")
+    plt.savefig("output/genre_distribution_by_cluster.png")
+    print("График 'genre_distribution_by_cluster.png' сохранён.")
+    plt.close()
+
+    return genre_counts
+
+
+
+def get_top_movies_in_clusters(movies_df, ratings_df, top_n=5):
+    # Находит топ-N фильмов в каждом кластере по среднему рейтингу
+
+    print("\n ТОП фильмов в каждом кластере...")
+
+    merged_df = movies_df.merge(ratings_df, on="movieId", how="left")
+    avg_ratings = merged_df.groupby(["cluster", "movieId", "title"])["rating"].mean().reset_index()
+    top_movies = avg_ratings.sort_values(["cluster", "rating"], ascending=[True, False]).groupby("cluster").head(top_n)
+
+    print(top_movies)
+    return top_movies
+
+
+def compare_clusters(movies_df, ratings_df):
+    #Сравнивает кластеры: где больше фильмов с высоким рейтингом
+
+    cluster_ratings = (
+        ratings_df.groupby(['movieId'])['rating']
+        .mean()
+        .reset_index()
+        .merge(movies_df, on='movieId', how="left")
+    )
+
+    cluster_ratings["rating"] = cluster_ratings["rating"].fillna(0)
+    high_rated_clusters = (
+        cluster_ratings[cluster_ratings['rating'] > 4]
+        .groupby('cluster')
+        .size()
+        .reset_index(name='count')
+    )
+
+    print("Кластеры с наибольшим количеством высокооценённых фильмов:")
+    print(high_rated_clusters.sort_values(by='count', ascending=False))
+
+    return high_rated_clusters
+
+
+def popular_genres_in_clusters(movies_df, top_n=3):
+    #Определяет самые популярные жанры в каждом кластере
+
+    print("\nОпределяем популярные жанры в кластерах...")
+
+    genres_df = movies_df[['genres', 'cluster']].explode('genres')
+    genre_counts = (
+        genres_df.groupby(['cluster', 'genres'])
+        .size()
+        .reset_index(name='count')
+    )
+
+    top_genres = (
+        genre_counts.groupby('cluster')
+        .apply(lambda x: x.nlargest(top_n, 'count'))
+        .reset_index(drop=True)
+    )
+
+    print("Популярные жанры в каждом кластере:")
+    print(top_genres)
+
+    return top_genres
+
+__all__ = [
+    "analyze_cluster_distribution",
+    "analyze_genres_by_cluster",
+    "analyze_ratings_by_cluster",
+    "get_top_movies_in_clusters",
+    "compare_clusters",
+    "popular_genres_in_clusters",
+    "analyze_sentiment",
+    "filter_top_movies"
+]
