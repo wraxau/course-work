@@ -6,8 +6,12 @@ from concurrent.futures import ThreadPoolExecutor
 from scripts.data_export import save_dataframe, save_model
 from scripts.data_visualization import plot_genre_ratings
 from sklearn.cluster import MiniBatchKMeans, KMeans
+
 from scripts.clustering import analyze_ratings_by_cluster, recommend_movies, get_favorite_cluster
 from scripts.movie_clustering import train_kmeans
+from scripts.data_processing import prepare_movies_with_tags
+from scripts.recommendation import recommend_by_tags
+from scripts.sort_tags import generate_sorted_tags_by_cluster
 
 # Импорты из cluster_analysis
 from scripts.cluster_analysis import (
@@ -40,6 +44,8 @@ def ensure_output_directory():
     os.makedirs('output', exist_ok=True)
 
 
+
+
 def main():
     start_time = time.time()
     ensure_output_directory()
@@ -58,6 +64,7 @@ def main():
     except FileNotFoundError as e:
         print(f"Ошибка: {e}. Проверьте, что файлы существуют.")
         return
+
 
     print("Стандартизация рейтингов...")
     ratings_df['rating'] = pd.to_numeric(ratings_df['rating'], errors='coerce')
@@ -93,6 +100,25 @@ def main():
     print("Строим график распределения фильмов по кластерам...")
     plot_cluster_distribution(movies_df)
 
+    print("Выполняем кластеризацию...")
+    movies_df, kmeans = perform_clustering(movie_features, movies_df, n_clusters=10)
+
+    if movies_df is None:
+        print("Ошибка: кластеризация не удалась! Останавливаем выполнение.")
+        return
+    # Загружаем данные
+    df = pd.read_csv("output/clusters_movies_with_tags.csv")
+
+    # Выбираем фильм для рекомендаций
+    movie_id = 1  # Например, Toy Story
+    recommended_movies = recommend_by_tags(movie_id, df)
+
+    print("\nРекомендованные фильмы:")
+    print(recommended_movies)
+
+    # Добавляем объединение с тегами
+    prepare_movies_with_tags()
+
     print("Анализируем кластеры...")
     analyze_cluster_distribution(movies_df)
     analyze_genres_by_cluster(movies_df)
@@ -124,6 +150,9 @@ def main():
     user_id = 5
     favorite_cluster = get_favorite_cluster(user_id, ratings_df, movies_df)
     print(f"Любимый кластер пользователя {user_id}: {favorite_cluster}")
+    input_csv = "output/clusters_movies_with_tags.csv"
+    output_csv = "output/sorted_tags_by_cluster.csv"
+    generate_sorted_tags_by_cluster(input_csv, output_csv)
 
     print("Классификация нового фильма...")
     genres_vector = np.array([0, 1, 1, 0, 1, 0])

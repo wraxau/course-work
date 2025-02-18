@@ -3,6 +3,33 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 
 
+
+
+def prepare_movies_with_tags():
+    try:
+        movies_df = pd.read_csv("output/clusters_movies.csv")
+        tags_df = pd.read_csv("output/cleaned_tags.csv", usecols=["movieId", "tag"])
+
+        # Заменяем NaN на пустую строку и приводим всё к строковому типу
+        tags_df["tag"] = tags_df["tag"].fillna("").astype(str)
+
+        # Объединяем теги в строку через "|"
+        tags_grouped = tags_df.groupby("movieId")["tag"].apply(lambda x: "|".join(set(x))).reset_index()
+
+        # Объединяем с movies_df
+        merged_df = movies_df.merge(tags_grouped, on="movieId", how="left")
+
+        # Заполняем пропущенные теги пустыми строками
+        merged_df["tag"] = merged_df["tag"].fillna("")
+
+        # Сохраняем результат
+        merged_df.to_csv("output/clusters_movies_with_tags.csv", index=False)
+        print("Файл clusters_movies_with_tags.csv успешно создан.")
+    except FileNotFoundError as e:
+        print(f"Ошибка: {e}. Проверьте, что файлы существуют.")
+
+
+
 def standardize_data(df, column_name, verbose=True):
     """
     Нормализация столбца в DataFrame.

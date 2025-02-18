@@ -1,40 +1,44 @@
+import os
 import pandas as pd
 from collections import Counter
 
-# Оптимизированное чтение CSV
-movies_df = pd.read_csv(
-    './output/movies_with_clusters.csv',
-    dtype={'cluster': 'int16'}  # Используем int16, так как число кластеров обычно небольшое
-)
+# Проверяем, существует ли файл
+file_path = './output/movies_with_clusters.csv'
+if not os.path.exists(file_path):
+    raise FileNotFoundError(f"Ошибка: Файл '{file_path}' не найден.")
 
-# Проверяем, есть ли столбец 'tag' в данных
+# Загружаем данные
+movies_df = pd.read_csv(file_path, dtype={'cluster': 'int16'})
+
+# Проверяем наличие столбца 'tag'
 if 'tag' not in movies_df.columns:
     raise KeyError("Ошибка: В данных нет столбца 'tag'.")
 
-# Преобразуем теги в списки и развернем их
-movies_df['tag'] = movies_df['tag'].fillna('').astype(str).str.split('|')
+# Удаляем строки, где 'tag' = NaN
+movies_df = movies_df.dropna(subset=['tag'])
 
-# "Взрываем" (explode) DataFrame по тегам
-exploded_tags = movies_df.explode('tag')
+# Разделяем теги в списки
+movies_df['tag'] = movies_df['tag'].str.split('|')
 
-# Удаляем пустые теги, если они есть
+# "Взрываем" DataFrame по тегам
+exploded_tags = movies_df.explode('tag').reset_index(drop=True)
+
+# Удаляем пустые теги
 exploded_tags = exploded_tags[exploded_tags['tag'] != '']
 
-# Оптимизированная группировка: считаем частоту тегов в каждом кластере
-tag_counts_per_cluster = exploded_tags.groupby('cluster')['tag'].apply(lambda x: Counter(x)).reset_index()
+# Оптимизированная группировка
+tag_counts_per_cluster = exploded_tags.groupby('cluster')['tag'].agg(lambda x: Counter(x.tolist())).reset_index()
 
-# Преобразуем данные в удобный формат
-tag_summary = []
-for _, row in tag_counts_per_cluster.iterrows():
-    cluster = row['cluster']
-    for tag, count in row['tag'].items():
-        tag_summary.append({'cluster': cluster, 'tag': tag, 'count': count})
+# Преобразуем в удобный формат
+tag_summary = [{'cluster': row['cluster'], 'tag': tag, 'count': count}
+               for _, row in tag_counts_per_cluster.iterrows()
+               for tag, count in row['tag'].items()]
 
 # Создаем DataFrame и сортируем
-tag_summary_df = pd.DataFrame(tag_summary).sort_values(by=['cluster', 'count'], ascending=[True, False])
+tag_summary_df = pd.DataFrame(tag_summary).sort_values(['cluster', 'count'], ascending=[True, False])
 
-# Сохраняем результаты (с оптимизацией записи)
-output_path = './output/sorted_tags_by_cluster.csv'
-tag_summary_df.to_csv(output_path, index=False, float_format='%.0f')
+# Сохраняем в сжатом формате
+output_path = './output/sorted_tags_by_cluster.csv.gz'
+tag_summary_df.to_csv(output_path, index=False, float_format='%.0f', compression='gzip')
 
-print(f"Сортированные теги по кластерам сохранены в '{output_path}'")
+print(f"Файл '{output_path}' успешно сохранен в сжатом формате!")

@@ -6,6 +6,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 def analyze_ratings_by_cluster(movies_df, ratings_df):
     """Анализ среднего рейтинга фильмов в каждом кластере с визуализацией."""
     print("\nАнализ рейтингов по кластерам...")
