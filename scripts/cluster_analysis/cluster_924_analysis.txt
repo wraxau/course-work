@@ -1,0 +1,17 @@
+Анализ кластера 924
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+
+Топ-10 тегов:
+tag
+swashbuckler    1
+Rouben          1
+Mamoulian       1
+reviewed        1
+
+Примеры фильмов:
+                         title     genres                                     tag
+924  Mark of Zorro, The (1940)  Adventure  swashbuckler Rouben Mamoulian reviewed

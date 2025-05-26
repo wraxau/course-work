@@ -1,0 +1,25 @@
+Анализ кластера 346
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+theme        2
+lawyer       2
+Grisham      2
+overrated    1
+Susan        1
+Law          1
+language     1
+adapted      1
+from:book    1
+John         1
+
+Примеры фильмов:
+                  title                  genres                                                                                                                                                                                                                                                                                                     tag
+346  Client, The (1994)  Drama|Mystery|Thriller  overrated rewatch for rating lawyer author:John Grisham lawyers based book 123 reviewed Courtroom NO_FA_GANES courtroom Tommy Lee Jones Mary-Louise Parker Southern theme Law language adapted from:book John Grisham Susan Sarandon mature theme Joel Schumacher disturbing images lawyer protagonist

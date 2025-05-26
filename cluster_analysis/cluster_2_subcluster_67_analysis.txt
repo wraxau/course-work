@@ -1,0 +1,29 @@
+Анализ подкластера 67 в кластере 2
+Размер подкластера: 89 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.50
+
+Топ-5 жанров:
+genres
+Drama          42
+Comedy         20
+Action         17
+Documentary    14
+Romance        12
+
+Топ-5 тегов:
+tag
+nudity       6
+plot         6
+(topless)    5
+based        5
+adapted      4
+
+Примеры фильмов:
+                         title    rating           genres                                                                                               tag
+15624          In A Day (2006)  3.500000          Romance                                                                                               NaN
+15634  Olivier, Olivier (1992)  3.600000            Drama                                                                           missing/kidnapped child
+15636        Taking Off (1971)  3.666667     Comedy|Drama                                         might like drugs counterculture generation gap coming age
+15647      Human Desire (1954)  3.576923  Drama|Film-Noir                                                                                 Fritz Lang trains
+15648   Treasure Island (1934)  3.446429        Adventure  Robert Louis Stevenson adapted from:book author:Robert Louis Stevenson based book Victor Fleming

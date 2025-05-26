@@ -1,0 +1,29 @@
+Анализ подкластера 87 в кластере 2
+Размер подкластера: 133 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama       83
+Comedy      31
+Thriller    24
+Crime       21
+Romance     19
+
+Топ-5 тегов:
+tag
+nudity       12
+based        11
+ending        9
+REDBOX        9
+(topless)     8
+
+Примеры фильмов:
+                                            title    rating                                  genres                       tag
+15937  Classe Tous Risques (Big Risk, The) (1960)  3.461538  Crime|Drama|Film-Noir|Romance|Thriller   Claude Sautet Criterion
+15938                                Monga (2010)  3.166667                             Crime|Drama        gangster taiwanese
+15939                     Killing Kasztner (2008)  4.500000                             Documentary                       NaN
+15943                         Just Like Us (2010)  3.666667                      Comedy|Documentary  Omid Djalili Ahmed Ahmed
+15947                       Squaw Man, The (1914)  3.250000                           Drama|Western                       NaN

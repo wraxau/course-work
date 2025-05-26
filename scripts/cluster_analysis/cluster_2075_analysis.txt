@@ -1,0 +1,17 @@
+Анализ кластера 2075
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime     1
+Horror    1
+
+Топ-10 тегов:
+tag
+murder    1
+serial    1
+killer    1
+
+Примеры фильмов:
+                                                  title        genres                   tag
+2075  Henry: Portrait of a Serial Killer, Part 2 (1998)  Crime|Horror  murder serial killer

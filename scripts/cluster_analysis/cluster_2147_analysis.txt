@@ -1,0 +1,23 @@
+Анализ кластера 2147
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+John        3
+watched     1
+language    1
+Gretchen    1
+gambling    1
+holdem      1
+vhs         1
+library     1
+Turturro    1
+Dahl        1
+
+Примеры фильмов:
+                title genres                                                                                                                                                                                                                                           tag
+2147  Rounders (1998)  Drama  watched 2006 cards intelligent Netflix Finland Matt Damon Edward Norton 2.5 card games narrated realistic New York language money John Malkovich poker Nudity (Topless) dvd John Dahl John Turturro library vhs holdem gambling Gretchen Mol

@@ -1,0 +1,23 @@
+Анализ кластера 2527
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+relationship       2
+stealing           1
+script             1
+bank               1
+College            1
+Naval              1
+Royal              1
+book               1
+based              1
+father-daughter    1
+
+Примеры фильмов:
+                        title genres                                                                                                                                                                                                        tag
+2527  Winslow Boy, The (1999)  Drama  stealing boring dialogue family father-son relationship David Mamet Bechdel Test:Fail acting adapted from:play script story slow father-daughter relationship based book Royal Naval College bank manager

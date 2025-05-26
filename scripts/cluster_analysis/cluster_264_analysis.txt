@@ -1,0 +1,23 @@
+Анализ кластера 264
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy       1
+children     1
+hilarious    1
+Karyn        1
+Parsons      1
+underdog     1
+boarding     1
+school       1
+Damon        1
+Wayans       1
+
+Примеры фильмов:
+                  title  genres                                                                                                      tag
+264  Major Payne (1995)  Comedy  comedy children hilarious Karyn Parsons underdog boarding school Damon Wayans military seen Nick Castle

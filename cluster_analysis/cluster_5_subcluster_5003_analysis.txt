@@ -1,0 +1,29 @@
+Анализ подкластера 5003 в кластере 5
+Размер подкластера: 821 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.95
+
+Топ-5 жанров:
+genres
+Drama                 279
+Comedy                202
+Thriller              121
+(no genres listed)    112
+Action                103
+
+Топ-5 тегов:
+tag
+comedy         14
+documentary    10
+story           9
+based           9
+history         9
+
+Примеры фильмов:
+                                                  title    rating                            genres                                                                                       tag
+27066                                Stars Above (2012)  3.750000                (no genres listed)                                                                                 seen 2015
+27068                                  Mortdecai (2015)  2.821656  Adventure|Comedy|Mystery|Romance  comedy mystery johnny depp british adventure tension British silly action based book spy
+27071                              Buffalo Girls (2012)  4.250000                            Action                                                                                       NaN
+27074                                      Kiwi! (2006)  3.291667                  Action|Animation                                                                             short youtube
+27087  I Want a Dog for Christmas, Charlie Brown (2003)  3.800000         Animation|Children|Comedy                                                                                       NaN

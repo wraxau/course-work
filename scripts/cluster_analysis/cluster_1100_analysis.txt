@@ -1,0 +1,23 @@
+Анализ кластера 1100
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+theme:politics    1
+politics          1
+senators          1
+Virginia          1
+PBS               1
+Cutler            1
+R.J.              1
+Republicans       1
+election          1
+consultants       1
+
+Примеры фильмов:
+                            title       genres                                                                                                                                                             tag
+1100  Perfect Candidate, A (1996)  Documentary  theme:politics politics cinematographer:Nick Doob independent film David Van Taylor consultants election Republicans R.J. Cutler PBS Virginia senators netflix

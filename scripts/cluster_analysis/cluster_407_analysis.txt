@@ -1,0 +1,15 @@
+Анализ кластера 407
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy         1
+Documentary    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                    title              genres  tag
+407  Martin Lawrence: You So Crazy (1994)  Comedy|Documentary  NaN

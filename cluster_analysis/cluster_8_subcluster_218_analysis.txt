@@ -1,0 +1,29 @@
+Анализ подкластера 218 в кластере 8
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.04
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Comedy         3
+Action         1
+Adventure      1
+Sci-Fi         1
+Documentary    1
+
+Топ-5 тегов:
+tag
+superhero      2
+Comics         1
+Peter          1
+denominator    1
+common         1
+
+Примеры фильмов:
+                                                                                title    rating                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+17373                                                            Green Lantern (2011)  2.680847    Action|Adventure|Sci-Fi  Comics imagination replacement Dimensionalized 2-D 3-D father-son relationship Bechdel Test:Fail based comics space PG-13 PG-13:intense sequences sci-fi violence and action Comic Book Green Lantern effects Mark Strong government agencies superpowers test pilot cgi aliens audience intelligence underestimated cheesy Martin Campbell adapted from:comic CGI Seen 2011 BD-Video fear willpower psionic power superhero see: superhero party Peter Sarsgaard Boring Amateurish alien contact lowest common denominator comic book Geoffrey Rush crash landing btaege Ryan Reynolds colorful Badly made big budget
+17375  Sergeant Körmy and the South Pacific (Vääpeli Körmy ja etelän hetelmät) (1992)  2.300000                     Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+17376                                Bicycle, Spoon, Apple (Bicicleta, cullera, poma)  3.500000                Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+17377                                                             Elektra Luxx (2010)  2.424242                     Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             lesbian episodic Timothy Olyphant sexuality
+17378                                          Mickey's Twice Upon a Christmas (2004)  3.406250  Animation|Children|Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN

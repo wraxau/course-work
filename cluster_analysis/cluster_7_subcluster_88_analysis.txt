@@ -1,0 +1,29 @@
+Анализ подкластера 88 в кластере 7
+Размер подкластера: 29 фильмов
+Средний рейтинг: 2.95
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.09
+
+Топ-5 жанров:
+genres
+Comedy    11
+Drama      9
+Action     7
+Horror     6
+Crime      4
+
+Топ-5 тегов:
+tag
+Love         7
+School       2
+Teenage      2
+Drei         1
+animation    1
+
+Примеры фильмов:
+                                                                   title    rating                         genres                                                  tag
+29639                                             Edifício Master (2002)  4.166667                    Documentary                                                  NaN
+29642                                  Frankenstein vs. The Mummy (2015)  0.750000                         Horror                                                  NaN
+29644  Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)  4.008929  Action|Animation|Crime|Sci-Fi  dystopia anime cyberpunk sci-fi Japan investigation
+29650                                                Without Fail (2014)  2.500000                         Comedy                                                  NaN
+29663                                              Gabbar Is Back (2015)  2.125000                   Action|Drama    Vigilante Action Story Akshay Kumar Shruti Hassan

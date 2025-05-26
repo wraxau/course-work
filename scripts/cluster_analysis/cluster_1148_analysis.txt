@@ -1,0 +1,23 @@
+Анализ кластера 1148
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+satire        1
+corruption    1
+campaign      1
+Robbins       1
+Tim           1
+again         1
+see           1
+want          1
+Strathairn    1
+David         1
+
+Примеры фильмов:
+                   title  genres                                                                                                                                                      tag
+1148  Bob Roberts (1992)  Comedy  satire corruption politicians mockumentary politics Special Best Rotten Tomatoes: All Time David Strathairn want see again Tim Robbins campaign manager

@@ -1,0 +1,24 @@
+Анализ подкластера 166 в кластере 1
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.45
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.76
+
+Топ-5 жанров:
+genres
+Drama      3
+Romance    2
+Action     2
+Horror     1
+Mystery    1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                          title  rating                   genres  tag
+30290  Antarctic Journal (2005)    3.25  Horror|Mystery|Thriller  NaN
+30291  Love and the City (2009)    1.00           Comedy|Romance  NaN
+30292              Hyena (2014)    2.50              Crime|Drama  NaN
+30293   Don't Cry, Mommy (2012)    3.00             Action|Drama  NaN
+30294        The Rainbow (1989)    2.50     Action|Drama|Romance  NaN

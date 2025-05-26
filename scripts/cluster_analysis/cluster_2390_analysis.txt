@@ -1,0 +1,23 @@
+Анализ кластера 2390
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+70mm                1
+con                 1
+competition:pool    1
+book                1
+based               1
+Newman              1
+Paul                1
+Pop                 1
+cameo:Iggy          1
+Cruise              1
+
+Примеры фильмов:
+                           title genres                                                                                                                                                                                                                tag
+2390  Color of Money, The (1986)  Drama  70mm pool reviewed Spherical Blow-Up movies gaming Oscar (Best Actor) Martin Scorsese Nudity (Topless Brief) con artists Tumey's DVDs Tom Cruise cameo:Iggy Pop Paul Newman based book competition:pool billiards

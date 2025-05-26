@@ -1,0 +1,29 @@
+Анализ подкластера 138 в кластере 7
+Размер подкластера: 14 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.08
+
+Топ-5 жанров:
+genres
+Comedy         8
+Drama          7
+Children       3
+Romance        3
+Documentary    1
+
+Топ-5 тегов:
+tag
+music       1
+Cambodia    1
+Vietnam     1
+war         1
+biopic      1
+
+Примеры фильмов:
+                                                                  title  rating           genres                         tag
+31991                                                Triple Dare (2006)    3.00            Drama                         NaN
+31992  Don't Think I've Forgotten: Cambodia's Lost Rock and Roll (2014)    3.80      Documentary  music Cambodia Vietnam war
+31993                                                   Tim Maia (2014)    3.40            Drama                      biopic
+31994                                          Now You See It... (2005)    3.00   Comedy|Mystery                         NaN
+31995                                       Stuck in the Suburbs (2004)    3.75  Children|Comedy                         NaN

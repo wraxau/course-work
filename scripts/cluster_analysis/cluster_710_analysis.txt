@@ -1,0 +1,18 @@
+Анализ кластера 710
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+movie       1
+business    1
+Wood        1
+Brett       1
+Thompson    1
+
+Примеры фильмов:
+                                               title       genres                                 tag
+710  Haunted World of Edward D. Wood Jr., The (1996)  Documentary  movie business Wood Brett Thompson

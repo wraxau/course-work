@@ -1,0 +1,18 @@
+Анализ кластера 1384
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+John          1
+Malkovich     1
+Bibliothek    1
+Jane          1
+Campion       1
+
+Примеры фильмов:
+                               title genres                                     tag
+1384  Portrait of a Lady, The (1996)  Drama  John Malkovich Bibliothek Jane Campion

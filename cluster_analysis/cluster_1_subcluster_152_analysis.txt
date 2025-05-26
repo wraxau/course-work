@@ -1,0 +1,26 @@
+Анализ подкластера 152 в кластере 1
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.00
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.59
+
+Топ-5 жанров:
+genres
+Drama                 6
+Crime                 3
+Comedy                2
+(no genres listed)    1
+Animation             1
+
+Топ-5 тегов:
+tag
+William     1
+Keighley    1
+
+Примеры фильмов:
+                                                                   title  rating              genres               tag
+26865  The Foreign Duck, the Native Duck and God in a Coin Locker (2007)     3.5               Drama               NaN
+26866                            House Party: Tonight's the Night (2013)     2.0  (no genres listed)               NaN
+26867                                                    Miracles (1986)     3.5              Comedy               NaN
+26868                                     This Woman Is Dangerous (1952)     3.0         Crime|Drama               NaN
+26869                                               Special Agent (1935)     2.5         Crime|Drama  William Keighley

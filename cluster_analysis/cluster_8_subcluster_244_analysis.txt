@@ -1,0 +1,29 @@
+Анализ подкластера 244 в кластере 8
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.77
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.79
+
+Топ-5 жанров:
+genres
+Drama       5
+Horror      2
+Thriller    2
+Romance     2
+Action      1
+
+Топ-5 тегов:
+tag
+bad      6
+it's     3
+Awful    3
+like     2
+movie    2
+
+Примеры фильмов:
+                                   title    rating                   genres                                                                                                                                                                                                                                                          tag
+17805                      Escape (1940)  3.375000                    Drama                                                                                                                                                                                                                                      might like Mervyn LeRoy
+17806                  Fatherland (1994)  3.333333             Action|Drama                                                                                                                                                                                                                   nazis suspense alternative history fiction
+17807                  Simon Says (2009)  1.900000                   Horror                                                                                                                                                 Scooby-Doo terrible acting nonsensical unintentional comedy pothead Guy who looks like Shaggy Crispin Glover
+17808                       Chill (2007)  1.750000  Horror|Mystery|Thriller                                                                                                                  atmospheric Photoshop Fire terrible cinematography bad it's good cinematography bad hurts based book H.P. Lovecraft Canadian bad adaptation
+17809  Birdemic: Shock and Terror (2010)  1.684783         Romance|Thriller  Awful Cinematography Awful Sound bad acting not much movie thinly veiled public service announcement about the perils climate change Awful Editing bad it's hard watch Coathanger Standoff bad it's awesome best worst movie Unintentially Funny Wooden Rod

@@ -1,0 +1,29 @@
+Анализ подкластера 34 в кластере 2
+Размер подкластера: 362 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama          173
+Comedy          89
+Thriller        56
+Action          54
+Documentary     53
+
+Топ-5 тегов:
+tag
+nudity    18
+bad       16
+action    14
+story     14
+comedy    14
+
+Примеры фильмов:
+                                        title    rating                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+15503              Last Airbender, The (2010)  2.216107  Action|Adventure|Fantasy  rushed Brett Northcutt childish Dimensionalized 2-D 3-D characters not funny racist casting Dev Patel recreation bad soundtrack Aasif Mandvi effects Bad direction Night Shyamalan acting martial arts cgi audience intelligence underestimated action choreography fantasy epic style over substance white washing meditative bad acting foolish funny bad good idea Noah Ringer story unfinished storyline night shyamalan Avatar trilogy editing redbox bad dialogue fantasy colorful based show
+15509                           Didier (1997)  3.447368            Comedy|Fantasy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  NaN
+15516  Distant Thunder (Ashani Sanket) (1973)  4.100000                     Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Satyajit Ray
+15521                          Endgame (2009)  3.833333                     Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                     racism apartheid South Africa Africa segregation
+15528  Dynamite Girl (Dynamiittityttö) (1944)  2.875000              Comedy|Crime                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  NaN

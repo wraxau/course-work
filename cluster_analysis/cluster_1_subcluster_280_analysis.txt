@@ -1,0 +1,29 @@
+Анализ подкластера 280 в кластере 1
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Drama       9
+Mystery     6
+Horror      5
+Romance     5
+Thriller    5
+
+Топ-5 тегов:
+tag
+comedy     2
+fantasy    2
+series     2
+very       2
+Harry      1
+
+Примеры фильмов:
+                                             title    rating                               genres                                                                                            tag
+24919                      Twice-Told Tales (1963)  3.125000        Horror|Mystery|Romance|Sci-Fi                                                                                            NaN
+24921                Dead Hooker in a Trunk (2009)  4.500000                Action|Horror|Mystery                                                                                            NaN
+24923                         Dead Men Tell (1941)       NaN  Comedy|Crime|Drama|Mystery|Thriller                                                                                  Harry Lachman
+24931                  Stromberg - Der Film (2014)  3.285714                               Comedy  comedy mockumentary adapted from:tv series based series office life very funny Arne Feldhusen
+24940  Warriors of the Rainbow: Seediq Bale (2011)  3.750000                         Action|Drama                                                                                            NaN

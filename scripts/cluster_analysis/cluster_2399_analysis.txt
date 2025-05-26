@@ -1,0 +1,25 @@
+Анализ кластера 2399
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+dark         1
+eerie        1
+satirical    1
+stylized     1
+See          1
+silly        1
+Iglesia      1
+Álex         1
+MISSION      1
+HEROIC       1
+
+Примеры фильмов:
+                                                    title                     genres                                                                                                                                                                                       tag
+2399  Day of the Beast, The (Día de la Bestia, El) (1995)  Adventure|Comedy|Thriller  dark END THE WORLD campy humorous priest OBSESSIVE QUESTS UNLIKELY CRIMINALS DEVIL WORSHIP eerie religion gruesome HEROIC MISSION Álex Iglesia silly See stylized satirical supernatural

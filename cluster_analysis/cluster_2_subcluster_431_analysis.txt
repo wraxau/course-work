@@ -1,0 +1,29 @@
+Анализ подкластера 431 в кластере 2
+Размер подкластера: 25 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.37
+
+Топ-5 жанров:
+genres
+Drama          11
+Comedy          5
+Documentary     5
+Action          4
+Sci-Fi          4
+
+Топ-5 тегов:
+tag
+nudity       6
+and          5
+(topless)    5
+fantasy      4
+action       4
+
+Примеры фильмов:
+                                                           title    rating                  genres                                                                                                               tag
+17251             Destroy All Monsters (Kaijû sôshingeki) (1968)  3.016667  Action|Sci-Fi|Thriller  Gorosaurus Mothra Baragon Kaiju Godzilla Universe Toho alien invasion Godzilla Rodan Japan aliens subgenre:Kaiju
+17258                                  Eyes of a Stranger (1981)  1.750000         Horror|Thriller                                                                                                  nudity (topless)
+17260  Moon in the Gutter, The (La lune dans le caniveau) (1983)  2.625000                   Drama                                                                                                  nudity (topless)
+17262                                      Belle toujours (2006)  2.400000                   Drama                                                                                                               NaN
+17275                                              Dealer (2004)  3.700000                   Drama                                                                                                               NaN

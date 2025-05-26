@@ -1,0 +1,17 @@
+Анализ кластера 1549
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Drama        1
+Film-Noir    1
+
+Топ-10 тегов:
+tag
+Bill    1
+Duke    1
+
+Примеры фильмов:
+               title                 genres        tag
+1549  Hoodlum (1997)  Crime|Drama|Film-Noir  Bill Duke

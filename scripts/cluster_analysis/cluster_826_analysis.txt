@@ -1,0 +1,23 @@
+Анализ кластера 826
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+surgery       2
+erlend's      1
+face          1
+Criterion     1
+facial        1
+white         1
+and           1
+black         1
+gruesome      1
+disturbing    1
+
+Примеры фильмов:
+                                                  title  genres                                                                                                                                                                                                tag
+826  Eyes Without a Face (Yeux sans visage, Les) (1959)  Horror  erlend's DVDs atmospheric serial killer Betamax Georges Franju eyes moody surgery ominous somber face claustrophobic goth dvr disturbing gruesome black and white facial surgery Criterion gothic

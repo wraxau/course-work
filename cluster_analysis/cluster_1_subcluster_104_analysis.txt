@@ -1,0 +1,24 @@
+Анализ подкластера 104 в кластере 1
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.33
+Медиана рейтинга: 2.75
+Дисперсия рейтинга: 0.97
+
+Топ-5 жанров:
+genres
+Drama      2
+Romance    2
+Mystery    2
+Comedy     2
+Crime      1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                       title  rating               genres  tag
+26810        Sea Wife (1957)     3.0        Drama|Romance  NaN
+26811       The Front (2010)     3.0  Crime|Drama|Mystery  NaN
+26812    The Big Cube (1969)     2.5     Mystery|Thriller  NaN
+26813  Just for Kicks (2005)     3.0          Documentary  NaN
+26814    Just My Luck (1957)     0.5               Comedy  NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 179 в кластере 0
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 2.97
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Drama        6
+Romance      3
+Thriller     3
+Action       2
+Adventure    2
+
+Топ-5 тегов:
+tag
+3-D          2
+see          2
+adventure    2
+movie        2
+Ireland      2
+
+Примеры фильмов:
+                                                               title    rating                                    genres                                                                                                                                                                                                            tag
+12846  Pan Tadeusz: The Last Foray in Lithuania (Pan Tadeusz) (1999)  2.500000                         Drama|Romance|War                                                                                                                                                                                                            NaN
+12847                      Journey to the Center of the Earth (2008)  2.862183                   Action|Adventure|Sci-Fi  obnoxious kid Anita Briem Jules Verne campy juvenile adventure Brendan Fraser BD-Video adventure retold classic silly movie see Iceland Fusion 3-D derivative Stereoscopic 3-D fantasy based book comic scifi
+12848                                               Meet Dave (2008)  2.500850  Adventure|Children|Comedy|Romance|Sci-Fi                                                                                                                                 Elizabeth Banks good laughs just plain stupid movie see enjoyable Eddie Murphy
+12849                 Machine Girl, The (Kataude mashin gâru) (2008)  2.852174     Action|Comedy|Fantasy|Horror|Thriller                                                                                                                                                                  see: b-grade gore ridiculous See rare netflix
+12850                                                  August (2008)  3.074074                                     Drama                                                                                                                                                                                                    david bowie

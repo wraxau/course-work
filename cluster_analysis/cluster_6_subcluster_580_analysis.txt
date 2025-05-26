@@ -1,0 +1,29 @@
+Анализ подкластера 580 в кластере 6
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.33
+Медиана рейтинга: 3.46
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Comedy     6
+Romance    3
+Sci-Fi     2
+Fantasy    2
+Drama      2
+
+Топ-5 тегов:
+tag
+not       5
+funny     3
+movie     3
+ghosts    2
+rare      2
+
+Примеры фильмов:
+                                                   title    rating                  genres                                                                                                                                                                                                                                                                                                                            tag
+13001                                     Altered (2006)  2.791667  Horror|Sci-Fi|Thriller                                                                                                                                                                                                                                                                horror plot gore sci-fi alien abduction aliens not original meh
+13006  Shadows in Paradise (Varjoja paratiisissa) (1986)  3.723684          Comedy|Romance                                                                                                                                                                   erlend's DVDs rare garbage man library cashier Aki Kaurismäki addition Criterion library vhs dvr shopping list seen 2011 proletariat trilogy Aki KaurismÃ¤ki
+13007                                  Ghost Town (2008)  3.461632  Comedy|Fantasy|Romance  airconditioner falls Greg Kinnear sees ghosts interesting story widow remarry doesn't like people died for seven minutes See hit bus grumpy surreal TÃ©a Leoni misanthrope ghosts funny David Koepp dentists dentist movie see unique story Ricky Gervais convince her not too MIsanthrope mummy dental analysis TÃƒÂ©a Leoni
+13009                          Accused (Anklaget) (2005)  3.055556                   Drama                                                                                                                                                                                                                                                                                                                            NaN
+13026                     So Normal (Normais, Os) (2003)  3.656250                  Comedy                                                                                                                                                                                                                                            Brazil comedy hilarious fun brazil marriage Based show good pace stylized slapstick

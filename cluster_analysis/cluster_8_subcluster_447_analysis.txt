@@ -1,0 +1,29 @@
+Анализ подкластера 447 в кластере 8
+Размер подкластера: 37 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Drama       24
+Comedy      11
+Romance      9
+Thriller     7
+Horror       6
+
+Топ-5 тегов:
+tag
+story    6
+movie    5
+based    5
+music    5
+seen     4
+
+Примеры фильмов:
+                                                                title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+11498  Triad Election (Election 2) (Hak se wui yi wo wai kwai) (2006)  3.490741    Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Triad 05/11 06/11 Chinese landscapes China Hong Kong organized crime chinese humor Chinese Johnnie
+11517                                   Man Who Never Was, The (1956)  3.484375               Drama|War                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Nazis World War espionage Ronald Neame true story
+11519                                        Painted Veil, The (2006)  3.775546           Drama|Romance  affair adultery cholera edward norton romantic landscape Anthony Wong Chau-Sang epidemic naomi watts based book difficult love altruism Naomi Watts Potential Oscar Nom Edward Norton boring imperialism remake high society romance 1920's realistic scientific research nuns colonialism redemption intellectual John Curran doctors China adapted from:book emotional story unhappy marriage shanghai DOCTORS AND PATIENTS abroad heartbreaking husband-wife relationship costume drama china science period piece BGAB LRC author:W. Somerset Maugham orphanage PG13
+11520                                          We Are Marshall (2006)  3.555115                   Drama                                                                                                                                                                                                                                                                         Below less 300 ratings setting:high school tearjerker football true story perrot library Kimberly Williams David Strathairn healing sports McG Heart and soul Sports drama sport:American football Sports Coordinator:Mark Ellis movie see Matthew McConaughey setting:small town America courage
+11525                Page Turner, The (Tourneuse de pages, La) (2006)  3.434783  Drama|Musical|Thriller                                                                                                                                                                                                                                                 Deborah Francois musician classical music little dialogues Nudity (Topless Brief) revenge Denis Dercourt understated upper class elegant lesbian subtext low stakes for suspense drama dvr piano concert cold screenplay oppression nanny strong feeling threat library intense musicians Intriguing swimming pool french

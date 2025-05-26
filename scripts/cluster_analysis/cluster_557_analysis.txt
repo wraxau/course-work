@@ -1,0 +1,24 @@
+Анализ кластера 557
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+adolescence    2
+comedy         2
+horrible       1
+main           1
+funny          1
+black          1
+disturbing     1
+unsettling     1
+Solondz        1
+Todd           1
+
+Примеры фильмов:
+                               title        genres                                                                                                                                                                                              tag
+557  Welcome to the Dollhouse (1995)  Comedy|Drama  horrible comedy adolescence hell quirky bullying Heather Matarazzo indie school drama Ugly main character poignant adolescence Todd Solondz unsettling disturbing black comedy funny depressing

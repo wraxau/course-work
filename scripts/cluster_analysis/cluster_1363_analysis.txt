@@ -1,0 +1,23 @@
+Анализ кластера 1363
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+classic       3
+comedy        2
+off-beat      2
+cult          2
+Cage          2
+motorcycle    1
+cute          1
+Holly         1
+Hunter        1
+AFI           1
+
+Примеры фильмов:
+                       title  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1363  Raising Arizona (1987)  Comedy  motorcycle comedy hilarious off-beat comedy Betamax Annemari hard rate (personal) frantic KIDNAPPING eccentric quirky madcap crime kidnapping Arizona Cult classic Nicholas Cage babies goofy narrated cheesy Can't remember satirical UNLIKELY CRIMINALS classic witty deadpan PARENTHOOD BD-Video Holly Hunter AFI 100 (Laughs) cult film coen bros Quirky cute baby infertility dysku cult classic creative seen 2011 Coen Brothers off-beat afternoon section Nicolas Cage ESCAPE FROM PRISON

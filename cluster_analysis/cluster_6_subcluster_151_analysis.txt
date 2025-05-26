@@ -1,0 +1,29 @@
+Анализ подкластера 151 в кластере 6
+Размер подкластера: 17 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Action         7
+Drama          7
+Comedy         3
+Documentary    3
+Crime          3
+
+Топ-5 тегов:
+tag
+plot          2
+IMAX          2
+3-D           2
+interviews    2
+bad           2
+
+Примеры фильмов:
+                                                title  rating         genres               tag
+23340          Bounty Hunters (Bail Enforcers) (2011)     NaN         Action  nudity (topless)
+23341                                      Boy (2009)    3.75  Drama|Romance               NaN
+23342           Boy, Did I Get a Wrong Number! (1966)    3.50         Comedy               NaN
+23343                          Boys' Night Out (1962)    2.00         Comedy               NaN
+23344  Maternal Halfbrothers (Braca po materi) (1988)     NaN          Drama     Zdravko Sotra

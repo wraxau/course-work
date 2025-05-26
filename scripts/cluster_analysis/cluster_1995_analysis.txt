@@ -1,0 +1,26 @@
+Анализ кластера 1995
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Comedy       1
+Musical      1
+
+Топ-10 тегов:
+tag
+movie         3
+Kipling       2
+great         2
+disney        2
+soundtrack    2
+Disney        2
+animals       2
+snakes        1
+adapted       1
+see           1
+
+Примеры фильмов:
+                        title                             genres                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1995  Jungle Book, The (1967)  Animation|Children|Comedy|Musical  snakes musical great disney movie soundtrack cute orangatang Animated characters based book worst ending possible disney Disney bears animals Tumey's VHS how can you not love clasic disney? bear necessities classic jungle Disney animated feature Louis Prima author:Rudyard Kipling avi movie see adapted from:book Rudyard Kipling talking animals Tiger animation Wolfgang Reitherman Jude Law (s)vcd great soundtrack racist fun movie

@@ -1,0 +1,29 @@
+Анализ подкластера 98 в кластере 8
+Размер подкластера: 42 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama      28
+Comedy     12
+Romance     9
+Crime       6
+Musical     5
+
+Топ-5 тегов:
+tag
+gay          3
+Woman        2
+Character    2
+action       2
+crime        2
+
+Примеры фильмов:
+                               title    rating               genres                                                        tag
+18265    I Was an Adventuress (1940)  3.000000         Comedy|Crime                                                        NaN
+18266            Safe in Hell (1931)  2.333333                Drama                                            William Wellman
+18267               Millhaven (2010)  3.500000            Animation                                                        NaN
+18268  Three Days (Tres días) (2008)  3.083333  Crime|Drama|Fantasy  drama apocalypse natural disas thought-provoking violence
+18269            À l'aventure (2008)  2.357143                Drama                                                        NaN

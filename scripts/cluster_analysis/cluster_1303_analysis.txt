@@ -1,0 +1,23 @@
+Анализ кластера 1303
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+human         1
+sacrifice     1
+magic         1
+Martin        1
+Sheen         1
+police        1
+Betamax       1
+Voodoo        1
+conspiracy    1
+
+Примеры фильмов:
+                      title           genres                                                                  tag
+1303  Believers, The (1987)  Horror|Thriller  human sacrifice magic Martin Sheen police Betamax Voodoo conspiracy

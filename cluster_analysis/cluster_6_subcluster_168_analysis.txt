@@ -1,0 +1,29 @@
+Анализ подкластера 168 в кластере 6
+Размер подкластера: 31 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.81
+
+Топ-5 жанров:
+genres
+Drama       14
+Comedy      10
+Crime        7
+Thriller     6
+Horror       5
+
+Топ-5 тегов:
+tag
+Academy      5
+2015         3
+comedy       3
+Award        3
+discovery    3
+
+Примеры фильмов:
+                                   title    rating        genres                                                           tag
+25501     The Atrocity Exhibition (2000)  2.500000  Drama|Horror                                                           NaN
+25502  The Beales of Grey Gardens (2006)  3.750000   Documentary                                  David Maysles Albert Maysles
+25503                Virgin Witch (1972)  1.500000        Horror                                                           NaN
+25504       The Zombie Chronicles (2001)  1.000000        Horror                                                           NaN
+25505               The Dust Bowl (2012)  3.666667   Documentary  documentary documentary, ken burns Ken Burns ken burns 1930s

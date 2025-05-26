@@ -1,0 +1,29 @@
+Анализ подкластера 78 в кластере 6
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.35
+Медиана рейтинга: 3.49
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Drama       8
+Crime       3
+Thriller    2
+Comedy      2
+Romance     1
+
+Топ-5 тегов:
+tag
+Today    1
+death    1
+Tom      1
+roll     1
+and      1
+
+Примеры фильмов:
+                                                             title    rating          genres                                                      tag
+23233                                         April Showers (2009)  3.666667           Drama                                                      NaN
+23234                                           Aujourd'hui (2012)  4.000000           Drama                          Today death Dakar dying Senegal
+23235  Judge and the Assassin, The (Juge et l'assassin, Le) (1976)  4.125000     Crime|Drama  Bertrand Tavernier poiret galabru psychological torment
+23236                                          Les Lyonnais (2011)  3.541667  Drama|Thriller                                          Olivier Marchal
+23237                                             Gabrielle (2013)  3.333333   Drama|Romance                                       Louise Archambault

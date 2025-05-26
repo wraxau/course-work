@@ -1,0 +1,29 @@
+Анализ подкластера 27 в кластере 8
+Размер подкластера: 32 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 3.02
+Дисперсия рейтинга: 0.46
+
+Топ-5 жанров:
+genres
+Drama        12
+Comedy       10
+Action        9
+Thriller      7
+Adventure     5
+
+Топ-5 тегов:
+tag
+Nudity    5
+based     5
+nudity    5
+movie     4
+the       4
+
+Примеры фильмов:
+                                   title    rating                                 genres                                                                                                                                                                                                                                                                                                                                                                                  tag
+12455              Great Lie, The (1941)  3.222222                                  Drama                                                                                                                                                                                                                                                                                                                                                                      Edmund Goulding
+12475  Spiderwick Chronicles, The (2008)  3.311581  Adventure|Children|Drama|Fantasy|IMAX  obnoxious kid fantasy world Brett Northcutt twins childish less 300 ratings Nick Nolte Seth Rogen based book bab cinema comedic violence Freddie Highmore siblings funny cgi Andrew McCarthy Mary-Louise Parker Martin Short children Mark Waters IMAX DMR seth rogen movie see silly magic girl with swords forest adventure transformation btaege beautiful fantasy haunted house
+12494               Marksman, The (2005)  2.500000          Action|Adventure|Thriller|War                                                                                                                                                                                                                                                                                                                                                                                  NaN
+12495               Gran Paradiso (2000)  3.833333                Adventure|Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                  NaN
+12498                     Descent (2007)  2.891892                         Drama|Thriller                                                                                                                                                                                                                                                                 easily confused with other movie(s) (title) rape predictable incoherent revenge Rosario Dawson slow lack development

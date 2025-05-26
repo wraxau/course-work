@@ -1,0 +1,22 @@
+Анализ кластера 367
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+seen          1
+more          1
+once          1
+reviewed      1
+newspaper     1
+news          1
+media         1
+journalism    1
+
+Примеры фильмов:
+                 title        genres                                                      tag
+367  Paper, The (1994)  Comedy|Drama  seen more once reviewed newspaper news media journalism

@@ -1,0 +1,20 @@
+Анализ кластера 746
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Oscar          1
+(Best          1
+Documentary    1
+Feature)       1
+Freida         1
+Lee            1
+Mock           1
+
+Примеры фильмов:
+                                      title       genres                                               tag
+746  Maya Lin: A Strong Clear Vision (1994)  Documentary  Oscar (Best Documentary Feature) Freida Lee Mock

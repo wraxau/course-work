@@ -1,0 +1,24 @@
+Анализ кластера 1641
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+AND           2
+SONS          2
+mental        1
+Neil          1
+Underrated    1
+MOTHERS       1
+suicide       1
+Madness       1
+tense         1
+disturbing    1
+
+Примеры фильмов:
+                        title        genres                                                                                                                                                                               tag
+1641  Butcher Boy, The (1997)  Comedy|Drama  mental illness quirky chilly FATHERS AND SONS MENTAL ILLNESS hallucination KIDS TROUBLE Neil Jordan insanity disturbing tense Madness suicide MOTHERS AND SONS Underrated creepy

@@ -1,0 +1,24 @@
+Анализ кластера 2326
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Los                     1
+70mm                    1
+Burgess                 1
+Meredith                1
+Tony                    1
+Burton                  1
+Hulk                    1
+Hogan                   1
+Philadelphia            1
+setting:Philadelphia    1
+
+Примеры фильмов:
+                 title        genres                                                                                                                                                                                                                                                                                                                                         tag
+2326  Rocky III (1982)  Action|Drama  Los Angeles Boxing New York City boxing Sylvester Stallone rematch not funny competitive sport beloved character dies pointlessly franchise reviewed Talia Shire Rocky sports Burgess Meredith Tony Burton Hulk Hogan Philadelphia setting:Philadelphia 70mm underdog sport:boxing Carl Weathers fighting Mr. Spherical Blow-Up Burt Young

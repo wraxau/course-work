@@ -1,0 +1,15 @@
+Анализ кластера 1131
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Film-Noir    1
+
+Топ-10 тегов:
+tag
+Anthony    1
+Mann       1
+
+Примеры фильмов:
+             title     genres           tag
+1131  T-Men (1947)  Film-Noir  Anthony Mann

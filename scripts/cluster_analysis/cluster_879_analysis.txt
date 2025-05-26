@@ -1,0 +1,17 @@
+Анализ кластера 879
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+André      1
+Téchiné    1
+Andr?      1
+T?chin?    1
+
+Примеры фильмов:
+                                        title genres                          tag
+879  Wild Reeds (Les roseaux sauvages) (1994)  Drama  André Téchiné Andr? T?chin?

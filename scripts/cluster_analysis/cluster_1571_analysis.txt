@@ -1,0 +1,25 @@
+Анализ кластера 1571
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+the            6
+plot           5
+twist          4
+ending         3
+complicated    3
+twists         2
+good           2
+douglas        2
+awesome        2
+DVDs           2
+
+Примеры фильмов:
+                 title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+1571  Game, The (1997)  Drama|Mystery|Thriller  complicated erlend's DVDs atmospheric complicated movie unbelievable seen the cinema seen times; twist end; awesome complicated plot incomprehensible plot twist script neo-noir plot twists action twist ending 7.2-FilmAffinity thriller Mystery mystery mindfuck boring Action Tumey's DVDs atmosphere DIVX awesome acting MarinaVista suspense dark unrealistic David Fincher bore just lost the game BD-Video lame ending the twists the plot dull Deborah Kara Unger gamification cinematographer:Harris Savides surprise ending want punch them the face micheal douglas good start/poor finish Eric's Dvds psychological the final twist privacy michael douglas paranoia Unrealistic Ending reality Sean Penn plot Criterion Michael Douglas sean penn empty paranoid good start

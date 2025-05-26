@@ -1,0 +1,26 @@
+Анализ кластера 1015
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+the            2
+serial         1
+Drug           1
+Suspenseful    1
+1990's         1
+Reese          1
+Witherspoon    1
+Rough          1
+Kiefer         1
+Sutherland     1
+
+Примеры фильмов:
+               title                       genres                                                                                                                                                                                                                                                                                                                                                                     tag
+1015  Freeway (1996)  Comedy|Crime|Drama|Thriller  serial killer Irreverent Humor USA Social Decay the Run Serial Killer California Unlikely criminals neo-noir Thriller Disturbing Clever Realistic Youth Cynical the Road Independent Crime camp Murder Serious Suspenseful 1990's Reese Witherspoon Rough Kiefer Sutherland might like Crimes Drug abuse Life Bitch Matthew Bright Society BGAB LRC Urban 20th Century

@@ -1,0 +1,29 @@
+Анализ подкластера 31 в кластере 6
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama       20
+Comedy      19
+Romance      7
+Horror       6
+Thriller     5
+
+Топ-5 тегов:
+tag
+comedy     8
+death      6
+not        5
+library    5
+ending     5
+
+Примеры фильмов:
+                                                     title    rating                          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+13396                                   Unborn, The (2009)  2.447115         Horror|Mystery|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                         Gary Oldman David Goyer
+13398                Where Is Fred!? (Wo ist Fred?) (2006)  2.937500                  Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                             NaN
+13399                                Make It Happen (2008)  3.052632                           Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                             NaN
+13405                                         12:01 (1993)  3.275000  Comedy|Romance|Sci-Fi|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                   comedy made for romance time loop time travel
+13413  Shadow of the Holy Book (Pyhän kirjan varjo) (2007)  2.900000                     Documentary  politics dictatorship 2000s not available from Netflix government CRIMES AGAINST HUMANITY WORK ETHICS islam surreal addition news media book topic:propaganda European Film Awards nominee president phone satirical death president business multinational settings human rights corporate Turkmenistan international politics oppression freedom expression cult persona Finnish business tycoon megalomania ethics successor corporate greed indoctrination

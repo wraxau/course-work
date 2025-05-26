@@ -1,0 +1,24 @@
+Анализ кластера 2295
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Bobcat        1
+Goldthwait    1
+plot          1
+idiot         1
+funny         1
+not           1
+dumb          1
+Kinsey        1
+Lance         1
+80s           1
+
+Примеры фильмов:
+                                                title        genres                                                                                                                                                                                          tag
+2295  Police Academy 2: Their First Assignment (1985)  Comedy|Crime  Bobcat Goldthwait comedy nostalgia franchise seen more once police Jerry Paris Steve Guttenberg Betamax crime Michael Winslow David Graf 80s Lance Kinsey dumb not funny idiot plot classic

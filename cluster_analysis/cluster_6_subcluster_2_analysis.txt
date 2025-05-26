@@ -1,0 +1,29 @@
+Анализ подкластера 2 в кластере 6
+Размер подкластера: 173 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.43
+
+Топ-5 жанров:
+genres
+Drama       90
+Comedy      44
+Thriller    28
+Romance     26
+Action      24
+
+Топ-5 тегов:
+tag
+not          13
+nudity       13
+based        13
+book         12
+(topless)    11
+
+Примеры фильмов:
+                                                                           title    rating           genres                                                                                                                                                                                     tag
+13019                                                            100 Feet (2008)  2.847826  Horror|Thriller                                                                                                                                                     house arrest youtube revenge ghosts
+13035                               How to Lose Friends & Alienate People (2008)  3.206163           Comedy  nudity (topless) celebrity Megan Fox Simon Pegg ClearPlay different career success Gillian Anderson journalism Kirsten Dunst Jeff Bridges based book DVD Nudity (Full Frontal Notable)
+13043                                    Supermarket Woman (Sûpâ no onna) (1996)  4.750000           Comedy                                                                                                                                                                              Juzo Itami
+13044  Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto) (1954)  3.781250            Drama                                                                                                                                                                            Mikio Naruse
+13048                                         Music Room, The (Jalsaghar) (1958)  3.803030            Drama                                                                                                                                                                  Satyajit Ray Criterion

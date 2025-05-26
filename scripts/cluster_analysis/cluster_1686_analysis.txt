@@ -1,0 +1,18 @@
+Анализ кластера 1686
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Fantasy      1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+Manny    1
+Coto     1
+
+Примеры фильмов:
+                title                             genres         tag
+1686  Star Kid (1997)  Adventure|Children|Fantasy|Sci-Fi  Manny Coto

@@ -1,0 +1,29 @@
+Анализ подкластера 406 в кластере 3
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.40
+Медиана рейтинга: 3.48
+Дисперсия рейтинга: 0.12
+
+Топ-5 жанров:
+genres
+Drama       16
+Comedy       3
+Thriller     2
+Crime        2
+Western      1
+
+Топ-5 тегов:
+tag
+book       6
+Nudity     5
+based      5
+library    4
+show       4
+
+Примеры фильмов:
+                                                              title    rating    genres                                                                                                                                                                                                                                                   tag
+2920                                     Bone Collector, The (1999)  3.298711  Thriller  Denzel Washington New York City police investigation afternoon section serial killer guessed whodunit long before the end detective movie Queen Latifah prospect Angelina Jolie revenge etaegepriority Phillip Noyce Bibliothek based book detective
+2951                                          Little Big Man (1970)  3.968198   Western                                                                                      black and white 70mm native americans erlend's DVDs violence america comedy god this good! cute revisionist western indians Arthur Penn Dustin Hoffman holocaust
+2961               Experience Preferred... But Not Essential (1982)  3.566667     Drama                                                                                                                                                                                                                less 300 ratings Peter Duffell Betamax
+2964                                             Light It Up (1999)  2.672932     Drama                                                                                                                                                                                                                         Craig Bolotin Forest Whitaker
+2983  Effect of Gamma Rays on Man-in-the-Moon Marigolds, The (1972)  3.658537     Drama                                                                                                                                                                                                                                           Paul Newman

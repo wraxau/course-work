@@ -1,0 +1,28 @@
+Анализ кластера 589
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Fantasy      1
+Musical      1
+Romance      1
+IMAX         1
+
+Топ-10 тегов:
+tag
+Disney      5
+classic     4
+tale        3
+animated    3
+Oscar       2
+kids        2
+fairy       2
+AND         2
+Music       2
+(Best       2
+
+Примеры фильмов:
+                           title                                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+589  Beauty and the Beast (1991)  Animation|Children|Fantasy|Musical|Romance|IMAX  gentle Oscar (Best Music Original Song) Want Alan Menken musical animated humorous princess series soundtrack fairy tale Super-35 Blow-Up National Film Registry Playlist heroine Dimensionalized 2-D 3-D moral Watched characters SERVANTS AND EMPLOYERS Bechdel Test:Fail OPPOSITES ATTRACT slow disney seen more once subgenre:fairy tale Disney Bearable Disney Oscar (Best Music Original Score) DIVX IMAX Tumey's VHS Gaston movies every kid should see--Entertainment Weekly romance kids whimsical nice classic 70mm almost favorite Disney animated feature redemption loyalty Kirk Wise Disney FATHERS AND DAUGHTERS BD-Video kids and family childhood classic fairy tales zassania avi affectionate France story heterosexuality classic tale Animation Disney Renaissance animated classic animation 18th century Gary Trousdale Over-rated cellos torrential downpour Cartoon The beast own beautiful lavish one disney's best heartwarming sweet IhQ

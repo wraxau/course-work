@@ -1,0 +1,29 @@
+Анализ подкластера 70 в кластере 2
+Размер подкластера: 89 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama       57
+Comedy      30
+Romance     16
+Thriller    10
+Action       9
+
+Топ-5 тегов:
+tag
+ending      11
+comedy       9
+acting       9
+dialogue     8
+plot         8
+
+Примеры фильмов:
+                                       title    rating          genres                              tag
+16776  Misadventures of Margaret, The (1998)  3.500000  Comedy|Romance                 nudity (topless)
+16781                           Libel (1959)  4.000000           Drama                  Anthony Asquith
+16802     Inspector Bellamy (Bellamy) (2009)  2.861111     Crime|Drama  Claude Chabrol Gérard Depardieu
+16805                     What Is It? (2005)  2.428571           Drama                              NaN
+16821          Cold Light of Day, The (1996)  2.500000  Drama|Thriller                              NaN

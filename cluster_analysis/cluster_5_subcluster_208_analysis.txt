@@ -1,0 +1,29 @@
+Анализ подкластера 208 в кластере 5
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.00
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Horror      3
+Thriller    2
+Drama       2
+Comedy      1
+Fantasy     1
+
+Топ-5 тегов:
+tag
+ending       4
+not          3
+nudity       2
+(topless)    2
+scary        2
+
+Примеры фильмов:
+                                                     title    rating           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+14254                            Hellraiser: Deader (2005)  2.435897           Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                          nudity (topless) occult franchise hell relic temptation journalism
+14255                         Hellraiser: Hellworld (2005)  2.161017           Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                         nudity (topless) amnesiac franchise hell hallucinatory twist ending
+14256  Chronicle of an Escape (Crónica de una fuga) (2006)  2.666667         Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN
+14257                           Paranormal Activity (2009)  3.060160  Horror|Thriller  original original ending atmospheric multiple endings horror paranormal slow call someone dammit demon possession low budget boring with payoff for sitting through it. just chairs moving about themselves not that special handcam-real style creepy unrealistic possession supernatural characters are morons found footage bad acting dull payoff not scary psychological thriller garbage unlikeable characters scary psychological Boring ending BORING! remade ending Handycam lack guns not horror entertaining Realism over-hyped
+14258                                     Lake City (2008)  3.250000            Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN

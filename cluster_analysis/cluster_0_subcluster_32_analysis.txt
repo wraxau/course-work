@@ -1,0 +1,29 @@
+Анализ подкластера 32 в кластере 0
+Размер подкластера: 82 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama       50
+Comedy      23
+Thriller    22
+Horror      12
+Action      11
+
+Топ-5 тегов:
+tag
+300        10
+ratings    10
+less        9
+good        7
+nudity      6
+
+Примеры фильмов:
+                                                       title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+9582                                 Mahabharata, The (1989)  3.875000        Action|Drama|War                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Hinduism classic book
+9589            Auggie Rose (a.k.a. Beyond Suspicion) (2000)  3.083333  Drama|Mystery|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN
+9597                                    Woodsman, The (2004)  3.639418                   Drama  Eve watched 2006 great acting job lumberyard second chance honest Mos Def boring sexuality mental imbalance child molester masturbation drama dark mental health boyfriend girlfriend relationship sexual predator diary sexual harassment need own disturbing thought-provoking could farther Kyra Sedgwick female nudity paedophilia Kevin Bacon child abuse male nudity sex offender secrets parole demons mother daughter relationship police prison Disturbing and moving probation pedophile Nicole Kassell
+9604  Rebels of the Neon God (Qing shao nian nuo zha) (1992)  3.800000                   Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN
+9612                                    Underclassman (2005)  2.875000  Action|Comedy|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                          private school undercover cop high school

@@ -1,0 +1,29 @@
+Анализ подкластера 192 в кластере 3
+Размер подкластера: 16 фильмов
+Средний рейтинг: 2.69
+Медиана рейтинга: 2.77
+Дисперсия рейтинга: 0.71
+
+Топ-5 жанров:
+genres
+Thriller     6
+Comedy       4
+Romance      4
+Drama        4
+Adventure    3
+
+Топ-5 тегов:
+tag
+ending       4
+realistic    4
+footage      2
+character    2
+great        2
+
+Примеры фильмов:
+                                                        title    rating                                    genres                                                                          tag
+19578  Hamburg Syndrome, The (Die Hamburger Krankheit) (1979)  2.500000                          Adventure|Sci-Fi                                                                          NaN
+19579                                           Kismet (1955)  3.300000  Adventure|Comedy|Fantasy|Musical|Romance                                                                          NaN
+19580                      ChromeSkull: Laid to Rest 2 (2011)  2.875000                                    Horror  slasher Brian Austin Green killer Nick Principe monster make-up Chromeskull
+19581       Rain Over Santiago (Il pleut sur Santiago) (1976)  2.666667                     Documentary|Drama|War                                                                          NaN
+19582                                          Puckoon (2002)  1.500000                                    Comedy                                                                          NaN

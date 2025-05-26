@@ -1,0 +1,25 @@
+Анализ кластера 1563
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+War         1
+
+Топ-10 тегов:
+tag
+remember     2
+Nicole       1
+nuclear      1
+Leder        1
+Mimi         1
+Can't        1
+section      1
+afternoon    1
+Batinkoff    1
+Randall      1
+
+Примеры фильмов:
+                       title               genres                                                                                                                                                                                                                                                                      tag
+1563  Peacemaker, The (1997)  Action|Thriller|War  Nicole Kidman Futuristmovies.com Jim Haynie Gary Werntz terrorism directorial debut seen the cinema Rene Medvesek George Clooney nuclear weapons Aleksandr Baluyev conspiracy Marcel Iures Randall Batinkoff afternoon section Can't remember Mimi Leder don't remember

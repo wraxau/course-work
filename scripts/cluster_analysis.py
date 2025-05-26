@@ -1,4 +1,5 @@
-import pandas as pd
+'''import pandas as pd
+import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from textblob import TextBlob
@@ -16,7 +17,7 @@ def analyze_sentiment(tags_df, movies_df, verbose=True):
     print(f"Средняя тональность всех тегов: {avg_sentiment:.2f}")
 
     if "cluster" not in tags_df.columns:
-        print("⚠`cluster` отсутствует в tags_df, добавляем...")
+        print("`cluster` отсутствует в tags_df, добавляем...")
         tags_df = tags_df.merge(movies_df[["movieId", "cluster"]], on="movieId", how="left")
 
     if verbose:
@@ -71,19 +72,20 @@ def filter_top_movies(movies_df, ratings_df, min_rating=3.5, min_votes=20):
     print(filtered_movies.head(100))
 
     return filtered_movies
+
 def analyze_cluster_distribution(movies_df):
     #Анализирует количество фильмов в каждом кластере и строит график
 
     print("\nАнализ распределения фильмов по кластерам...")
 
     # Проверяем, есть ли нужные колонки
-    if "rating" not in movies_df.columns or "rating_count" not in movies_df.columns:
-        print("Ошибка: Колонки 'rating' и 'rating_count' отсутствуют в movies_df!")
+    if "avg_rating" not in movies_df.columns or "rating_count" not in movies_df.columns:
+        print("Ошибка: Колонки 'avg_rating' и 'rating_count' отсутствуют в movies_df!")
         return
 
     cluster_stats = movies_df.groupby("cluster").agg(
         movie_count=("movieId", "count"),
-        avg_rating=("rating", "mean"),
+        avg_rating=("avg_rating", "mean"),
         total_votes=("rating_count", "sum")
     ).reset_index()
 
@@ -100,28 +102,31 @@ def analyze_cluster_distribution(movies_df):
     plt.close()
 
 
-def analyze_ratings_by_cluster(movies_df, ratings_df):
+def analyze_ratings_by_cluster(movies_df, ratings_df=None):
     print("\nАнализ рейтингов по кластерам...")
 
-    merged_df = movies_df.merge(ratings_df, on="movieId", how="left")
-    cluster_ratings = merged_df.groupby("cluster")["rating"].mean().reset_index()
+    # Убедимся, что нужная колонка есть
+    if 'avg_rating' not in movies_df.columns:
+        raise ValueError("Колонка 'avg_rating' не найдена в movies_df.")
+
+    cluster_ratings = movies_df.groupby("cluster")["avg_rating"].mean().reset_index()
 
     plt.figure(figsize=(12, 6))
     sns.barplot(
         x="cluster",
-        y="rating",
-        hue="cluster",  # Исправляем ошибку Seaborn 0.14+
+        y="avg_rating",
+        hue="cluster",
         data=cluster_ratings,
         dodge=False,
         palette="coolwarm",
-        legend=False  # Отключаем легенду
+        legend=False
     )
 
-    plt.axhline(0, color='gray', linestyle='--', linewidth=1)  # Линия на уровне 0
+    plt.axhline(0, color='gray', linestyle='--', linewidth=1)
     plt.xlabel("Кластер")
     plt.ylabel("Средний рейтинг")
     plt.title("Средний рейтинг фильмов по кластерам")
-    plt.xticks(rotation=45)  # Поворачиваем подписи кластеров, если их много
+    plt.xticks(rotation=45)
 
     output_path = "output/cluster_ratings_fixed.png"
     plt.savefig(output_path)
@@ -133,18 +138,21 @@ def analyze_ratings_by_cluster(movies_df, ratings_df):
 
 def analyze_genres_by_cluster(movies_df):
     #Анализирует популярные жанры в каждом кластере
+    print("Проверка жанров по кластерам:")
+    print(movies_df[['movieId', 'genres']].head())
 
     print("\nАнализ жанров по кластерам...")
+    if 'genres' not in movies_df.columns:
+        raise ValueError("'genres' столбец отсутствует в данных!")
+
+        # Продолжайте анализ жанров
+        # Например, разбиваем жанры на несколько элементов
+    movies_df['genres'] = movies_df['genres'].apply(lambda x: x.split(', ') if isinstance(x, str) else [])
 
     movies_df['genres'] = movies_df['genres'].fillna("").astype(str).apply(lambda x: x.split('|'))
-
-    all_genres = []
-    for _, row in movies_df.iterrows():
-        for genre in row['genres']:
-            all_genres.append({"cluster": row["cluster"], "genre": genre})
-
-    genre_df = pd.DataFrame(all_genres)
-    genre_counts = genre_df.groupby(["cluster", "genre"]).size().reset_index(name="count")
+    genre_df = movies_df.explode('genres')[['cluster', 'genres']].groupby(['cluster', 'genres']).size().reset_index(
+        name='count')
+    genre_counts = genre_df.groupby(["cluster", "genres"]).size().reset_index(name="count")
 
     plt.figure(figsize=(12, 6))
     sns.barplot(data=genre_counts, x="cluster", y="count", hue="genre", dodge=True, palette="tab10")
@@ -230,3 +238,4 @@ __all__ = [
     "analyze_sentiment",
     "filter_top_movies"
 ]
+'''

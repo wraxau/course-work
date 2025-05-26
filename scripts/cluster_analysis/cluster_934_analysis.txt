@@ -1,0 +1,24 @@
+Анализ кластера 934
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+dialogue     2
+THE          2
+Russell      2
+Rosalind     2
+newspaper    2
+100          2
+Screwball    2
+AFI          1
+BATTLE       1
+(Laughs)     1
+
+Примеры фильмов:
+                      title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+934  His Girl Friday (1940)  Comedy|Romance  comedy biting Howard Hawks Cary Grant humorous National Film Registry talky battle the sexes newspaper theme howard hawks WORK ETHICS cary grant newspaper death penalty reviewed madcap quirky screwball Great Screenplays Rosalind Russell dialogue driven Best Performance: Rosalind Russell Hildy Johnson corny satirical classic perfect AFI 100 (Laughs) BATTLE THE SEXES remake of:The Front Page (1931) entirely dialogue Screwball Screwball Comedy 100 Greatest Movies MEMBERS THE PRESS adapted from B'way subgenre:screwball suicide

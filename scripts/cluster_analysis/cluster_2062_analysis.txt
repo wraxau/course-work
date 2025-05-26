@@ -1,0 +1,25 @@
+Анализ кластера 2062
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+teen          3
+comedy        2
+Andrew        2
+pretending    1
+movie         1
+80's          1
+UNREQUITED    1
+LOVE          1
+Howard        1
+Deutch        1
+
+Примеры фильмов:
+                      title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+2062  Pretty in Pink (1986)  Comedy|Drama|Romance  comedy Jim Haynie Prom illinois seen Paramount Brat Pack Betamax preppie Jon Cryer romantic comedy PG-13 prom Annie Potts teen crush wired greatest soundtracks James Spader changed ending romance Andrew McCarthy FATHERS AND DAUGHTERS teen movie 80's UNREQUITED LOVE Howard Deutch Andrew Dice Clay Molly Ringwald teen angst pretending CLASS DIFFERENCES naive record store unrequited love John Hughes Harry Dean Stanton high school 1980s

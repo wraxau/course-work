@@ -1,0 +1,25 @@
+Анализ кластера 2289
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+pulp         1
+Nostalgia    1
+Critic       1
+Betamax      1
+Ennio        1
+Morricone    1
+Brigitte     1
+Nielsen      1
+Richard      1
+Fleischer    1
+
+Примеры фильмов:
+                 title                    genres                                                                                                             tag
+2289  Red Sonja (1985)  Action|Adventure|Fantasy  pulp Nostalgia Critic Betamax Ennio Morricone Brigitte Nielsen Richard Fleischer fantasy Arnold Schwarzenegger

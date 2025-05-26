@@ -1,0 +1,29 @@
+Анализ подкластера 270 в кластере 8
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.20
+
+Топ-5 жанров:
+genres
+Drama          5
+Comedy         2
+Documentary    2
+Romance        1
+Sci-Fi         1
+
+Топ-5 тегов:
+tag
+soundtrack    2
+not           2
+worlds        2
+characters    2
+sci-fi        2
+
+Примеры фильмов:
+                                                 title    rating                genres                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+17753                             Another Earth (2011)  3.574357  Drama|Romance|Sci-Fi  soundtrack hippies easy life visually appealing felon characters psychology loner netflix stupid characters second chance low budget surreal Parallels worlds romance creepy writing redemption drags cinematography music Mike Cahill grungy parall story sci-fi twisted regret ending suffering not sci-fi DUI parallel universe Brit Marling Alfred Sloan Feature Film Prize plot melancholic Parallel worlds earth
+17754  Pastoral Hide and Seek (Den-en ni shisu) (1974)  2.750000                 Drama                                                                                                                                                                                                                                                                                                                                                                                                          Shûji Terayama
+17755                  Classic, The (Klassikko) (2001)  3.250000          Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+17756                                 Rocky VI (1986)   3.121622                Comedy                                                                                                                                                                                                                                                                                                                                                                                                               not movie
+17757                                    Hesher (2010)  3.515625                 Drama                                                                                                                                                                                                                                             Natalie Portman humor Childish character driven KAF Rainn Wilson Devin Brochu dark comedy Joseph Gordon-Levitt Spencer Susser typecasting excellent acting metal soundtrack

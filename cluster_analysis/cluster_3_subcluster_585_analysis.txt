@@ -1,0 +1,29 @@
+Анализ подкластера 585 в кластере 3
+Размер подкластера: 24 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 2.99
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Horror      8
+Comedy      6
+Drama       6
+Children    4
+Western     3
+
+Топ-5 тегов:
+tag
+Betamax        6
+dark           5
+horror         4
+music          3
+atmospheric    3
+
+Примеры фильмов:
+                                                                          title    rating                     genres                                                                                         tag
+3521                                                      Saludos Amigos (1943)  2.902344  Animation|Children|Comedy                                                                       (s)vcd Disney Betamax
+3551                                                   Woman of Paris, A (1923)  3.355263                      Drama                                                                             Charles Chaplin
+3552                                                   In Old California (1942)  2.891304                    Western                                                                                         NaN
+3554                                                        Dark Command (1940)  3.143939                    Western  Quantrail's Raiders Kansas History civil war American Civil War less 300 ratings Civil War
+3558  Abominable Snowman, The (Abominable Snowman of the Himalayas, The) (1957)  2.786932              Horror|Sci-Fi                                                                                         NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 173 в кластере 5
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Drama          20
+Comedy         11
+Documentary    10
+Romance        10
+Thriller        6
+
+Топ-5 тегов:
+tag
+nudity         6
+etaege         4
+humor          3
+ending         3
+etaegeshelf    3
+
+Примеры фильмов:
+                                                title    rating                  genres  tag
+20295  True Meaning of Christmas Specials, The (2002)  3.500000                  Comedy  NaN
+20311                                Role/Play (2010)  2.285714                   Drama  NaN
+20334                                     Lucy (2003)  3.000000            Comedy|Drama  NaN
+20336                            Shunning, The (2011)  3.125000                   Drama  NaN
+20346                               Climb, The (2002)  2.833333  Action|Adventure|Drama  NaN

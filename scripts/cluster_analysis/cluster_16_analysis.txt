@@ -1,0 +1,24 @@
+Анализ кластера 16
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+adapted       2
+Great         2
+period        2
+literature    2
+classic       2
+Austen        2
+century       2
+fast          1
+Romance       1
+hulu          1
+
+Примеры фильмов:
+                           title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+16  Sense and Sensibility (1995)  Drama|Romance  true love story shakespeare Kate Winslet romantic British Emma Thompson based book Shakespeare Netflix Finland Bibliothek English boring nothing happens historical Great Screenplays literature Period Hugh Grant very well adapted classic literature romance hugh grant classic period film seen 2012 author:Jane Austen Regency England trials and tribulations 19th century adapted from:book fast emotional hulu Romance dysku costume drama 18th century Sven's see list Ang Lee british Jane Austen period piece BGAB LRC chick flick Great Adaptations Alan Rickman heartwarming

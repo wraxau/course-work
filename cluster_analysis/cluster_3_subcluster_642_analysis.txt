@@ -1,0 +1,29 @@
+Анализ подкластера 642 в кластере 3
+Размер подкластера: 23 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.01
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Comedy     16
+Drama       7
+Romance     5
+Horror      4
+Action      3
+
+Топ-5 тегов:
+tag
+Mad        5
+funny      4
+Betamax    4
+New        3
+York       3
+
+Примеры фильмов:
+                                          title    rating                genres                                                                                                                                             tag
+4380                             Beaches (1988)  3.156952  Comedy|Drama|Musical  70mm Friendship tear jerker friendship women loyalty Bette Midler illness Book Barbara Hershey Spherical Blow-Up John Heard must see! touching
+4401                   Crossing Delancey (1988)  3.644991        Comedy|Romance                                                                                                                    New York Joan Micklin Silver
+4407        Elvira, Mistress of the Dark (1988)  2.693103         Comedy|Horror                                                                                                                                            Camp
+4420  Howling IV: The Original Nightmare (1988)  1.867857                Horror                                                                                                                     werewolf werewolves Betamax
+4442                    Rocket Gibraltar (1988)  3.366071                 Drama                                                                                                                                             NaN

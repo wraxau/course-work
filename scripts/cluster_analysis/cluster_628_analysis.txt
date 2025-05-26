@@ -1,0 +1,17 @@
+Анализ кластера 628
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Richard    1
+Pearce     1
+Race       1
+
+Примеры фильмов:
+                      title        genres                  tag
+628  Family Thing, A (1996)  Comedy|Drama  Richard Pearce Race

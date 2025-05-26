@@ -1,0 +1,29 @@
+Анализ подкластера 434 в кластере 0
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.32
+Медиана рейтинга: 3.46
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama          21
+Comedy         20
+Romance        12
+Action          9
+Documentary     6
+
+Топ-5 тегов:
+tag
+the            4
+documentary    4
+Sundance       4
+black          4
+and            4
+
+Примеры фильмов:
+                                         title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+9232        After the Rain (Ame agaru) (1999)   3.714286                  Action|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        humor samurai Takashi Koizumi open ending too short Japanese
+9243  Radiohead: Meeting People Is Easy (1998)  3.379310                   Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                               01/11 Documentary Computer 10/10 12/10 03/11 rock and roll Radiohead musicians Thom Yorke 11/10 02/11
+9249                  Shrink Is In, The (2001)  4.000000                Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 NaN
+9255                  10th Kingdom, The (2000)  3.860697      Adventure|Comedy|Fantasy                                                                                                                                                                                                                                                                                                                                comedy fairy tale less 300 ratings mythical creatures etaege too long miniseries Herbert Wise romance youtube Nice Long MiniSeries magic SERIE David Carson Hallmark Channel Production alternate reality made for adventure fantasy
+9260                               2046 (2004)  3.662157  Drama|Fantasy|Romance|Sci-Fi  Tony Leung Chiu Wai Wong Kar-wai atmospheric Colors hotel Intelligent waste time androids for katie romantic 2000s love slow wong kar wai father daughter relationship boring plotless Great Music desire Beautiful NO_FA_GANES Wong Kar Wai love triangles romance Soundtrack elegant memories dark oscar winner Music cinematography melancholy loneliness dvr UNREQUITED LOVE erotic without Martha 1960s time travel fear commitment numbers enigmatic library future chinese cinematography beautiful wong kar-wai trains gambling stylized MNM WRITER'S LIFE

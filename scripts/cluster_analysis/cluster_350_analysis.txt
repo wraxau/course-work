@@ -1,0 +1,22 @@
+Анализ кластера 350
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+baseball     1
+nudity       1
+(topless)    1
+Tommy        1
+Lee          1
+Jones        1
+Nudity       1
+(Topless     1
+Brief)       1
+
+Примеры фильмов:
+           title genres                                                               tag
+350  Cobb (1994)  Drama  baseball nudity (topless) Tommy Lee Jones Nudity (Topless Brief)

@@ -1,0 +1,23 @@
+Анализ кластера 479
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Great              1
+Soderberg          1
+coming             1
+1930s              1
+Netflix            1
+from               1
+available          1
+not                1
+heart-wrenching    1
+piece              1
+
+Примеры фильмов:
+                       title genres                                                                                                                                                                        tag
+479  King of the Hill (1993)  Drama  Great Depression Steven Soderbergh child acting Not dvd Tumey's DVDs Criterion Stephen Soderberg Period piece heart-wrenching not available from Netflix 1930s coming age

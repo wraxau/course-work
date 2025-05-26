@@ -1,0 +1,29 @@
+Анализ подкластера 110 в кластере 5
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama          17
+Documentary    10
+Comedy          9
+Thriller        8
+Horror          6
+
+Топ-5 тегов:
+tag
+gay             4
+French          3
+relationship    3
+comedy          3
+war             3
+
+Примеры фильмов:
+                              title    rating           genres                                       tag
+22737                   Husk (2011)  2.714286  Horror|Thriller          scary unclear ending stereotypes
+22749  Decoding Annie Parker (2013)  2.500000            Drama                          Steven Bernstein
+22756  Fourth World War, The (2003)  3.500000      Documentary  Middle East Rick Rowley Palestine Israel
+22759        True Confession (1937)  3.000000           Comedy                            Wesley Ruggles
+22762             Dark Touch (2013)  2.966667           Horror                                       NaN

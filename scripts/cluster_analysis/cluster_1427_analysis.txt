@@ -1,0 +1,28 @@
+Анализ кластера 1427
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Drama        1
+Fantasy      1
+Film-Noir    1
+Mystery      1
+Romance      1
+
+Топ-10 тегов:
+tag
+Lynch            3
+not              2
+Nudity           2
+clever           2
+very             2
+strange          2
+David            2
+mistery          1
+ontoleptic       1
+psychological    1
+
+Примеры фильмов:
+                    title                                         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1427  Lost Highway (1997)  Crime|Drama|Fantasy|Film-Noir|Mystery|Romance  nudity (topless) Los Angeles overrated erlend's DVDs atmospheric Very interesting Nine Inch Nails dreams 3.5 Surreal Bibliothek One watch only David Lynch clever 05.04.06 mystery mindfuck boring surreal Robert Blake weird creepy dark Awful Awards Nudity (Topless Notable) art house jealousy confusing post-modern very clever watchable disturbing very strange stars hulu Lynch Nudity (Topless) mistery enigmatic strange psychological ontoleptic used not like this pornography good but not great David Lynch blonde jus+san btaege Bill Pullman seen own dreamlike nonlinear Patricia Arquette

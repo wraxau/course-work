@@ -1,0 +1,24 @@
+Анализ кластера 419
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+easily      1
+Forest      1
+Jones       1
+Lee         1
+Tommy       1
+Bridges     1
+Jeff        1
+Whitaker    1
+accent      1
+confused    1
+
+Примеры фильмов:
+                 title           genres                                                                                                                  tag
+419  Blown Away (1994)  Action|Thriller  easily confused with other movie(s) (title) pacing irish accent Forest Whitaker Jeff Bridges Tommy Lee Jones action

@@ -1,0 +1,27 @@
+Анализ кластера 553
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Animation    1
+Children     1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+Maurice             1
+action/animation    1
+remember            1
+Can't               1
+Nostalgia           1
+visuals             1
+Lloyd               1
+Christopher         1
+live                1
+Hunt                1
+
+Примеры фильмов:
+                      title                                       genres                                                                                                                                         tag
+553  Pagemaster, The (1994)  Action|Adventure|Animation|Children|Fantasy  Maurice Hunt original Macaulay Culkin boring library dragon live action/animation Christopher Lloyd visuals Nostalgia Can't remember books

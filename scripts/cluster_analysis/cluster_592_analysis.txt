@@ -1,0 +1,17 @@
+Анализ кластера 592
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+
+Топ-10 тегов:
+tag
+Yuri       1
+Mamin      1
+Russian    1
+
+Примеры фильмов:
+                                      title          genres                 tag
+592  Window to Paris (Okno v Parizh) (1994)  Comedy|Fantasy  Yuri Mamin Russian

@@ -1,0 +1,24 @@
+Анализ кластера 156
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+cute           1
+sentimental    1
+seen           1
+Silberling     1
+Brad           1
+family         1
+Eastwood       1
+Clint          1
+Idle           1
+Eric           1
+
+Примеры фильмов:
+             title              genres                                                                                                                                                                                                           tag
+156  Casper (1995)  Adventure|Children  cute sentimental kid flick Christina Ricci Nostalgia Critic romance boygirl dancing ghosts funny ghost nice adapted from:comic children childhood Eric Idle Clint Eastwood family Brad Silberling seen sweet

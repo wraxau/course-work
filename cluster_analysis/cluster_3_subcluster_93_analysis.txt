@@ -1,0 +1,29 @@
+Анализ подкластера 93 в кластере 3
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Comedy      10
+Crime        7
+Thriller     6
+Drama        5
+Horror       4
+
+Топ-5 тегов:
+tag
+the       10
+comedy     7
+movie      5
+acting     5
+Nudity     5
+
+Примеры фильмов:
+                                               title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+3749                              Pumpkinhead (1988)  2.599554                 Horror                                                                                                                                                                                                                                                                                                                            cinematographer:Bojan Bazelli witch demons countryside Stan Winston monsters Lance Henriksen revenge the monster scared the shit out when was kid bad it's almost good
+3758         Whatever Happened to Aunt Alice? (1969)  2.851064         Crime|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Ruth Gordon desert
+3770                               About Adam (2000)  3.140940                 Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        out pickup
+3771                                Cell, The (2000)  3.017535  Drama|Horror|Thriller  atmospheric serial killer horror dreams Nudity (Topless Brief) stylized weak plot mindbender Jennifer Lopez surreal nbnbn Tarsem directorial debut psychopath Tarsem Singh gore acting visually stunning dark TOSTON style over substance H.R. Giger cinematography stunning Vince Vaughn unique Vincent D'Onofrio fbb unanswered questions psychological visual aesthetic scary library beautiful cinematography alternate reality beautiful scenery virtual reality dreamlike amazing costumes
+3777  Naked Gun 2 1/2: The Smell of Fear, The (1991)  3.158419                 Comedy                                                                                                                                                                                                                                                                                             comedy laughed continuosly throughout this film Leslie Nielsen ZAZ parody police business the antagonist seen the cinema screwball Leslie Neilsen Business the antagonist David Zucker Can't remember

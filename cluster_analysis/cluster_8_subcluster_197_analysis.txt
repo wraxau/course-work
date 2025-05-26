@@ -1,0 +1,29 @@
+Анализ подкластера 197 в кластере 8
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Musical    2
+Comedy     2
+Drama      1
+Romance    1
+Horror     1
+
+Топ-5 тегов:
+tag
+Xmas        2
+and         2
+Rare        2
+vampires    1
+sweet       1
+
+Примеры фильмов:
+                                                      title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                                          tag
+16317                      Story of Three Loves, The (1953)  2.500000  Drama|Musical|Romance                                                                                                                                                                                                                                                                                                                                                                                                          NaN
+16318                                           Suck (2009)  3.196970  Comedy|Horror|Musical                                                                                                                                                                                                                                                                                                                                                                       vampires gothic Vampires rock and roll
+16319  Rare Exports: A Christmas Tale (Rare Exports) (2010)  3.515170          Action|Comedy  01/11 original all-male cast based short films Rare Exports Inc. and Rare Exports: The Official Safety Instructions macabre Santa Claus Finland humour addition 12/10 bad parenting Xmas theme? christmas filmed Norway creepy seen 2012 payoff morally counterintuitive Xmas theme story male nudity Christmas not just comedy Finnish wintry girls Jalmari Helander monster bittersweet sweet mature kids
+16320                                             13 (2010)  3.074675               Thriller                                                                                                                                                                                                                                                               hopelessness Jason Statham inhuman Remake circle shooting organized crime weak plot Russian roulette suicide gambling games Emmanuelle Chriqui
+16321                          Human Experience, The (2008)  3.500000            Documentary                                                                                                                                                                                                                                                                                                                                                                                                          NaN

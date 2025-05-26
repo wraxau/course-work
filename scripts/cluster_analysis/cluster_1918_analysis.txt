@@ -1,0 +1,26 @@
+Анализ кластера 1918
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+action        2
+nudity        1
+foqam         1
+Anamorphic    1
+Blow-Up       1
+Can't         1
+remember      1
+70mm          1
+Lee           1
+Marvin        1
+
+Примеры фильмов:
+                       title                     genres                                                                                                                                                                                                                                                                                                              tag
+1918  Lethal Weapon 2 (1989)  Action|Comedy|Crime|Drama  nudity (topless) comedy Mel Gibson subgenre:cop buddies Betamax south africa Danny Glover action Richard Donner Patsy Kensit franchise reviewed seen more once want crime Anamorphic Blow-Up Can't remember 70mm Lee Marvin foqam lethal police drama buddy Nudity (Topless) gold sequel action packed violence

@@ -1,0 +1,24 @@
+Анализ кластера 511
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+70mm         2
+Emma         2
+Thompson     2
+French       1
+adapted      1
+from:book    1
+wierd        1
+love         1
+dysku        1
+excellent    1
+
+Примеры фильмов:
+                              title         genres                                                                                                                                                                                                                                                                                                                               tag
+511  Remains of the Day, The (1993)  Drama|Romance  French Super-35 Blow-Up Butler Germans very good Emma Thompson based book netflix 70mm blowup romance James Ivory pretentiousness 70mm Christopher Reeve Great acting Housekeeper servants adapted from:book wierd love dysku excellent Best Performance: Emma Thompson Miss Kenton british accents Anthony Hopkins period piece

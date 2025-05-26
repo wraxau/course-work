@@ -1,0 +1,23 @@
+Анализ кластера 552
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+campaign       2
+documentary    1
+Criterion      1
+Documentary    1
+Nominee:       1
+Oscar          1
+Doob           1
+Nick           1
+election       1
+manager        1
+
+Примеры фильмов:
+                    title       genres                                                                                                                                                                     tag
+552  War Room, The (1993)  Documentary  documentary Chris Hegedus politics political campaign clinton Bill Clinton television Criterion campaign manager election Nick Doob Oscar Nominee: Documentary Feature

@@ -1,0 +1,29 @@
+Анализ подкластера 47 в кластере 4
+Размер подкластера: 54 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.70
+
+Топ-5 жанров:
+genres
+Drama                 19
+Thriller              18
+Comedy                13
+Horror                11
+(no genres listed)     7
+
+Топ-5 тегов:
+tag
+room         1
+hostage      1
+French       1
+pointless    1
+Musical      1
+
+Примеры фильмов:
+                                    title    rating                  genres                                                                                            tag
+32048            Between the Lines (1977)  3.000000      (no genres listed)                                                                                            NaN
+32069      Gone, But Not Forgotten (2003)  1.750000  Drama|Romance|Thriller                                                                                            NaN
+32101  The Hunt for the BTK Killer (2005)  3.000000    Crime|Drama|Thriller                                                                                            NaN
+32106     Eisenstein in Guanajuato (2015)  3.666667          Comedy|Romance  room Eisenstein corpse multiscreen tracking shot death Soviet mummy Upton Sinclair Mexico gay
+32112                       Roukli (2015)  3.500000                   Drama                                                                                            NaN

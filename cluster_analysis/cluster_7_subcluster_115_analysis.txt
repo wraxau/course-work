@@ -1,0 +1,29 @@
+Анализ подкластера 115 в кластере 7
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Drama                 4
+Comedy                3
+Thriller              2
+(no genres listed)    2
+Children              1
+
+Топ-5 тегов:
+tag
+christian    1
+religious    1
+Tom          1
+Hardy        1
+biopic       1
+
+Примеры фильмов:
+                               title    rating              genres                  tag
+31528                War Room (2015)  4.142857      Children|Drama  christian religious
+31529         Shield of Straw (2013)  3.333333            Thriller                  NaN
+31530        Return to Ithaca (2014)  4.000000        Comedy|Drama                  NaN
+31531              Summertime (2015)  3.750000  (no genres listed)                  NaN
+31532  Joseph: King of Dreams (2000)  3.031250           Animation                  NaN

@@ -1,0 +1,24 @@
+Анализ кластера 1927
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama     1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+top              2
+DVDs             2
+classic          2
+250              2
+German           2
+Expressionism    2
+expressionism    2
+commentary       1
+black            1
+sci-fi           1
+
+Примеры фильмов:
+                  title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1927  Metropolis (1927)  Drama|Sci-Fi  computer erlend's DVDs androids great acting German Expressionism German expressionism based book existentialist working class Futuristmovies.com 2.5 BFI classic seen more once Tumey's DVDs german expressionism btaegepriority masterpiece visionary science fiction top 250 IMDB historic classic subterranean youtube industrial progress BD-Video Fritz Lang social commentary marxist music sci-fi black and white dystopia imdb top 250 library vhs Brigitte Helm Friday night movie robot silent film tinted Expressionism

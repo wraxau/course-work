@@ -1,0 +1,29 @@
+Анализ подкластера 517 в кластере 5
+Размер подкластера: 52 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.76
+
+Топ-5 жанров:
+genres
+Drama          20
+Comedy         13
+Action         11
+Sci-Fi          9
+Documentary     8
+
+Топ-5 тегов:
+tag
+Godzilla    4
+nudity      4
+book        4
+based       4
+Kaiju       3
+
+Примеры фильмов:
+                                                title    rating                genres                          tag
+21943  Year Zero: The Silent Death of Cambodia (1979)  5.000000           Documentary         David Munro Cambodia
+21947                           Valentine Road (2013)  2.642857           Documentary  Marta Cunningham true story
+21956                                     Look (2007)  4.250000                 Drama                          NaN
+21958                        Zombie Apocalypse (2011)  1.166667  Action|Horror|Sci-Fi     post-apocalyptic zombies
+21964               Game of Chance (Onnenpeli) (1965)  2.500000          Comedy|Drama                          NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 186 в кластере 3
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.35
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Documentary    4
+Action         2
+Sci-Fi         2
+Drama          2
+Adventure      1
+
+Топ-5 тегов:
+tag
+plot           2
+competition    2
+the            2
+female         2
+magic          1
+
+Примеры фильмов:
+                                          title   rating                           genres                                                                                                                                                                                                                                                    tag
+21439                     Wolverine, The (2013)  3.23391  Action|Adventure|Fantasy|Sci-Fi  shit plot superheroes childish Hugh Jackman James Mangold Marvel slow pacing eastern silly plot franchise watch the credits martial arts Japan low stakes superhero x-men yakuza comic book wolverine btaege add prospects list men contrived romance
+21440                               Sol (2012)   2.50000                           Sci-Fi                                                                                                                                                                                                                                                    NaN
+21441             Devil Dared Me To, The (2007)  3.70000                    Action|Comedy                                                                                                                                                                                                                       profane New Zealand over the top
+21442  Sky West and Crooked (Gypsy Girl) (1965)  2.00000                    Drama|Romance                                                                                                                                                                                                                                             John Mills
+21443                       Make Believe (2010)  3.56250                      Documentary                                                                                                                                                                                                      stage magic Krystyn Lambert competition magicians

@@ -1,0 +1,27 @@
+Анализ кластера 891
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Mystery      1
+Romance      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+AFI          3
+DVDs         2
+Hitchcock    2
+Film         2
+100          2
+Classic      2
+erlend's     1
+Mount        1
+PUA          1
+Saint        1
+
+Примеры фильмов:
+                         title                                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+891  North by Northwest (1959)  Action|Adventure|Mystery|Romance|Thriller  erlend's DVDs Seen 2014 Josephine Hutchinson Intrigo internazionale Best Rotten Tomatoes: All Time James Mason Cary Grant mvlc USA MISTAKEN IDENTITIES National Film Registry Jovial tone epic visually appealing Martin Landau Veja Kate desert island flicks AFI 100 (Thrills) Bibliothek planes Classic thriller menacing mystery Clever cary grant seen more once rousing mistaken identity Tumey's DVDs Edgar Award (Best Motion Picture) paranoid tense Alfred Hitchcock suspense old espionage hitchcock classic witty need own Bernard Herrmann Mount Rushmore netflix queue Eva Marie Saint PUA aviation the run AFI #40 imdb top 250 VistaVision urbane Leo Carroll FLIGHT THE INNOCENT AFI 100 Gay Character adventure funny auction scene trains wry Hitchcock Jessie Royce Landis South Dakota Classic Chase Scenes Film Noir

@@ -1,0 +1,24 @@
+Анализ кластера 523
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+Oscar        11
+(Best         8
+story         3
+Holocaust     3
+war           3
+great         3
+AFI           3
+100           2
+sex           2
+book          2
+
+Примеры фильмов:
+                       title     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+523  Schindler's List (1993)  Drama|War  Must Watch Want USA seen the cinema biography great poignant The Shoah holocast Heroism Oscar winner cathartic Holocaust film altruism great story honest Oscar (Best Directing) jews factory redemptive nazi Oscar (Best Music Original Score) meaning life realistic austere good acting interesting humanist mustard gas music Oscar:Editing hitler black and white dvd melodrama oscar (best picture) Favorite AFI 100 Steven Spielberg Sexual content touching simplistic Lista Schindler War overrated erlend's DVDs History Oscar (Best Art Direction Set Decoration) nightclub realism strong director long periodic sexuality biopic violent 2nd world war human emotion 1930s depressing sex scene somber drama judaica Nudity too slow scope bathtub humanism movies Oscar Nominee: Supporting Actor murder amazing thought-provoking concentration camps seinfeld made out this hope american ending Oscar (Best Picture) Drama imdb top 250 Culture Nudity (Full Frontal Brief) Poland intense Speilberg grief porn great soundtrack compassionate Oscar (Best Editing) Holocaust own jus+san Feel Good AFI 100 (Cheers) nudity (topless) history atmospheric BEST PICTURE National Film Registry epic moving too intense Oscar Best Picture vijay-tag2 Liam Neeson Jews moving, shocking spielberg/lucas real Holocaust Poland book Tumey's DVDs literary adaptation Nazi Germany guerra WW2 savior elegiac Best Performance: Ralph Fiennes Amon Goeth Oskar Schindler saved Very Special Episode Blossom survivor sad WWII 8.7-FilmAffinity wwii Emotional Oscar (Best Writing Screenplay Based Material from Another Medium) spielberg Spielberg deliberate life choices gross World War kupienia sad but good Didn't happen Oscar (Best Cinematography) german movie mvlc amazing photography ralph fiennes' acting AFI memasa's movies based book true story Nazis Biography war exploitative Liam Neesan world war historical jewish masterpiece slow paced awesome Oscar (Best Director) Warsaw ghetto emotion! MarinaVista earnest bleak classic liam neeson Ben Kingsley Jewish holocaust disturbing works pure fiction nazis auschwitz afi100 heartbreaking nudity want see again based true story sex scenes Ralph Fiennes holocaust anti-semitism

@@ -1,0 +1,29 @@
+Анализ кластера 12
+Размер кластера: 887 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama       524
+Comedy      286
+Thriller    174
+Romance     170
+Action      127
+
+Топ-5 тегов:
+tag
+movie     133
+Nudity    117
+based     102
+nudity     97
+Oscar      91
+
+Примеры фильмов:
+                                                          title    rating          genres                      tag
+11171       Wrong Side Up (Pribehy obycejneho silenstvi) (2005)  3.500000    Comedy|Drama  human drama crazy humor
+11172                   Just love me (Tylko mnie kochaj) (2006)  2.125000  Comedy|Romance                      NaN
+11173     Combien Tu M'aimes? (How Much Do You Love Me?) (2005)  3.285714  Comedy|Romance                      NaN
+11174              Colour Me Kubrick: A True...ish Story (2005)  3.279661    Comedy|Drama           John Malkovich
+11175  Death of a Bureaucrat (La muerte de un burócrata) (1966)  4.166667          Comedy     Tomás Gutiérrez Alea

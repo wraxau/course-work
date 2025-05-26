@@ -1,0 +1,24 @@
+Анализ кластера 1139
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Peter              2
+biting             1
+witty              1
+confrontational    1
+irreverent         1
+jesus              1
+quirky             1
+arthur             1
+lowe               1
+O'Toole            1
+
+Примеры фильмов:
+                         title        genres                                                                                                                                        tag
+1139  Ruling Class, The (1972)  Comedy|Drama  biting witty confrontational irreverent jesus quirky arthur lowe Peter O'Toole Criterion Peter Medak Favorites stylized satirical netflix

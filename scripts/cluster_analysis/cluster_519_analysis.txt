@@ -1,0 +1,23 @@
+Анализ кластера 519
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Sundance       4
+Jury           3
+Grand          3
+Prize:         2
+Dramatic       2
+florida        1
+Victor         1
+bittersweet    1
+winner         1
+award          1
+
+Примеры фильмов:
+                       title genres                                                                                                                                                                                                                                                tag
+519  Ruby in Paradise (1993)  Drama  Sundance Grand Jury Prize reflective Ashley Judd Sundance Grand Jury Prize: Dramatic 1993 understated Sundance Grand Jury Prize: Dramatic intimate compassionate florida romance Coming-of-Age wry Sundance award winner bittersweet Victor Nunez

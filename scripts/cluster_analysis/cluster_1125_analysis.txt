@@ -1,0 +1,26 @@
+Анализ кластера 1125
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Comedy       1
+Crime        1
+
+Топ-10 тегов:
+tag
+penguins    2
+short       2
+Wallace     2
+Gromit      2
+animals     2
+british     2
+Aardman     2
+comedy      2
+Park        1
+Nick        1
+
+Примеры фильмов:
+                                            title                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1125  Wallace & Gromit: The Wrong Trousers (1993)  Animation|Children|Comedy|Crime  gentle comedy gret hilarious Aardman animated cute short cosy to-rent clay 3.5 Bechdel Test:Fail aardman Oscar winner Bob Baker animals nemesis English short film inuendo Wallace Gromit DIVX funny stop motion invention Wallace and Gromit penguins classic Aardman studios witty Clay Animation Nick Park stop-motion penguin claymation CAV dogs Parks story british comedy animals companions animation disguise fun penguins gone wrong torrential downpour british want see again robots smart pets brilliant seen

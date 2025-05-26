@@ -1,0 +1,29 @@
+Анализ подкластера 200 в кластере 3
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.68
+Медиана рейтинга: 3.64
+Дисперсия рейтинга: 0.60
+
+Топ-5 жанров:
+genres
+Drama       3
+Comedy      2
+Horror      1
+Thriller    1
+Crime       1
+
+Топ-5 тегов:
+tag
+Bechdel      3
+animation    2
+comedy       2
+celebrity    2
+true         2
+
+Примеры фильмов:
+                                   title    rating          genres                                                                                                                                                                                                                                                                            tag
+21239                      AM1200 (2008)  4.166667          Horror                                                                                                                                                                                                                                                                   lovecraftian
+21240            Executioner, The (1970)  3.000000  Drama|Thriller                                                                                                                                                                                                                                                                            NaN
+21241        Looking for Palladin (2008)  3.000000          Comedy                                                                                                                                                                                                                                                                            NaN
+21242             Bling Ring, The (2013)  2.918210     Crime|Drama  Los Angeles soundtrack character development zeitgeist Sofia Coppola burglary celebrity burglaries true story stupid kids vanity crime Katie Chang Leslie Mann celebrity Poor acting cinematography social commentary Emma Watson stylish based true story drugs black comedy
+21243  Mugger, The (El asaltante) (2007)  4.000000           Drama                                                                                                                                                                                                                                                                            NaN

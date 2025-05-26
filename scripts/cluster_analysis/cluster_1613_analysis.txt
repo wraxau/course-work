@@ -1,0 +1,20 @@
+Анализ кластера 1613
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+Michael         1
+Winterbottom    1
+want            1
+see             1
+again           1
+War             1
+
+Примеры фильмов:
+                           title     genres                                      tag
+1613  Welcome to Sarajevo (1997)  Drama|War  Michael Winterbottom want see again War

@@ -1,0 +1,26 @@
+Анализ кластера 2016
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Musical      1
+
+Топ-10 тегов:
+tag
+animation           2
+live                2
+Disney              2
+animals             2
+racial              1
+Harve               1
+racism              1
+talking             1
+action/animation    1
+find                1
+
+Примеры фильмов:
+                         title                                genres                                                                                                                                                                                                                                                         tag
+2016  Song of the South (1946)  Adventure|Animation|Children|Musical  racial stereotype Musical animation live action interact (scene) based book rabbits Disney bears animals Wilfred Jackson Harve Foster Can't remember classic controversial hard find live action/animation talking animals animation racism Disney studios

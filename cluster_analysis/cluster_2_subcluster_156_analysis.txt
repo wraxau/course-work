@@ -1,0 +1,29 @@
+Анализ подкластера 156 в кластере 2
+Размер подкластера: 39 фильмов
+Средний рейтинг: 3.39
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.20
+
+Топ-5 жанров:
+genres
+Drama          22
+Comedy         10
+Thriller        8
+Crime           7
+Documentary     5
+
+Топ-5 тегов:
+tag
+nudity       6
+story        5
+(topless)    3
+seen         3
+REDBOX       3
+
+Примеры фильмов:
+                                                             title    rating                                 genres                                                                                                                  tag
+16257                                  Crazy on the Outside (2010)  2.425000                           Comedy|Crime  tim allen comeback turning life around Tim Allen prison going straight falsely accused predictable Sigourney Weaver
+16264               Lesson in Love, A (En lektion i kärlek) (1954)  3.500000                           Comedy|Drama                                                                                                                  NaN
+16272  Hitch Hike (Autostop rosso sangue) (Naked Prey, The) (1977)  3.583333  Adventure|Crime|Drama|Horror|Thriller                                                                                      road trip nudity (full frontal)
+16273                                            Dishonored (1931)  3.357143                              Drama|War                                                        might like erlend's DVDs Josef von Sternberg Marlene Dietrich
+16274                                           Casino Jack (2010)  3.149660                           Comedy|Crime                                           corruption history politics George Hickenlooper ClearPlay 2000s true story

@@ -1,0 +1,23 @@
+Анализ кластера 1266
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+and            2
+Kundera        2
+prague         2
+book           2
+Milan          1
+wonderful      1
+drama          1
+aimlessness    1
+Frontal        1
+adapted        1
+
+Примеры фильмов:
+                                          title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1266  Unbearable Lightness of Being, The (1988)  Drama  Lena Olin photography nudity (full frontal) juliette binoche book better slow based book instant view ohsoso Romantic and sweet philosophical Juliette Binoche author:Milan Kundera Makes you think about the light and heavy Daniel Day-Lewis classic classic!! refugee social commentary Milan Kundera wonderful drama aimlessness adapted from:book Philip Kaufman Nudity (Full Frontal Notable) prague spring reflective library revolution Criterion milan kundera feel good seen bittersweet 29.03.06 prague

@@ -1,0 +1,29 @@
+Анализ подкластера 1 в кластере 8
+Размер подкластера: 27 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.20
+
+Топ-5 жанров:
+genres
+Drama          10
+Comedy         10
+Documentary     5
+Romance         4
+Adventure       4
+
+Топ-5 тегов:
+tag
+short        3
+Buster       2
+school       2
+(topless)    2
+nudity       2
+
+Примеры фильмов:
+                                                   title    rating               genres                                            tag
+16600       Facing the Truth (At kende sandheden) (2002)  3.500000                Drama                                   Nils Malmros
+16601                               Amour fou, L' (2010)  3.833333          Documentary                                            NaN
+16602  V2: Dead Angel (Vares 2 - Jäätynyt Enkeli) (2007)  2.833333  Action|Comedy|Crime                                            NaN
+16603                         My Wife's Relations (1922)  2.958333               Comedy                                            NaN
+16604                             Blacksmith, The (1922)  3.321429               Comedy  buster keaton Malcolm St. Clair Buster Keaton

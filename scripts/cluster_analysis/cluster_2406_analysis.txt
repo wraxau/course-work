@@ -1,0 +1,24 @@
+Анализ кластера 2406
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+action     3
+one        2
+man        2
+plot       2
+"The       1
+want       1
+Hunter"    1
+see:       1
+parody     1
+Back       1
+
+Примеры фильмов:
+               title           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+2406  Payback (1999)  Action|Thriller  Mel Gibson atmospheric Legend one man show seen the cinema troubled production outsmarting one man army Brian Helgeland plot twist revenge twists turns director's cut better plot point:time short action remadeAs:Payback(1999) clever semi-bleak author:"Richard Stark" violent remake want "The Hunter" see: action Back calculating gangsters narrated Revenge classic ClearPlay cinematography parody good action movie Java Lucy Liu tough guy Eric's Dvds organized crime remakeOf:Point Blank(1967)

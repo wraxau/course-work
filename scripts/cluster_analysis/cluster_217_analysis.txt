@@ -1,0 +1,23 @@
+Анализ кластера 217
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+easily      1
+confused    1
+with        1
+other       1
+movie(s)    1
+(title)     1
+Peter       1
+Horton      1
+gay         1
+romance     1
+
+Примеры фильмов:
+                title genres                                                                                                            tag
+217  Cure, The (1995)  Drama  easily confused with other movie(s) (title) Peter Horton gay romance AIDS childhood ignorance hope coming age

@@ -1,0 +1,25 @@
+Анализ кластера 148
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+IMAX         1
+
+Топ-10 тегов:
+tag
+story    4
+Oscar    3
+tom      3
+space    3
+hanks    3
+the      2
+(Best    2
+true     2
+based    2
+not      2
+
+Примеры фильмов:
+                title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+148  Apollo 13 (1995)  Adventure|Drama|IMAX  Want adapted from:true story slow pace disaster space slow biographical NASA Bill Paxton Ron Howard tense dvd have problem sexual content Téa Leoni does not star this movie science period piece astronauts Good Movie History boring mars AVORRIDA Oscar (Best Sound) dislike tom hanks drama claustrophobic Accuracy drive inspirational ending Drama AFI 100 (Movie Quotes) Oscar (Best Editing) Interesting AFI 100 (Cheers) Seen 2008 Outer space history villain nonexistent not needed for good story Moon seen more once watch-again setting:space/Earth orbit Gary Sinese Tom Hanks owned stranded almost favorite Gary Sinise Space nostalgic IMAX DMR Harris matter-of-fact harris adventure Oscar Winner tom hanks great formulaic engineering true story based book thriller space program catastrophe historical suspense earnest Historical kevin bacon beast need own BD-Video tom hanks See: the Shadow the Moon dramatic Kevin Bacon moon based true story did see it?

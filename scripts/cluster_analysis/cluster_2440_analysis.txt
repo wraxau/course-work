@@ -1,0 +1,26 @@
+Анализ кластера 2440
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Drama        1
+Thriller     1
+
+Топ-10 тегов:
+tag
+70mm          1
+Anamorphic    1
+(Best         1
+Oscar         1
+movie         1
+night         1
+Friday        1
+Blow-Up       1
+DVDs          1
+great         1
+
+Примеры фильмов:
+                             title                           genres                                                                                                                             tag
+2440  Towering Inferno, The (1974)  Action|Adventure|Drama|Thriller  70mm great action John Guillermin disaster film Tumey's DVDs Anamorphic Blow-Up Friday night movie Oscar (Best Cinematography)

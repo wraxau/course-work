@@ -1,0 +1,23 @@
+Анализ кластера 768
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Nudity           3
+Notable)         2
+nudity           1
+Fiennes          1
+(Full            1
+(Topless)        1
+Beauty           1
+Relationships    1
+Weisz            1
+Rachel           1
+
+Примеры фильмов:
+                      title genres                                                                                                                                                                                                        tag
+768  Stealing Beauty (1996)  Drama  nudity (topless) Bernardo Bertolucci Jeremy Irons Nudity (Topless Notable) emotion! library vhs Joseph Fiennes Liv Tyler Rachel Weisz Relationships Beauty Nudity (Topless) Nudity (Full Frontal Notable)

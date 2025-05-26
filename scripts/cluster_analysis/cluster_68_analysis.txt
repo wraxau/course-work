@@ -1,0 +1,23 @@
+Анализ кластера 68
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy         1
+soundtracks    1
+Tucker         1
+Chris          1
+Cube           1
+Ice            1
+See            1
+Need           1
+Comedy         1
+LRC            1
+
+Примеры фильмов:
+            title  genres                                                                                                                                                                     tag
+68  Friday (1995)  Comedy  comedy friendship stupid last comment Bob*ola Gary Gray stoner great soundtrack wired greatest soundtracks ghetto BGAB LRC Comedy Need See Ice Cube Chris Tucker funny

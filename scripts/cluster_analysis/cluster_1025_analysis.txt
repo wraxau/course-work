@@ -1,0 +1,23 @@
+Анализ кластера 1025
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nudity         1
+(topless)      1
+anthony        1
+hopkins        1
+Nudity         1
+(Topless       1
+Notable)       1
+Interesting    1
+julianne       1
+moore          1
+
+Примеры фильмов:
+                         title genres                                                                                   tag
+1025  Surviving Picasso (1996)  Drama  nudity (topless) anthony hopkins Nudity (Topless Notable) Interesting julianne moore

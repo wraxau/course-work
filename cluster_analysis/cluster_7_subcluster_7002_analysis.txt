@@ -1,0 +1,29 @@
+Анализ подкластера 7002 в кластере 7
+Размер подкластера: 686 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama          367
+Comedy         195
+Romance        113
+Thriller        92
+Documentary     84
+
+Топ-5 тегов:
+tag
+nudity    49
+not       47
+ending    44
+story     43
+comedy    40
+
+Примеры фильмов:
+                                 title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+12602              Visitor, The (2007)  3.866853          Drama|Romance  New York City Below USA great acting cool end 9/11 Haaz Sleiman See Richard Jenkins humanity quirky immigrants real complex characters English-language millenial comedies DIVX diverse cast discrimination immigration process U.S. romance realistic alternate endings solitude social commentary predictable movie see Thomas McCarthy quirky style Bob*ola cincinnati heavy-handed redbox BGAB LRC beautiful morality predictable movie PG13
+12615          Puff, Puff, Pass (2006)  2.958333                 Comedy                                                                                                                                                                                                                                                                                                                                                                                                       comedy witty stoner comedy drugs underrated
+12625             Super High Me (2007)  3.389058     Comedy|Documentary                                                                                                                                                                                                                                                                                           funny Documentary Marijuana stand-up comedy police police state Doug Benson Weed marijuanna drugs comedians facism California marijuana Michael Blieden
+12629         Killer Elite, The (1975)  2.944444  Action|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                           Betamax
+12632  Tarzan's Secret Treasure (1941)  3.384615       Action|Adventure                                                                                                                                                                                                                                                                                                                                                                                                               Edgar Rice Burroughs Richard Thorpe

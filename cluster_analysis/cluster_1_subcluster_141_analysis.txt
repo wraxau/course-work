@@ -1,0 +1,29 @@
+Анализ подкластера 141 в кластере 1
+Размер подкластера: 76 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Documentary    28
+Drama          25
+Thriller       10
+Comedy          8
+Horror          7
+
+Топ-5 тегов:
+tag
+business    4
+music       3
+surreal     2
+Horror      2
+age         2
+
+Примеры фильмов:
+                        title    rating              genres   tag
+28978           Regret (2013)  2.250000               Drama  2014
+28979           Yasmin (2004)  3.500000               Drama   NaN
+28980         Bluebird (2014)  2.666667               Drama   NaN
+28981  Charlie Bubbles (1967)  3.000000  (no genres listed)   NaN
+28982  One Little Pill (2014)  3.000000   Documentary|Drama   NaN

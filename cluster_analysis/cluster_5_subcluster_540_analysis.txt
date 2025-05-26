@@ -1,0 +1,29 @@
+Анализ подкластера 540 в кластере 5
+Размер подкластера: 39 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Drama      18
+Comedy     14
+Action      5
+Horror      4
+Romance     4
+
+Топ-5 тегов:
+tag
+adapted    3
+Niney      2
+New        2
+based      2
+French     2
+
+Примеры фильмов:
+                                            title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+22278       9 Month Stretch (9 mois ferme) (2013)  3.250000                 Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Albert Dupontel
+22326                      American Hustle (2013)  3.626250            Crime|Drama  great performances corruption cynical Louis C.K. politics soundtrack Bradley Cooper USA Bechdel Test:Pass R:pervasive language long toplist13 costumes slow paced DIVX 70s romance Jennifer Lawrence R:some sexual content Soundtrack David Russell Amy Adams christian bale Jeremy Renner Anti-Hero light New Jersey disjointed plot BD-Video anti-hero director-screenwriter 1970s money R:brief violence Park Avenue Scams Predictable Seen 2013 Cons screenwriter:Eric Singer Christian Bale based true story period piece amy adams mobster Slow bittersweet stylized con artists lack development
+22341  Cousin Angelica (La prima Angélica) (1974)  3.500000                  Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Carlos Saura
+22347                         Some Girl(s) (2013)  2.653846           Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          boring Ensemble
+22362                         Dead Silence (1997)  2.833333  Action|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN

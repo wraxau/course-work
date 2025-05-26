@@ -1,0 +1,23 @@
+Анализ кластера 1688
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy       2
+stoner       2
+nudity       1
+(topless)    1
+short        1
+Jim          1
+Breuer       1
+drugs        1
+movie        1
+Dave         1
+
+Примеры фильмов:
+                  title  genres                                                                                                                                   tag
+1688  Half Baked (1998)  Comedy  nudity (topless) comedy short stoner comedy Jim Breuer drugs stoner movie Dave Chappelle marijuana Harland Williams Nudity (Topless)

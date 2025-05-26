@@ -1,0 +1,16 @@
+Анализ кластера 859
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                      title              genres  tag
+859  Nothing to Lose (1994)  Action|Crime|Drama  NaN

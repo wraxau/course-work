@@ -1,0 +1,25 @@
+Анализ кластера 1870
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+(Best       4
+Oscar       3
+AFI         3
+100         2
+chase       2
+Picture)    2
+action      2
+Hackman     2
+DVDs        2
+(Rear)      1
+
+Примеры фильмов:
+                              title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+1870  French Connection, The (1971)  Action|Crime|Thriller  overrated erlend's DVDs cynical atmospheric BEST PICTURE soundtrack 70's new york chase National Film Registry Betamax harsh surveillance AFI 100 (Thrills) See action thriller gritty Oscar (Best Directing) Action Tumey's DVDs crime Edgar Award (Best Motion Picture) ominous AFI #70 Hackman cop Crime oscar (best cinematography) William Friedkin action classic BD-Video New York cops gene hackman Mob Gene Hackman angry Oscar (Best Picture) british comedy inaccurate Drama Nudity (Rear) Cops forceful police AFI 100 Oscar (Best Actor) drugs car chase

@@ -1,0 +1,23 @@
+Анализ кластера 1659
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+atmospheric    1
+Frontal)       1
+meditative     1
+small          1
+town           1
+need           1
+own            1
+death          1
+Nudity         1
+(Full          1
+
+Примеры фильмов:
+                            title genres                                                                                                                                                                                                                                                                                                                 tag
+1659  Sweet Hereafter, The (1997)  Drama  atmospheric Best Rotten Tomatoes: All Time nudity (full frontal) ghosts/afterlife Incest Sarah Polley Kate DRAMON based book incest Ian Holm bleak elegiac Atom Egoyan meditative small town need own death Nudity (Full Frontal) lyrical wintry reflective enigmatic innocence lost SOSA melancholic Canada grief

@@ -1,0 +1,29 @@
+Анализ подкластера 10 в кластере 8
+Размер подкластера: 191 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama       113
+Comedy       67
+Thriller     40
+Romance      39
+Crime        30
+
+Топ-5 тегов:
+tag
+Nudity    42
+movie     34
+based     30
+book      26
+nudity    23
+
+Примеры фильмов:
+                                             title    rating          genres                                                                       tag
+11699                             Wise Guys (1986)  2.944444    Comedy|Crime                                                                 mob spoof
+11701  Commare secca, La (Grim Reaper, The) (1962)  2.785714   Drama|Mystery                                             Criterion Bernardo Bertolucci
+11711                        Man About Town (2006)  2.680000    Comedy|Drama                                                                       NaN
+11714                    Unfaithfully Yours (1984)  2.966667  Comedy|Romance                      mistery Nastassja Kinski Betamax humour Dudley Moore
+11715                  Lathe of Heaven, The (1980)  3.611111          Sci-Fi  dreams drugs author:Ursula Guin adapted from:book based book Ursula Guin

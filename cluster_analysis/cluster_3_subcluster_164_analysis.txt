@@ -1,0 +1,29 @@
+Анализ подкластера 164 в кластере 3
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama        6
+Crime        2
+Thriller     2
+Comedy       2
+Film-Noir    1
+
+Топ-5 тегов:
+tag
+America           2
+Stephen           1
+Sanders-Brahms    1
+Jakimowski        1
+Andrzej           1
+
+Примеры фильмов:
+                                      title    rating                          genres                                                                                   tag
+21904  Muhammad Ali's Greatest Fight (2013)  3.285714                           Drama                                                                        Stephen Frears
+21905                711 Ocean Drive (1950)  3.000000  Crime|Drama|Film-Noir|Thriller                                                                                   NaN
+21906           Cadaver Christmas, A (2011)  2.500000                   Comedy|Horror                                                                                   NaN
+21907                          Angel (1984)  3.000000           Action|Crime|Thriller                                                                                   NaN
+21908                  Favela Rising (2005)  3.500000                     Documentary  Jeff Zimbalist Brazil South America Latin America musicians Matt Mochary Rio Janeiro

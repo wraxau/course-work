@@ -1,0 +1,28 @@
+Анализ подкластера 133 в кластере 6
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Adventure    3
+Animation    2
+Children     2
+Comedy       1
+Sci-Fi       1
+
+Топ-5 тегов:
+tag
+Richard    1
+Irving     1
+Dan        1
+Curtis     1
+
+Примеры фильмов:
+                                                             title    rating                        genres             tag
+26344             The Land Before Time VIII: The Big Freeze (2001)  3.187500  Adventure|Animation|Children             NaN
+26345                              Who's Minding the Store? (1963)  4.000000                        Comedy             NaN
+26346                            The Six Million Dollar Man (1973)  2.500000              Adventure|Sci-Fi  Richard Irving
+26347                                       The Love Letter (1998)  2.500000               Fantasy|Romance      Dan Curtis
+26348  The Land Before Time X: The Great Longneck Migration (2003)  3.166667  Adventure|Animation|Children             NaN

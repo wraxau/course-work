@@ -1,0 +1,29 @@
+Анализ подкластера 191 в кластере 0
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 2.90
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Drama       4
+Horror      2
+Thriller    2
+Comedy      2
+Action      1
+
+Топ-5 тегов:
+tag
+Police    1
+Marino    1
+age       1
+Paul      1
+Rudd      1
+
+Примеры фильмов:
+                                             title    rating                         genres                                                                                                                   tag
+11850                            Maniac Cop (1988)  3.076271   Action|Crime|Horror|Thriller               Police Slasher Stunts Betamax Prison murder less 300 ratings Psycho Revenge Bruce Campbell Robert Z'Dar
+11852                         Thr3e (Three) (2006)  2.673077  Drama|Horror|Mystery|Thriller                                                                                                                   NaN
+11853  Rocket, The (a.k.a. Maurice Richard) (2005)  3.666667                          Drama                                                                                               drama ice hockey sports
+11854                               Diggers (2006)  2.976190                   Comedy|Drama                                                                                   70s Ken Marino coming age Paul Rudd
+11855                               Ex, The (2007)  2.718391                 Comedy|Romance  Amy Adams Zach Braff disabled villain Romany Malco uncomfortable advertising hysterical 'Saving Silverman Part Deux'

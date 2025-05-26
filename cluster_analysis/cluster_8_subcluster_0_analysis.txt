@@ -1,0 +1,29 @@
+Анализ подкластера 0 в кластере 8
+Размер подкластера: 144 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama        82
+Comedy       43
+Romance      29
+Thriller     22
+Adventure    20
+
+Топ-5 тегов:
+tag
+book       18
+based      18
+story      18
+300        17
+ratings    17
+
+Примеры фильмов:
+                                 title    rating                           genres                                                                                                                                    tag
+10643          Ziegfeld Follies (1945)  3.166667                   Comedy|Musical                                                                                                                                    NaN
+10658             Kiss of Death (1947)  3.410891            Crime|Drama|Film-Noir                                            stool pigeon prison law crime less 300 ratings FEWER 300 ratings Henry Hathaway revenge tcm
+10676     8 Million Ways to Die (1986)  3.050000  Action|Adventure|Crime|Thriller  addiction police screenwriter:Oliver Stone alcoholism adapted from:book author:Lawrence Block based book screenwriter:David Lee Henry
+10709                    Abouna (2002)  3.500000                            Drama                                                                                                                   Mahamat-Saleh Haroun
+10732  Christmas in Connecticut (1945)  3.311111                   Comedy|Romance                                                              Christmas Peter Godfrey Xmas theme? Barbara Stanwyck Sakall Dennis Morgan

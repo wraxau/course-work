@@ -1,0 +1,27 @@
+Анализ подкластера 157 в кластере 6
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 2.92
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Documentary    2
+Drama          2
+Crime          1
+
+Топ-5 тегов:
+tag
+trains        1
+Florida       1
+paraplegic    1
+pregnancy     1
+drugs         1
+
+Примеры фильмов:
+                                     title    rating       genres                           tag
+23635            Train on the Brain (2000)  2.750000  Documentary                        trains
+23636                  Sunlight Jr. (2013)  3.833333        Drama  Florida paraplegic pregnancy
+23637                 Narco Cultura (2013)  2.916667  Documentary  drugs business Shaul Schwarz
+23638  Once Upon a Time in Shanghai (2014)  3.458333        Crime                 Ching-Po Wong
+23639       Jimi: All Is by My Side (2013)  2.730769        Drama                           NaN

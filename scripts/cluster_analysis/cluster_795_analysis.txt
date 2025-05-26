@@ -1,0 +1,15 @@
+Анализ кластера 795
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+Alaska    1
+
+Примеры фильмов:
+             title              genres     tag
+795  Alaska (1996)  Adventure|Children  Alaska

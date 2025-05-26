@@ -1,0 +1,27 @@
+Анализ кластера 19
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Comedy      1
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+worthwhile    1
+lopez         1
+Joseph        1
+Ruben         1
+intense       1
+Nudity        1
+(Topless      1
+Brief)        1
+lame          1
+money         1
+
+Примеры фильмов:
+                 title                              genres                                                                                        tag
+19  Money Train (1995)  Action|Comedy|Crime|Drama|Thriller  worthwhile lopez Joseph Ruben intense Nudity (Topless Brief) lame money afternoon section

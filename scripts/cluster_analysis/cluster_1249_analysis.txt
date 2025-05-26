@@ -1,0 +1,25 @@
+Анализ кластера 1249
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Depardieu    3
+French       1
+century      1
+tierna       1
+adapted      1
+from:book    1
+Gérard       1
+Theater      1
+Drama        1
+18th         1
+
+Примеры фильмов:
+                          title                genres                                                                                                                                                                                                                                                                                                                                    tag
+1249  Cyrano de Bergerac (1990)  Comedy|Drama|Romance  French etaegeshelf Gerard Depardieu clever men being taught how woo boring remake historical Tumey's DVDs swashbuckler romance witty GÃ©rard Depardieu cyrano Period piece tierna adapted from:book Gérard Depardieu Theater Drama 18th century stage Anthony Burgess mentor/trainer related:Cyrano Netflix queue Jean-Paul Rappeneau

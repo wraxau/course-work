@@ -1,0 +1,26 @@
+Анализ кластера 897
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Musical    1
+Romance    1
+
+Топ-10 тегов:
+tag
+Oscar        5
+(Best        5
+romance      2
+George       2
+AFI          2
+classic      2
+Musical      2
+seen         2
+Memorable    1
+legendary    1
+
+Примеры фильмов:
+                   title                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+897  My Fair Lady (1964)  Comedy|Drama|Musical|Romance  Memorable Characters erlend's DVDs musical George Bernard Shaw Rex Harrison BEST PICTURE seen the cinema Betamax Musical Annemari AFI #91 George Cukor *Good* Musicals Children script clever Audrey Hepburn delights Oscar (Best Directing) seen more once old classic Stanley Holloway PAL ambiguous ending Oscar (Best Director) acting romance funny holes60s based play classic 70mm witty Super Panavision BD-Video legendary music story audrey hepburn Oscar (Best Picture) Broadway Seen 2013 costume drama unconvincing romance source:Pygmalion myth dialogue AFI 100 Oscar (Best Actor) family adapted from B'way Grand Musical movie Oscar (Best Cinematography) over-the-top

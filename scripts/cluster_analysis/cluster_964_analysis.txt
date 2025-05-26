@@ -1,0 +1,18 @@
+Анализ кластера 964
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Joshua       1
+Logan        1
+melodrama    1
+perrot       1
+library      1
+
+Примеры фильмов:
+             title genres                                    tag
+964  Picnic (1955)  Drama  Joshua Logan melodrama perrot library

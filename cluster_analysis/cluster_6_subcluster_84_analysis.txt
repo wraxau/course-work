@@ -1,0 +1,29 @@
+Анализ подкластера 84 в кластере 6
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.27
+Медиана рейтинга: 3.36
+Дисперсия рейтинга: 0.20
+
+Топ-5 жанров:
+genres
+Drama       8
+Comedy      6
+Thriller    6
+Romance     3
+Mystery     3
+
+Топ-5 тегов:
+tag
+ending      11
+book         6
+the          4
+thriller     4
+twist        4
+
+Примеры фильмов:
+                               title    rating          genres                                                                                                tag
+14830          Together Again (1944)  3.166667          Comedy                                                                                                NaN
+14831  If You Could Only Cook (1935)  3.400000  Comedy|Romance                                                                          might like William Seiter
+14837  Extraordinary Measures (2010)  3.130841           Drama  Keri Russell Harrison Ford Brendan Fraser science family drama overcoming obstacles Wixom Library
+14842    Crime and Punishment (1935)  3.181818           Drama                                                         Dostoyevsky based book Josef von Sternberg
+14855                 Rampage (1987)  2.611111        Thriller                                                                                                NaN

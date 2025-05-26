@@ -1,0 +1,29 @@
+Анализ подкластера 37 в кластере 7
+Размер подкластера: 426 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.82
+
+Топ-5 жанров:
+genres
+Drama                 147
+Comedy                119
+Thriller               62
+(no genres listed)     57
+Action                 49
+
+Топ-5 тегов:
+tag
+comedy         7
+drama          7
+documentary    6
+good           6
+action         5
+
+Примеры фильмов:
+                               title  rating              genres                        tag
+26671      Women Aren't Funny (2014)     2.8  (no genres listed)  wishful comedienne gender
+26672        The Last Outpost (1951)     4.0             Western                        NaN
+26681  The Admirable Crichton (1957)     4.5              Comedy                        NaN
+26693              Lone Rider (2008)     3.0      Action|Western                        NaN
+26711                The Risk (1960)     2.5      Drama|Thriller                        NaN

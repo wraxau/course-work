@@ -1,0 +1,24 @@
+Анализ кластера 1885
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+school       4
+detention    2
+day          2
+John         2
+cult         2
+teen         2
+drama        2
+erlend's     1
+acting       1
+bad          1
+
+Примеры фильмов:
+                           title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1885  Breakfast Club, The (1985)  Comedy|Drama  erlend's DVDs dated Chicago Paul Gleason Brat Pack Betamax sentimental Bruce Willis lame Anthony Michael Hall teenager generation gap overdramatic coming age clumsy broken rhythm cliques teacher watch-again seen more once Judd Nelson teen school drama 1980's cult John Kapelos unlikely friendships Ally Sheedy school that will all Thought provoking pÃ¸lla Can't remember Emilio Estevez Stoner Movie one day drama Comedy detention foqam teen movie bad acting social commentary mostly about single day bratpack 80s ensemble cast cult film saturday school detention Molly Ringwald great music cliche Drama relationships adolescence coming-of-age John Hughes high school iconic 1980s confusion

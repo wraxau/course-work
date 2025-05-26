@@ -1,0 +1,29 @@
+Анализ подкластера 147 в кластере 5
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.33
+Медиана рейтинга: 3.54
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Drama          8
+Crime          3
+Thriller       3
+Documentary    2
+Action         2
+
+Топ-5 тегов:
+tag
+seen      4
+animal    3
+Disney    3
+book      3
+the       3
+
+Примеры фильмов:
+                      title    rating                       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+14551    Objectified (2009)  3.679688                  Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Jonathan Ive Gary Hustwit industrial design design jonathan ive consumerism Fluffy
+14552     Earthlings (2006)  3.709184                  Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                            documentary vegan intensive animal farming Shaun Monson enlightening animal cruelty sad animals Joaquin Phoenix shocking thought-provoking animal rights food hard watch biased
+14553        Trucker (2008)  3.361111                        Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Nathan Fillion instant view
+14554  Single Man, A (2009)  3.840445                        Drama  prejudice Colin Firth seen the cinema experience queer poignant Tom Ford memasa's movies twist ending based book seen 2010 education professor perrot library teacher Nicholas Hoult Gripping life death Cuban missile crisis Own toplist09 author:Christopher Isherwood the outsider order mourning meditative color cinematography death sad Julianne Moore dvr setting:LA adapted from:book moments live for hope 1960s oppression Matthew Goode Netflix streaming reflective friendship grief beautiful cinematography loss Philosophical good cinematography Ginnifer Goodwin styling suicide Gay Lead Character gay
+14555    Kill Switch (2008)  1.687500  Action|Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN

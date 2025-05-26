@@ -1,0 +1,29 @@
+Анализ подкластера 404 в кластере 4
+Размер подкластера: 31 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.48
+Дисперсия рейтинга: 0.92
+
+Топ-5 жанров:
+genres
+Drama       15
+Comedy      10
+Romance      8
+Horror       6
+Thriller     4
+
+Топ-5 тегов:
+tag
+love        2
+disabled    1
+judaism     1
+travel      1
+israel      1
+
+Примеры фильмов:
+                             title  rating                 genres                                  tag
+31798  City Beneath the Sea (1971)   1.000          Action|Sci-Fi                                  NaN
+31799      Kebab Connection (2004)   3.625  Action|Comedy|Romance                                  NaN
+31821                Carmen (1915)   3.250                  Drama                                  NaN
+31822          Hannas Reise (2014)   3.500         Comedy|Romance  disabled judaism travel israel love
+31823           Bon appétit (2010)   4.000                Romance                            love food

@@ -1,0 +1,29 @@
+Анализ подкластера 92 в кластере 8
+Размер подкластера: 31 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama          18
+Comedy         11
+Action          5
+Documentary     4
+Horror          3
+
+Топ-5 тегов:
+tag
+silent     7
+the        4
+not        3
+mystery    3
+movie      3
+
+Примеры фильмов:
+                          title    rating                   genres                                                                                                                                                                                                            tag
+17932     Punk in London (1977)  3.250000      Documentary|Musical                                                                                                                                                                                                            NaN
+17933  Star Witness, The (1931)  3.250000                    Drama                                                                                                                                                                                                            NaN
+17934         Strip, The (1951)       NaN          Drama|Film-Noir                                                                                                                                                                                                            NaN
+17935           Bad Girl (1931)  3.000000                    Drama                                                                                                                                                                                                            NaN
+17936          Kill List (2011)  3.307971  Horror|Mystery|Thriller  cult satanism dysfunctional family mystery wannabe mystery hitman horror Michael Smiley excessive violence sanity Neil Maskell MyAnna Buring murder weak dialogue disturbing incoherent murderer explanations

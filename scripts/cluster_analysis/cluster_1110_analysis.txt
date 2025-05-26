@@ -1,0 +1,20 @@
+Анализ кластера 1110
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Aaron          1
+Speiser        1
+book           1
+editor         1
+independent    1
+film           1
+
+Примеры фильмов:
+                         title        genres                                         tag
+1110  Talking About Sex (1994)  Comedy|Drama  Aaron Speiser book editor independent film

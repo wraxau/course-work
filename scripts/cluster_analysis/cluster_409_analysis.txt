@@ -1,0 +1,23 @@
+Анализ кластера 409
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy     2
+stupid     2
+rock       2
+silly      2
+and        2
+sandler    2
+snl        1
+fraser     1
+film       1
+cult       1
+
+Примеры фильмов:
+               title  genres                                                                                                                                                                                                                                                                                                                tag
+409  Airheads (1994)  Comedy  comedy sandler waste time ridiculous training sequence Michael Lehmann Brendan Fraser Rockin Adam Sandler Funniest Movies hostage silly but good dont know solid comedy Rock movies rock and roll silly and stupid awful Comedy adam sandler music cult film fraser snl alums crap rock Buscemi dan akroyd stupid

@@ -1,0 +1,23 @@
+Анализ кластера 2514
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Nudity      2
+(Topless    2
+aviation    1
+once        1
+watching    1
+Worth       1
+control     1
+traffic     1
+air         1
+golfing     1
+
+Примеры фильмов:
+                   title  genres                                                                                                                                                                                                                 tag
+2514  Pushing Tin (1999)  Comedy  aviation John Cusack Didn't finish Billy Bob Thornton Cate Blanchett Nudity (Topless Notable) seen more once infidelity, Nudity (Topless Brief) cast Angelina Jolie golfing air traffic control Worth watching meh

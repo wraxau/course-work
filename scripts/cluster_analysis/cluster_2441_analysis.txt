@@ -1,0 +1,23 @@
+Анализ кластера 2441
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+alligator    1
+animal       1
+attack       1
+Betamax      1
+creature     1
+feature      1
+jaws         1
+rip-off      1
+
+Примеры фильмов:
+                 title                genres                                                            tag
+2441  Alligator (1980)  Action|Horror|Sci-Fi  alligator animal attack Betamax creature feature jaws rip-off

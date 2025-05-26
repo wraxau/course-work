@@ -1,0 +1,25 @@
+Анализ кластера 773
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Arnold       2
+action       2
+attacks      1
+Nominee      1
+funny        1
+gay          1
+night        1
+club         1
+sci-fi       1
+parachute    1
+
+Примеры фильмов:
+             title                 genres                                                                                                                                                                                                                                                                                                              tag
+773  Eraser (1996)  Action|Drama|Thriller  Chuck Russell Vanessa Williams maybe alligators watch Witness Protection Divx1 Arnold Schwarzenegger action great story Arnold treason backdoor realistic action conspiracy animal attacks Oscar Nominee funny gay night club sci-fi parachute Mafia James Caan defense contractors arms dealer suicide railgun

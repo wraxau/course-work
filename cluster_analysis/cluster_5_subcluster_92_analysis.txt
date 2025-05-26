@@ -1,0 +1,29 @@
+Анализ подкластера 92 в кластере 5
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.30
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Documentary    3
+Drama          2
+Musical        1
+Romance        1
+Comedy         1
+
+Топ-5 тегов:
+tag
+documentary    1
+music          1
+might          1
+like           1
+Mitchell       1
+
+Примеры фильмов:
+                                title    rating               genres                         tag
+15539  Kurt Cobain About a Son (2006)  3.385714  Documentary|Musical           documentary music
+15540          Horror Business (2005)  3.000000          Documentary                         NaN
+15541       Hold Back the Dawn (1941)  3.850000        Drama|Romance  might like Mitchell Leisen
+15542              Gazebo, The (1959)  3.250000         Comedy|Crime             George Marshall
+15543   Inside the Twin Towers (2006)  3.500000                Drama                         NaN

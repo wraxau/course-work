@@ -1,0 +1,24 @@
+Анализ кластера 2497
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Raja         1
+silly        1
+teen         1
+movie        1
+Jeremy       1
+Jordan       1
+Drew         1
+Barrymore    1
+Romance      1
+Gosnell      1
+
+Примеры фильмов:
+                         title          genres                                                                                                                                                                                                                                          tag
+2497  Never Been Kissed (1999)  Comedy|Romance  Raja Gosnell Molly Shannon John Reilly Garry Marshall Michael Vartan Good Romantic Comedies yucky undercover Leelee Sobieski funny romance teen movie Jeremy Jordan Drew Barrymore silly Romance fun chick flick high school David Arquette

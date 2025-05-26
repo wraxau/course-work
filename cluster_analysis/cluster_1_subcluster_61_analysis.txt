@@ -1,0 +1,29 @@
+Анализ подкластера 61 в кластере 1
+Размер подкластера: 89 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Drama       45
+Comedy      25
+Romance     13
+Thriller    11
+Action      10
+
+Топ-5 тегов:
+tag
+French    8
+nudity    8
+short     6
+France    4
+Film      4
+
+Примеры фильмов:
+                                                            title    rating           genres                                                         tag
+22940  Three Brothers 2, The (Les trois frères, le retour) (2014)  2.250000           Comedy                                   French Film France French
+22941                Venus in Fur (La Vénus à la fourrure) (2013)  3.707143            Drama  psychological surreal sexuality story story Roman Polanski
+22944       Don't Go Breaking My Heart (Daan gyun naam yu) (2011)  0.500000          Romance                                                         NaN
+22945                                       S.O.S. Eisberg (1933)  3.500000  Adventure|Drama                                                         NaN
+22946                                          Adult World (2013)  3.333333           Comedy                                    writers coming age poets

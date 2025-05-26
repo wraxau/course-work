@@ -1,0 +1,29 @@
+Анализ подкластера 260 в кластере 3
+Размер подкластера: 63 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama       29
+Comedy      27
+Romance     16
+Thriller    15
+Action      10
+
+Топ-5 тегов:
+tag
+Nudity    16
+comedy    13
+movie      9
+seen       9
+nudity     8
+
+Примеры фильмов:
+                                                                                              title    rating                            genres                                                                                                                                                                                                                                                                                                             tag
+1377                                                                       Evening Star, The (1996)  3.025098                      Comedy|Drama                                                                                                                                                                                                                                                                                                             NaN
+1385                                                                               Walkabout (1971)  3.876973                   Adventure|Drama  quest nudity (full frontal) visceral coming age Australia SURVIVAL THE WILDERNESS Tumey's DVDs KIDS TROUBLE 70s native tribe Jenny Agutter intimate Nicolas Roeg clash cultures FISH OUT WATER affectionate lyrical Nudity (Full Frontal Notable) reflective enigmatic environment passionate Criterion desert
+1388                                                                          Murder at 1600 (1997)  3.081645      Crime|Drama|Mystery|Thriller                                                                                                                                                                                                                 Dwight Little conspiracy theory Nudity (Topless Brief) fun murder mystery conspiracy Bibliothek
+1393                                                                              Turbulence (1997)  2.600249                   Action|Thriller                                                                                                                                                                                                                                                    aviation serial killer Robert Butler Can't remember airplane
+1395  First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo) (1996)  3.296571  Action|Adventure|Comedy|Thriller                                                                                                                                                                                 you've seen them all. Martial Arts Stanley Tong Lots fighting Jackie Chan Hong Kong When you've seen one Jackie Chan movie kung

@@ -1,0 +1,15 @@
+Анализ кластера 1978
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+library    1
+vhs        1
+
+Примеры фильмов:
+                        title       genres          tag
+1978  Full Tilt Boogie (1997)  Documentary  library vhs

@@ -1,0 +1,24 @@
+Анализ кластера 1830
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Mystery    1
+
+Топ-10 тегов:
+tag
+eerie           2
+dreamlike       2
+atmospheric     1
+movie           1
+school          1
+dull            1
+adapted         1
+from:book       1
+Breathtaking    1
+Enigmatic       1
+
+Примеры фильмов:
+                              title         genres                                                                                                                                                                                                                                                                                                                                                                                                            tag
+1830  Picnic at Hanging Rock (1975)  Drama|Mystery  atmospheric dream-like Peter Weir based book Australia mystery boring perrot library women understated historical author:Joan Lindsay vhs literary adaptation eerie ominous lesbianism austere opaque Aborigines boarding school dull adapted from:book Breathtaking Enigmatic enigmatic the movie was very eerie and dreamlike deliberate Criterion headmistress period piece Netflix queue 1900's dreamlike

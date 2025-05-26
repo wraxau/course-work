@@ -1,0 +1,29 @@
+Анализ подкластера 679 в кластере 4
+Размер подкластера: 44 фильмов
+Средний рейтинг: 3.40
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 0.45
+
+Топ-5 жанров:
+genres
+Drama                 15
+Comedy                12
+Thriller               6
+(no genres listed)     5
+Action                 5
+
+Топ-5 тегов:
+tag
+stevejobs    1
+Africa       1
+prospect     1
+Monsters     1
+portugal     1
+
+Примеры фильмов:
+                                 title  rating              genres  tag
+31451                   Dégradé (2015)    4.50  (no genres listed)  NaN
+31505  The Princess of Nebraska (2008)    3.50               Drama  NaN
+31517       Napoletani a Milano (1953)    3.25  (no genres listed)  NaN
+31568            Forbidden Area (1956)    3.00               Drama  NaN
+31576    The Kung Fu Instructor (1979)    3.00              Action  NaN

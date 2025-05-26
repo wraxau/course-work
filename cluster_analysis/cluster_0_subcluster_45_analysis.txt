@@ -1,0 +1,29 @@
+Анализ подкластера 45 в кластере 0
+Размер подкластера: 30 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.37
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama       19
+Comedy      11
+Thriller     7
+Crime        6
+Action       6
+
+Топ-5 тегов:
+tag
+ending       7
+Tarantino    5
+bad          5
+Nudity       5
+and          4
+
+Примеры фильмов:
+                                                                                         title    rating                 genres                                                                                                                 tag
+11766                                                                 Five Pennies, The (1959)  3.583333                  Drama                                                               Melville Shavelson should like Danny Kaye VistaVision
+11767                                                       Philanthropy (Filantropica) (2002)  3.900000                 Comedy  street life Mircea Diaconu mafia view society Romania romanian poverty black comedy Nae Caranfil mercy dark comedy
+11768                                                              Ladies in Retirement (1941)  3.500000                  Drama                                                                                                       Charles Vidor
+11769  Not for or Against (Quite the Contrary) (Ni pour, ni contre (bien au contraire)) (2002)  2.800000            Crime|Drama                                                                                                                 NaN
+11770                                                          Eklavya: The Royal Guard (2007)  2.500000  Action|Drama|Thriller                                                                                                                 NaN

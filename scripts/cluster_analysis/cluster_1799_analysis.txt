@@ -1,0 +1,25 @@
+Анализ кластера 1799
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Godzilla         2
+Roland           1
+monster:giant    1
+lizard           1
+Jean             1
+Reno             1
+sci-fi           1
+monster          1
+New              1
+York             1
+
+Примеры фильмов:
+                title                  genres                                                                                                                                                                                                                                                                 tag
+1799  Godzilla (1998)  Action|Sci-Fi|Thriller  New York City Super-35 Blow-Up action thriller boring Nostalgia Critic 70mm Matthew Broderick awful bad acting Hank Azaria Godzilla monster:giant lizard Jean Reno sci-fi monster Roland Emmerich torrential downpour adventure Godzilla Universe seen pg-13 Zilla

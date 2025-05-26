@@ -1,0 +1,29 @@
+Анализ подкластера 548 в кластере 4
+Размер подкластера: 28 фильмов
+Средний рейтинг: 2.74
+Медиана рейтинга: 2.85
+Дисперсия рейтинга: 1.53
+
+Топ-5 жанров:
+genres
+(no genres listed)    10
+Drama                  8
+Comedy                 7
+Romance                6
+Action                 2
+
+Топ-5 тегов:
+tag
+sherlock       1
+holmes         1
+russian        1
+countryside    1
+Camorra        1
+
+Примеры фильмов:
+                                            title    rating                genres  tag
+32689              Young Policemen in Love (1995)  3.000000    (no genres listed)  NaN
+32703  Jack Frusciante è uscito dal gruppo (1996)  0.500000    (no genres listed)  NaN
+32708           The House That Swift Built (1982)  2.833333  Comedy|Drama|Fantasy  NaN
+32714                           Antikiller (2002)  2.875000          Action|Crime  NaN
+32716                   Cabbages and Kings (1978)  4.250000                Comedy  NaN

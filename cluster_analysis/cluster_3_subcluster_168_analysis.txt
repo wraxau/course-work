@@ -1,0 +1,29 @@
+Анализ подкластера 168 в кластере 3
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.68
+
+Топ-5 жанров:
+genres
+Drama          12
+Documentary     6
+Thriller        5
+Action          5
+Crime           4
+
+Топ-5 тегов:
+tag
+bad         3
+acting      3
+death       2
+climbing    2
+rock        2
+
+Примеры фильмов:
+                                title    rating          genres                                                 tag
+22393     Ways to Live Forever (2010)  3.166667  Children|Drama  bad acting death cancer Robbie Kay bad acting kids
+22394                La Rabbia (1963)  4.000000     Documentary              Pier Paolo Pasolini Giovanni Guareschi
+22395        Visions of Europe (2004)  3.375000    Comedy|Drama                                                 NaN
+22396  Ghetto (Vilniaus Getas) (2006)  3.500000             War                                                 NaN
+22397     Battle of amfAR, The (2013)  3.500000     Documentary                                        AIDS disease

@@ -1,0 +1,29 @@
+Анализ подкластера 429 в кластере 2
+Размер подкластера: 76 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama       33
+Comedy      20
+Thriller    12
+Romance     10
+Action      10
+
+Топ-5 тегов:
+tag
+good         5
+based        4
+dialogue     4
+Christmas    4
+music        3
+
+Примеры фильмов:
+                                                        title    rating               genres                                                                                                                                                                                                                      tag
+18268                           Three Days (Tres días) (2008)  3.083333  Crime|Drama|Fantasy                                                                                                                                                                drama apocalypse natural disas thought-provoking violence
+18271  Wedding Director, The (Il regista di matrimoni) (2006)  3.250000        Drama|Mystery                                                                                                                                                                                                                      NaN
+18284                    My Flesh My Blood (Moja krew) (2009)  3.000000                Drama                                                                                                                                                                                                                      NaN
+18297                    Miracle at Oxford (True Blue) (1996)  3.750000                Drama                                                                                                                                                                                                                      NaN
+18309              Extremely Loud and Incredibly Close (2011)  3.441011                Drama  cliche asperger's images BSAr Sandra Bullock mother-son relationship book adaptation sentimental Max von Sydow coping with loss Tom Hanks 9/11 Stephen Daldry Oscar 2012 Oscar nom: father-son relationship loss parent

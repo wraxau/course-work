@@ -1,0 +1,29 @@
+Анализ подкластера 157 в кластере 3
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.79
+
+Топ-5 жанров:
+genres
+Comedy         3
+Documentary    1
+IMAX           1
+Action         1
+Crime          1
+
+Топ-5 тегов:
+tag
+IMAX      2
+polar     2
+comedy    2
+Rock      1
+The       1
+
+Примеры фильмов:
+                                 title    rating               genres                                                                                                                                                                                                         tag
+20943             To the Arctic (2012)  3.625000     Documentary|IMAX                                                                                                                                             IMAX 3-D Arctic nature Meryl Streep bears polar polar bear IMAX
+20944               Pain & Gain (2013)  3.119458  Action|Comedy|Crime  comedy ugly Michael Bay misanthropic unfunny seems unreal mean-spirited Miami kidnapping murder based true story Mark Wahlberg tragic events comedy entertaining extortion Dwayne Johnson Florida The Rock
+20945              Holding, The (2011)  2.000000      Horror|Thriller                                                                                                                                                                                                         NaN
+20946             Breaking Wind (2011)  2.125000               Comedy                                                                                                                                                                                                         NaN
+20947  Taming of the Shrew, The (1980)  4.000000               Comedy                                                                                                                                                                                             Jonathan Miller

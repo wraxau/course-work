@@ -1,0 +1,19 @@
+Анализ кластера 946
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Musical    1
+
+Топ-10 тегов:
+tag
+might     1
+like      1
+Henry     1
+Koster    1
+Danny     1
+Kaye      1
+
+Примеры фильмов:
+                             title   genres                                 tag
+946  Inspector General, The (1949)  Musical  might like Henry Koster Danny Kaye

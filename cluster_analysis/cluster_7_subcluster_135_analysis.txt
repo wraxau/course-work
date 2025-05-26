@@ -1,0 +1,28 @@
+Анализ подкластера 135 в кластере 7
+Размер подкластера: 21 фильмов
+Средний рейтинг: 2.82
+Медиана рейтинга: 2.97
+Дисперсия рейтинга: 1.28
+
+Топ-5 жанров:
+genres
+Drama                 8
+Thriller              3
+Romance               3
+(no genres listed)    3
+Horror                3
+
+Топ-5 тегов:
+tag
+kidnapping      1
+father          1
+son             1
+relationship    1
+
+Примеры фильмов:
+                                     title  rating          genres                                 tag
+31935                     I Am Here (2014)    2.00  Drama|Thriller                                 NaN
+31936  The Legend of Paul and Paula (1973)    5.00   Drama|Romance                                 NaN
+31937             Desolation Canyon (2006)    1.00         Western  kidnapping father son relationship
+31938                          Nana (1934)    2.50           Drama                                 NaN
+31939      Cemetery Without Crosses (1969)    4.25         Western                                 NaN

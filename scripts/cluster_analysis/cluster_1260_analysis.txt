@@ -1,0 +1,23 @@
+Анализ кластера 1260
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+classic      4
+cult         3
+rock         3
+metal        2
+and          2
+Guest        2
+music        2
+Streaming    1
+100          1
+AFI          1
+
+Примеры фильмов:
+                          title  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1260  This Is Spinal Tap (1984)  Comedy  harry shearer documentary erlend's DVDs comedy hilarious Christoper Guest cultural classic absurd music business Betamax National Film Registry not bad Bechdel Test:Fail farce see: cult classic boring mockumentary Legenda PT-BR quirky seen more once directorial debut rock and roll Rob Reiner wired greatest soundtracks pods goofy Billy Crystal music:metal satirical classic metal satire heavy metal witty Netflix Streaming parody deadpan cast easygoing music AFI 100 (Laughs) movie see hair rise and fall Christopher Guest cult dysku cult classic Harry Shearer alone irreverent rockumentary Criterion musicians btaege rock quotable hard rock under played

@@ -1,0 +1,29 @@
+Анализ подкластера 1 в кластере 4
+Размер подкластера: 236 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.10
+
+Топ-5 жанров:
+genres
+Drama                 79
+Comedy                61
+(no genres listed)    39
+Thriller              36
+Romance               32
+
+Топ-5 тегов:
+tag
+music          5
+drama          4
+documentary    3
+tamil          3
+bad            3
+
+Примеры фильмов:
+                                  title   rating              genres  tag
+30414  Sistemo l'America e torno (1974)  3.50000  (no genres listed)  NaN
+30450          All Eyes And Ears (2015)  2.50000  (no genres listed)  NaN
+30459                   13 Hours (2016)  2.97619               Drama  War
+30481           Come Dio comanda (2008)  4.00000  (no genres listed)  NaN
+30484   Unlikely Revolutionaries (2010)  2.50000  (no genres listed)  NaN

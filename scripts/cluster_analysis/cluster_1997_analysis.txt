@@ -1,0 +1,26 @@
+Анализ кластера 1997
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Comedy       1
+Romance      1
+
+Топ-10 тегов:
+tag
+comedy         2
+cartoon        2
+romantic       2
+stereotypes    2
+family         2
+Classic        2
+animals        2
+Disney         2
+feature        1
+children       1
+
+Примеры фильмов:
+                          title                             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+1997  Lady and the Tramp (1955)  Animation|Children|Comedy|Romance  comedy erlend's DVDs musical wonderful romantic racial stereotypes Children family fun Classic drifting Animated Classic cats disney kids romantic comedy cartoon Disney reviewed puppies animals Lady and the Tramp romance Can't remember stereotypes classic drama Disney animated feature children childhood classics misunderstandings BD-Video spaghetti dogs sappy love story Animation talking animals rats Clyde Geronimi animation cartoon (s)vcd Cartoon family Katottava

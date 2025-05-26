@@ -1,0 +1,29 @@
+Анализ подкластера 141 в кластере 0
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.20
+
+Топ-5 жанров:
+genres
+Drama        3
+Comedy       3
+Thriller     2
+Adventure    2
+Romance      2
+
+Топ-5 тегов:
+tag
+ending         6
+unrealistic    5
+action         4
+comedy         4
+family         3
+
+Примеры фильмов:
+                                                  title    rating                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+11976                                       1408 (2007)  3.308372            Drama|Horror|Thriller  MOLT_CRITICADA John Cusack atmospheric horror hotel paranormal theatrical version better fantasy world wasted potential manager Mikael HÃ¥fstrÃ¶m disappointing memasa's movies based book netflix boring predictable ending Stephen King alternate ending drowning weak disappointing ending claustrophobic confusing lame ending setting:hotel Samuel Jackson Mikael Håfström movie see unexplained loose ends numbers psychological scary Hotel author:Stephen King Alternate ending fathers lov freezing supernatural
+11977                         Death at a Funeral (2007)  3.707011                           Comedy             overrated comedy wheelchair List funeral swearing deceased family member less 300 ratings British remade sentimental Peter Dinklage caper farce immature seen 2010 bab cinema netflix 100% predictable coffin Alan Tudyk poo jokes Matthew MacFadyen brittish brother-brother relationship unrealistic ClearPlay Frank FAMILY GATHERINGS british comedy male nudity accident Nudity (Rear) family gatherings british family drugs vertically challenged people England idiots stupid Gay Character dark comedy
+11978  Clubland (a.k.a. Introducing the Dwights) (2007)  2.700000                     Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           nudity (topless)
+11979                         High Road to China (1983)  3.021739      Adventure|Drama|Romance|War                                                                                                                                                                                                                                                                                                                                                                                                                                   brian blessed Tom Selleck Betamax add prospects list lewis guns Wilford Brimley biplanes
+11980                      Live Free or Die Hard (2007)  3.556207  Action|Adventure|Crime|Thriller                                 MOLT_CRITICADA comedy original terrorism United States unrealistic but well done fail Timothy Olyphant Bruce Willis Maggie weak plot computers good sequel action hackers bruce willis jonossa boring PG-13 jungla cristal 4.0 unrealistic action die hard 4.0 stunts good see: action Justin Long suspense not good the first 6.2-FilmAffinity unrealistic murder movie see Len Wiseman watched 2007 Unreal kungfu hackers explosions damn hamster parkour action packed unrealistic plot

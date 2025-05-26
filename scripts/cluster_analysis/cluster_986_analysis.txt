@@ -1,0 +1,24 @@
+Анализ кластера 986
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+
+Топ-10 тегов:
+tag
+hockey       2
+sport:ice    1
+Robert       1
+Lieberman    1
+Heidi        1
+Kling        1
+Jeffrey      1
+Nordling     1
+sports       1
+Underdog     1
+
+Примеры фильмов:
+                           title           genres                                                                                                                              tag
+986  D3: The Mighty Ducks (1996)  Children|Comedy  sport:ice hockey Robert Lieberman Heidi Kling Jeffrey Nordling sports Underdog hockey Emilio Estevez Joshua Jackson David Selby

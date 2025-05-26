@@ -1,0 +1,29 @@
+Анализ подкластера 111 в кластере 7
+Размер подкластера: 144 фильмов
+Средний рейтинг: 2.69
+Медиана рейтинга: 2.83
+Дисперсия рейтинга: 1.30
+
+Топ-5 жанров:
+genres
+(no genres listed)    53
+Drama                 43
+Comedy                33
+Romance               28
+Action                16
+
+Топ-5 тегов:
+tag
+sherlock    1
+zassania    1
+Camorra     1
+loser       1
+youtube     1
+
+Примеры фильмов:
+                                   title    rating                genres  tag
+32708  The House That Swift Built (1982)  2.833333  Comedy|Drama|Fantasy  NaN
+32709             Formula of Love (1984)  4.090909                Comedy  NaN
+32710                  Homebodies (1974)  3.500000         Comedy|Horror  NaN
+32711            Poor, Poor Pavel (2003)  1.500000                 Drama  NaN
+32712               The Last Inch (1958)  3.500000       Adventure|Drama  NaN

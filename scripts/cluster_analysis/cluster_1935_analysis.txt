@@ -1,0 +1,25 @@
+Анализ кластера 1935
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Drama        1
+
+Топ-10 тегов:
+tag
+animals         3
+the             3
+sad             2
+animated        2
+Disney          2
+cartoon         2
+Woods           2
+rec             1
+author:Felix    1
+Youth           1
+
+Примеры фильмов:
+             title                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1935  Bambi (1942)  Animation|Children|Drama  overrated erlend's DVDs Touching mom dies right off the bat! cute Dealing With Death orphans Betamax Musical evil hunter simple deer innocent Friends Animals die Divx1 slow Family based book coming age tears too sad Animated Classic disney reviewed Disney animals Youth Tumey's VHS Can't remember Melodrama classic Adventure Disney animated feature Danger BD-Video sad sad. again with the dying animated animals Emotional the Woods adapted from:book growing Brad Pitt talking animals animation cartoon Drama facebook rec author:Felix Salten Woods orphaned cartoon character David Hand

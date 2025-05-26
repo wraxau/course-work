@@ -1,0 +1,24 @@
+Анализ кластера 1724
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+IMAX           1
+
+Топ-10 тегов:
+tag
+David         1
+Breashears    1
+mountain      1
+climbing      1
+Imax          1
+seen          1
+more          1
+once          1
+mountains     1
+Netflix       1
+
+Примеры фильмов:
+               title            genres                                                                                  tag
+1724  Everest (1998)  Documentary|IMAX  David Breashears mountain climbing Imax seen more once mountains Netflix queue IMAX

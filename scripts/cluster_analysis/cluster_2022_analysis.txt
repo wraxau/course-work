@@ -1,0 +1,25 @@
+Анализ кластера 2022
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+computer     4
+the          4
+video        2
+animation    2
+game         2
+plot         2
+games        2
+Disney       2
+reality      2
+classic      2
+
+Примеры фильмов:
+            title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+2022  Tron (1982)  Action|Adventure|Sci-Fi  computer setting:in computer video games innovative cultural classic Betamax games computers action hackers true story thriller Futuristmovies.com computer animation seen more once Disney bad it's good alone the world jeff bridges cyberpunk Ridiculous science fiction metaphorical classic 70mm CGI ugly original plot technology video game anti-atheist David Warner Disney animated feature Super Panavision Bruce Boxleitner comic movies Business the antagonist classical sci-fi computer game Ken Perlin dystopia dvd animation plot holes stylish old look the future sense ontoleptic Sven's see list alternate reality gladiators amazing for the time adventure poor dialogues btaege required high school 1997 virtual reality Jeff Bridges sci fantasy videogame

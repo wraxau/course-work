@@ -1,0 +1,29 @@
+Анализ подкластера 160 в кластере 5
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.18
+
+Топ-5 жанров:
+genres
+Drama        3
+Fantasy      2
+Comedy       2
+Crime        2
+Adventure    1
+
+Топ-5 тегов:
+tag
+ending    4
+funny     3
+plot      3
+not       3
+Mike      2
+
+Примеры фильмов:
+                                                           title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+14911  Percy Jackson & the Olympians: The Lightning Thief (2010)  2.949250       Adventure|Fantasy                                                                                                                      sexualtiy Sean Bean childish Hollywood superhuman sword fighting Alexandra Daddario script slapstick action based book Uma Thurman harry potter wannabe franchise Greek mythology Bad direction everything located the USA acting cgi not true the book Logan Lerman original plot Pierce Brosnan black guy funny sidekick bad acting Chris Columbus predictable silly Rosario Dawson story gods hollywood ending dialogue arbitrary rules fantasy
+14912                                             Cop Out (2010)  2.745423     Action|Comedy|Crime                                                                                                                                                                                                                                                                                                                                                              baseball Kevin Pollak friendship Tracy Morgan Jason Lee Adam Brody few action scenes police jealousy few funny scenes redbox Bruce Willis Seann William Scott Michelle Trachtenberg Kevin Smith unoriginal
+14913                                        Mademoiselle (1966)  3.250000                   Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       French sexuality Tony Richardson Jean Genet teacher Jeanne Moreau
+14914          Trailer Park Boys: Countdown to Liquor Day (2009)  3.530000            Comedy|Crime                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Swearing Mike Clattenburg John Dunsworth John Paul Tremblay Mike Smith Robb Wells drugs funny Canada
+14915                                   Ghost Writer, The (2010)  3.638704  Drama|Mystery|Thriller  island atmospheric politics adultery rented British weak plot Roman Polanski slow government Olivia Williams thriller Netflix Finland mystery boring James Belushi DIVX good ending suspense espionage Ending Alexandre Desplat investigation noir thriller drama writer Pierce Brosnan Ewan McGregor black humour escape Massachusetts toplist10 law political commentary Pawel Edelman pretentious location Kim Cattrall sex "bad CIA"-- too simplistic nudity assassination Tom Wilkinson ending plot british sexual tension bad ending great house not suspenseful

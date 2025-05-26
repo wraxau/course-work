@@ -1,0 +1,29 @@
+Анализ подкластера 460 в кластере 4
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.05
+Дисперсия рейтинга: 1.58
+
+Топ-5 жанров:
+genres
+(no genres listed)    5
+Drama                 5
+Comedy                4
+Documentary           3
+Horror                3
+
+Топ-5 тегов:
+tag
+drama     1
+low       1
+gory      1
+korean    1
+space     1
+
+Примеры фильмов:
+                               title    rating              genres                                    tag
+34050                Asu Mare (2013)  4.000000  (no genres listed)                                    NaN
+34054       Making a Murderer (2015)  3.919355         Documentary  drama documentary investigation crime
+34063  Wszystko będzie dobrze (2007)  3.500000  (no genres listed)                                    NaN
+34064                 Ajlawju (1999)  3.000000  (no genres listed)                                    NaN
+34069      Destined for Blues (2005)  2.750000               Drama                                    NaN

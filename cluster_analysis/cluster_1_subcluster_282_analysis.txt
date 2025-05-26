@@ -1,0 +1,29 @@
+Анализ подкластера 282 в кластере 1
+Размер подкластера: 65 фильмов
+Средний рейтинг: 2.70
+Медиана рейтинга: 2.87
+Дисперсия рейтинга: 0.79
+
+Топ-5 жанров:
+genres
+Drama       26
+Comedy      21
+Action      15
+Thriller    15
+Romance     11
+
+Топ-5 тегов:
+tag
+bad         2
+acting      2
+W.S.        1
+terrible    1
+medical     1
+
+Примеры фильмов:
+                                title    rating                           genres             tag
+26226              Night Court (1932)       NaN         Crime|Film-Noir|Thriller   W.S. Van Dyke
+26237        The Bone Snatcher (2003)  1.500000                    Horror|Sci-Fi             NaN
+26239                 Trust Me (2013)  2.916667                     Comedy|Drama             NaN
+26241  The Time of Their Lives (1946)       NaN  Comedy|Fantasy|Romance|Thriller  Charles Barton
+26252           Ground Control (1998)  3.000000  Action|Adventure|Drama|Thriller             NaN

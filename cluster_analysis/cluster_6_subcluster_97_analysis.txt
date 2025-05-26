@@ -1,0 +1,29 @@
+Анализ подкластера 97 в кластере 6
+Размер подкластера: 16 фильмов
+Средний рейтинг: 3.00
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.49
+
+Топ-5 жанров:
+genres
+Action       9
+Drama        5
+Crime        5
+Adventure    5
+Comedy       4
+
+Топ-5 тегов:
+tag
+action      11
+comedy       4
+violence     4
+the          4
+effects      4
+
+Примеры фильмов:
+                               title  rating       genres  tag
+26458             The Firefly (1937)    2.50        Drama  NaN
+26459          Naked Violence (1969)    3.00  Crime|Drama  NaN
+26460  The Italian Connection (1972)    3.75  Crime|Drama  NaN
+26461          Colpo in canna (1975)    2.00       Action  NaN
+26462        Kidnap Syndicate (1975)    3.25        Crime  NaN

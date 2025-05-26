@@ -1,0 +1,19 @@
+Анализ кластера 1421
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Fantasy    1
+Romance    1
+
+Топ-10 тегов:
+tag
+Elmore     1
+Leonard    1
+based      1
+book       1
+
+Примеры фильмов:
+             title                 genres                        tag
+1421  Touch (1997)  Drama|Fantasy|Romance  Elmore Leonard based book

@@ -1,0 +1,29 @@
+Анализ подкластера 71 в кластере 8
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.16
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama       15
+Comedy       8
+Crime        3
+Thriller     2
+Horror       2
+
+Топ-5 тегов:
+tag
+Mental        2
+Theater       1
+Spanish       1
+violence      1
+Unoriginal    1
+
+Примеры фильмов:
+                                           title  rating                genres                               tag
+17617      Paper Birds (Pájaros de papel) (2010)   3.500          Comedy|Drama  Theater Spanish Civil War Miliki
+17618  Last Stop 174 (Última Parada 174) (2008)    3.250  Crime|Drama|Thriller                     Bruno Barreto
+17619                     Waking Madison (2010)    3.125                 Drama                               NaN
+17620  Possession of David O'Reilly, The (2010)    2.875                Horror                               NaN
+17621      Broken Sky (El cielo dividido) (2006)   3.750                 Drama                               NaN

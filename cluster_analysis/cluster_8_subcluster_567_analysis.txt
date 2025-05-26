@@ -1,0 +1,29 @@
+Анализ подкластера 567 в кластере 8
+Размер подкластера: 78 фильмов
+Средний рейтинг: 3.34
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama       46
+Comedy      21
+Thriller    14
+Crime       10
+Horror      10
+
+Топ-5 тегов:
+tag
+ending    15
+nudity    12
+Oscar     10
+DVDs       9
+action     9
+
+Примеры фильмов:
+                                    title    rating       genres                                                                                                                                                      tag
+11241                        G Men (1935)  3.705882  Crime|Drama                        01/11 11/11 05/11 FBI 12/10 06/11 03/11 lawyers 12/11 less 300 ratings 01/12 James Cagney William Keighley 11/10 based book 02/11
+11254  Heading South (Vers le sud) (2005)  3.095238        Drama                                                                                     nudity (topless) island Latin America tourists 1970s Haiti Caribbean
+11268            Syrian Bride, The (2004)  3.612500        Drama  bride cousins Israel 12/10 marriage bureaucracy dvr 02/11 israel ARRANGED MARRIAGES Eran Riklis 11/10 Middle East Ashraf Barhom Hiam Abbass middle east
+11273               Music Box, The (1932)  3.533333       Comedy                                                                                          short James Parrott delivery Stan Laurel slapstick Oliver Hardy
+11279                  Block-Heads (1938)  3.392857   Comedy|War                                                                                                                   Stan Laurel John Blystone Oliver Hardy

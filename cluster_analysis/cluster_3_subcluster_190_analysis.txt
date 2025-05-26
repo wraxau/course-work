@@ -1,0 +1,29 @@
+Анализ подкластера 190 в кластере 3
+Размер подкластера: 13 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 2.94
+Дисперсия рейтинга: 0.64
+
+Топ-5 жанров:
+genres
+Documentary    5
+Adventure      4
+Comedy         3
+Action         3
+Fantasy        3
+
+Топ-5 тегов:
+tag
+nature    2
+low       2
+budget    2
+IMAX      2
+sword     2
+
+Примеры фильмов:
+                                                        title    rating                     genres                                                                tag
+21849                      Wanda Sykes: Sick and Tired (2006)  3.500000         Comedy|Documentary                                                      Michael Drumm
+21850                                        Sorceress (1982)  2.666667   Action|Adventure|Fantasy  low budget twins Betamax sword and sorcery Kick-Butt Women Mexico
+21851                                 New Town Killers (2008)  3.500000                      Drama                                                                NaN
+21852  Tender Hook, The (Boxer and the Bombshell, The) (2008)  1.000000        Crime|Drama|Mystery                                                                NaN
+21853                         Mushrooming (Seenelkäik) (2012)  2.800000  Adventure|Comedy|Thriller                                             Toomas Hussar Estonian

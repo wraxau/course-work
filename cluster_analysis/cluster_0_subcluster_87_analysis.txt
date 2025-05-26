@@ -1,0 +1,29 @@
+Анализ подкластера 87 в кластере 0
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Drama       24
+Comedy      10
+Romance      7
+Thriller     6
+Action       5
+
+Топ-5 тегов:
+tag
+Nudity       6
+nudity       5
+comedy       5
+(topless)    4
+not          4
+
+Примеры фильмов:
+                            title    rating                   genres                                                                                                                                                                                                                                                                                                                                                          tag
+11282     Puffy Chair, The (2006)  3.291209            Drama|Romance                                                                                                                                                                                                                                                                               relationships Jay Duplass road trip human relationship Mark Duplass mumblecore
+11283               Lassie (2005)  2.980263       Adventure|Children                                                                                                                                                                                                                                                                                                                                   animal:dog Based show dogs
+11284  Mutual Appreciation (2005)  3.075758             Comedy|Drama                                                                                                                                                                                                                                                                                                                                   Andrew Bujalski mumblecore
+11285      Wicker Man, The (2006)  2.040179  Horror|Mystery|Thriller  pagan see: horror island uncooperative characters unnecessary unintentional comedy Bear Punch remake bad it's good Cage-Fu unintentionally serious Leelee Sobieski sacrilege The bees Ending unnecessary remake evil cult predictable did someone cast spell make everyone hate this flick? Molly Parker matriarch cult stupid and unnecessary Nicolas Cage
+11286            Crossover (2006)  1.847826             Action|Drama                                                                                                                                                                                                                                                                                                                                              imdb bottom 100

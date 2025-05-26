@@ -1,0 +1,21 @@
+Анализ кластера 1955
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Sci-Fi      1
+
+Топ-10 тегов:
+tag
+alien      1
+cats       1
+Disney     1
+Betamax    1
+talking    1
+animals    1
+
+Примеры фильмов:
+                                 title                  genres                                        tag
+1955  Cat from Outer Space, The (1978)  Children|Comedy|Sci-Fi  alien cats Disney Betamax talking animals

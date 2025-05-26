@@ -1,0 +1,16 @@
+Анализ кластера 50
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                    title                 genres  tag
+50  Guardian Angel (1994)  Action|Drama|Thriller  NaN

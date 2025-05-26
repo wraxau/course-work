@@ -1,0 +1,24 @@
+Анализ кластера 249
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+character         2
+real              2
+Einstein          2
+romantic          2
+based             2
+Robbins           1
+Italian           1
+Bibliothek        1
+Monroe            1
+person:Marilyn    1
+
+Примеры фильмов:
+           title          genres                                                                                                                                                                                                                                             tag
+249  I.Q. (1994)  Comedy|Romance  character based real person:Albert Einstein Einstein Walter Matthau romantic Meg Ryan period piece albert einstein Tim Robbins Fred Schepisi chick flick romance character based real person:Marilyn Monroe Bibliothek Italian romantic comedy

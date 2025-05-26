@@ -1,0 +1,20 @@
+Анализ кластера 2397
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+might       1
+like        1
+Ken         1
+Loach       1
+Favorite    1
+Scenes      1
+
+Примеры фильмов:
+                      title         genres                                   tag
+2397  My Name Is Joe (1998)  Drama|Romance  might like Ken Loach Favorite Scenes

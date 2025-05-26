@@ -1,0 +1,29 @@
+Анализ подкластера 65 в кластере 7
+Размер подкластера: 50 фильмов
+Средний рейтинг: 2.85
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.71
+
+Топ-5 жанров:
+genres
+Drama                 15
+Comedy                14
+Thriller               9
+(no genres listed)     8
+Action                 6
+
+Топ-5 тегов:
+tag
+fantasy       2
+Pan           2
+Twist         1
+corruption    1
+Police        1
+
+Примеры фильмов:
+                            title    rating                  genres                                                          tag
+28151            Dyke Hard (2014)  2.166667                  Comedy                                                          NaN
+28163          Tribulation (2000)  2.500000   Drama|Sci-Fi|Thriller  Howie Mandel Antichrist Christian Margot Kidder Gary Bussey
+28167       8 Minutes Idle (2014)  2.000000                  Comedy                                                          NaN
+28168  Absolute Aggression (2004)  0.500000  Action|Sci-Fi|Thriller                                                          NaN
+28172          Black Field (2009)  2.333333           Drama|Romance                                                          NaN

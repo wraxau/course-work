@@ -1,0 +1,29 @@
+Анализ подкластера 8 в кластере 2
+Размер подкластера: 359 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Drama       215
+Comedy       89
+Thriller     63
+Romance      55
+Crime        39
+
+Топ-5 тегов:
+tag
+bad       21
+the       20
+story     19
+nudity    17
+based     17
+
+Примеры фильмов:
+                                                   title    rating                  genres                                                                                                                                                                                                                                                                                                                                      tag
+15520  I Even Met Happy Gypsies (Skupljaci perja) (1967)  3.500000                   Drama                                                                                                                                                                                                                                                                                                                                      NaN
+15545                                   Predators (2010)  3.135920  Action|Sci-Fi|Thriller  Laurence Fishburne childish Watched bad sequel memasa's movies Danny Trejo action human prey Adrien Brody Alice Braga Topher Grace the worst actor ever franchise bad science Nimród Antal bad plot Bad direction aliens audience intelligence underestimated childish plot silly sci-fi predator redbox Topher Grace sci NimrÃ³d Antal
+15566                  Tokyo Zombie (Tôkyô zonbi) (2005)  3.166667    Action|Comedy|Horror                                                                                                                                                                                                                                                                  terrible japan unfunny homosexuality offensive zombies bad plot netflix
+15567                                Swedish Auto (2006)  3.600000           Drama|Romance                                                                                                                                                                                                                                                                                                                                      NaN
+15572                                    Raincoat (2004)  2.500000           Drama|Romance                                                                                                                                                                                                                                                                                                                                      NaN

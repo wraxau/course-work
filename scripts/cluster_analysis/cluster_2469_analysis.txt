@@ -1,0 +1,25 @@
+Анализ кластера 2469
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+black       1
+and         1
+white       1
+evil        1
+children    1
+Wolf        1
+Rilla       1
+psychic     1
+powers      1
+remade      1
+
+Примеры фильмов:
+                             title                  genres                                                                         tag
+2469  Village of the Damned (1960)  Horror|Sci-Fi|Thriller  black and white evil children Wolf Rilla psychic powers remade Ã¼bermensch

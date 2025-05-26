@@ -1,0 +1,24 @@
+Анализ кластера 2532
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+
+Топ-10 тегов:
+tag
+70mm                        2
+Dick                        1
+Digital                     1
+Catherine                   1
+O'Hara                      1
+orphan                      1
+James                       1
+Caan                        1
+cinematographer:Vittorio    1
+Storaro                     1
+
+Примеры фильмов:
+                  title        genres                                                                                                                                                                                                                                                                               tag
+2532  Dick Tracy (1990)  Action|Crime  Dick Van Dyke campy Madonna Warren Beatty Super-35 Blow-Up Pacino etaege Colorful detective Comic Book Disney 70mm blowup 70mm Cinema Digital Sound Catherine O'Hara orphan James Caan cinematographer:Vittorio Storaro comic book unexpected classic Dustin Hoffman Kathy Bates

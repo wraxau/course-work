@@ -1,0 +1,29 @@
+Анализ подкластера 343 в кластере 1
+Размер подкластера: 35 фильмов
+Средний рейтинг: 2.74
+Медиана рейтинга: 2.79
+Дисперсия рейтинга: 0.84
+
+Топ-5 жанров:
+genres
+Drama        15
+Thriller      9
+Action        8
+Adventure     7
+Animation     6
+
+Топ-5 тегов:
+tag
+bridge          1
+the             1
+biographical    1
+uneventful      1
+period          1
+
+Примеры фильмов:
+                                 title    rating                     genres                                                                                      tag
+24625         Thief of Damascus (1952)  2.000000  Adventure|Fantasy|Romance                                                                                      NaN
+24630  Bridge, The (Die Brücke) (2008)  3.000000                        War  bridge Nazi Germany teacher student relationship teenager child soldiers Franka Potente
+24632        Before I Disappear (2014)  3.916667                      Drama              melancholie lost love will live Shawn Christensen reason survive coming age
+24641     Calling Dr. Gillespie (1942)       NaN       Crime|Drama|Thriller                                                                                      NaN
+24643                 Mr Hublot (2013)  3.125000           Animation|Comedy                                       Laurent Witz short Alexandre Espigares robots dogs

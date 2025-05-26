@@ -1,0 +1,17 @@
+Анализ кластера 1933
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Western     1
+
+Топ-10 тегов:
+tag
+Disney     2
+studios    1
+
+Примеры фильмов:
+                                            title                   genres                    tag
+1933  Apple Dumpling Gang Rides Again, The (1979)  Children|Comedy|Western  Disney Disney studios

@@ -1,0 +1,21 @@
+Анализ кластера 562
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Pedro         2
+Almodovar     2
+television    1
+AlmodÃ³var    1
+warm          1
+funny         1
+writer        1
+
+Примеры фильмов:
+           title        genres                                                                      tag
+562  Kika (1993)  Comedy|Drama  Pedro Almodovar television Pedro AlmodÃ³var Almodovar warm funny writer

@@ -1,0 +1,29 @@
+Анализ подкластера 237 в кластере 3
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.56
+Медиана рейтинга: 3.36
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama          7
+Comedy         2
+Romance        2
+Documentary    1
+Adventure      1
+
+Топ-5 тегов:
+tag
+bad             4
+IMAX            2
+father          2
+relationship    2
+Daughter        2
+
+Примеры фильмов:
+                                                            title    rating                     genres                                                                                                                                                                                                                                                               tag
+19544  Age of the Medici, The (L'età di Cosimo de Medici) (1973)   3.000000                      Drama                                                                                                                                                                                                                                                Roberto Rossellini
+19545                                   Something Ventured (2011)  3.333333                Documentary                                                                                                                                                                                                                                                               NaN
+19546                                   Jesus Henry Christ (2012)  3.378788                     Comedy                                                                                                                                                                                                                                   not funny all boring Dennis Lee
+19547                       Pirates of the Great Salt Lake (2006)  4.000000           Adventure|Comedy                                                                                                                                                                                                                                                               NaN
+19548                           Resident Evil: Retribution (2012)  3.034722  Action|Horror|Sci-Fi|IMAX  MOLT_CRITICADA Michelle Rodriguez Watched Stereoscopic 3-D franchise Milla Jovovich IMAX Digital only bad fights suspense Based Video Game bad acting bad cgi Zombies IMAX DMR milla jovovich Bob*ola torrential downpour bad dialogue pointless stylized zombie

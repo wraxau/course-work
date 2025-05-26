@@ -1,0 +1,29 @@
+Анализ подкластера 19 в кластере 1
+Размер подкластера: 62 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.35
+Дисперсия рейтинга: 0.51
+
+Топ-5 жанров:
+genres
+Drama          28
+Comedy         16
+Thriller       12
+Action         11
+Documentary    10
+
+Топ-5 тегов:
+tag
+comedy    5
+drama     5
+Award     4
+music     4
+acting    4
+
+Примеры фильмов:
+                                                                     title    rating                genres                                                                                                                                  tag
+24168                                                       El Niño (2014)  3.357143        Drama|Thriller  traffic Daniel Monzón hashish cocaine Morocco police police corruption helicopters Spain drug trade drugs Gibraltar action offboard
+24213  Atlas Shrugged: Who Is John Galt? (Atlas Shrugged: Part III) (2014)  2.684211  Drama|Mystery|Sci-Fi                                                                                                                  Ayn Rand based book
+24220                                                  Third Person (2013)  3.000000         Drama|Romance                                                                                     Olivia Wilde drama Liam Neeson Loss Child Writer
+24245                                 Carry on Spying (Agent Oooh!) (1964)  3.500000                Comedy                                                                                                                                  NaN
+24249                                    Aftermath: Population Zero (2008)  3.428571    Documentary|Sci-Fi                                                                                                                                  NaN

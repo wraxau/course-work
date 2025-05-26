@@ -1,0 +1,29 @@
+Анализ подкластера 123 в кластере 5
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Comedy         2
+Drama          2
+Documentary    2
+War            1
+Children       1
+
+Топ-5 тегов:
+tag
+Neil       1
+Burger     1
+soldier    1
+Rachel     1
+McAdams    1
+
+Примеры фильмов:
+                                                         title    rating            genres                                 tag
+13623                                   Lucky Ones, The (2008)  3.444444  Comedy|Drama|War  Neil Burger soldier Rachel McAdams
+13624                  My Friend Henry (Ystäväni Henry) (2004)  3.142857    Children|Drama                                 NaN
+13625                                             Cialo (2003)  3.227273      Comedy|Crime                        polish movie
+13626                                             Fitna (2008)  1.500000       Documentary                                 NaN
+13627  Bar at the Victoria Station, A (Bar na Victorii) (2003)  3.500000       Documentary                                 NaN

@@ -1,0 +1,24 @@
+Анализ кластера 299
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+history     1
+drama       1
+France      1
+Nudity      1
+(Full       1
+Frontal)    1
+bloody      1
+costume     1
+royalty     1
+History     1
+
+Примеры фильмов:
+                                      title         genres                                                                                                                                                                                                                                                                     tag
+299  Queen Margot (Reine Margot, La) (1994)  Drama|Romance  history History nudity (full frontal) French massacre Dumas slow netflix Biography Christianity Patrice Chéreau religious conflict Catholicism Daniel Auteuil France Nudity (Full Frontal) bloody costume drama royalty lives women period piece religion 16th century

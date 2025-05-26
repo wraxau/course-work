@@ -1,0 +1,29 @@
+Анализ подкластера 3 в кластере 7
+Размер подкластера: 270 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.89
+
+Топ-5 жанров:
+genres
+Drama                 94
+Comedy                77
+Action                35
+(no genres listed)    34
+Thriller              33
+
+Топ-5 тегов:
+tag
+comedy    9
+based     7
+book      5
+nudity    5
+drama     5
+
+Примеры фильмов:
+                                                 title  rating                        genres                                                                                tag
+26666                    Mystery of Edwin Drood (1935)    2.00  Drama|Horror|Mystery|Romance                                                                                NaN
+26668                            Snow in August (2001)    4.00                Children|Drama                                                                                NaN
+26670  St. Giuseppe Moscati: Doctor to the Poor (2007)    2.75            (no genres listed)                                                                                NaN
+26676                                The Escape (2013)    3.00                         Drama  communism Romania mathematics emigration treason Andrei Gruzsniczki secret police
+26680                  Number One with a Bullet (1987)    1.50                 Action|Comedy                                                                                NaN

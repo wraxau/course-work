@@ -1,0 +1,29 @@
+Анализ подкластера 114 в кластере 1
+Размер подкластера: 22 фильмов
+Средний рейтинг: 2.32
+Медиана рейтинга: 2.21
+Дисперсия рейтинга: 0.81
+
+Топ-5 жанров:
+genres
+Comedy      6
+Action      6
+Thriller    5
+Horror      5
+Drama       3
+
+Топ-5 тегов:
+tag
+Nudity     2
+police     1
+high       1
+Fiction    1
+Mormon     1
+
+Примеры фильмов:
+                              title    rating                   genres                                                                                                    tag
+29151  The Designated Victim (1971)  2.000000                 Thriller                                                                                                    NaN
+29152          Thunderstruck (2004)  3.000000                   Comedy                                                                                                    NaN
+29153            Hot Pursuit (2015)  2.611111            Action|Comedy                                                                                           police Texas
+29154             Permissive (1970)  0.500000                    Drama  Lesbian Sex Scene Frontal Nudity Horrible Soundtrack Topless Nudity Britain Hippies 70s Sparce Dialog
+29155              Slow West (2015)  3.561856  Action|Thriller|Western                                                                reviewed ubermensch cynical pessimistic

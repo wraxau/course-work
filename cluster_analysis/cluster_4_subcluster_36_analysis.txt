@@ -1,0 +1,29 @@
+Анализ подкластера 36 в кластере 4
+Размер подкластера: 85 фильмов
+Средний рейтинг: 3.32
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.91
+
+Топ-5 жанров:
+genres
+Drama                 29
+Comedy                20
+Action                16
+Horror                 9
+(no genres listed)     9
+
+Топ-5 тегов:
+tag
+reviewed     4
+good         2
+story        2
+bkk          2
+toplist15    2
+
+Примеры фильмов:
+                                        title    rating                      genres  tag
+30655              Two O'Clock Courage (1945)  5.000000         Crime|Drama|Mystery  NaN
+30658  Dragon Ball: Episode of Bardock (2011)  3.250000  Action|Adventure|Animation  NaN
+30663                          Electra (1962)  5.000000                      Action  NaN
+30670     Werewolf: The Beast Among Us (2012)  1.833333                Drama|Horror  NaN
+30679                         Triptych (1979)  2.500000          (no genres listed)  NaN

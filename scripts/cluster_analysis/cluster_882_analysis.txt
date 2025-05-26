@@ -1,0 +1,25 @@
+Анализ кластера 882
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Musical    1
+Romance    1
+
+Топ-10 тегов:
+tag
+dance        3
+classic      3
+AFI          3
+top          2
+movie        2
+100          2
+USA          2
+Dance        2
+enjoyable    2
+250          2
+
+Примеры фильмов:
+                          title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+882  Singin' in the Rain (1952)  Comedy|Musical|Romance  comedy tap dance erlend's DVDs musical really enjoyable history old-timey Best Rotten Tomatoes: All Time USA sunny USA film registry National Film Registry vocalists enjoyable desert island flicks movie business boring BFI classic delights gene kelley modern dance set the 1920s Debbie Reynolds jukebox musical Tumey's VHS top 250 IMDB movies every kid should see--Entertainment Weekly romance classic Hollywood classic Musical Dance light Gene Kelly Slashy movie see classical AFI 100 (Laughs) silly netflix queue afi100 black and white library imdb top 250 Stanley Donen fun songs AFI #10 AFI 100 dance period piece required high school 1997 Dance happy sweet

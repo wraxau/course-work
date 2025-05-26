@@ -1,0 +1,29 @@
+Анализ подкластера 181 в кластере 8
+Размер подкластера: 9 фильмов
+Средний рейтинг: 2.55
+Медиана рейтинга: 2.70
+Дисперсия рейтинга: 0.92
+
+Топ-5 жанров:
+genres
+Musical        3
+Comedy         3
+Documentary    2
+Drama          2
+Romance        1
+
+Топ-5 тегов:
+tag
+police      2
+Abbas       1
+coronado    1
+action      1
+judge       1
+
+Примеры фильмов:
+                                               title    rating          genres                                 tag
+18001  Game of Death, The (Le Jeu de la Mort) (2010)  3.833333     Documentary                                 NaN
+18002                              ABC Africa (2001)  2.900000     Documentary                    Abbas Kiarostami
+18003                          Pigskin Parade (1936)  2.500000         Musical                                 NaN
+18004                              Songwriter (1984)  2.500000           Drama  nudity (topless) musicians Betamax
+18005                              First Love (1939)  2.250000  Comedy|Musical                        Henry Koster

@@ -1,0 +1,29 @@
+Анализ подкластера 62 в кластере 6
+Размер подкластера: 29 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.15
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama      15
+Comedy     10
+Romance     9
+War         4
+Musical     3
+
+Топ-5 тегов:
+tag
+comedy      4
+07/10       2
+nudity      2
+violence    2
+Richard     1
+
+Примеры фильмов:
+                                              title    rating                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+15157                   Case for Christ, The (2007)  2.750000           Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   documentary Christianity religion
+15185                  Dogtooth (Kynodontas) (2009)  3.699160                 Drama  nudity (full frontal) Greece Giorgos Lanthimos Greek cicada coming age netflix Self-Mutilation seclusion incest sexuality weird siblings Rule-making destruction the nuclear family's model Michelle Valley drama Anna Kalaitzidou Î•Î¯Î½Î±Î¹ ÎµÎ¾Î±Î¹ÏÎµÏ„Î¹ÎºÎ¬ Î´Î¹ÎµÏƒÏ„ÏÎ±Î¼Î­Î½Î· 10/10 language disturbing Aggeliki Papoulia surrealism oppression Nudity (Full Frontal) dystopia Hristos Passalis sex greek Christos Stergioglou summer ending cat killing isolation 07/10 Mary Tsoni family relationships idiolect abstract freedom parenthood violence
+15186            Genova (Summer in Genoa, A) (2008)  3.166667         Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Colin Firth Michael Winterbottom Catherine Keener Hope Davis seen 2011 Willa Holland Own
+15203                         Texas Carnival (1951)  2.500000        Comedy|Musical                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 NaN
+15213  Best of Times, The (Mei li shi guang) (2001)  3.000000  Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 NaN

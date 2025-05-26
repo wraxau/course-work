@@ -1,0 +1,29 @@
+Анализ подкластера 580 в кластере 8
+Размер подкластера: 14 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.40
+Дисперсия рейтинга: 0.37
+
+Топ-5 жанров:
+genres
+Drama          8
+Comedy         4
+Documentary    3
+Thriller       2
+War            2
+
+Топ-5 тегов:
+tag
+Middle       2
+Nudity       2
+surreal      2
+superhero    2
+ending       2
+
+Примеры фильмов:
+                              title    rating                        genres                                                                tag
+12901             Blindsight (2006)  3.625000         Adventure|Documentary  mountain climbing blindness mountains Himalayas disability scenic
+12903      Godless Girl, The (1929)  3.833333                         Drama                                                      Cecil DeMille
+12905             Bonneville (2006)  2.300000                  Comedy|Drama                                                                NaN
+12940  High School Musical 2 (2007)  2.363068  Comedy|Drama|Musical|Romance                                                musical high school
+12942         Objective, The (2008)  3.016667    Horror|Sci-Fi|Thriller|War            surreal alien contact mythology Middle East Afghanistan

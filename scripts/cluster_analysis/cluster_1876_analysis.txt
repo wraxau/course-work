@@ -1,0 +1,24 @@
+Анализ кластера 1876
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+(Best          3
+Oscar          3
+DVDs           2
+story          2
+erlend's       1
+Picture)       1
+Africa         1
+colonialism    1
+70mm           1
+drama          1
+
+Примеры фильмов:
+                     title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1876  Out of Africa (1985)  Drama|Romance  erlend's DVDs romance. adultery writer biography meryl streep Michael Kitchen poor story line based book just beautiful Sydney Pollack grand cinematic scope Oscar (Best Directing) reviewed Tumey's DVDs love story Robert Redford romance Africa colonialism 70mm drama Malick Bowens humane oldschool Oscar (Best Picture) Romance Klaus Maria Brandauer Drama Meryl Streep Spherical Blow-Up period piece Oscar (Best Cinematography) Veja

@@ -1,0 +1,29 @@
+Анализ кластера 11
+Размер кластера: 1307 фильмов
+Средний рейтинг: 2.86
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.68
+
+Топ-5 жанров:
+genres
+Drama       492
+Comedy      403
+Thriller    222
+Action      202
+Horror      172
+
+Топ-5 тегов:
+tag
+comedy       33
+action       23
+nudity       22
+based        19
+(topless)    18
+
+Примеры фильмов:
+                                title    rating            genres                                                     tag
+25355   Mayday at 40,000 Feet! (1976)  2.500000         Adventure                                                     NaN
+25356     Mahoney's Last Stand (1972)  3.098438             Drama                               Alexis Kanner Harvey Hart
+25357              Bleak Night (2010)  4.500000             Drama                                          Sung-hyun Yoon
+25358  To Encourage the Others (1972)  4.000000             Drama                                                     NaN
+25359                Wanderers (2014)  3.982759  Animation|Sci-Fi  space far future short Erik Wernquist youtube narrated

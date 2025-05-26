@@ -1,0 +1,29 @@
+Анализ подкластера 79 в кластере 1
+Размер подкластера: 25 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.16
+Дисперсия рейтинга: 0.50
+
+Топ-5 жанров:
+genres
+Drama       12
+Comedy       9
+Romance      8
+Horror       4
+Children     2
+
+Топ-5 тегов:
+tag
+Yee          2
+add          2
+prospects    2
+list         2
+gender       2
+
+Примеры фильмов:
+                            title    rating              genres                                                  tag
+24838      Strawberry Wine (2009)  2.500000               Drama                                                  NaN
+24841  Snake Woman's Curse (1968)  2.666667              Horror                                                  NaN
+24843           Tangerines (2013)  4.047170               Drama                                       Zaza Urushadze
+24844        Life Partners (2014)  3.206522      Comedy|Romance  Gillian Jacobs friendship add prospects list ending
+24850   Ecstasy in Entropy (1999)  1.500000  (no genres listed)                                                  NaN

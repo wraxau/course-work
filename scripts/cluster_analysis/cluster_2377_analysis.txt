@@ -1,0 +1,19 @@
+Анализ кластера 2377
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+subgenre:slasher    1
+serial              1
+killer              1
+franchise           1
+
+Примеры фильмов:
+                                                title                  genres                                       tag
+2377  Leatherface: Texas Chainsaw Massacre III (1990)  Comedy|Horror|Thriller  subgenre:slasher serial killer franchise

@@ -1,0 +1,19 @@
+Анализ кластера 2477
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Clint         1
+Eastwood      1
+Andrew        1
+Klavan        1
+alcoholism    1
+
+Примеры фильмов:
+                  title          genres                                      tag
+2477  True Crime (1999)  Crime|Thriller  Clint Eastwood Andrew Klavan alcoholism

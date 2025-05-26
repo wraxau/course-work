@@ -1,0 +1,24 @@
+Анализ кластера 1187
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+crime       3
+book        2
+movie       2
+Ray         2
+movies      2
+good        2
+dialogue    2
+AFI         2
+DVDs        2
+see         2
+
+Примеры фильмов:
+                  title       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+1187  Goodfellas (1990)  Crime|Drama  fast paced need see RISE AND FALL STORIES biography This movie one the best movies all time. EVERYONE should watch this movie. perfect. visceral social path Lorraine Bracco amoral too long Joe Pesci gore acting narrated realistic oscar (best directing) Debi Mazar anti-hero Samuel Jackson confrontational bloody perfection AFI 100 dialogue AFI #94 organized crime btaege soundtrack Robert Niro need buy Divx1 Bibliothek Paul Sorvino Oscar (Best Supporting Actor) Legenda PT-BR violent biopic Nail-biting suspense, adrenaline-pumping action gangsters visually stunning drama hendry claustrophobic joe pesci tommy DVDs Mafia imdb top 250 intense Great movie gangster Interesting see: crime dark comedy National Film Registry 3.5 Emerson must see gritty good dialogue seen more once book Tumey's DVDs crime notable cast wired greatest soundtracks owned robert niro Ray Leota adapted from:book netflix queue paulie dysku mafia Martin Scorsese MKV jimmy wry stylized violence MAFIA LIFE good direction WITNESS PROTECTION Michael Imperioli author:Nicholas Pileggi riveting memasa's movies based book Netflix Finland Biography ect Ray Liotta great casting... masterpiece Masterpiece FALTERING FRIENDSHIPS BD-Video disturbing watch-fully stylish gangs italian mob multiple perspectives

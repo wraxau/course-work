@@ -1,0 +1,29 @@
+Анализ подкластера 190 в кластере 5
+Размер подкластера: 18 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.02
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Comedy     13
+Drama       8
+Romance     7
+Western     2
+Crime       2
+
+Топ-5 тегов:
+tag
+not          4
+DVD          4
+based        1
+superhero    1
+Hal          1
+
+Примеры фильмов:
+                                      title    rating                  genres                       tag
+13818           Many Rivers to Cross (1955)  3.000000  Comedy|Romance|Western                       NaN
+13819  Ricky Rapper (Risto Räppääjä) (2008)  2.571429          Comedy|Musical  based comic kids finnish
+13820                      Zakochani (2000)  2.800000          Comedy|Romance                   not DVD
+13821                           Show (2003)  3.500000      Comedy|Crime|Drama                   not DVD
+13822                  Boy Eats Girl (2005)  2.717391           Comedy|Horror                       NaN

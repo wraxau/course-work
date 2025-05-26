@@ -1,0 +1,20 @@
+Анализ кластера 594
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+media    1
+hulu     1
+road     1
+movie    1
+crime    1
+
+Примеры фильмов:
+                     title               genres                          tag
+594  Love and a .45 (1994)  Action|Comedy|Crime  media hulu road movie crime

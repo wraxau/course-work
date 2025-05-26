@@ -1,0 +1,15 @@
+Анализ кластера 2409
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Joseph       1
+Vilsmaier    1
+
+Примеры фильмов:
+                       title genres               tag
+2409  Harmonists, The (1997)  Drama  Joseph Vilsmaier

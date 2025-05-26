@@ -1,0 +1,29 @@
+Анализ подкластера 72 в кластере 5
+Размер подкластера: 13 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama       5
+Crime       3
+Thriller    3
+Horror      3
+Romance     2
+
+Топ-5 тегов:
+tag
+ending      4
+not         3
+nudity      3
+hell        2
+original    2
+
+Примеры фильмов:
+                            title    rating                                  genres                                                                 tag
+14249           A Good Man (2009)  4.000000                             Crime|Drama                                                                 NaN
+14250        Scandal Sheet (1952)  3.777778  Crime|Drama|Film-Noir|Romance|Thriller                                               reviewed Phil Karlson
+14252           I Want You (1998)  3.388889                     Crime|Drama|Romance             siblings Nudity (Topless Notable) nudity (full frontal)
+14253  Confiance règne, La (2004)  3.250000                                  Comedy                                                            Mulhouse
+14254   Hellraiser: Deader (2005)  2.435897                                  Horror  nudity (topless) occult franchise hell relic temptation journalism

@@ -1,0 +1,29 @@
+Анализ подкластера 75 в кластере 6
+Размер подкластера: 66 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Drama          33
+Comedy         21
+Romance        11
+Documentary    10
+Crime           9
+
+Топ-5 тегов:
+tag
+plot       7
+ending     5
+bad        5
+Netflix    5
+stupid     5
+
+Примеры фильмов:
+                                                                    title    rating                   genres                   tag
+14264                                Execution of P, The (Kinatay) (2009)  2.666667           Crime|Thriller                   NaN
+14265                                                        Angel (1937)  3.321429     Comedy|Drama|Romance        Ernst Lubitsch
+14268  5 Dolls for an August Moon (5 bambole per la luna d'agosto) (1970)  3.000000  Horror|Mystery|Thriller                   NaN
+14272                                                  Plaisir, Le (1952)  3.833333             Comedy|Drama  Criterion Max Ophüls
+14275                                                         Xala (1975)  3.406250                   Comedy                   NaN

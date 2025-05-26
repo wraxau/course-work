@@ -1,0 +1,27 @@
+Анализ кластера 1826
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Crime       1
+Mystery     1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+show          2
+spinoff       1
+conspiracy    1
+aliens        1
+scifi         1
+bugs          1
+movie         1
+see           1
+polar         1
+David         1
+
+Примеры фильмов:
+                                      title                                genres                                                                                                                                                                                                                                                                tag
+1826  X-Files: Fight the Future, The (1998)  Action|Crime|Mystery|Sci-Fi|Thriller  spinoff first contact seen the cinema locusts Martin Landau Gillian Anderson action surreal FBI Antarctica Based show science fiction conspiracy disease aliens scifi bugs movie see polar David Duchovny sci-fi virus series wintry X-Files X-Files!! based show

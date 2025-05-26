@@ -1,0 +1,29 @@
+Анализ подкластера 600 в кластере 1
+Размер подкластера: 39 фильмов
+Средний рейтинг: 2.77
+Медиана рейтинга: 2.75
+Дисперсия рейтинга: 0.73
+
+Топ-5 жанров:
+genres
+Drama       16
+Comedy      12
+Romance      7
+Action       7
+Thriller     6
+
+Топ-5 тегов:
+tag
+Frank         1
+irreverent    1
+José          1
+action        1
+anti-hero     1
+
+Примеры фильмов:
+                            title  rating                genres          tag
+26220  The Beat Generation (1959)    1.50  Crime|Drama|Thriller          NaN
+26249    Solomon and Sheba (1959)    4.00     Drama|Romance|War          NaN
+26270          Weary River (1929)     NaN         Drama|Romance  Frank Lloyd
+26273    Three Night Stand (2013)    3.75          Comedy|Drama          NaN
+26281               PT 109 (1963)    2.75             Drama|War          NaN

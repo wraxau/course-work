@@ -1,0 +1,29 @@
+Анализ подкластера 67 в кластере 3
+Размер подкластера: 54 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama       27
+Comedy      15
+Romance     10
+Thriller     7
+Horror       5
+
+Топ-5 тегов:
+tag
+Betamax    13
+nudity      5
+book        5
+based       5
+Nudity      5
+
+Примеры фильмов:
+                               title    rating          genres                                                                                                                                                                                                                    tag
+3985  Amazing Grace and Chuck (1987)  3.148855           Drama                                                                                                                                                                                                      Betamax President
+3990              Best Seller (1987)  3.242537        Thriller                                                                                                                                                                                                                Betamax
+3998        Can't Buy Me Love (1987)  3.262721  Comedy|Romance                                                                                                              80's teen movie teen highschool Patrick Dempsey cheerleading Beatles high school romance 1980s Steve Rash
+4002              Cry Freedom (1987)  3.831936           Drama  apartheid Betamax Super-35 Blow-Up newspaper editor based book Richard Attenborough true story reviewed Africa journalism 70mm lesbian colonialism South Africa 1970s black nationalist Drama prison based true story
+4011      Ernest Goes to Camp (1987)  2.165385          Comedy                                                                                                                                                                           Jim Varney light madcap goofy Can't remember

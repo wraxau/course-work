@@ -1,0 +1,25 @@
+Анализ кластера 1930
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Drama        1
+
+Топ-10 тегов:
+tag
+Winters      2
+disaster     2
+Shelley      2
+70mm         1
+many         1
+Hackman      1
+Gene         1
+shipwreck    1
+pointless    1
+dies         1
+
+Примеры фильмов:
+                               title                  genres                                                                                                                                                                                                                           tag
+1930  Poseidon Adventure, The (1972)  Action|Adventure|Drama  70mm Shelley Winters AFI 100 (Thrills) claustrophobic ocean Irwin Allen TRAPPED CONFINED Anamorphic Blow-Up too many times seen Ronald Neame Shelley Winters dies disaster pointless shipwreck Gene Hackman natural disaster

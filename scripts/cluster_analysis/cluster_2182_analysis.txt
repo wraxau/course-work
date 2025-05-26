@@ -1,0 +1,15 @@
+Анализ кластера 2182
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+clarivoyance    1
+
+Примеры фильмов:
+                           title          genres           tag
+2182  Butcher's Wife, The (1991)  Comedy|Romance  clarivoyance

@@ -1,0 +1,26 @@
+Анализ кластера 2271
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Comedy       1
+
+Топ-10 тегов:
+tag
+animation    3
+Disney       2
+acting       2
+animated     2
+Pixar        2
+and          2
+childhood    2
+kids         2
+confused     1
+easily       1
+
+Примеры фильмов:
+                     title                               genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+2271  Bug's Life, A (1998)  Adventure|Animation|Children|Comedy  erlend's DVDs comedy animated humorous cute nature Animated John Lasseter inventor characters Watched Bibliothek coming age kid flick delights computer animation pixar Disney watch the credits ants good Dave Foley acting circus funny insects kids cultural customs and traditions Oscar Nominee plot: Seven Samurai Disney animated feature witty Pixar humor kids and family childhood flashback childhood avi bugs voice acting food story heterosexuality buddy easily confused with other movie(s) (Antz) talking animals oppression animation flying FIGHTING THE SYSTEM Kevin Spacey royalty dysku fun power numbers Pixar animation community sweet

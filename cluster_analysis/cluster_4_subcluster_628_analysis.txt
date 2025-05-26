@@ -1,0 +1,29 @@
+Анализ подкластера 628 в кластере 4
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama                 9
+Comedy                7
+Romance               4
+(no genres listed)    4
+Thriller              2
+
+Топ-5 тегов:
+tag
+sex           1
+head          1
+characters    1
+family        1
+singer        1
+
+Примеры фильмов:
+                                     title    rating                genres          tag
+31008            The Suicide Theory (2015)  3.166667        Drama|Thriller          NaN
+31013  The Truth About Webcam Girls (2014)  2.500000           Documentary  sex workers
+31026                 To Kill a Man (2014)  3.000000                 Drama          NaN
+31027                    Dear Santa (2011)  3.200000  Comedy|Drama|Romance          NaN
+31066                    The Escort (2015)  3.578947        Comedy|Romance          NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 239 в кластере 4
+Размер подкластера: 51 фильмов
+Средний рейтинг: 2.67
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.88
+
+Топ-5 жанров:
+genres
+Comedy                20
+Romance               17
+Drama                 13
+(no genres listed)     8
+Action                 6
+
+Топ-5 тегов:
+tag
+comedy       1
+heroic       1
+kung         1
+Bible        1
+Christian    1
+
+Примеры фильмов:
+                                 title  rating                          genres  tag
+33627        A Cosmic Christmas (1977)   2.500              (no genres listed)  NaN
+33628     A Tale of Two Thieves (2014)   3.500                     Documentary  NaN
+33636          Pleasure Factory (2007)   2.250  Action|Adventure|Drama|Romance  NaN
+33643  'Tis the Season for Love (2015)   1.875                         Romance  NaN
+33645        Charming Christmas (2015)   3.000              (no genres listed)  NaN

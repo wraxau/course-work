@@ -1,0 +1,16 @@
+Анализ кластера 739
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy         1
+Documentary    1
+Romance        1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                            title                      genres  tag
+739  Vermont Is For Lovers (1992)  Comedy|Documentary|Romance  NaN

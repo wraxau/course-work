@@ -1,0 +1,29 @@
+Анализ подкластера 219 в кластере 3
+Размер подкластера: 68 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama       39
+Comedy      20
+Thriller    14
+Romance     12
+Crime       10
+
+Топ-5 тегов:
+tag
+DVDs       10
+300         8
+movie       8
+ratings     8
+less        8
+
+Примеры фильмов:
+                                                                title    rating                            genres                                                                                                                                            tag
+6039                                      Sword of the Valiant (1984)  2.380000  Action|Adventure|Fantasy|Romance       the wig Miles O'Keeffe Sean Connery soundtrack sword fight bad acting adventure sword and sorcery Arthurian legend Peter Cushing fantasy
+6042                                                   Tenebre (1982)  3.515936           Horror|Mystery|Thriller  erlend's DVDs VHS head through glass slasher Nudity (Topless Notable) Tumey's DVDs Annemari murder Italian Dario Argento Giallo WRITER'S LIFE
+6048  To Begin Again (a.k.a. Starting Over) (Volver a Empezar) (1982)  3.264706                             Drama                                                                                             José Luis Garci Oscar (Best Foreign Language Film)
+6049                         White Rose, The (Weiße Rose, Die) (1982)  3.633333                   Drama|Film-Noir                                                                               Michael Verhoeven 11/09 Sentana Filmproduktion 12/09 01/10 10/09
+6052      Wrong Is Right (a.k.a. The Man With the Deadly Lens) (1982)  2.500000                    Drama|Thriller                                                                                                                                        Betamax

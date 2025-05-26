@@ -1,0 +1,24 @@
+Анализ кластера 2488
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+movie          3
+Shakespeare    2
+clever         2
+shakespeare    2
+comedy         1
+guilty         1
+expected       1
+better         1
+girlie         1
+pleasure       1
+
+Примеры фильмов:
+                                  title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+2488  10 Things I Hate About You (1999)  Comedy|Romance  comedy Bechdel Test: Pass inspired shakespeare cute sunny Heath Ledger shakespeare romantic feminism heath ledger teenager Teen movie films that shouldn't edited enjoyable Shakespeare clever coming age teenagers Netflix Finland good script Larisa Oleynik actually funny reviewed teen NO_FA_GANES Joseph Gordon-Levitt romance adaptation based play geeks Larry Miller guilty pleasure girlie movie better expected 1990s Cliché Seattle girl power fun Shakespeare sort Gil Junger chick flick Julia Stiles high school adapted from:play movie playwright:Shakespeare clever writing

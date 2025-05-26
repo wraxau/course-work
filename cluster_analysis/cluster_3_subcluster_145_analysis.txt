@@ -1,0 +1,29 @@
+Анализ подкластера 145 в кластере 3
+Размер подкластера: 36 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Comedy      16
+Drama       14
+Thriller     6
+Horror       6
+Romance      5
+
+Топ-5 тегов:
+tag
+based         7
+Betamax       6
+humor         5
+soundtrack    5
+comedy        5
+
+Примеры фильмов:
+                                                                                                               title    rating                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+2574                                                                                   It Came from Hollywood (1982)  3.238550        Comedy|Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+2589                                                                            Loss of Sexual Innocence, The (1999)  2.838542             Drama|Fantasy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Nudity (Full Frontal Notable) nudity (full frontal)
+2596                                                                                          Free Enterprise (1998)  3.358388     Comedy|Romance|Sci-Fi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           nudity (topless) surreal Star Trek scifi cult William Shatner
+2606  Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)  3.663558                     Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           attachment Leonardo DiCaprio Giuseppe Tornatore ocean great soundtrack Tim Roth library vhs ennio morricone music genius ship
+2615                                                                     South Park: Bigger, Longer and Uncut (1999)  3.614568  Animation|Comedy|Musical  adult humor biting musical hilarious banned movie MPAA mature seen the cinema swearing crude humor stupidity Satire Matt Stone frantic subversive war instant classic quirky seen more once sacrilegous based series Tumey's DVDs HEH Based show south park goofy The most clever dirty movie ever made. hard rate want buy funny for fans best entertainment raunchy satirical cartman satire controversial Southern theme parody Trey Parker MtV Feature character based real person:Saddam Hussein Oscar Nominee: Best Song MTSKAF dvr off-beat distasteful comedy central saddam Animation Eric's Dvds animation VHS dysku Bob*ola irreverent censorship acid humor Eric Cartman creative profanity sarcasm free speech based show

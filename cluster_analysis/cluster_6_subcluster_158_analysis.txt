@@ -1,0 +1,29 @@
+Анализ подкластера 158 в кластере 6
+Размер подкластера: 17 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama          8
+Comedy         5
+Documentary    3
+Romance        2
+Musical        2
+
+Топ-5 тегов:
+tag
+seen          2
+CGI           1
+commentary    1
+social        1
+sad           1
+
+Примеры фильмов:
+                                      title    rating                 genres                                                          tag
+23823                  Willie & Phil (1980)  2.750000   Comedy|Drama|Romance                                                          NaN
+23824  Angriest Man in Brooklyn, The (2014)  2.812500           Comedy|Drama                                                          NaN
+23825                    Life Itself (2014)  3.827206            Documentary  documentary Steve James movie business reviewed Roger Ebert
+23826           Brothers (Veljekset) (2011)  3.750000                  Drama                                                          NaN
+23827                Ride the Divide (2010)  3.500000  Adventure|Documentary                                                 Hunter Weeks

@@ -1,0 +1,20 @@
+Анализ кластера 1416
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+romance     1
+comedy      1
+Fran        1
+Drescher    1
+Ken         1
+Kwapis      1
+
+Примеры фильмов:
+                                     title          genres                                      tag
+1416  Beautician and the Beast, The (1997)  Comedy|Romance  romance comedy Fran Drescher Ken Kwapis

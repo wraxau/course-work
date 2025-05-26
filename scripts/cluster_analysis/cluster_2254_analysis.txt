@@ -1,0 +1,25 @@
+Анализ кластера 2254
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+not                   1
+for                   1
+Danny                 1
+Hewitt                1
+Love                  1
+Jennifer              1
+Black                 1
+Jack                  1
+accent                1
+Jamaican/Caribbean    1
+
+Примеры фильмов:
+                                             title                   genres                                                                                                                                                  tag
+2254  I Still Know What You Did Last Summer (1998)  Horror|Mystery|Thriller  not for kids Slasher Freddie Prinze Jr. Mekhi Phifer suspense white guy with Jamaican/Caribbean accent Jack Black Jennifer Love Hewitt Danny Cannon

@@ -1,0 +1,29 @@
+Анализ подкластера 293 в кластере 5
+Размер подкластера: 52 фильмов
+Средний рейтинг: 2.91
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.74
+
+Топ-5 жанров:
+genres
+Drama          24
+Thriller       11
+Crime          10
+Action         10
+Documentary    10
+
+Топ-5 тегов:
+tag
+bad          7
+great        6
+Criterion    5
+plot         5
+effects      5
+
+Примеры фильмов:
+                                                           title    rating                               genres                           tag
+19750                 Thirst for Love, The (Ai no kawaki) (1966)  3.250000                                Drama  Criterion Koreyoshi Kurahara
+19753                                           Catch .44 (2011)  2.470588                Action|Drama|Thriller                           NaN
+19754                         Return of Frank Cannon, The (1980)  1.500000  Action|Crime|Drama|Mystery|Thriller                           NaN
+19755                                  Sound of Fury, The (1950)  2.333333                Crime|Drama|Film-Noir                           NaN
+19757  Three Resurrected Drunkards (Kaette kita yopparai) (1968)  3.750000                               Comedy       Nagisa Ôshima Criterion

@@ -1,0 +1,22 @@
+Анализ кластера 2028
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Steve        1
+Martin       1
+Nudity       1
+(Topless)    1
+dumb         1
+but          1
+funny        1
+Carl         1
+Reiner       1
+
+Примеры фильмов:
+                                title  genres                                                       tag
+2028  Man with Two Brains, The (1983)  Comedy  Steve Martin Nudity (Topless) dumb but funny Carl Reiner

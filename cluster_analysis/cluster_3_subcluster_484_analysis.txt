@@ -1,0 +1,29 @@
+Анализ подкластера 484 в кластере 3
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama       11
+Comedy       8
+Thriller     6
+Romance      5
+Horror       4
+
+Топ-5 тегов:
+tag
+Nudity    7
+movie     6
+true      6
+story     5
+DVDs      5
+
+Примеры фильмов:
+                           title    rating                   genres                                                                                                                                                                                                                                                          tag
+3404                Torso (1973)  2.934211  Horror|Mystery|Thriller                                                                                                                                                                                                                                                       giallo
+3409     Midnight Express (1978)  3.894058                    Drama  nudity (topless) erlend's DVDs Annemari Tumey's DVDs lurid grim bleak prison escape claustrophobic disturbing Giorgio Moroder Turkey Nudity (Topless) Alan Parker library forceful prison holes70s based true story Great soundtrack Netflix queue Istanbul
+3413              My Life (1993)  3.390223                    Drama                                                                                                                                                                                                                    Bibliothek death mawkish Bruce Joel Rubin
+3424  Rules of Engagement (2000)  3.304833           Drama|Thriller                                                                                                            William Friedkin military losses jihad Samuel Jackson struggle for survival military courtroom lawsuit Tommy Lee Jones attack embassy ganes court
+3428           Bells, The (1926)  3.000000              Crime|Drama                                                                                                                                                                                                                                                          NaN

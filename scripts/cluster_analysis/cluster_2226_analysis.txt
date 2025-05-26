@@ -1,0 +1,23 @@
+Анализ кластера 2226
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+friendship     1
+perrot         1
+library        1
+reviewed       1
+bullying       1
+Peter          1
+Chelsom        1
+adolescence    1
+knights        1
+disability     1
+
+Примеры фильмов:
+                   title genres                                                                                                    tag
+2226  Mighty, The (1998)  Drama  friendship perrot library reviewed bullying Peter Chelsom adolescence knights disability Sharon Stone

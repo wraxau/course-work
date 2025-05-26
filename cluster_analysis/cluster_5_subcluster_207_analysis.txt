@@ -1,0 +1,29 @@
+Анализ подкластера 207 в кластере 5
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.45
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.18
+
+Топ-5 жанров:
+genres
+Drama        3
+Film-Noir    2
+Thriller     2
+Crime        2
+Romance      2
+
+Топ-5 тегов:
+tag
+reviewed    1
+Phil        1
+Karlson     1
+nudity      1
+(full       1
+
+Примеры фильмов:
+                                                              title    rating                                  genres                    tag
+14248                                           Split Second (1953)  3.214286                      Film-Noir|Thriller                    NaN
+14249                                             A Good Man (2009)  4.000000                             Crime|Drama                    NaN
+14250                                          Scandal Sheet (1952)  3.777778  Crime|Drama|Film-Noir|Romance|Thriller  reviewed Phil Karlson
+14251  Turn Left at the End of the World (Sof Ha'Olam Smola) (2005)  3.000000                           Drama|Romance  nudity (full frontal)
+14253                                    Confiance règne, La (2004)  3.250000                                  Comedy               Mulhouse

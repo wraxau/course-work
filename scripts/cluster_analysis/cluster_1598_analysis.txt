@@ -1,0 +1,25 @@
+Анализ кластера 1598
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Dean         1
+Koontz       1
+Nostalgia    1
+Critic       1
+Affleck      1
+was          1
+the          1
+BOMB         1
+Phantoms!    1
+based        1
+
+Примеры фильмов:
+                title                 genres                                                                     tag
+1598  Phantoms (1998)  Drama|Horror|Thriller  Dean Koontz Nostalgia Critic Affleck was the BOMB Phantoms! based book

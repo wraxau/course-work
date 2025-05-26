@@ -1,0 +1,17 @@
+Анализ кластера 434
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Gregg       1
+Champion    1
+
+Примеры фильмов:
+                      title               genres             tag
+434  Cowboy Way, The (1994)  Action|Comedy|Drama  Gregg Champion

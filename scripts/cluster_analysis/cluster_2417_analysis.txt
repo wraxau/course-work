@@ -1,0 +1,23 @@
+Анализ кластера 2417
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+science         2
+Jake            2
+space           2
+mining          2
+relationship    2
+Chris           2
+story           2
+history         1
+True            1
+engineering     1
+
+Примеры фильмов:
+                   title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+2417  October Sky (1999)  Drama  engineering Brett Northcutt coal mining villain nonexistent not needed for good story patriotic father-son relationship space true story based book space program teacher Jake Gyllenhal mining Chris Cooper liz should see Laura Dern Joe Johnston Underdog William Lee Scott Jake Gyllenhaal labor unions small town science history True Story Engineers training inspirational hope rocket science will father son relationship period piece occult technology Chris Owen research aeronautics

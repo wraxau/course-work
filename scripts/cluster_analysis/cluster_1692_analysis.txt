@@ -1,0 +1,24 @@
+Анализ кластера 1692
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Kong            2
+Wong            2
+motorcycle      1
+mutism          1
+Favorites       1
+elegiac         1
+loved           1
+Takeshi         1
+Kaneshiro       1
+setting:Hong    1
+
+Примеры фильмов:
+                                        title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+1692  Fallen Angels (Duo luo tian shi) (1995)  Drama|Romance  motorcycle Wong Kar-wai story line product placement pigs nocturnal jukebox father-son relationship memasa's movies love ice cream moody smoking subway boring hongkong style masturbation urban bar crime assassin eerie Wong Kar Wai Favorites elegiac loved Takeshi Kaneshiro setting:Hong Kong hit men video camera selective mutism Jet Tone Silence urbane assassins assassination debt collection great soundtrack Hong Kong mute accomplices stylized

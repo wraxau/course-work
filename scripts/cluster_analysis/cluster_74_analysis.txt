@@ -1,0 +1,20 @@
+Анализ кластера 74
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Steve        1
+Miner        1
+Golden       1
+Raspberry    1
+(Worst       1
+Actor)       1
+
+Примеры фильмов:
+               title        genres                                         tag
+74  Big Bully (1996)  Comedy|Drama  Steve Miner Golden Raspberry (Worst Actor)

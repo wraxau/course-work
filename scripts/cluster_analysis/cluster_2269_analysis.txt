@@ -1,0 +1,24 @@
+Анализ кластера 2269
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+paced          2
+conspiracy     2
+corruption     1
+Great          1
+science        1
+computers      1
+Smith          1
+Will           1
+nonsensical    1
+Actions        1
+
+Примеры фильмов:
+                          title           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+2269  Enemy of the State (1998)  Action|Thriller  corruption fast paced politics wrongly accused nopt bad conspiracy theory chase surveillance irrational wife lawyer etaege lawyers hackers thriller Netflix Finland seen more once Touchstone Tony Scott Jerry Bruckheimer tech very Hollywood Washington conspiracy R:violence bullplop espionage exciting scope nsa ClearPlay underdog well paced Baltimore Great Actions nonsensical Will Smith computers science technology fail Valtion Vihollinen R:language ensemble cast gene hackman cover action-packed Gene Hackman spying paranoid liberal propaganda

@@ -1,0 +1,19 @@
+Анализ кластера 1093
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+one          1
+day          1
+real-time    1
+overrated    1
+nothing      1
+happens      1
+
+Примеры фильмов:
+                                        title genres                                          tag
+1093  Single Girl, A (Fille seule, La) (1995)  Drama  one day real-time overrated nothing happens

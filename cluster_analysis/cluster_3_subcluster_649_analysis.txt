@@ -1,0 +1,29 @@
+Анализ подкластера 649 в кластере 3
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.45
+Медиана рейтинга: 3.59
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Comedy      11
+Drama        9
+Romance      4
+Mystery      3
+Thriller     3
+
+Топ-5 тегов:
+tag
+classic    5
+movie      5
+Oscar      4
+Betamax    4
+Marx       4
+
+Примеры фильмов:
+                                                                         title    rating                          genres                                                                                                                                                                                                                                                                                                                                    tag
+6890                                     Invasion of the Body Snatchers (1978)  3.612328  Horror|Mystery|Sci-Fi|Thriller                                                                    erlend's DVDs parasite horror Donald Sutherland Betamax Jeff Goldblum remake Tumey's DVDs tense aliens dehumanization escape disturbing sci-fi might like intense Leonard Nimoy uncharacteristic behavior Netflix queue Veronica Cartwright Philip Kaufman violence
+6898                                                      Lorenzo's Oil (1992)  3.360714                           Drama                                                                                                                                                                                                                                                                                                         movie Moving Inspiring doctors
+6913  Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976)  3.268585                           Drama  banned movie 95% the spectators left early harsh irony torture based book Pier Paolo Pasolini lurid bleak controversial disturbing thought-provoking fucked confrontational social criticism unbereable unless you positively enjoy watching highly abused people rape sadism Criterion domination BFI modern classic jus+san fascism
+6917                                                       Quick Change (1990)  3.589076                    Comedy|Crime                                                                                                                                                                                                New York City USA clowns costumes Manhattan Bill Murray hostage crisis bank robbery heist clown remakeOf:Hold-up (1985) Howard Franklin
+6920                                                    Real McCoy, The (1993)  2.598592     Action|Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                           Kim Basinger

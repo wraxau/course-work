@@ -1,0 +1,26 @@
+Анализ кластера 1388
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+conspiracy    2
+Dwight        1
+Little        1
+theory        1
+Nudity        1
+(Topless      1
+Brief)        1
+fun           1
+murder        1
+mystery       1
+
+Примеры фильмов:
+                      title                        genres                                                                                              tag
+1388  Murder at 1600 (1997)  Crime|Drama|Mystery|Thriller  Dwight Little conspiracy theory Nudity (Topless Brief) fun murder mystery conspiracy Bibliothek

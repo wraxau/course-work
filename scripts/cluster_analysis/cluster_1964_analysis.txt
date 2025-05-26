@@ -1,0 +1,20 @@
+Анализ кластера 1964
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Fantasy      1
+Musical      1
+
+Топ-10 тегов:
+tag
+based       1
+book        1
+Upton       1
+Sinclair    1
+
+Примеры фильмов:
+                         title                              genres                        tag
+1964  Gnome-Mobile, The (1967)  Adventure|Children|Fantasy|Musical  based book Upton Sinclair

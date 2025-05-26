@@ -1,0 +1,19 @@
+Анализ кластера 387
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+nude         1
+black        1
+women        1
+
+Примеры фильмов:
+                    title       genres                                tag
+387  Jason's Lyric (1994)  Crime|Drama  nudity (topless) nude black women

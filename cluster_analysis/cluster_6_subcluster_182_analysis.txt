@@ -1,0 +1,29 @@
+Анализ подкластера 182 в кластере 6
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.45
+Медиана рейтинга: 3.70
+Дисперсия рейтинга: 0.94
+
+Топ-5 жанров:
+genres
+Drama          6
+Thriller       3
+Documentary    2
+Musical        1
+Sci-Fi         1
+
+Топ-5 тегов:
+tag
+ending       1
+Stamp        1
+Frank        1
+Silliness    1
+Shepitko     1
+
+Примеры фильмов:
+                                title    rating               genres                                                                      tag
+23722           Broadway Idiot (2013)  3.875000  Documentary|Musical                                                                      NaN
+23723           Broken Kingdom (2012)  4.000000                Drama                                                                      NaN
+23724             Dirties, The (2013)  3.558824                Drama                         ending bullying Matt Johnson revenge high school
+23725  Mind of Mr. Soames, The (1970)  3.375000         Drama|Sci-Fi  brain surgery language acquisition manchild Robert Vaughn Terence Stamp
+23726        Mrs. Pollifax-Spy (1971)  3.500000     Adventure|Comedy                                                                      NaN

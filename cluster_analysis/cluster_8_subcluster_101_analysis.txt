@@ -1,0 +1,29 @@
+Анализ подкластера 101 в кластере 8
+Размер подкластера: 29 фильмов
+Средний рейтинг: 3.30
+Медиана рейтинга: 3.43
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama          14
+Documentary     8
+Comedy          6
+Crime           5
+Thriller        3
+
+Топ-5 тегов:
+tag
+story      3
+based      3
+acting     3
+Bechdel    2
+true       2
+
+Примеры фильмов:
+                                        title    rating                genres                                                                                                                                                                                                                                                            tag
+18951                Appropriate Adult (2011)  3.678571                 Drama                                                                                                                                                                                                                                                  method acting
+18953                         Madhouse (1974)  3.208333  Crime|Horror|Mystery                                                                                                                                                                                                                                          Vincent Price Betamax
+18954               Goodbye First Love (2011)  3.227273         Drama|Romance                                                                                                                                                                                                                               nudity (topless) Mia Hansen-Løve
+18955  Best Exotic Marigold Hotel, The (2011)  3.741627          Comedy|Drama  comedy Bechdel Test:Pass Regrets travel Jaipur, Rajasthan quirky sure thing acting funny Soundtrack Bill Nighy Maggie Smith great old British cast John Madden Judi Dench predictable predictalbe inspiring India Tom Wilkinson Old age bittersweet aging gay
+18956   Rush: Beyond the Lighted Stage (2010)  3.596774   Documentary|Musical                                                                                                                                                                                                Documentary Scot McFadyen rock and roll Rush musicians Sam Dunn

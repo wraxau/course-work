@@ -1,0 +1,29 @@
+Анализ подкластера 134 в кластере 8
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Adventure    3
+Comedy       3
+Drama        3
+Romance      2
+Animation    1
+
+Топ-5 тегов:
+tag
+Kelly           1
+Stereoscopic    1
+Gordon          1
+Hardy           1
+Oliver          1
+
+Примеры фильмов:
+                                      title    rating                                               genres                                                                               tag
+16770                Gnomeo & Juliet (2011)  2.817797  Adventure|Animation|Children|Comedy|Fantasy|Romance  Kelly Asbury bad jokes computer animation animated REDBOX music Stereoscopic 3-D
+16771                    Saps at Sea (1940)  2.900000                                               Comedy                                           Stan Laurel Oliver Hardy Gordon Douglas
+16772                         Skippy (1931)  3.500000                                         Comedy|Drama                                                                               NaN
+16773             Allegheny Uprising (1939)  2.500000                             Action|Adventure|Western                                                                               NaN
+16774  All the Brothers Were Valiant (1953)  3.833333                              Adventure|Drama|Romance                                                                               NaN

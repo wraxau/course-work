@@ -1,0 +1,29 @@
+Анализ подкластера 58 в кластере 0
+Размер подкластера: 19 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama          9
+Comedy         6
+Adventure      3
+Documentary    3
+Thriller       3
+
+Топ-5 тегов:
+tag
+good       5
+family     5
+ratings    4
+300        4
+comedy     4
+
+Примеры фильмов:
+                                    title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+11122               Spite Marriage (1929)  3.562500                        Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Edward Sedgwick Buster Keaton
+11123             Superman Returns (2006)  3.048213  Action|Adventure|Sci-Fi|IMAX  Dani2006 erlend's DVDs Jinni Top Pick Brandon Routh Comics Bryan Singer double life Frank Langella Let down good sequel Sucks big time! revival PG-13 based comic book franchise seen more once Tumey's DVDs Kate Bosworth Stereoscopic 3-D sequences journalism James Marsden adapted from:comic annoying reporter Brandon routh ummarti2006 anti-smoking IMAX DMR 3-D Sports Coordinator:Mark Ellis 'So How Did Lois Survive Date Nite?' Superman wrong superhero unlikeable characters Kevin Spacey overpowered hero alter ego comic book well done with new cast stupid big budget
+11124                    Edward II (1991)  3.458333                         Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+11125      Road to Guantanamo, The (2006)  3.575829                     Drama|War                                                                                                                                                                                                                                                                                                                                        corruption politics wrongly accused political USA docudrama torture Michael Winterbottom camp x-ray falsely accused interrogation dvr gitmo might like numbers library prison british afghanistan military Mat Whitecross Guantanamo George Bush
+11126  Leonard Cohen: I'm Your Man (2005)  3.486486           Documentary|Musical                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    documentary music leonard cohen song

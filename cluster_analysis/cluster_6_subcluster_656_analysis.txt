@@ -1,0 +1,26 @@
+Анализ подкластера 656 в кластере 6
+Размер подкластера: 4 фильмов
+Средний рейтинг: 3.39
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.04
+
+Топ-5 жанров:
+genres
+Drama     4
+Comedy    1
+Sci-Fi    1
+
+Топ-5 тегов:
+tag
+Ozu      3
+good     2
+05/11    2
+03/11    2
+01/11    2
+
+Примеры фильмов:
+                                            title    rating        genres                                                                                                                                                                                                                                tag
+13018                      Humboldt County (2008)  3.404110  Comedy|Drama                                                                                                                    dropping out Marijuana Humboldt County California Fairuza Balk Jeremy Strong Wilderness BGAB LRC Frances Conroy
+13021                         On the Beach (2000)  3.257143  Drama|Sci-Fi                                                                                                                                                    Australia Russell Mulcahy remakeOf:On the Beach (1959) nuclear war remake novel
+13022  Autumn Afternoon, An (Sanma no aji) (1962)  3.679012         Drama  01/11 06/11 good direction 11/10 11/11 alcoholism 01/12 Yasujiro Ozu Yasujirô Ozu slice life YasujirÃ´ Ozu alcohol good acting overlong marriage sexism dull 60s Old entirely dialogue Japanese 05/11 03/11 Criterion 12/11 02/11
+13038                   Look Back in Anger (1958)  3.222222         Drama                                                                                                                                              01/11 05/11 Tony Richardson 12/10 06/11 03/11 british new wave 11/10 based play 02/11

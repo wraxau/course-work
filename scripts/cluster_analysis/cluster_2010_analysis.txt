@@ -1,0 +1,25 @@
+Анализ кластера 2010
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+fantasy      2
+70mm         1
+Based        1
+book         1
+dorothy      1
+dark         1
+Spherical    1
+Blow-Up      1
+Betamax      1
+adventure    1
+
+Примеры фильмов:
+                    title                      genres                                                                                                                   tag
+2010  Return to Oz (1985)  Adventure|Children|Fantasy  70mm fantasy Based book dorothy dark fantasy Spherical Blow-Up Betamax adventure magical creatures children's creepy

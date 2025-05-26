@@ -1,0 +1,25 @@
+Анализ кластера 1954
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Comedy       1
+
+Топ-10 тегов:
+tag
+David       1
+Niven       1
+Jodie       1
+Foster      1
+disney      1
+treasure    1
+hunt        1
+Helen       1
+Hayes       1
+con         1
+
+Примеры фильмов:
+                  title                     genres                                                                    tag
+1954  Candleshoe (1977)  Adventure|Children|Comedy  David Niven Jodie Foster disney treasure hunt Helen Hayes con artists

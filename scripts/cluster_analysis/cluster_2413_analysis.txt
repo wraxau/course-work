@@ -1,0 +1,23 @@
+Анализ кластера 2413
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Romance    1
+
+Топ-10 тегов:
+tag
+pastelosa    1
+Paul         1
+based        1
+remember     1
+don't        1
+romance      1
+Costner.     1
+Kevin        1
+not          1
+and          1
+
+Примеры фильмов:
+                           title   genres                                                                                                                                                   tag
+2413  Message in a Bottle (1999)  Romance  pastelosa too slow tear-jerker Too obvious that Robin Wright Penn was attracted Paul Newman and not Kevin Costner. romance don't remember based book

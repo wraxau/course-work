@@ -1,0 +1,29 @@
+Анализ подкластера 200 в кластере 0
+Размер подкластера: 177 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       105
+Comedy       67
+Romance      32
+Action       28
+Thriller     23
+
+Топ-5 тегов:
+tag
+movie      20
+comedy     19
+nudity     15
+Netflix    14
+not        14
+
+Примеры фильмов:
+                                                    title    rating                 genres                                                                                                               tag
+9570                                          Noel (2004)  2.973214                  Drama                                                                        poignant living life story Drama christmas
+9573  Chimes at Midnight (Campanadas a medianoche) (1965)  3.612245       Comedy|Drama|War               Not available from Netflix think should watch this again with subtitles... Orson Welles Shakespeare
+9575                            Narrow Margin, The (1952)  3.620438  Crime|Drama|Film-Noir  03/09 Tense Film Noir Train Suspense less 300 ratings FEWER 300 ratings movielens top pick Richard Fleischer Old
+9577                                Vincent & Theo (1990)  3.258621                  Drama                                nudity (topless) Robert Altman Art Biography artist Tim Roth period piece brothers
+9578                             Some Came Running (1958)  3.547619          Drama|Romance                                                                  Shirley McClaine frank sinatra Vincente Minnelli

@@ -1,0 +1,22 @@
+Анализ кластера 939
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Cary          1
+Grant         1
+adoption      1
+screwball     1
+comedy        1
+depressing    1
+George        1
+Stevens       1
+
+Примеры фильмов:
+                     title         genres                                                             tag
+939  Penny Serenade (1941)  Drama|Romance  Cary Grant adoption screwball comedy depressing George Stevens

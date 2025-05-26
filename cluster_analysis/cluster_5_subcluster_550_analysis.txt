@@ -1,0 +1,29 @@
+Анализ подкластера 550 в кластере 5
+Размер подкластера: 21 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Drama       13
+Comedy       5
+Action       5
+Sci-Fi       5
+Thriller     4
+
+Топ-5 тегов:
+tag
+cult        3
+humor       2
+movie       2
+violence    2
+prison      2
+
+Примеры фильмов:
+                                                   title    rating                          genres                                                                     tag
+20216  Softening of the Egg, The (Ägget är löst!) (1975)  3.500000                    Comedy|Drama                                                                     NaN
+20233                                 976-EVIL II (1992)  2.416667                          Horror                                                                     NaN
+20241                   Kevin Smith: Burn in Hell (2012)  3.296296                          Comedy  06/13 movie business 01/13 Joey Figueroa 02/13 05/13 Zak Knutson 03/13
+20248       New Barbarians, The (I nuovi barbari) (1983)  3.375000  Action|Sci-Fi|Thriller|Western                                         camp post-apocalyptic cult film
+20253     Lipton Cockton in the Shadows of Sodoma (1995)  3.392857            Drama|Mystery|Sci-Fi           cult dark dystopia atmospheric set costume design cock sci-fi

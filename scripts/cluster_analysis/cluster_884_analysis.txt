@@ -1,0 +1,24 @@
+Анализ кластера 884
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Musical    1
+
+Топ-10 тегов:
+tag
+musical        2
+fashion        1
+Stanley        1
+Donen          1
+seen           1
+2012           1
+VistaVision    1
+Paris          1
+Betamax        1
+1950s          1
+
+Примеры фильмов:
+                 title          genres                                                                                                                        tag
+884  Funny Face (1957)  Comedy|Musical  musical fashion Stanley Donen seen 2012 VistaVision Paris Betamax 1950s Fred Astaire astaire/kelly musical Audrey Hepburn

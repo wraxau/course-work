@@ -1,0 +1,24 @@
+Анализ кластера 898
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+audrey      2
+Audrey      2
+rich        2
+classic     2
+poor        2
+hepburn     2
+Hepburn     2
+Humphrey    1
+white       1
+and         1
+
+Примеры фильмов:
+              title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+898  Sabrina (1954)  Comedy|Romance  National Film Registry classic romantic comedy remade Seen 2009 humphrey bogart Classic Audrey Hepburn father daughter relationship nostalgia high society William Holden romance based play remakeOf:Sabrina(1954) classic drama audrey hepburn great upstairs-downstairs poor vs. rich makeover Billy Wilder remadeAs:Sabrina(1995) Oscar (Best Costume Design) paris audrey hepburn black and white Humphrey Bogart originals are best rich guy poor girl B&W library vhs One favorite Audrey Hepburn films. feel-good chick flick edulcorada Old

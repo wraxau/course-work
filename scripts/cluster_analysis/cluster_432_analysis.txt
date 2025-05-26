@@ -1,0 +1,24 @@
+Анализ кластера 432
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+split         1
+Picture)      1
+Frontal       1
+(Full         1
+Nudity        1
+scenes        1
+sex           1
+psychology    1
+erotic        1
+(Worst        1
+
+Примеры фильмов:
+                     title          genres                                                                                                                                                      tag
+432  Color of Night (1994)  Drama|Thriller  split personality nudity (full frontal) torrential downpour Golden Raspberry (Worst Picture) erotic psychology sex scenes Nudity (Full Frontal Notable)

@@ -1,0 +1,21 @@
+Анализ кластера 2095
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Thriller    1
+
+Топ-10 тегов:
+tag
+DVDs             2
+Hitchcock        2
+erlend's         1
+Frightening      1
+Tumey's          1
+holes70s         1
+strangulation    1
+Alfred           1
+
+Примеры фильмов:
+              title    genres                                                                                       tag
+2095  Frenzy (1972)  Thriller  erlend's DVDs Frightening Tumey's DVDs holes70s strangulation Hitchcock Alfred Hitchcock

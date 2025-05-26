@@ -1,0 +1,28 @@
+Анализ кластера 196
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Crime       1
+Drama       1
+Mystery     1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+New            2
+corruption     2
+seen           2
+police         2
+nudity         1
+provocative    1
+bad            1
+rape           1
+(Topless)      1
+Nudity         1
+
+Примеры фильмов:
+                   title                                      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+196  Strange Days (1995)  Action|Crime|Drama|Mystery|Sci-Fi|Thriller  nudity (topless) erlend's DVDs corruption stupid seen the cinema James Cameron characters junk jonossa Futuristmovies.com long mindfuck smoking near-future William Fichtner mystic cyberpunk Tom Sizemore not seen Kathryn Bigelow memory noir New Year's Eve New Year 1999 dark Angela Bassett futuristic sci-fi provocative Nudity (Topless) rape bad ending strange Juliette Lewis 90s dystopia future police alcohol consume police corruption Ralph Fiennes virtual reality Science Fiction gay

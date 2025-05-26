@@ -1,0 +1,29 @@
+Анализ подкластера 18 в кластере 2
+Размер подкластера: 90 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama          46
+Comedy         28
+Crime          14
+Romance        11
+Documentary    10
+
+Топ-5 тегов:
+tag
+the       7
+boring    6
+funny     6
+story     5
+action    5
+
+Примеры фильмов:
+                                            title    rating           genres                tag
+16741                          Nickelodeon (1976)  2.777778           Comedy                NaN
+16746              Silent Souls (Ovsyanki) (2010)  3.500000            Drama                NaN
+16761  Young Aphrodites (Mikres Afrodites) (1963)  3.166667    Drama|Romance                NaN
+16772                               Skippy (1931)  3.500000     Comedy|Drama                NaN
+16793                            Slaughter (2009)  1.718750  Horror|Thriller  story line boring

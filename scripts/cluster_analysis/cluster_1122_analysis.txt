@@ -1,0 +1,15 @@
+Анализ кластера 1122
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Kurt      1
+Miller    1
+
+Примеры фильмов:
+                  title       genres          tag
+1122  Snowriders (1996)  Documentary  Kurt Miller

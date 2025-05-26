@@ -1,0 +1,23 @@
+Анализ кластера 1637
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+period     2
+Art        1
+17th       1
+century    1
+artist     1
+Period     1
+drama      1
+painter    1
+true       1
+story      1
+
+Примеры фильмов:
+                 title genres                                                                    tag
+1637  Artemisia (1997)  Drama  Art 17th century artist Period period period drama painter true story

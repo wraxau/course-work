@@ -1,0 +1,29 @@
+Анализ подкластера 111 в кластере 4
+Размер подкластера: 198 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.81
+
+Топ-5 жанров:
+genres
+Drama                 83
+Comedy                45
+Thriller              29
+(no genres listed)    26
+Action                24
+
+Топ-5 тегов:
+tag
+Michalka    3
+gay         3
+revenge     2
+Ajay        2
+based       2
+
+Примеры фильмов:
+                                title  rating              genres  tag
+31394            Flight Angels (1940)     2.0               Drama  NaN
+31395          Government Girl (1943)     2.5              Comedy  NaN
+31400  It's Tough to Be Famous (1932)     NaN        Comedy|Drama  NaN
+31405     Round Trip to Heaven (1992)     4.0  (no genres listed)  NaN
+31408            The 25th Hour (1967)     3.5           Drama|War  NaN

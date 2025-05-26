@@ -1,0 +1,16 @@
+Анализ кластера 271
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Disney    1
+James     1
+Orr       1
+
+Примеры фильмов:
+                       title  genres               tag
+271  Man of the House (1995)  Comedy  Disney James Orr

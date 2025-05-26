@@ -1,0 +1,21 @@
+Анализ кластера 2112
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy         1
+Christopher    1
+McDonald       1
+Bob            1
+Saget          1
+Norm           1
+MacDonald      1
+romance        1
+
+Примеры фильмов:
+                  title  genres                                                           tag
+2112  Dirty Work (1998)  Comedy  comedy Christopher McDonald Bob Saget Norm MacDonald romance

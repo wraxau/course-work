@@ -1,0 +1,23 @@
+Анализ кластера 214
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+school      3
+comedy      1
+high        1
+Theater     1
+Davis       1
+Tamra       1
+stupid      1
+Movies      1
+Funniest    1
+funny       1
+
+Примеры фильмов:
+                    title  genres                                                                                                                                                                                  tag
+214  Billy Madison (1995)  Comedy  comedy VHS seen more once teacher school silly elementary school goofy stupidity Adam Sandler high school stop looking swan funny Funniest Movies stupid Tamra Davis Theater School

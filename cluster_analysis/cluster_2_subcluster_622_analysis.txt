@@ -1,0 +1,29 @@
+Анализ подкластера 622 в кластере 2
+Размер подкластера: 17 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 2.86
+Дисперсия рейтинга: 0.43
+
+Топ-5 жанров:
+genres
+Drama       7
+Comedy      6
+Thriller    5
+Sci-Fi      3
+Romance     2
+
+Топ-5 тегов:
+tag
+novel          1
+Skolimowski    1
+low            1
+budget         1
+independent    1
+
+Примеры фильмов:
+                                         title    rating                    genres                                                                                               tag
+18908         Delicacy (La délicatesse) (2011)  3.375000            Comedy|Romance  novel adaptation mourning DEATH SPOUSE seen 2015 author:David Foenkinos adapted from:book french
+18919                  The Gamma People (1956)  2.000000             Horror|Sci-Fi                                                                                               NaN
+18925                    Big Night, The (1951)  3.714286  Drama|Film-Noir|Thriller                                                                                               NaN
+18934  Ollie Hopnoodle's Haven of Bliss (1988)  3.625000           Children|Comedy                                                                                         80s video
+18945                     Big Bang, The (2011)  2.625000           Action|Thriller                                                                                  nudity (topless)

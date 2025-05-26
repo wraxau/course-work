@@ -1,0 +1,24 @@
+Анализ кластера 2129
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+fullscreen    1
+shooting      1
+Alfred        1
+Lorre         1
+Peter         1
+audio         1
+poor          1
+auditorium    1
+assassin      1
+british       1
+
+Примеры фильмов:
+                                  title          genres                                                                                                                                            tag
+2129  Man Who Knew Too Much, The (1934)  Drama|Thriller  fullscreen british accents Criterion kidnapping civilian caught intrigue assassin shooting auditorium poor audio Peter Lorre Alfred Hitchcock

@@ -1,0 +1,29 @@
+Анализ подкластера 61 в кластере 0
+Размер подкластера: 17 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama        14
+Romance       4
+Comedy        3
+Adventure     3
+War           3
+
+Топ-5 тегов:
+tag
+drama      4
+adapted    4
+too        4
+Oscar      4
+Nom        4
+
+Примеры фильмов:
+                           title    rating                           genres                                                                    tag
+11509   Another Gay Movie (2006)  2.691176                           Comedy                                            Gay Lead Character lgbt gay
+11510  Myth, The (San wa) (2005)  3.212500  Action|Adventure|Comedy|Fantasy  Jackie Chan dreams China archaeology Hee-seon Kim martial arts action
+11511       Oyster Farmer (2004)  2.900000                            Drama                                                                    NaN
+11512     Waterloo Bridge (1931)  3.350000                        Drama|War                                                            James Whale
+11513    Red-Headed Woman (1932)  3.285714                   Comedy|Romance                   author:Katharine Brush adapted from:book Jack Conway

@@ -1,0 +1,26 @@
+Анализ кластера 1666
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Drama        1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+book           3
+nudity         2
+apocalyptic    2
+Golden         2
+Raspberry      2
+(Worst         2
+Nudity         2
+the            2
+(Rear)         1
+start          1
+
+Примеры фильмов:
+                    title                         genres                                                                                                                                                                                                                                                                                                                                                                        tag
+1666  Postman, The (1997)  Action|Adventure|Drama|Sci-Fi  nudity (topless) Post apocalyptic Golden Raspberry (Worst Actor) based book DVD shut about the book ok?! boring the book was better post-apocalyptic nudity (rear) adaptation Can't remember slow start post apocalyptic Golden Raspberry (Worst Picture) Nudity (Topless) dystopia Nudity (Rear) selfishness/unselfishness future Kevin Costner kevin costner Underrated

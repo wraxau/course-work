@@ -1,0 +1,25 @@
+Анализ кластера 502
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Fantasy    1
+Romance    1
+
+Топ-10 тегов:
+tag
+book               2
+Woolf              2
+based              2
+gender             2
+from:book          1
+Potter             1
+author:Virginia    1
+transgender        1
+adapted            1
+history            1
+
+Примеры фильмов:
+              title                 genres                                                                                                                                                                                                                                                                                               tag
+502  Orlando (1992)  Drama|Fantasy|Romance  history History nudity (full frontal) feminism stylized based book surreal Virginia Woolf Elizabethan Life Soundtrack Tilda Swinton see: based book gender Sally Potter author:Virginia Woolf transgender adapted from:book Nudity (Full Frontal) beautiful gender identity cross-dressing women

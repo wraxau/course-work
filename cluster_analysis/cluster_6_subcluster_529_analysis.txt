@@ -1,0 +1,29 @@
+Анализ подкластера 529 в кластере 6
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Drama       18
+Action       8
+Thriller     8
+Romance      7
+Comedy       7
+
+Топ-5 тегов:
+tag
+book      5
+bad       4
+for       4
+family    4
+based     4
+
+Примеры фильмов:
+                                        title    rating                       genres                                                                                                                                tag
+14401    EXPO: Magic of the White City (2005)  4.000000                  Documentary                                                                                                  history made for Chicago narrated
+14422                  Misérables, Les (1935)  3.575000                Drama|Romance             Victor Hugo 03/10 05/10 07/10 08/10 prospect Richard Boleslawski adapted from:book 06/10 author:Victor Hugo based book
+14426  Love Exposure (Ai No Mukidashi) (2008)  3.739726  Action|Comedy|Drama|Romance  01/11 long 04/11 11/11 05/11 10/10 06/11 03/11 12/10 12/11 coming-of-age religion existentialism dreamlike crazy Shion Sono 02/11
+14431           40 Guns to Apache Pass (1967)  3.300000    Adventure|Romance|Western                                                                                                                                NaN
+14441                 Fun is Beautiful (1980)  3.750000                       Comedy                                                                                                                      Carlo Verdone

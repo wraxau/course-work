@@ -1,0 +1,29 @@
+Анализ подкластера 35 в кластере 6
+Размер подкластера: 27 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.16
+Дисперсия рейтинга: 0.50
+
+Топ-5 жанров:
+genres
+Drama          12
+Documentary     7
+Thriller        6
+Crime           5
+Comedy          5
+
+Топ-5 тегов:
+tag
+not         2
+romantic    2
+based       2
+Les         2
+Blank       2
+
+Примеры фильмов:
+                                                                                                title  rating         genres                tag
+24266                                                                          Mishen (Target) (2011)     5.0   Drama|Sci-Fi                NaN
+24267                                                                     Castle on the Hudson (1940)     3.0    Crime|Drama                NaN
+24268                                             Catacombs (Curse IV: The Ultimate Sacrifice) (1988)     NaN         Horror          80s video
+24269                                                                        Marilena de la P7 (2006)     3.0  Drama|Fantasy   Cristian Nemescu
+24270  Uncle Marin, the Billionaire (Nea Marin miliardar) (Uncle Martin, the Multimillionaire) (1979)     2.5         Comedy  Sergiu Nicolaescu

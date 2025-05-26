@@ -1,0 +1,23 @@
+Анализ кластера 1359
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+James        1
+Garner       1
+politics     1
+Dan          1
+Aykroyd      1
+Jack         1
+Lemmon       1
+President    1
+Peter        1
+Segal        1
+
+Примеры фильмов:
+                           title  genres                                                                  tag
+1359  My Fellow Americans (1996)  Comedy  James Garner politics Dan Aykroyd Jack Lemmon President Peter Segal

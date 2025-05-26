@@ -1,0 +1,29 @@
+Анализ подкластера 130 в кластере 8
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama          9
+Mystery        1
+Thriller       1
+Romance        1
+Documentary    1
+
+Топ-5 тегов:
+tag
+true       2
+story      2
+nudity     1
+drama      1
+Marzieh    1
+
+Примеры фильмов:
+                                        title    rating                  genres                                                                                                                                                                                                         tag
+16356                  All Good Things (2010)  3.059859  Drama|Mystery|Thriller  nudity (topless) corruption awkward docudrama psychology realism slow true story mystery Kirsten Dunst tense romance creepy drama Ryan Gosling uncomfortable Nudity (Topless) lies REDBOX based true story
+16357                 Night Catches Us (2010)  3.038462           Drama|Romance                                                                                                                                                                                                         NaN
+16358  Interrogation, The (Kuulustelu) (2009)  3.666667                   Drama                                                                                                                                                                                        Late-career surprise
+16359              Hôtel des Invalides (1952)  3.375000             Documentary                                                                                                                                                                                                         NaN
+16360  Shades of Fern (Stín kapradiny) (1984)  3.500000                   Drama                                                                                                                                                                                                         NaN

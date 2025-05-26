@@ -1,0 +1,25 @@
+Анализ кластера 1754
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Fantasy    1
+Romance    1
+
+Топ-10 тегов:
+tag
+Cage            2
+the             2
+SUPERNATURAL    1
+mawkish         1
+tear            1
+jerker          1
+Death           1
+original        1
+better          1
+ROMANCE         1
+
+Примеры фильмов:
+                      title                 genres                                                                                                                                                                                                                                                                                  tag
+1754  City of Angels (1998)  Drama|Fantasy|Romance  stupid character seen the cinema sentimental Good music Bibliothek boring angel angels reviewed remake Impersonation Meg Ryan Nicholas Cage love story mawkish tear jerker Death the original better SUPERNATURAL ROMANCE Brad Silberling quotable Nicolas Cage ending kinda ruined

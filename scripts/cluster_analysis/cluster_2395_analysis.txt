@@ -1,0 +1,16 @@
+Анализ кластера 2395
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Sidney    1
+Lumet     1
+
+Примеры фильмов:
+              title          genres           tag
+2395  Gloria (1999)  Drama|Thriller  Sidney Lumet

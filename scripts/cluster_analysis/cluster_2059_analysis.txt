@@ -1,0 +1,27 @@
+Анализ кластера 2059
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Musical      1
+Western      1
+
+Топ-10 тегов:
+tag
+comedy       1
+animation    1
+animated     1
+Phil         1
+Nibbelink    1
+adventure    1
+Simon        1
+Wells        1
+western      1
+mice         1
+
+Примеры фильмов:
+                                           title                                        genres                                                                                                  tag
+2059  American Tail: Fievel Goes West, An (1991)  Adventure|Animation|Children|Musical|Western  comedy animation animated Phil Nibbelink adventure Simon Wells western mice talking animals classic

@@ -1,0 +1,23 @@
+Анализ кластера 1149
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+DVDs         2
+250          2
+top          2
+cinema       2
+small        1
+town         1
+nostalgic    1
+childhood    1
+meta         1
+heartfelt    1
+
+Примеры фильмов:
+                                               title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+1149  Cinema Paradiso (Nuovo cinema Paradiso) (1989)  Drama  erlend's DVDs superb soundtrack forgettable sentimental screenplay See netflixq Classic foreign meh nostalgia Giuseppe Tornatore centred movie theatre Oscar (Best Foreign Language Film) Tumey's DVDs warm Italian top 250 IMDB meta-movies Palermo small town nostalgic cinema childhood meta heartfelt classical Jamie's Dad's favourites emotional Poetic holes80s mentor Italy dvd reflective setting:movie cinema imdb top 250 censorship projectionist btaege touching Sicily bittersweet heartwarming

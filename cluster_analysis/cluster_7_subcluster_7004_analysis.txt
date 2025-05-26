@@ -1,0 +1,29 @@
+Анализ подкластера 7004 в кластере 7
+Размер подкластера: 446 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama       243
+Comedy      153
+Thriller     86
+Romance      79
+Crime        78
+
+Топ-5 тегов:
+tag
+nudity    51
+based     46
+movie     45
+ending    44
+Nudity    41
+
+Примеры фильмов:
+                                                               title    rating                 genres                                                                                                                                                                                                                                                               tag
+8339                                  Dr. Jekyll and Mr. Hyde (1920)  3.013514    Drama|Horror|Sci-Fi                       creepy VHS alter ego Robert Louis Stevenson John Robertson human nature dark side tale:Jekyll&Hyde double life hidden desires temptation duality adapted from:book author:Robert Louis Stevenson based book related:Dr. Jekyll and Mr. Hyde
+8346  Haxan: Witchcraft Through the Ages (a.k.a. The Witches) (1922)  3.500000     Documentary|Horror  documentary witch WITCHCRAFT Betamax etaege torture about the wrongly accused--not really about witches Satan mockumentary silent lightning inquisition creepy possession satan Benjamin Christensen devil Silent Criterion DEVIL WORSHIP biased Special Effects
+8347                                     Man from Beyond, The (1922)  2.750000                Mystery                                                                                                                                                                                                                                                               NaN
+8367                                      Steamboat Bill, Jr. (1928)  3.888545         Comedy|Romance                   public domain Buster Keaton Annemari father-son relationship memasa's movies rivalry netflix silent steamboats stunts classic underdog Marion Byron library CLASS DIFFERENCES silent movie library vhs Charles Reisner mass transport hurricane
+8378                                      Old Dark House, The (1932)  3.488636  Drama|Horror|Thriller                                                                                                                                                                                                     James Whale Boris Karloff Raymond Massey Old Dark House funny

@@ -1,0 +1,19 @@
+Анализ кластера 1843
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Musical    1
+
+Топ-10 тегов:
+tag
+Harry       1
+Beaumont    1
+maybe       1
+Oscar       1
+(Best       1
+Picture)    1
+
+Примеры фильмов:
+                            title   genres                                        tag
+1843  Broadway Melody, The (1929)  Musical  Harry Beaumont maybe Oscar (Best Picture)

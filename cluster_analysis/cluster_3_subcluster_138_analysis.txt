@@ -1,0 +1,29 @@
+Анализ подкластера 138 в кластере 3
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.35
+Медиана рейтинга: 3.47
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Drama      10
+Romance     7
+Comedy      5
+Action      2
+Horror      2
+
+Топ-5 тегов:
+tag
+based     6
+Nudity    6
+comedy    6
+book      6
+nudity    4
+
+Примеры фильмов:
+                                              title    rating                                        genres                                                                                                                                                                                                                                                                                                                                                                          tag
+605                    Hellraiser: Bloodline (1996)  2.529111                          Action|Horror|Sci-Fi                                                                                                                                                                                                                                                                                                   nudity (topless) occult horror franchise hell body horror Nudity (Topless)
+653                James and the Giant Peach (1996)  3.288417  Adventure|Animation|Children|Fantasy|Musical  fruits and veggies musical Roald Dahl screenwriter:Karey Kirkpatrick James Cameron creepy good based book Classic Disney good NO_FA_GANES awesome whimsical Disney animated feature stop-motion screenwriter:Jonathan Roberts claymation Tim Burton bugs adapted from:book talking animals animation screenwriter:Steve Bloom Henry Selick family author:Roald Dahl fantasy
+658  All Things Fair (Lust och fägring stor) (1995)  3.473988                             Drama|Romance|War                                                                                                                                                                                                                                                                                                                             less 300 ratings Widerberg nudity (full frontal)
+662  Mystery Science Theater 3000: The Movie (1996)  3.656827                                 Comedy|Sci-Fi                                                                               comedy ROBOTS AND ANDROIDS Sci-Fi hilarious commentary AWESOME funny shit spoof send-up Based show MST3K weak funny funniest movie ever JJoel Hodgson classic Comedy parody Funny hell RENT sci-fi Not seen based show hillarious BGAB LRC sarcasm Hillarious comedy Jim Mallon Michael Nelson
+675                            It's My Party (1996)  3.524501                                         Drama                                                                                                                                                                                                                                                                               friends friendship assisted suicide homosexuality aids queer AIDS hiv Randal Kleiser party gay

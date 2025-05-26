@@ -1,0 +1,29 @@
+Анализ подкластера 441 в кластере 0
+Размер подкластера: 39 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.34
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama       21
+Comedy      11
+Romance     10
+Thriller     6
+Horror       5
+
+Топ-5 тегов:
+tag
+relationship    5
+romance         5
+based           4
+and             4
+nudity          4
+
+Примеры фильмов:
+                                        title    rating                  genres                                                                                                                                                                                                                    tag
+10360                    Lightning Bug (2004)  3.125000   Drama|Horror|Thriller                                                                                                                                                                                                                    NaN
+10363      Dilwale Dulhania Le Jayenge (1995)  3.755102  Comedy|Musical|Romance  Comedy mother daughter relationship bollywood Aditya Chopra songs Amrish Puri romance boygirl dancing Anupam Kher father-son relationship lame ShahRukh Khan acting romance Bollywood India some over acting Superhit
+10371                          Strings (2004)  3.647059       Adventure|Fantasy                                                                                                                                                                                              drama animation adventure
+10379  Holy Girl, The (Niña santa, La) (2004)  3.466667                   Drama                                                                                                                                                                                        Lucrecia Martel Mercedes MorÃ¡n
+10383                     Undiscovered (2005)  2.440000    Comedy|Drama|Romance                                                                                                                                                                                                                  sucky

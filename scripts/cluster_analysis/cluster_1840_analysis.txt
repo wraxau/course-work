@@ -1,0 +1,24 @@
+Анализ кластера 1840
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+comedy        4
+funny         3
+the           2
+movie         2
+not           2
+Richman       1
+film          1
+inteligent    1
+very          1
+Island        1
+
+Примеры фильмов:
+                                    title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1840  There's Something About Mary (1998)  Comedy|Romance  awful movie comedy overrated hilarious hella cool dumbest movie ever seen the cinema Farrelly Brothers crude humor not funny classic!!! slapstick funny ken boring funniest movies Overrated reviewed madcap watch the credits Ben Stiller goofy physical comedy Jeffrey Tambor comedy plot classic Matt Dillon funny raunchy semen Markie Post Own Jonathan Richman Rhode Island not very inteligent comedy film Cameron Diaz avi AFI 100 (Laughs) Harland Williams Theater Watch Soon Eric's Dvds VHS fun sexual easygoing stupid

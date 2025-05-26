@@ -1,0 +1,28 @@
+Анализ подкластера 131 в кластере 8
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.31
+Медиана рейтинга: 3.65
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Documentary    3
+Drama          2
+Comedy         1
+Horror         1
+
+Топ-5 тегов:
+tag
+vodo.net             1
+poor                 1
+social               1
+commentary           1
+thought-provoking    1
+
+Примеры фильмов:
+                                                                            title    rating             genres                                                                                                                                                                                                                                                                                                                                                                          tag
+16700                                            Zeitgeist: Moving Forward (2011)  3.649038        Documentary  vodo.net presentation monetary policy conspiracy theory Social Revolution 9/11 bullshit utopia eye-opening Conspiracy Theory bad science human nature Scientific Way superstition capitalism over-the-top ending social commentary thought-provoking misrepresented sources pseudoscience rich and poor Agnosticiscm Peter Joseph revolution religion free download Fiction
+16701     Stewart Lee: If You Prefer a Milder Comedian, Please Ask for One (2010)  4.050000             Comedy                                                                                                                                                                                                                                                                                                                                                              stand-up comedy
+16702  Look What's Happened to Rosemary's Baby (a.k.a. Rosemary's Baby II) (1976)  2.500000       Drama|Horror                                                                                                                                                                                                                                                                                                                                                                          NaN
+16703                                                Great Stone Face, The (1968)  2.500000        Documentary                                                                                                                                                                                                                                                                                                                                                                          NaN
+16704                                                       Speed & Angels (2008)  3.833333  Documentary|Drama                                                                                                                                                                                                                                                                                                                                                                          NaN

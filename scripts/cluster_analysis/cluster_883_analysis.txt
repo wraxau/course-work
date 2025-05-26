@@ -1,0 +1,24 @@
+Анализ кластера 883
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Musical    1
+Romance    1
+
+Топ-10 тегов:
+tag
+Oscar       3
+(Best       2
+AFI         2
+dancing     2
+Film        2
+computer    1
+France      1
+Paris       1
+Vincente    1
+Minnelli    1
+
+Примеры фильмов:
+                            title           genres                                                                                                                                                                                                                                                                             tag
+883  American in Paris, An (1951)  Musical|Romance  computer erlend's DVDs Oscar Levant AFI #68 tap dancing BEST PICTURE National Film Registry Classic choreography Gershwin Gene Kelly dvr France Paris Vincente Minnelli Oscar (Best Picture) musical numbers Film Theory Criticism AFI 100 dancing Oscar (Best Cinematography)

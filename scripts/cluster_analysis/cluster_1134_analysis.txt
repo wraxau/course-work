@@ -1,0 +1,15 @@
+Анализ кластера 1134
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Golden    1
+Palm      1
+
+Примеры фильмов:
+                               title genres          tag
+1134  Symphonie pastorale, La (1946)  Drama  Golden Palm

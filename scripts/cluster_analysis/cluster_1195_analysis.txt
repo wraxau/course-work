@@ -1,0 +1,24 @@
+Анализ кластера 1195
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+family     3
+(Best      3
+100        3
+AFI        3
+Oscar      3
+Francis    2
+Ford       2
+Pacino     2
+New        2
+York       2
+
+Примеры фильмов:
+                               title       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1195  Godfather: Part II, The (1974)  Crime|Drama  Want Exceptional Acting Epic psychology slow Classic cinematographer:Gordon Willis Oscar (Best Directing) Great Drama, Superb star-cast, all-time favorite enthralling dvd leadership AFI 100 family relationships organized crime gambling Memorable Characters guns Robert Niro need buy romantic DVD Oscar (Best Supporting Actor) bathtub back-story movies stars Mafia Oscar (Best Picture) imdb top 250 100 Greatest Movies AFI 100 (Movie Quotes) jus+san own Francis Ford Copolla New York City Amazing sequel AFI #32 BEST PICTURE great acting Too much talking National Film Registry New York Mafia highly quotable mob Tumey's DVDs goofy sequel:better Cuba immigration Music author:Mario Puzo adapted from:book Italy dysfunctional family VHS mafia Francis Ford Coppola slow but very interesting Diane Keaton violence Robert Duvall mvlc memasa's movies Pacino Guns Netflix Finland complex characters Action DIVX classic BD-Video director-screenwriter Lake Tahoe classical bold nudity sequel John Cazale family Best Performance: Pacino Michael Corleone

@@ -1,0 +1,29 @@
+Анализ подкластера 247 в кластере 3
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.42
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Documentary    5
+Drama          2
+Action         1
+Adventure      1
+Comedy         1
+
+Топ-5 тегов:
+tag
+movie       1
+business    1
+Colin       1
+Hanks       1
+drugs       1
+
+Примеры фильмов:
+                                                               title    rating                                       genres                                     tag
+19807  Luck, Trust & Ketchup: Robert Altman in Carver Country (1993)  4.000000                                  Documentary                          movie business
+19808                        'Hellboy': The Seeds of Creation (2004)  3.088785  Action|Adventure|Comedy|Documentary|Fantasy                                     NaN
+19809                      Budd Boetticher: A Man Can Do That (2005)  4.000000                                  Documentary                                     NaN
+19810                                                      Rx (2005)  2.750000                       Crime|Romance|Thriller                       Colin Hanks drugs
+19811                        Terry Pratchett: Choosing to Die (2011)  4.000000                                  Documentary  topic:suicide topic:euthanasia suicide

@@ -1,0 +1,21 @@
+Анализ кластера 42
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+17th          1
+century       1
+historical    1
+period        1
+piece         1
+England       1
+Nudity        1
+(Topless)     1
+
+Примеры фильмов:
+                 title genres                                                            tag
+42  Restoration (1995)  Drama  17th century historical period piece England Nudity (Topless)

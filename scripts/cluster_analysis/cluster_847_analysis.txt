@@ -1,0 +1,17 @@
+Анализ кластера 847
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+might      1
+like       1
+Lisa       1
+Krueger    1
+
+Примеры фильмов:
+                 title genres                      tag
+847  Manny & Lo (1996)  Drama  might like Lisa Krueger

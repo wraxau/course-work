@@ -1,0 +1,23 @@
+Анализ кластера 2197
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+irish        2
+guns         1
+cocaine      1
+accent       1
+boston       1
+murder       1
+drinking     1
+gangsters    1
+
+Примеры фильмов:
+                     title              genres                                                               tag
+2197  Monument Ave. (1998)  Action|Crime|Drama  guns irish cocaine irish accent boston murder drinking gangsters

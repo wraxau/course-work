@@ -1,0 +1,17 @@
+Анализ кластера 177
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Nudity      1
+(Topless    1
+Brief)      1
+
+Примеры фильмов:
+               title         genres                     tag
+177  Mad Love (1995)  Drama|Romance  Nudity (Topless Brief)

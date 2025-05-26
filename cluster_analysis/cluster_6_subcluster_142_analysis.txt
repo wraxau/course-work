@@ -1,0 +1,29 @@
+Анализ подкластера 142 в кластере 6
+Размер подкластера: 96 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.49
+
+Топ-5 жанров:
+genres
+Drama        52
+Comedy       27
+Romance      16
+Action       15
+Adventure    11
+
+Топ-5 тегов:
+tag
+story     7
+nudity    6
+based     6
+for       5
+made      5
+
+Примеры фильмов:
+                               title    rating                                      genres                                                                                                                                                                                                                              tag
+14030     Aliens in the Attic (2009)  2.691489           Adventure|Children|Fantasy|Sci-Fi                                                                                                           aliens invasion Teen movie John Schultz Funny sexual content revealing clothing childish dialogue acting script aliens
+14035  Race to Witch Mountain (2009)  2.825000  Adventure|Children|Fantasy|Sci-Fi|Thriller  preachy dog Dwayne Johnson script based book Carla Gugino boring acting funny aliens exciting dialgoue good acting Alexander Ludwig sci-fi evil government story alien assassin AnnaSophia Robb adventure REDBOX cliche villain
+14047        The Sandwich Man (1983)       NaN                                       Drama                                                                                                                                                                                                                  Hsiao-Hsien Hou
+14063           Okie Noodling (2001)  3.400000                                 Documentary                                                                                                                                                                                                         Bradley Beesley Oklahoma
+14067  Army Brats (Schatjes!) (1984)  2.833333                             Children|Comedy                                                                                                                                                                                                                              NaN

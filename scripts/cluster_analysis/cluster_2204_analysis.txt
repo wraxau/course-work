@@ -1,0 +1,26 @@
+Анализ кластера 2204
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Horror      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+shape         3
+alien         2
+horror        2
+DVDs          2
+aliens        2
+sci-fi        2
+space         2
+disturbing    1
+lovecraft     1
+dvd           1
+
+Примеры фильмов:
+                  title                         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+2204  Thing, The (1982)  Action|Horror|Sci-Fi|Thriller  erlend's DVDs shape changer horror cold flame thrower Betamax kurt russel Annemari alien invasion Watched Bechdel Test:Fail arktis survival based book Futuristmovies.com alien thought-out Lovecraftian mythology John Carpenter remake better the old version violent Tumey's DVDs Antarctica Anamorphic Blow-Up intersubjectivity sci-fi horror gore aliens gory trust classic 70mm bug hunt antartica scope claustrophobic shape shifter snow MTSKAF Psychological lovecraftian disturbing aliens space science space craft shape sci-fi polar wintry dvd lovecraft Kurt Russell Solipsism sex imdb top 250 paranoia blood Bob*ola isolation prosthetics decent thiller Influenced H.P. Lovecraft Special Effects great special effects

@@ -1,0 +1,25 @@
+Анализ кластера 1206
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+War       1
+
+Топ-10 тегов:
+tag
+tense        2
+war          2
+long         2
+250          2
+queue        2
+DVDs         2
+End          1
+Happy        1
+realisitc    1
+drama        1
+
+Примеры фильмов:
+                             title            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1206  Boot, Das (Boat, The) (1981)  Action|Drama|War  gloomy erlend's DVDs Best Rotten Tomatoes: All Time atmospheric ocean Betamax epic hunted movie see soon best war films submarine memasa's movies breakthroughs notable soundtrack Bechdel Test:Fail too long gritty long war Nazis Wolfgang Petersen powerful Tumey's DVDs tense comradery realistic grim realisitc tense drama classic 70mm underwater claustrophobic BD-Video tragic drama. WWII brotherhood thought-provoking IMDB Top 250 netflix queue pacing dvd deutsch imdb top 250 hunt U-boat World War Netflix queue Happy End setting:submarine German submarines

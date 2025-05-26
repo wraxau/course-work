@@ -1,0 +1,25 @@
+Анализ кластера 1213
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+Horror     1
+
+Топ-10 тегов:
+tag
+zombie       3
+zombies      2
+cult         2
+comedy       2
+hilarious    1
+classic      1
+see!         1
+gruesome     1
+film         1
+Beginning    1
+
+Примеры фильмов:
+                              title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1213  Dead Alive (Braindead) (1992)  Comedy|Fantasy|Horror  hilarious Peter Jackson horror zombies 1950s See romantic comedy with zombies Movie over-the-top Best gore/horror movie ever gore hard rate aka Dead Alive funny black comedy see: zombie movies mother-son relationship disturbing must see! gruesome cult film Beginning Sucked virus dvd gross out cult classic lawn mower ending splatter Couldn't keep interest New Zealand awesome zombie flick campy zombie

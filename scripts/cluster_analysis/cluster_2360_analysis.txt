@@ -1,0 +1,18 @@
+Анализ кластера 2360
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+black     1
+and       1
+white     1
+boxing    1
+
+Примеры фильмов:
+                               title        genres                     tag
+2360  24 7: Twenty Four Seven (1997)  Comedy|Drama  black and white boxing

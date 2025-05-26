@@ -1,0 +1,26 @@
+Анализ кластера 1018
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Horror      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+reality         3
+psychic         3
+science         2
+PSYCHIC         1
+bad             1
+priest          1
+diary           1
+intelligence    1
+artificial      1
+ABILITIES       1
+
+Примеры фильмов:
+                          title                         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1018  Lawnmower Man, The (1992)  Action|Horror|Sci-Fi|Thriller  nudity (topless) psychedelic ridiculous training sequence character problems poor dialogue infernal machine post humanism animal research 2000s ethics science game katsomattomat sexuality unintentionally funny diabolizing mind control psychic powers charmingly outdated CGI animals EXPERIMENTS GONE AWRY mundane characters cyberpunk brain Can't remember god technology bald nemesis PSYCHIC ABILITIES artificial intelligence diary priest bad acting TECHNOLOGY RUN AMOK psychic stereotyped roles Nudity (Topless) psychic abilities lawn mower mentally impaired science alternate reality transformation virtual reality games augmented reality

@@ -1,0 +1,25 @@
+Анализ кластера 2120
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Hitchcock    2
+DVDs         2
+small        2
+L'ombra      1
+DOUBLE       1
+WOLF         1
+SHEEP'S      1
+CLOTHING     1
+town         1
+FATHERS      1
+
+Примеры фильмов:
+                         title                genres                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+2120  Shadow of a Doubt (1943)  Crime|Drama|Thriller  L'ombra del dubbio erlend's DVDs cynical Best Rotten Tomatoes: All Time serial killer National Film Registry Seen 2009 moody reviewed Tumey's DVDs SUBURBAN DYSFUNCTION tense Alfred Hitchcock suspense creepy classic almost favorite WOLF SHEEP'S CLOTHING small town FATHERS AND DAUGHTERS disturbing small towns DOUBLE LIFE imdb top 250 INNOCENCE LOST SERIAL KILLERS 100 Essential Female Performances trains Hitchcock

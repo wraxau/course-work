@@ -1,0 +1,15 @@
+Анализ кластера 578
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                                         title         genres  tag
+578  I Don't Want to Talk About It (De eso no se habla) (1993)  Drama|Romance  NaN

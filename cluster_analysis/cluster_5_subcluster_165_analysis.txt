@@ -1,0 +1,29 @@
+Анализ подкластера 165 в кластере 5
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.10
+
+Топ-5 жанров:
+genres
+Documentary    2
+War            2
+Comedy         1
+Crime          1
+Drama          1
+
+Топ-5 тегов:
+tag
+Hitler        3
+propaganda    2
+addition      2
+Why           2
+hard          2
+
+Примеры фильмов:
+                                                                    title    rating                                   genres                                                                                                                                                                                                                                                                                                                     tag
+13266                                            Little Giant, The (1933)  2.812500                             Comedy|Crime                                                                                                                                                                                                                                                                                                            Roy Del Ruth
+13267                                                       Mr. Wu (1927)  3.375000                                    Drama                                                                                                                                                                                                                                                                                                                     NaN
+13268  Chinese Ghost Story II, A (Sien nui yau wan II yan gaan do) (1990)  3.431818  Action|Adventure|Fantasy|Horror|Romance                                                                                                                                                                                                                                                              Siu-Tung Ching joey wang wuxia martial arts ching siu-tung
+13269                          Nazis Strike, The (Why We Fight, 2) (1943)  3.187500                          Documentary|War                                                     short USA National Film Registry google video Nazis air force addition propaganda hard rate Europe narrated Internet Archive Adolf Hitler Hitler Youth (HJ) archive footage hard watch hitler Free download Poland library vhs World War Holocaust Why Fight series
+13270                     Battle of Britain, The (Why We Fight, 4) (1943)  3.636364                          Documentary|War  RAF USA nocturnal National Film Registry bombs easily confused with other movie(s) (title) air force Nazis fire aerial dogfights addition propaganda Third Reich narrated Internet Archive Adolf Hitler London WOMEN DURING WARTIME evacuees hitler Free download library vhs World War freedom Why Fight series radar

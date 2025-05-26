@@ -1,0 +1,16 @@
+Анализ кластера 2381
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+Wes        1
+Craven     1
+Betamax    1
+
+Примеры фильмов:
+                     title  genres                 tag
+2381  Deadly Friend (1986)  Horror  Wes Craven Betamax

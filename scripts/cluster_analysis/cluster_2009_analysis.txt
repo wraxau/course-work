@@ -1,0 +1,28 @@
+Анализ кластера 2009
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Fantasy      1
+Musical      1
+Romance      1
+
+Топ-10 тегов:
+tag
+Disney      2
+animated    2
+Jonathan    1
+Tad         1
+face        1
+heel        1
+Zaslove     1
+Alan        1
+Weinger     1
+Scott       1
+
+Примеры фильмов:
+                            title                                                genres                                                                                                                                                                                               tag
+2009  Return of Jafar, The (1994)  Adventure|Animation|Children|Fantasy|Musical|Romance  Jonathan Freeman animation Disney animated feature Linda Larkin Jim Cummings animated Disney Jason Alexander Gilbert Gottfried Tad Stones Toby Shelton Scott Weinger Alan Zaslove heel face turn

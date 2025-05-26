@@ -1,0 +1,29 @@
+Анализ подкластера 445 в кластере 3
+Размер подкластера: 45 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama        19
+Comedy       15
+Adventure     9
+Thriller      8
+Action        8
+
+Топ-5 тегов:
+tag
+Betamax      8
+comedy       4
+Criterion    4
+Tom          4
+DVDs         4
+
+Примеры фильмов:
+                                          title    rating         genres                                                                                             tag
+5041                             Wendigo (2001)  2.310000   Drama|Horror                                                                                             NaN
+5044                 Bad News Bears, The (1976)  3.403917         Comedy  baseball team children foul language sport:baseball Michael Ritchie sports remade kids Classic
+5066                        Intersection (1994)  2.593168  Drama|Romance    nudity (topless) Richard Gere Golden Raspberry (Worst Actress) Sharon Stone Nudity (Topless)
+5067  Jo Jo Dancer, Your Life is Calling (1986)  2.661765   Comedy|Drama                                                                                         Betamax
+5079                          Field, The (1990)  3.154321          Drama    Sean Bean dies Ireland Brilliant acting all! Sean Bean was amazing even though hardly spoke.

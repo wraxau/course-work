@@ -1,0 +1,22 @@
+Анализ кластера 509
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Mystery    1
+Romance    1
+
+Топ-10 тегов:
+tag
+George      1
+Lucas       1
+period      1
+piece       1
+radio       1
+show        1
+business    1
+
+Примеры фильмов:
+                        title                  genres                                            tag
+509  Radioland Murders (1994)  Comedy|Mystery|Romance  George Lucas period piece radio show business

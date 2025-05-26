@@ -1,0 +1,29 @@
+Анализ подкластера 139 в кластере 8
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.08
+
+Топ-5 жанров:
+genres
+Drama          6
+Crime          3
+Romance        2
+Thriller       2
+Documentary    2
+
+Топ-5 тегов:
+tag
+Harry         1
+d'Abbadie     1
+Initiation    1
+Fraternity    1
+Ambrose       1
+
+Примеры фильмов:
+                                title    rating                                  genres                                                                                tag
+17320  Tonight and Every Night (1945)  3.000000                                 Musical                                                                                NaN
+17321                The Thief (1952)  3.500000                   Crime|Drama|Film-Noir                                                                                NaN
+17322                  Raffles (1930)  3.833333  Adventure|Crime|Drama|Romance|Thriller  Harry d'Abbadie d'Arrast adapted from:book author:E.W. Hornung George Fitzmaurice
+17323          Dark Angel, The (1935)  3.000000                           Drama|Romance                                                                    Sidney Franklin
+17324      Brewster's Millions (1945)  3.267857                                  Comedy                                                            predictable inheritance

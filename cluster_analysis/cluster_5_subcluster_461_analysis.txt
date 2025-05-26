@@ -1,0 +1,29 @@
+Анализ подкластера 461 в кластере 5
+Размер подкластера: 173 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.49
+
+Топ-5 жанров:
+genres
+Drama          61
+Comedy         52
+Documentary    37
+Horror         28
+Thriller       25
+
+Топ-5 тегов:
+tag
+bad          14
+nudity       10
+3-D           9
+music         9
+(topless)     8
+
+Примеры фильмов:
+                                                  title    rating                genres                                                                               tag
+19231                         Silent Scream, The (1980)  2.000000       Horror|Thriller                                                                               NaN
+19249  Virtual JFK: Vietnam If Kennedy Had Lived (2008)  3.250000           Documentary                                                                 alternate reality
+19251                                  Cleanskin (2012)  3.265957  Crime|Drama|Thriller                         nudity (topless) boring dehumanization terrorism prospect
+19278   Ticket To Romance (En enkelt til Korsør) (2008)  3.500000  Comedy|Drama|Romance                                                                               NaN
+19285                       Miser, The (L'avare) (1980)  3.625000                Comedy  Louis FunÃ¨s Uderzo MoliÃ©re miser adapted from:play playwright:MoliÃ¨re Theater

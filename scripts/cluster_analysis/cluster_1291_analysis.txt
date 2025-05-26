@@ -1,0 +1,26 @@
+Анализ кластера 1291
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Horror      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Alien        3
+effects      2
+DVDs         2
+special      2
+sequel       2
+franchise    2
+Fincher      1
+allegory     1
+Presence     1
+Female       1
+
+Примеры фильмов:
+                               title                         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1291  Alien³ (a.k.a. Alien 3) (1992)  Action|Horror|Sci-Fi|Thriller  erlend's DVDs Evil Alien special edition waste time wasted potential Alien troubled production Bleak Future Too Hollywood Watched great productiondesign memasa's movies survival Good effects poor character development Thriller boring franchise PAL VHS BAD special effects Action Tumey's DVDs Deadly Creatures Anamorphic Blow-Up Alien Quadrilogy Survival Ruined the franchise suspense aliens underrated Outer Space Sigourney Weaver 70mm scope David Fincher unnecessary sequel Strong Female Presence allegory crappy Lance Henriksen not scary spooky prequel sci-fi alien series Horror Rough rape dvd Eric's Dvds strange sequel torrential downpour prison

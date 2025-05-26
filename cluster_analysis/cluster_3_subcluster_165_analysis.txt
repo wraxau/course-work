@@ -1,0 +1,29 @@
+Анализ подкластера 165 в кластере 3
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.10
+
+Топ-5 жанров:
+genres
+Drama        14
+Comedy       10
+Adventure     4
+Horror        4
+Thriller      4
+
+Топ-5 тегов:
+tag
+based        3
+Navy         2
+from:book    2
+great        2
+acting       2
+
+Примеры фильмов:
+                                                     title    rating                genres                                                                                                                             tag
+21913                            Inequality for All (2013)  3.775000           Documentary  labor politics Jacob Kornbluth economics social commentary poverty thought-provoking economic inequality Robert Reich equality
+21914                                Narrien illat (1970)   2.000000  Comedy|Drama|Musical                                                                                                                             NaN
+21915    Sword of Desperation (Hisshiken torisashi) (2010)  4.500000          Action|Drama                                                                                                               Hideyuki Hirayama
+21916                                  Mooring, The (2012)  2.166667       Horror|Thriller                                                                                                                             NaN
+21917  Seyyit Khan: Bride of the Earth (Seyyit Han) (1968)  4.500000         Drama|Western                                                                                                                    Yilmaz Güney

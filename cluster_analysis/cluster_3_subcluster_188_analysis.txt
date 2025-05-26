@@ -1,0 +1,29 @@
+Анализ подкластера 188 в кластере 3
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.45
+
+Топ-5 жанров:
+genres
+Comedy         4
+Documentary    2
+Drama          2
+Adventure      2
+Children       2
+
+Топ-5 тегов:
+tag
+based       3
+comedy      3
+stand-up    2
+book        2
+not         2
+
+Примеры фильмов:
+                                                                            title    rating       genres                                                                                    tag
+21517                                                        Baby On Board (1992)  1.666667       Comedy                                                                                    NaN
+21518                                                  Battle for Brooklyn (2011)  3.250000  Documentary                                    Suki Hawley Brooklyn New York City Michael Galinsky
+21519  Vares: The Path of the Righteous Men (Vares - Kaidan tien kulkijat) (2012)  3.000000  Crime|Drama                                                                                    NaN
+21520                                       Alcan Highway (Alaska Highway) (2013)  3.500000  Documentary                                                                          Canada Alaska
+21521                                                Louis C.K.: Oh My God (2013)  3.974613       Comedy  comedy Louis C.K. not documentary honest stand-up comedy stand-up Louis C.K relatable

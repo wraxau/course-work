@@ -1,0 +1,19 @@
+Анализ кластера 2485
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+nudity      2
+male        1
+(full       1
+frontal)    1
+
+Примеры фильмов:
+                    title                genres                                tag
+2485  Among Giants (1998)  Comedy|Drama|Romance  male nudity nudity (full frontal)

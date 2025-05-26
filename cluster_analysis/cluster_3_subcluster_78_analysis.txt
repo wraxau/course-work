@@ -1,0 +1,29 @@
+Анализ подкластера 78 в кластере 3
+Размер подкластера: 60 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.64
+
+Топ-5 жанров:
+genres
+Drama          24
+Comedy         20
+Thriller       11
+Action         11
+Documentary     9
+
+Топ-5 тегов:
+tag
+ending    12
+bad       12
+comedy     8
+IMAX       8
+plot       7
+
+Примеры фильмов:
+                                                        title    rating         genres                                                                                                            tag
+21247                   Beginner's Guide to Endings, A (2010)  3.416667   Comedy|Drama                                                                                    cast funny story characters
+21248                           War You Don't See, The (2010)  4.000000    Documentary                                        documentary politics John Pilger self-censorship Alan Lowery journalism
+21249                                    Schlussmacher (2013)  2.750000         Comedy  Berlin relationships break-up buddy movie Frankfurt german movie Germany lesbian character road movie company
+21250                            From the East (D'Est) (1993)  3.750000    Documentary                                                                                                Chantal Akerman
+21251  Ill-Fated Love (Doomed Love) (Amor de Perdição) (1979)  3.500000  Drama|Romance                                                                                                Manoel Oliveira

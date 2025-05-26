@@ -1,0 +1,23 @@
+Анализ кластера 2199
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+70mm              1
+Bernardo          1
+Bertolucci        1
+nudity            1
+(full             1
+frontal)          1
+cinematography    1
+Super-35          1
+Blow-Up           1
+library           1
+
+Примеры фильмов:
+                           title genres                                                                                                                              tag
+2199  Sheltering Sky, The (1990)  Drama  70mm Bernardo Bertolucci nudity (full frontal) cinematography Super-35 Blow-Up library vhs John Malkovich Nudity (Full Frontal)

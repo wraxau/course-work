@@ -1,0 +1,20 @@
+Анализ кластера 120
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Can't       1
+remember    1
+dating      1
+Nudity      1
+(Topless    1
+Brief)      1
+
+Примеры фильмов:
+                title          genres                                           tag
+120  Boomerang (1992)  Comedy|Romance  Can't remember dating Nudity (Topless Brief)

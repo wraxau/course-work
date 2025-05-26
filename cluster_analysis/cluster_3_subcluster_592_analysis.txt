@@ -1,0 +1,29 @@
+Анализ подкластера 592 в кластере 3
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama      17
+Comedy     16
+Romance     9
+Action      6
+Sci-Fi      4
+
+Топ-5 тегов:
+tag
+DVDs      9
+John      5
+book      5
+Nudity    4
+war       4
+
+Примеры фильмов:
+                                                          title    rating         genres                                                                                                                                                                                                               tag
+4855                                   Lone Wolf McQuade (1983)  2.727941         Action                                                                                                                                                                                                      Chuck Norris
+4873                                              Piñero (2001)  2.769231          Drama                                                                                                                                                                                                               NaN
+4886                                           Clockwise (1986)  3.414557         Comedy  horrifying (but not Horror genre) Monk's Gate comedy errors NOTHING GOES RIGHT teacher time who would valiant hymns Pilgrim's Progress school headmaster John Bunyan England farce John Cleese norwich hobgoblin
+4887  Crawling Eye, The (a.k.a. Trollenberg Terror, The) (1958)  2.598901  Horror|Sci-Fi                                                                                        mountain climbing better everybody thinks telepathy sisters ahead its time underrated decapitation middle-aged protagonist
+4891                                         Silent Rage (1982)  2.337349  Action|Sci-Fi                                                                                                                                                                   Chuck Norris Michael Miller music acting script

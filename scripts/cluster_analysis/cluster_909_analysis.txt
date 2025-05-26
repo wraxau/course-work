@@ -1,0 +1,23 @@
+Анализ кластера 909
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+AFI            3
+top            3
+100            3
+Oscar          3
+(Best          3
+protagonist    2
+davis          2
+Eva            2
+Best           2
+dialogue       2
+
+Примеры фильмов:
+                    title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+909  All About Eve (1950)  Drama  New York City Best Rotten Tomatoes: All Time mvlc BEST PICTURE Bechdel Test:Pass National Film Registry Hollywood Gay Fave Emerson must see psychology bettie davis rules bette davis eyes AFI #16 Bibliothek Eva contro Eva fabulous Joseph Mankiewicz Oscar (Best Supporting Actor) Tony Awards Friends Should See Oscar (Best Directing) theatrical people/inside the theatre cinema/actors acting Tumey's DVDs Great Screenplays theme:ambition protagonist stage performer top 250 IMDB sociopath technique:narration over freeze-frame "bitchy" classic stand-and-talk dialogue wikilens top pick great acting/subtle performances ummarti2006 dvr Bette Davis Camp psychodrama Theater Broadway Oscar (Best Picture) protagonist actor imdb top 250 backstage 100 Greatest Movies AFI 100 AFI 100 (Movie Quotes) great dialogue Anne Baxter Best Performance: Bette Davis Margo Channing Veja

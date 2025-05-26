@@ -1,0 +1,29 @@
+Анализ подкластера 7003 в кластере 7
+Размер подкластера: 837 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.53
+
+Топ-5 жанров:
+genres
+Drama          360
+Comedy         213
+Thriller       140
+Documentary    114
+Action         109
+
+Топ-5 тегов:
+tag
+nudity    33
+story     32
+plot      27
+funny     25
+bad       24
+
+Примеры фильмов:
+                               title    rating          genres                                                                                                                                                     tag
+18714             Hunter, The (2011)  3.539007           Drama  wilderness realness reviewed mute secretive child elusive creature extinct species lone mercenary R:brief violence acting Daniel Nettheim Willem Dafoe
+18723       Prayers for Bobby (2009)  3.965116           Drama         drama homosexuality and religion mother-son relationship Ryan Kelley LGBT homophobia religion coming out Russell Mulcahy Gay Lead Character gay
+18725   Bustin' Down the Door (2009)  4.500000     Documentary                                                                                                                                                     NaN
+18730  Very Potter Musical, A (2009)  3.750000  Comedy|Musical                                                                                                               musical parody amateurs play Harry Potter
+18734                 Retreat (2011)  3.093023        Thriller                                                                                                                               Cillian Murphy Jamie Bell

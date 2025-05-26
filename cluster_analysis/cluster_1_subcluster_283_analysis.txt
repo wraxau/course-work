@@ -1,0 +1,29 @@
+Анализ подкластера 283 в кластере 1
+Размер подкластера: 36 фильмов
+Средний рейтинг: 2.85
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.77
+
+Топ-5 жанров:
+genres
+Drama        18
+Adventure     8
+Comedy        7
+Action        6
+Romance       6
+
+Топ-5 тегов:
+tag
+Harold       1
+Bucquet      1
+based        1
+problems     1
+fertility    1
+
+Примеры фильмов:
+                                 title  rating                            genres                                               tag
+26538               Head Office (1985)     2.5                            Comedy                                               NaN
+26541               Once Fallen (2010)     0.5                Action|Crime|Drama                                               NaN
+26543   The Adventures of Tartu (1943)     3.0        Drama|Romance|Thriller|War  Harold Bucquet Also known title "Sabotage Agent"
+26544      Knight Without Armor (1937)     2.0  Adventure|Drama|Romance|Thriller                                               NaN
+26546  The Flesh and the Fiends (1961)     1.5                            Horror                                               NaN

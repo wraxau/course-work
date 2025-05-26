@@ -1,0 +1,29 @@
+Анализ подкластера 148 в кластере 3
+Размер подкластера: 24 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 2.97
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Comedy      18
+Drama        7
+Romance      4
+Crime        4
+Thriller     3
+
+Топ-5 тегов:
+tag
+Nudity     10
+comedy     10
+Betamax     8
+nudity      6
+family      5
+
+Примеры фильмов:
+                                                 title    rating                 genres                                                                                                                               tag
+2134                            Elstree Calling (1930)  1.700000         Comedy|Musical                                                                                                                               NaN
+2154  Seven Beauties (Pasqualino Settebellezze) (1976)  3.854825           Comedy|Drama                                                  Lina Wertmüller biting cynical irreverent quirky madcap disturbing wry satirical
+2162                             Stars and Bars (1988)  2.579710  Action|Comedy|Romance                                                                                                                               NaN
+2163                         Married to the Mob (1988)  3.102853                 Comedy  nudity (topless) Didn't finish quirky charm Jonathan Demme FBI Betamax delightful Michelle Pfeiffer Demme Nudity (Topless) Mafia
+2167                Cabinet of Dr. Ramirez, The (1991)  2.730769                 Comedy                                                                                                                               NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 60 в кластере 4
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.47
+Дисперсия рейтинга: 0.46
+
+Топ-5 жанров:
+genres
+Comedy       10
+Drama         9
+Romance       6
+Adventure     6
+Action        5
+
+Топ-5 тегов:
+tag
+bad           5
+ridiculous    3
+like          3
+comedy        3
+not           3
+
+Примеры фильмов:
+                                                title    rating                          genres                                                                                                               tag
+9781                            Topper Returns (1941)  3.000000  Comedy|Fantasy|Mystery|Romance                                                                 murder Roy Del Ruth ghosts/afterlife invisibility
+9782                        Sons of the Desert (1933)  3.608108                          Comedy                                     might like William Seiter not available from Netflix Stan Laurel Oliver Hardy
+9783                                   Morocco (1930)  3.516393                   Drama|Romance       Gary Cooper National Film Registry Josef von Sternberg less 300 ratings pre-code Hollywood Marlene Dietrich
+9784  Surplus: Terrorized Into Being Consumers (2003)  3.916667                     Documentary  sound editing editing social commentary globalisation anarchism music revolutionary capitalism consumerism artsy
+9785                          Man of the House (2005)  2.914747                   Action|Comedy                                    girls boring This happy face stereotypes Tommy Lee Jones cliched Stephen Herek

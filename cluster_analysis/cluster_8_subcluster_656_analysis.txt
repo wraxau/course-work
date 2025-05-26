@@ -1,0 +1,29 @@
+Анализ подкластера 656 в кластере 8
+Размер подкластера: 45 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama          25
+Comedy         12
+Thriller        7
+Action          7
+Documentary     5
+
+Топ-5 тегов:
+tag
+drama      5
+funny      4
+bad        4
+good       4
+Netflix    4
+
+Примеры фильмов:
+                             title    rating              genres                                                     tag
+12437      Future by Design (2006)  3.785714  Documentary|Sci-Fi                                                     NaN
+12456            Blue State (2007)  3.120690              Comedy                                                     NaN
+12457                 U2 3D (2007)  3.666667    Documentary|IMAX  IMAX DMR 3-D Stereoscopic 3-D rock and roll Fusion 3-D
+12461            Motel, The (2005)  3.000000        Comedy|Drama                                            Michael Kang
+12465  It's a Free World... (2007)  3.258065               Drama                                               Ken Loach

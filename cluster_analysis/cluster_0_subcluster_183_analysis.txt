@@ -1,0 +1,29 @@
+Анализ подкластера 183 в кластере 0
+Размер подкластера: 10 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 2.90
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Comedy      5
+Drama       3
+Thriller    3
+Sci-Fi      2
+Crime       2
+
+Топ-5 тегов:
+tag
+good         3
+based        3
+bad          2
+stupid       2
+character    2
+
+Примеры фильмов:
+                               title    rating                                genres                                                                                                                             tag
+11831     Devil Commands, The (1941)  2.500000                         Horror|Sci-Fi                                                                                                                             NaN
+11832      Mr. Bean's Holiday (2007)  2.864749                                Comedy   awkward moments vacation cute adapted from:TV series Rowan Atkinson boys Steve Bendelack funny stupid Willem Dafoe based show
+11833  Grace Lee Project, The (2005)  3.000000                           Documentary                                                                                                                             NaN
+11834             Adam & Paul (2004)  3.750000                          Comedy|Drama                                                                                                                             NaN
+11835          Invisible, The (2007)  3.140221  Crime|Drama|Fantasy|Mystery|Thriller  HORRIBLE ACTING interesting remake invisibility David Goyer redbox owned main character total shit jacksonville justin chatwin

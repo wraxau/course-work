@@ -1,0 +1,25 @@
+Анализ кластера 905
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama        1
+Film-Noir    1
+Romance      1
+
+Топ-10 тегов:
+tag
+Oscar          5
+(Best          4
+100            3
+black          3
+AFI            3
+old            3
+protagonist    2
+Hollywood      2
+Gloria         2
+Swanson        2
+
+Примеры фильмов:
+                                             title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+905  Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)  Drama|Film-Noir|Romance  Los Angeles Oscar (Best Art Direction) washed talky Dark Erich von Stroheim old hollywood actress goes nuts has-been kept man/gigolo theme:ambition Oscar (Best Music Original Score) stardom William Holden narrated noir thriller AFI #12 protagonist writer Grand Guignol interesting knowledge end beginning predictable Oscar Nominee: Lead Actress black and white AFI 100 typewriter loss innocence erlend's DVDs USA film registry Hollywood Hollywood story narcissism morbid boring theme:opportunism exploitation topic:Hollywood industry old depressing satire suicide attempt movies murder black humor mental illness imdb top 250 Sven's see list AFI 100 (Movie Quotes) setting:Paramount studios 100 Essential Female Performances May-December romance over-the-top biting atmospheric setting:movie studio mansion National Film Registry Emerson must see Friends Should See Tumey's DVDs New Year's Eve elegiac setting:Hollywood Billy Wilder rich and poor protagonist actor film noir sardonic stylized Oscar (Best Music) Highly quotable mvlc 1950s AGE DISPARITY ROMANCE memasa's movies movie business theatrical people/inside the theatre cinema/actors acting old graet eerie satirical classic writing dark Oscar (Best Screenplay) Best Performance: Gloria Swanson Norma Desmond retirement irreverent gloria swanson Gloria Swanson director swimming pool black comedy

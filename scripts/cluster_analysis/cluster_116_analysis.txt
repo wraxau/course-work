@@ -1,0 +1,15 @@
+Анализ кластера 116
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                   title          genres  tag
+116  If Lucy Fell (1996)  Comedy|Romance  NaN

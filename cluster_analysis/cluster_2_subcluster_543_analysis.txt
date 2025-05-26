@@ -1,0 +1,29 @@
+Анализ подкластера 543 в кластере 2
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama       22
+Romance      7
+Comedy       6
+Thriller     5
+War          5
+
+Топ-5 тегов:
+tag
+rich          4
+based         4
+crime         4
+nudity        3
+historical    3
+
+Примеры фильмов:
+                              title    rating                              genres                                                                                                                                                                                                                  tag
+15645        Lies (Gojitmal) (1999)  3.500000                               Drama                                                                                                                                                                                           losing virginity sexuality
+15650    Hellsinki (Rööperi) (2009)  3.123077                               Crime  history porn industry not available from Netflix 11/10 addition tragic crime local flavor drama alcohol crime family 10/10 ensemble cast 1960s bootlegging Finnish Helsinki 03/11 prison family drugs finnish gangs
+15655                   2:13 (2009)  2.125000                     Horror|Thriller                                                                                                                                                                                                        serial killer
+15656                 Shifty (2008)  4.000000                      Crime|Thriller                                                                                                           London low budget directorial debut crime British bafta nominated drugs drug dealing drug abuse Underrated
+15665  Yank in the R.A.F., A (1941)  3.125000  Action|Adventure|Drama|Romance|War                                                                                                                                                                                                                  NaN

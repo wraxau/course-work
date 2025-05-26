@@ -1,0 +1,21 @@
+Анализ кластера 1301
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+accident      1
+friendship    1
+slasher       1
+Amy           1
+Steel         1
+pranks        1
+twist         1
+ending        1
+
+Примеры фильмов:
+                        title  genres                                                        tag
+1301  April Fool's Day (1986)  Horror  accident friendship slasher Amy Steel pranks twist ending

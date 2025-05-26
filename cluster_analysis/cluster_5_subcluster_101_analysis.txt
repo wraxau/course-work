@@ -1,0 +1,29 @@
+Анализ подкластера 101 в кластере 5
+Размер подкластера: 29 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama          22
+Comedy          8
+Romance         5
+Documentary     4
+Crime           3
+
+Топ-5 тегов:
+tag
+nudity         4
+(topless)      3
+Hou            3
+Netflix        3
+Hsiao-Hsien    3
+
+Примеры фильмов:
+                               title    rating                genres                                                                         tag
+14092               Waterland (1992)  2.842105                 Drama                                                            nudity (topless)
+14093  I Can't Think Straight (2007)  3.571429         Drama|Romance                    drama lesbian family coming out Shamim Sarif arab family
+14094              Miss March (2009)  2.577670                Comedy  nudity (topless) Zach Cregger nude black women Craig Robinson Trevor Moore
+14095                Bandslam (2009)  3.440341  Comedy|Drama|Musical                                             future cult flick Netflix queue
+14096       A City of Sadness (1989)  3.590909                 Drama                                                        Hsiao-Hsien Hou long

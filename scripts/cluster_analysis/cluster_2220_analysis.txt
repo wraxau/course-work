@@ -1,0 +1,18 @@
+Анализ кластера 2220
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+less       1
+300        1
+ratings    1
+Daniel     1
+Craig      1
+
+Примеры фильмов:
+                         title genres                            tag
+2220  Love Is the Devil (1998)  Drama  less 300 ratings Daniel Craig

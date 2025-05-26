@@ -1,0 +1,29 @@
+Анализ подкластера 7 в кластере 6
+Размер подкластера: 549 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama       275
+Comedy      175
+Romance     108
+Thriller     96
+Action       79
+
+Топ-5 тегов:
+tag
+based     51
+book      47
+comedy    47
+bad       45
+not       42
+
+Примеры фильмов:
+                                title    rating                                       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+13344       Last Chance Harvey (2008)  3.235294                                Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Joel Hopkins Seen 2013 perrot library dramatic irony seen more once BGAB LRC Netflix queue Two great actors screen for two hours! Decent screenplay Dustin Hoffman Seen 2009 weak screenplay seen airplane Emma Thompson Own
+13346                   Ip Man (2008)  3.951295                             Action|Drama|War  japanese occupation china history asia chinese jingoism chinese propaganda good evil biography justice japanese rated-R Bruce Lee Master cotton violence Wing Tsun See chinese culture action Netflix Finland netflix education predictable ending factory historical Wing Chun Donnie Yen martial arts historical background wife kungfu bruce lee master Man Lynn Hung drama children Netflix Streaming wing chun 7.4-FilmAffinity MTSKAF technique China slow motion scenes predictable Wilson Yip kongfu inspirational chinese martial arts fighting imdb top 250 chinese unhistorical distorted representation history foreign language biographical view family self-defence well done occupation kung
+13356  Tale of Despereaux, The (2008)  3.074830  Adventure|Animation|Children|Comedy|Fantasy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                erlend's DVDs animation mice computer animation plucky hero Robert Stevenhagen Boldo Sam Fell too many notes adaptation talking animals story betrayal based book rats netflix
+13357               Bride Wars (2009)  2.905308                               Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  comedy too serious Funny kate hudson sex before marriage Bechdel Test:Pass forgettable could have been funnier romance Wedding Anne Hathaway
+13360  My Bloody Valentine 3-D (2009)  2.569565                              Horror|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Dual-HD Video bad twist ending Bob*ola nudity (full frontal) slasher remake bad script Jensen Ackles classic horror Stereoscopic 3-D stupid

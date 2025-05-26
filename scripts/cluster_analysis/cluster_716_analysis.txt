@@ -1,0 +1,23 @@
+Анализ кластера 716
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+England           2
+comedy            1
+adapted           1
+John              1
+Schlesinger       1
+1930s             1
+setting:London    1
+(UK)              1
+protagonist       1
+writer            1
+
+Примеры фильмов:
+                        title  genres                                                                                                                                                                                                                                                                                                                                                  tag
+716  Cold Comfort Farm (1995)  Comedy  comedy Made for setting:rural England hilarious Bechdel Test:Pass Joanna Lumley Kate Beckinsale Stephen Fry desert island flicks based book Funny author:Stella Gibbons setting:farm rural John Schlesinger 1930s setting:London (UK) protagonist writer parody adapted from:book matriarch Ian McKellen Jane Austen Netflix queue England Classism

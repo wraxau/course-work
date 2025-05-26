@@ -1,0 +1,29 @@
+Анализ подкластера 231 в кластере 3
+Размер подкластера: 162 фильмов
+Средний рейтинг: 3.41
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama        80
+Comedy       44
+Romance      31
+Adventure    22
+Action       19
+
+Топ-5 тегов:
+tag
+AFI      45
+100      44
+DVDs     43
+(Best    41
+Oscar    39
+
+Примеры фильмов:
+                                               title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+702                                  Dead Man (1995)  3.896268  Drama|Mystery|Western  road trip atmospheric native american imagination irony visually appealing spiritual journey Bechdel Test:Fail Johnny Depp western Jim Jarmusch love affair life boring perrot library surreal quirky lethargic pace NO_FA_GANES spirituality life death visionary bleak John Hurt melancholy death interesting characters social commentary hallucinatory Lance Henriksen cult film iggy pop!!! poetry black and white iggy pop enigmatic strange americana great soundtrack BFI modern classic beautiful allegorical dreamlike anticolonial
+705              Mouth to Mouth (Boca a boca) (1995)  3.215789                 Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+710  Haunted World of Edward D. Wood Jr., The (1996)  3.609722            Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             movie business Wood Brett Thompson
+715                               War Stories (1995)  3.155172            Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+718                                  Low Life (1994)  3.068493                  Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN

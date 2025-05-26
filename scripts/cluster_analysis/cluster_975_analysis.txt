@@ -1,0 +1,23 @@
+Анализ кластера 975
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Matthew        1
+Broderick      1
+nuclear        1
+war            1
+directorial    1
+debut          1
+science        1
+physics        1
+World          1
+War            1
+
+Примеры фильмов:
+               title genres                                                                                                            tag
+975  Infinity (1996)  Drama  Matthew Broderick nuclear war directorial debut science physics World War genius true story Patricia Arquette

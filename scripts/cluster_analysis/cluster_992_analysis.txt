@@ -1,0 +1,25 @@
+Анализ кластера 992
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Comedy       1
+
+Топ-10 тегов:
+tag
+probably    1
+saw         1
+this        1
+and         1
+loved       1
+it.         1
+racing      1
+Herbie      1
+The         1
+Love        1
+
+Примеры фильмов:
+                         title                     genres                                                                  tag
+992  Herbie Rides Again (1974)  Adventure|Children|Comedy  probably saw this and loved it. racing Herbie The Love Bug (series)

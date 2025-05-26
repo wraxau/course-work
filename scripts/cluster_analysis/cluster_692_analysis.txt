@@ -1,0 +1,24 @@
+Анализ кластера 692
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+
+Топ-10 тегов:
+tag
+street         2
+intrigue       1
+Dragon         1
+Roger          1
+Damme          1
+Van            1
+Jean-Claude    1
+fighting       1
+Tibet          1
+violence       1
+
+Примеры фильмов:
+                 title            genres                                                                                                                                                                                                tag
+692  Quest, The (1996)  Action|Adventure  intrigue friendship competition pirates stowaway street children underdog orphans New York kickboxing Golden Dragon martial arts violence Tibet street fighting Jean-Claude Van Damme Roger Moore

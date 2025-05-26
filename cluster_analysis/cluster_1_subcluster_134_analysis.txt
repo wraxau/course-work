@@ -1,0 +1,29 @@
+Анализ подкластера 134 в кластере 1
+Размер подкластера: 69 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama        29
+Comedy       25
+Action       15
+Crime        14
+Adventure    12
+
+Топ-5 тегов:
+tag
+French    10
+France     6
+Film       6
+bad        5
+Nudity     5
+
+Примеры фильмов:
+                                                                    title    rating                genres                                                                    tag
+22947                                              Date and Switch (2014)  3.240000                Comedy                                 gay-straight friendship coming out gay
+22950                                                 Endless Love (2014)  3.418367         Drama|Romance                                             teen romance alex pettyfer
+22958                                                     No Nukes (1980)  3.100000   Documentary|Musical                                          nuclear power benefit concert
+22963                           Beyond the Law (Lain ulkopuolella) (1987)       NaN  Crime|Drama|Thriller                                                           Ville Mäkelä
+22967  On the Other Side of the Tracks (De l'autre côté du périph) (2012)  2.000000   Action|Comedy|Crime  nudity (topless) French Film Laurent Lafitte French France Paris Omar

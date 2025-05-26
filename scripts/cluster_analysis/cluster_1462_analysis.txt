@@ -1,0 +1,24 @@
+Анализ кластера 1462
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+Frances      1
+McDormand    1
+Jennifer     1
+Ehle         1
+reviewed     1
+Cate         1
+Blanchett    1
+Pauline      1
+Collins      1
+Glenn        1
+
+Примеры фильмов:
+                     title     genres                                                                                  tag
+1462  Paradise Road (1997)  Drama|War  Frances McDormand Jennifer Ehle reviewed Cate Blanchett Pauline Collins Glenn Close

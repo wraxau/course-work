@@ -1,0 +1,23 @@
+Анализ кластера 1903
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+subgenre:slasher     1
+slasher              1
+serial               1
+killer               1
+franchise            1
+character:Michael    1
+Myers                1
+teens                1
+Donald               1
+Pleasence            1
+
+Примеры фильмов:
+                                                 title  genres                                                                                                                                               tag
+1903  Halloween 5: The Revenge of Michael Myers (1989)  Horror  subgenre:slasher slasher serial killer franchise character:Michael Myers teens Donald Pleasence Dominique Othenin-Girard murder Horror Halloween

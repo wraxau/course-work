@@ -1,0 +1,29 @@
+Анализ подкластера 660 в кластере 8
+Размер подкластера: 84 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Drama        53
+Comedy       27
+Romance      15
+Thriller     12
+Adventure    10
+
+Топ-5 тегов:
+tag
+Nudity     17
+the        12
+story      10
+movie       9
+ratings     9
+
+Примеры фильмов:
+                                                                                                                                 title    rating                             genres                                                                                                                                             tag
+10718                                                                                                     Goodnight, Mister Tom (1999)  3.508929                              Drama                                                                                Jack Gold 03/10 11/09 made for 12/09 uplifting 02/10 01/10 10/09
+10719                                                                                                     Late Spring (Banshun) (1949)  3.935644                              Drama  Noriko Trilogy social commentary Criterion bloggers family family relationships masterpiece Yasujiro Ozu sightsound Japan Yasujirô Ozu classic
+10721  Personal History, Adventures, Experience, & Observation of David Copperfield the Younger, The (a.k.a. David Copperfield) (1935)  3.192308            Adventure|Drama|Romance                       kuenstlerroman Charles Dickens bad parents bildungsroman author:Charles Dickens George Cukor adapted from:book based book
+10755                                                                                                                  Penelope (1966)  4.000000                       Comedy|Crime                                                                                                                 screwball comedy charming retro
+10768                                                                                                        Casper Meets Wendy (1998)  2.761905  Adventure|Children|Comedy|Fantasy                                                                                                                                             NaN

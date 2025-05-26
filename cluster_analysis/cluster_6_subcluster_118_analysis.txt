@@ -1,0 +1,29 @@
+Анализ подкластера 118 в кластере 6
+Размер подкластера: 18 фильмов
+Средний рейтинг: 3.35
+Медиана рейтинга: 3.34
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Drama       10
+Comedy       6
+Romance      5
+Thriller     4
+Fantasy      3
+
+Топ-5 тегов:
+tag
+based        4
+available    3
+action       3
+Bob*ola      3
+humor        3
+
+Примеры фильмов:
+                                title    rating             genres                                                                                                                                                                                  tag
+13025      Miracle at St. Anna (2008)  2.950000  Drama|Mystery|War                                                                                                                           nudity (topless) war Bob*ola John Turturro racial conflict
+13031                     1984 (1956)  3.712632       Drama|Sci-Fi  dystopia Not available from Netflix remade author:George Orwell [Eric Blair] fascism adapted from:book not available from Netflix George Orwell Michael Anderson based book classic
+13046                      Red (2008)  3.509934     Drama|Thriller                                                                                                                       animal cruelty justice animal:dog REDBOX animal sympathy aging
+13051  Accidental Husband, The (2009)  2.984615     Comedy|Romance                                                                                                    Colin Firth Isabella Rossellini not lot chemistry Jeffery Dean Morgan Uma Thurman
+13057           Wrong Man, The (1993)  2.583333   Romance|Thriller                                                                                                                                                                                  NaN

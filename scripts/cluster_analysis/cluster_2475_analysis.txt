@@ -1,0 +1,22 @@
+Анализ кластера 2475
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+
+Топ-10 тегов:
+tag
+animation    1
+See          1
+also:The     1
+King         1
+and          1
+(1956)       1
+animated     1
+vhs          1
+
+Примеры фильмов:
+                       title              genres                                                  tag
+2475  King and I, The (1999)  Animation|Children  animation See also:The King and (1956) animated vhs

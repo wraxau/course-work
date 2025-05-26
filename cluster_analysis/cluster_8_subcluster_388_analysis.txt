@@ -1,0 +1,29 @@
+Анализ подкластера 388 в кластере 8
+Размер подкластера: 36 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.37
+
+Топ-5 жанров:
+genres
+Drama       21
+Thriller     8
+Comedy       8
+Crime        7
+Horror       7
+
+Топ-5 тегов:
+tag
+movie     5
+story     5
+ending    4
+great     4
+native    4
+
+Примеры фильмов:
+                                           title    rating                    genres                                                                                                                                                                                                                                                                                                                                tag
+10647                     After Innocence (2005)  3.550000         Crime|Documentary                                                                                                                                                                                                                                                                                                    Jessica Sanders wrongly accused
+10651                        Paradise Now (2005)  3.744552  Crime|Drama|Thriller|War  terrorism Great suicide palestine Seen 2007 martyrdom fundamentalism; catch-22 fundamentalism PG-13 Middle East middle east Golden Globe winner scope Intifada israel Religion arabic despair friendship God Oscar Nominee: Foreign Language (Palestine) Hany Abu-Assad religion beautiful collaborators Ashraf Barhom Islam PG13
+10677                   Beyond the Forest (1949)  3.375000  Drama|Film-Noir|Thriller                                                                                                                                                                                                                                                                                                              might like King Vidor
+10682           Knute Rockne All American (1940)  3.055556                     Drama                                                                                                                                                                                                                                                                                                                                NaN
+10693  Executive Protection (Livvakterna) (2001)  3.000000           Action|Thriller                                                                                                                                                                                                                                                                                                                                NaN

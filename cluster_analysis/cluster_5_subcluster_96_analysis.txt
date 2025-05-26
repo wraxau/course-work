@@ -1,0 +1,29 @@
+Анализ подкластера 96 в кластере 5
+Размер подкластера: 33 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.71
+
+Топ-5 жанров:
+genres
+Comedy    15
+Drama      8
+Action     8
+Horror     4
+Crime      3
+
+Топ-5 тегов:
+tag
+corruption    3
+bad           3
+the           3
+book          2
+(topless)     2
+
+Примеры фильмов:
+                                  title    rating         genres                                                                         tag
+21433  Damned, The (Les Maudits) (1947)  2.916667          Drama  Nazis doctors submarine closeted homosexual defeat René Clément war crimes
+21434            Gasland Part II (2013)  3.700000    Documentary                                             nature mining business Josh Fox
+21441     Devil Dared Me To, The (2007)  3.700000  Action|Comedy                                            profane New Zealand over the top
+21444                       Gold (2013)  3.375000        Western                                                strong female lead beautiful
+21453           Miami Connection (1987)  3.025000   Action|Crime                                                               bad it's good

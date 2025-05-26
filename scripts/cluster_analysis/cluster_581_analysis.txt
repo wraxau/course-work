@@ -1,0 +1,27 @@
+Анализ кластера 581
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Drama       1
+Fantasy     1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Goldberg    3
+Oscar       3
+Whoopi      3
+(Best       2
+Romantic    2
+crime       1
+Zucker      1
+lez         1
+widowed     1
+recently    1
+
+Примеры фильмов:
+            title                                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+581  Ghost (1990)  Comedy|Drama|Fantasy|Romance|Thriller  overrated Demi Moore Want potter Oscar (Best Original Score) Patrick Swayze humorous ghosts/afterlife sentimental ghana Quite Romantic Thriller subway wellmade seen more once ditto Fantasy Good Romantic Comedies love story awesome ghosts romance illogical drama tearjerking Catchy Score Whoopie Goldberg good cry Whoopi girlie movie sensual death dvr buy Jerry Zucker SUPERNATURAL ROMANCE protagonist recently widowed Whoopi Goldberg lez scene remakeOf:Truly Madly Deeply Whoopi Goldberg Oscar (Best Supporting Actress) library passionate Unchained Melody sweet chick flick Oscar Winner afternoon section passion crime bittersweet supernatural

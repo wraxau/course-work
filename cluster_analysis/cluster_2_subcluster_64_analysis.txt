@@ -1,0 +1,29 @@
+Анализ подкластера 64 в кластере 2
+Размер подкластера: 53 фильмов
+Средний рейтинг: 3.32
+Медиана рейтинга: 3.47
+Дисперсия рейтинга: 0.51
+
+Топ-5 жанров:
+genres
+Drama       33
+Comedy      11
+Thriller     9
+Mystery      5
+Romance      5
+
+Топ-5 тегов:
+tag
+good      7
+story     6
+not       5
+comedy    4
+the       4
+
+Примеры фильмов:
+                            title    rating                      genres                                                                                                                         tag
+15958  Alice in Wonderland (1933)  3.600917  Adventure|Children|Fantasy                       Gary Cooper Norman McLeod weird weirder the Tim Burton version adapted from:book author:Lewis Carroll
+15965            Every Day (2010)  3.361111                Comedy|Drama                                                 New York City Ezra Miller Helen Hunt infidelity Liev Schreiber Carla Gugino
+15979     Brown of Harvard (1926)       NaN               Drama|Romance                                                                                                                 Jack Conway
+15992           Dark House (2009)  1.937500             Horror|Thriller                                                                                                                         NaN
+15994               Hunger (2009)  3.100000             Horror|Thriller  survival horror Papier Mache Cave Kidnapping Social Experiment Lori Heuring Cannabalism Scientist Joe Egender Imprisonment

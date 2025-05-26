@@ -1,0 +1,29 @@
+Анализ подкластера 85 в кластере 0
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama       16
+Comedy       9
+Romance      6
+Crime        6
+Thriller     5
+
+Топ-5 тегов:
+tag
+movie          8
+action         3
+unrealistic    3
+see            3
+story          3
+
+Примеры фильмов:
+                                         title    rating                       genres                                                                                                                                                                                                                                                                                                                              tag
+11185  Sione's Wedding (Samoan Wedding) (2006)  3.750000               Comedy|Romance                                                                                                                                                                                                                                                                                                                              NaN
+11186                        Miami Vice (2006)  2.957295  Action|Crime|Drama|Thriller  nudity (topless) erlend's DVDs Jamie Foxx sloooooow shallow characters bad movie undercover cops disappointing drug smugglers unrealistic action realistic action Based show dark unrealistic ClearPlay Colin Farrell Michael Mann confusing Miami unique Florida grainy Gong stylish action packed unrealistic plot based show
+11187                    Groomsmen, The (2006)  2.861111         Comedy|Drama|Romance                                                                                                                                                                                                                                                                                                                   Jinni Top Pick
+11188                       Shadowboxer (2005)  3.076923         Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                 nudity (topless)
+11189                   Each Dawn I Die (1939)  3.250000         Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                 William Keighley

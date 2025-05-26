@@ -1,0 +1,29 @@
+Анализ подкластера 19 в кластере 2
+Размер подкластера: 137 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.42
+
+Топ-5 жанров:
+genres
+Drama       77
+Comedy      40
+Thriller    24
+Action      15
+Crime       13
+
+Топ-5 тегов:
+tag
+story    12
+great     9
+funny     9
+book      8
+bad       8
+
+Примеры фильмов:
+                                                     title    rating          genres                                                                                                                                                        tag
+17665  Blind Sunflowers, The (Los girasoles ciegos) (2008)  2.900000           Drama                                                                                                                                          Spanish civil war
+17668                             Our Idiot Brother (2011)  3.244161          Comedy  hippy watch the credits siblings Zooey Deschanel feel-good cast Poor direction Jesse Peretz Paul Rudd funny Earnest protagonist heartwarming Steve Coogan
+17684                         Petits ruisseaux, Les (2010)  2.875000           Drama                                                                                                                                                        NaN
+17686                               Above Suspicion (1943)  2.666667  Drama|Thriller                                                                                                                                                        NaN
+17689                                         Terri (2011)  3.361386          Comedy                          quirky small town Azazel Jacobs embarassing scenes John Reilly jacob wysocki high school not funny Olivia Crociccia netflix queue

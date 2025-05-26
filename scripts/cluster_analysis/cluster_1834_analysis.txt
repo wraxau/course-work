@@ -1,0 +1,26 @@
+Анализ кластера 1834
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Romance     1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+space            6
+world            5
+the              5
+end              2
+bad              2
+save             2
+disaster         2
+Oscar            2
+long             1
+pseudoscience    1
+
+Примеры фильмов:
+                  title                          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1834  Armageddon (1998)  Action|Romance|Sci-Fi|Thriller  apocalypse Ben Affleck humorous Places getting obliterated Brett Northcutt quick cuts patriotic space travel Bruce Willis liv tyler space station archaeology visually appealing Golden Raspberry (Worst Actor) disaster Americans save the world space Divx1 Steve Buscemi bad but enjoyable thriller meteorite space program Futuristmovies.com Cheesy (bad) Animal crackers slick bad science catastrophe end the world rousing apocolypse turd Homestuck tense excellent soundscore ominous Guns space Oscar Nominee audience intelligence underestimated spaceship cheesy (good) natural disaster 70mm over the top unrealistic Michael Bay Oscar Nominee: Sound Effects Editing Billy Bob Thornton world end dull americans save the world predictable asteroid Aerosmith Liv Tyler pseudoscience sci-fi special effects Owen Wilson comet flashy michael bay Criterion adventure unimaginative Bad Science USA saving the world action packed afternoon section long music video stylized stupid big budget Outer space

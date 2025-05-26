@@ -1,0 +1,23 @@
+Анализ кластера 1521
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+biting      1
+screen      1
+film        1
+Jean-Luc    1
+Godard      1
+CREATIVE    1
+BLOCK       1
+literate    1
+writer      1
+cynical     1
+
+Примеры фильмов:
+                             title genres                                                                                                                                                                                                                                                                                tag
+1521  Contempt (Mépris, Le) (1963)  Drama  biting cynical sightsound talky Bibliothek based book WORK ETHICS movie business Bootytastic writers FILMMAKING capri nudity (rear) satirical European film Jean-Luc Godard CREATIVE BLOCK literate screen writer reflective deliberate Criterion library vhs CRUMBLING MARRIAGES

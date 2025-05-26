@@ -1,0 +1,29 @@
+Анализ подкластера 367 в кластере 3
+Размер подкластера: 27 фильмов
+Средний рейтинг: 3.40
+Медиана рейтинга: 3.52
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama     15
+Action     7
+Comedy     7
+Horror     5
+Sci-Fi     5
+
+Топ-5 тегов:
+tag
+DVDs        5
+erlend's    4
+film        4
+space       4
+ratings     4
+
+Примеры фильмов:
+                           title    rating                            genres                                                                                                                                                                                                                                                                        tag
+7368     Kwaidan (Kaidan) (1964)  3.872240                            Horror                                                                                   erlend's DVDs ghost story Masaki Kobayashi atmospheric meditative Tatsuya Nakadai melancholy ghosts/afterlife Betamax Criterion anthology historical samurai eerie ghosts Japan stylized
+7373  You Only Live Twice (1967)  3.617280  Action|Adventure|Sci-Fi|Thriller  Roald Dahl killer protagonist submarine James Bond space Sean Connery franchise assassin owned spaceships Japan Can't remember gyrocopter 007 70mm hong kong BD-Video james bond 007 (series) murder screenwriter:Roald Dahl Bond VHS japan bond submarines Lewis Gilbert
+7392        Desert Hearts (1985)  3.537037                             Drama                                                                                                                                              nudity (topless) lesbian might like lgbt good film book better queer Homosexuality Donna Deitch self discovery based book gay
+7394      Rooster Cogburn (1975)  3.393162                    Comedy|Western                                                                                                                                                                                                                                                                 John Wayne
+7400     If You Only Knew (2000)  3.125000                    Comedy|Romance                                                                                                                                                                                                                                                                        NaN

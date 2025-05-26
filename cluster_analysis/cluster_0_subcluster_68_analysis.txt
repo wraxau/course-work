@@ -1,0 +1,29 @@
+Анализ подкластера 68 в кластере 0
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama       13
+Comedy       8
+Romance      7
+Sci-Fi       3
+Thriller     3
+
+Топ-5 тегов:
+tag
+music      4
+bad        3
+DVDs       3
+time       3
+Tumey's    3
+
+Примеры фильмов:
+                                         title    rating                                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+11429            The Butterfly Effect 2 (2006)  2.580940  Adventure|Drama|Romance|Sci-Fi|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              predictable time travel greed bad sequel
+11431                Platform (Zhantai) (2000)  3.363636                                    Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    TIFF Top the 2000s
+11432                   Lunacy (Sílení) (2006)  3.232143                         Animation|Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Jan Svankmajer mental illness mental hospital psychology Mental Institution
+11433                      Flushed Away (2006)  3.394704                         Animation|Comedy                                                                                                                                                                                                           Aardman Below Kate Winslet Sam Fell romantic slapstick london David Bowers Wallace Gromit Tumey's DVDs bad plot DIVX parodies funny London Bill Nighy Andy Serkis movie see rich and poor singing slugs Jean Reno 31-3-2007 Animation talking animals rats animation Dreamworks Ian McKellen musical parodies Tom Jones England beautiful smart humor class
+11434  Perfume: The Story of a Murderer (2006)  3.663154                     Crime|Drama|Thriller  nudity (topless) serial killer awkward waste time sensuality good setting alan rickman artistic ben whishaw based book dustin hoffman thriller Ben Whishaw sexuality weird ridiculous ending scent historical Tumey's DVDs owned read the book instead waterboarding over-the-top ending different view ClearPlay Nudity (Topless Notable) 17th century murder perfume dvr creativity France Tom Tykwer cannibalism Nudity (Topless) Based Book 18th century Grasse great soundtrack orgy period piece BGAB LRC jus+san Dustin Hoffman obsession Alan Rickman senses

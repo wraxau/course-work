@@ -1,0 +1,29 @@
+Анализ подкластера 591 в кластере 4
+Размер подкластера: 40 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.55
+
+Топ-5 жанров:
+genres
+Drama                 18
+Comedy                 9
+Thriller               7
+(no genres listed)     6
+Action                 6
+
+Топ-5 тегов:
+tag
+Duvivier     5
+Julien       5
+Criterion    3
+Australia    2
+relations    2
+
+Примеры фильмов:
+                                   title  rating              genres  tag
+33870                  Dirty Mind (2009)     3.5        Comedy|Drama  NaN
+33875              Doctor Vlimmen (1977)     3.0               Drama  NaN
+33878                      Vallen (2001)     3.5  (no genres listed)  NaN
+33898  Inner Worlds, Outer Worlds (2012)     5.0         Documentary  NaN
+33909           The Devil's Candy (2015)     1.5              Horror  NaN

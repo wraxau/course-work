@@ -1,0 +1,29 @@
+Анализ подкластера 52 в кластере 1
+Размер подкластера: 35 фильмов
+Средний рейтинг: 2.94
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Drama       16
+Action       8
+Comedy       7
+Thriller     7
+Romance      6
+
+Топ-5 тегов:
+tag
+ridiculous     3
+good           2
+drama          2
+boring         2
+responsible    2
+
+Примеры фильмов:
+                                                                  title    rating                 genres                                   tag
+23293                                                   Barabbas (1953)       NaN                  Drama                   Biblical based book
+23300                                              Best Man Down (2012)  3.306452                  Drama                                   NaN
+23302                                                Border Feud (1947)  3.000000  Action|Comedy|Western                                   NaN
+23305                Loves of Pharaoh, The (Das Weib des Pharao) (1922)  3.000000      Drama|Romance|War                                   NaN
+23307  Breaking the Silence: Truth and Lies in the War on Terror (2003)  2.875000            Documentary  John Pilger Steve Connelly terrorism

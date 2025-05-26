@@ -1,0 +1,29 @@
+Анализ подкластера 29 в кластере 0
+Размер подкластера: 56 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama       34
+Comedy      18
+Thriller    17
+Romance     13
+Action       9
+
+Топ-5 тегов:
+tag
+movie     10
+the        7
+see        7
+and        6
+Nudity     6
+
+Примеры фильмов:
+                                                            title    rating                 genres                                                         tag
+11606                                             Neverwas (2005)  3.451923  Drama|Fantasy|Mystery                                        Joshua Michael Stern
+11607                                            Seven Up! (1964)  3.965183            Documentary  instant view Paul Almond The Series MTSKAF (series) series
+11608                                         7 Plus Seven (1970)  3.945693            Documentary       boring The Series 07/09 (series) Michael Apted series
+11609  Record of a Tenement Gentleman (Nagaya shinshiroku) (1947)  3.500000                  Drama                                                Yasujirô Ozu
+11610                                  R-Point (Arpointeu) (2004)  3.000000    Action|Drama|Horror                      vietnam war war vengeful spirit ghosts

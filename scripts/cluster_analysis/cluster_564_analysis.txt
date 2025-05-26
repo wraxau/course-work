@@ -1,0 +1,18 @@
+Анализ кластера 564
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+baseball     1
+sports       1
+Andrew       1
+Scheinman    1
+
+Примеры фильмов:
+                        title        genres                               tag
+564  Little Big League (1994)  Comedy|Drama  baseball sports Andrew Scheinman

@@ -1,0 +1,24 @@
+Анализ кластера 1356
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Horror    1
+
+Топ-10 тегов:
+tag
+100          4
+AFI          4
+horror       4
+top          3
+classic      3
+the          2
+spielberg    2
+movies       2
+Speilberg    2
+Steven       2
+
+Примеры фильмов:
+            title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+1356  Jaws (1975)  Action|Horror  Shark erlend's DVDs animal horror horror Best Rotten Tomatoes: All Time soundtrack the best Jaws Halloween movie National Film Registry ocean animal:shark Betamax Steven Speilberg visceral characters WHEN ANIMALS ATTACK memasa's movies AFI 100 (Thrills) See roy scheider man nature menacing 70s plot Roy Scheider franchise seen more once Creature Feature effects always watch when it's Tumey's DVDs animals script fail top 250 IMDB tense gore fischhorror ominous animal attacks suspense richard dreyfuss will keep you away from the water creepy classic horror classic man vs. beast buy suspenseful music tierhorror Robert Shaw Gfei own spielberg monster Action photography scary shark top horror movies nudity imdb top 250 sexual content AFI #48 dialogue Speilberg 100 Greatest Movies AFI 100 (Movie Quotes) AFI 100 Steven Spielberg BFI modern classic steven spielberg quotable need bigger boat TERROR THE WATER shark-attacks

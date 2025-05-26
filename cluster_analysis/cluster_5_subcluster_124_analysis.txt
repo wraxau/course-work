@@ -1,0 +1,29 @@
+Анализ подкластера 124 в кластере 5
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.09
+
+Топ-5 жанров:
+genres
+Drama      3
+Comedy     2
+Romance    2
+Fantasy    1
+Crime      1
+
+Топ-5 тегов:
+tag
+Michael           2
+erlend's          1
+PG-13:sexual      1
+PG-13:thematic    1
+romance           1
+
+Примеры фильмов:
+                                   title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+13906              Whatever Works (2009)  3.589677                Comedy|Romance  erlend's DVDs New York City Bechdel Test:Pass (barely) photography Begley Jr. Seen 2010 2016 love anti-reigion 10/09 antichristian PG-13 perrot library PG-13:brief nude images bar physics polyamory Evan Rachel Wood kiss naivety philosophical Patricia Clarkson anti-gun runaway board game intellectual amazing chess monologue dog walker PG-13:sexual situations including dialogue eccentricity current larry david Larry David family relationships Woody Allen Netflix queue Michael McKean May-December romance PG-13:thematic material gay
+13907  Ghosts of Girlfriends Past (2009)  2.887895        Comedy|Fantasy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                pickup Matthew McConaughey amoral characters Jennifer Garner redbox Michael Douglas unmarried sex cheesy
+13908                       Holly (2006)  3.250000                         Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Cambodia prostitution Ron Livingston
+13909                      Hustle (1975)  2.916667  Crime|Drama|Mystery|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          police Betamax
+13910                     Houdini (1953)  3.000000                         Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   stage magic biography

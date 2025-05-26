@@ -1,0 +1,27 @@
+Анализ кластера 2055
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Drama        1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+dark            2
+animated        2
+cartoon         2
+animals         2
+pompoko)        1
+John            1
+Hurt            1
+naturalistic    1
+sad             1
+sad.            1
+
+Примеры фильмов:
+                      title                                      genres                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+2055  Watership Down (1978)  Adventure|Animation|Children|Drama|Fantasy  atmospheric serious cartoon life lessons Bechdel Test:Fail based book psychic character rabbits Martin Rosen dark animated film violent directorial debut See: Pom Poko (a.k.a. The Raccoon War) (Heisei tanuki gassen pompoko) John Hurt naturalistic sad sad. again with the dying animated animals disturbing adapted from:book talking animals not for kids cartoon animation VHS Criterion dark undertones beautiful

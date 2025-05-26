@@ -1,0 +1,25 @@
+Анализ кластера 1000
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+Verne                2
+VHS                  1
+adapted              1
+based                1
+Fleischer            1
+Richard              1
+cephalopod           1
+monster:giant        1
+setting:submarine    1
+submarine            1
+
+Примеры фильмов:
+                                    title                  genres                                                                                                                                                                                      tag
+1000  20,000 Leagues Under the Sea (1954)  Adventure|Drama|Sci-Fi  VHS Jules Verne disney James Mason author:Jules Verne sea monster Book period piece adapted from:book submarine setting:submarine monster:giant cephalopod Richard Fleischer based book

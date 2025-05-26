@@ -1,0 +1,24 @@
+Анализ кластера 725
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+bounty        1
+hunter(s)     1
+(Topless)     1
+Nudity        1
+Remake        1
+Casablanca    1
+Critic        1
+Nostalgia     1
+boobs         1
+suit          1
+
+Примеры фильмов:
+                title         genres                                                                                                                                                            tag
+725  Barb Wire (1996)  Action|Sci-Fi  bounty hunter(s) Futuristmovies.com Gratuitous Peter Lorre lookalike heroine tight suit boobs Nostalgia Critic Casablanca Remake Nudity (Topless) superherion

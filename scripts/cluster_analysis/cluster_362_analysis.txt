@@ -1,0 +1,26 @@
+Анализ кластера 362
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Robert        1
+Englund       1
+wes           1
+cheesy        1
+Langenkamp    1
+Heather       1
+ridiculous    1
+remake        1
+krueger       1
+freddy        1
+
+Примеры фильмов:
+                                                                                      title                         genres                                                                                                                                        tag
+362  Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)  Drama|Horror|Mystery|Thriller  Robert Englund intrigue Wes Craven possessed little kid interesting freddy krueger remake ridiculous Heather Langenkamp cheesy wes craven

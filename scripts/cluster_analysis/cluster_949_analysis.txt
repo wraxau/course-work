@@ -1,0 +1,15 @@
+Анализ кластера 949
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+War    1
+
+Топ-10 тегов:
+tag
+Lewis        1
+Milestone    1
+
+Примеры фильмов:
+                         title genres              tag
+949  Walk in the Sun, A (1945)    War  Lewis Milestone

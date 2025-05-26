@@ -1,0 +1,29 @@
+Анализ подкластера 45 в кластере 3
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama          15
+Comedy         14
+Thriller        4
+Children        3
+Documentary     3
+
+Топ-5 тегов:
+tag
+book       9
+Nudity     6
+comedy     5
+adapted    5
+based      5
+
+Примеры фильмов:
+                        title    rating                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+3071     Stuart Little (1999)  2.891186  Children|Comedy|Fantasy                                                                                                                                                                                                                                                comedy Rob Minkoff kids movie mouse based book cats childre miniatures cheesy kids hugh laurie talking mouse kids and family talking animals Michael Fox animation bad family Hugh Laurie adoption high school E.B. White
+3085   Room at the Top (1959)  3.817680                    Drama                                                                                                                                                                                                                                                                                                                                                      perrot library adultery british new wave Jack Clayton Simone Signoret Oscar (Best Actress) hulu Laurence Harvey Old
+3089      Galaxy Quest (1999)  3.581777  Adventure|Comedy|Sci-Fi  comedy Tim Allen watched 2006 Dean Parisot screwball comedy Bechdel Test:Fail space muista alien spoof seen more once plot point:fantasy ship made real Good story and funny. Tony Shalhoub funny conventions aliens spaceship Sigourney Weaver satire death/fatality parody foqam Star Trek should have sucked but didn't sci-fi star trek space opera unlikely hero actor protagonist Allen Rickman Alan Rickman Sam Rockwell feel-good hilarious! standard tim allen
+3095             Titus (1999)  3.641194                    Drama                                                                                                nudity (topless) Worst movie ever! shakespeare visually appealing rome Jessica Lange Shakespeare perrot library Julie Taymor tense updated classics based play scope Classical Studies anachronistic Nostalgia Critic's Top Nudity (Topless) Anthony Hopkins Alan Cumming Costuming 100 Essential Female Performances good score adapted from:play playwright:Shakespeare
+3114  Last Detail, The (1973)  3.886653             Comedy|Drama                                                                                                                                                                                                                                                                                                          erlend's DVDs not available from Netflix streaming Best Performance: Jack Nicholson "Baddass" Buddusky Hal Ashby cinematographer:Michael Chapman Jack Nicholson

@@ -1,0 +1,14 @@
+Анализ кластера 1425
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                                        title       genres  tag
+1425  Unforgotten: Twenty-Five Years After Willowbrook (1996)  Documentary  NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 165 в кластере 0
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.33
+Медиана рейтинга: 3.36
+Дисперсия рейтинга: 0.04
+
+Топ-5 жанров:
+genres
+Drama          4
+Comedy         4
+Documentary    2
+Crime          2
+Action         1
+
+Топ-5 тегов:
+tag
+funny          3
+netflix        3
+see            2
+car            2
+documentary    2
+
+Примеры фильмов:
+                                          title    rating         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+12770                     Turn the River (2007)  3.400000          Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                    poker Famke Janssen pool
+12771                          Get Smart (2008)  3.216461  Action|Comedy  hilarious dance off (scene) crude humor caper lame Peter Segal not funny car crash Cedric Yarbrough netflix too long spoof great quotes Based show Steve Carell Bill Murray owned funny espionage classic update Anne Hathaway secret service parody unnecessary remake predictable movie see animal:rat (scene) laser maze room (in comedy) spy dvd Bob*ola lowest common denominator KAF redbox music key story (not Musical genre) car chase florence stupid based show
+12772  Young People Fucking (a.k.a. YPF) (2007)  3.310559         Comedy                                                                                                                                                                                                                                                                    nudity (topless) individual stories intertwined Carly Pope unfunny Martin Gero strap-on multiple storylines DVD:funny commentary threesome ensemble cast Bechdel Test:Fail acting funny Nudity (Topless)
+12773                         Brick Lane (2007)  3.137255          Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN
+12774                           Surfwise (2007)  3.486842    Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                       documentary Doug Pray

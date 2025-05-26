@@ -1,0 +1,29 @@
+Анализ подкластера 669 в кластере 3
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Comedy       11
+Drama         9
+Thriller      5
+Adventure     4
+Horror        4
+
+Топ-5 тегов:
+tag
+Nudity      6
+Betamax     6
+(Topless    6
+Brief)      4
+DVDs        3
+
+Примеры фильмов:
+                            title    rating          genres                                                                       tag
+3489   I Dreamed of Africa (2000)  2.487578           Drama                    Africa musical score:Maurice Jarre Maurice Jarre score
+3501               Mr. Mom (1983)  3.262696    Comedy|Drama  Stan Dragoti Teri Garr Betamax Michael Keaton John Hughes 1980s misogyny
+3505               Held Up (1999)  2.288136          Comedy                                                                Steve Rash
+3511  Castaway Cowboy, The (1974)  3.000000  Comedy|Western                                 less 300 ratings disney FEWER 300 ratings
+3519      Regret to Inform (1998)  3.568493     Documentary                                                 Vietnam Barbara Sonneborn

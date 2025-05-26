@@ -1,0 +1,25 @@
+Анализ кластера 314
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Fantasy    1
+
+Топ-10 тегов:
+tag
+funny        2
+tim          1
+Crewson      1
+christams    1
+elves        1
+North        1
+Pole         1
+childhood    1
+Wendy        1
+Xmas         1
+
+Примеры фильмов:
+                        title                genres                                                                                                                                                                                                                                                               tag
+314  Santa Clause, The (1994)  Comedy|Drama|Fantasy  tim allen Tim Allen John Pasquin Santa Claus Judge Reinhold whiny kid santa claus Disney pretty funny funny David Krumholtz holiday children christams elves North Pole childhood Wendy Crewson Xmas theme Christmas feel good family movie fantasy heartwarming

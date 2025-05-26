@@ -1,0 +1,29 @@
+Анализ подкластера 143 в кластере 6
+Размер подкластера: 102 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Drama       59
+Comedy      28
+Thriller    16
+Romance     13
+Crime       13
+
+Топ-5 тегов:
+tag
+not        14
+based      10
+Netflix     9
+story       8
+for         7
+
+Примеры фильмов:
+                                    title    rating                                      genres                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+13176     Bullfighter and the Lady (1951)  3.500000                        Action|Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                      Budd Boetticher
+13182  Class, The (Entre les murs) (2008)  3.688816                                       Drama                                                                                                                                                                                                                  easily confused with other movie(s) (title) Golden palm French Film perrot library French 05/09 teen Palme d'Or Netflix queue France high school Netflix Finland realistic Laurent Cantet teenagers
+13187                 Kanak Attack (2000)  3.750000                                       Drama                                                                                                                                                                                                                                                                                                                                                                                                                  NaN
+13189                         Bolt (2008)  3.485198  Action|Adventure|Animation|Children|Comedy  Malcolm McDowell Below dog John Lasseter Watched cats and dogs Stereoscopic 3-D Byron Howard Greg Germann pigeons disney pixar btaegepriority Miley Cyrus the road anthropomorphic comic sidekick predictable dogs movie see Mark Walton cat Chris Williams superhero talking animals John Travolta animation Susie Essman damsel distress hollywood ending alternate reality walt disney James Lipton heartwarming
+13203                    Dinotopia (2002)  2.787356                           Adventure|Fantasy                                                                                                                                                                                                                                                                                                   island David Thewlis made for dialogue dinosaurs adventure experience creative story acting script cgi untrue book

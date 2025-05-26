@@ -1,0 +1,29 @@
+Анализ подкластера 75 в кластере 8
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.50
+
+Топ-5 жанров:
+genres
+Drama          12
+Comedy          7
+Romance         5
+Crime           5
+Documentary     3
+
+Топ-5 тегов:
+tag
+roller       1
+might        1
+adapted      1
+from:game    1
+sexist       1
+
+Примеры фильмов:
+                                                      title    rating                 genres                                       tag
+18417                                          Texas (1941)  3.166667  Drama|Romance|Western                                       NaN
+18418               Peas at 5:30 (Erbsen auf halb 6) (2004)  4.500000   Comedy|Drama|Romance                                       NaN
+18419                                Today's Special (2009)  3.541667                 Comedy                                       NaN
+18420  Brutal Beauty: Tales of the Rose City Rollers (2010)  3.500000            Documentary  roller derby short Oregon obscure sports
+18421                 G.I. Joe: Operation Dragonfire (1989)  2.000000       Action|Animation                                       NaN

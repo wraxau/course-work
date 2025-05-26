@@ -1,0 +1,15 @@
+Анализ кластера 1559
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Tony      1
+Vitale    1
+
+Примеры фильмов:
+                      title  genres          tag
+1559  Kiss Me, Guido (1997)  Comedy  Tony Vitale

@@ -1,0 +1,29 @@
+Анализ кластера 1824
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Comedy       1
+Drama        1
+Musical      1
+Romance      1
+
+Топ-10 тегов:
+tag
+Disney       5
+strong       3
+disney       3
+animated     3
+female       3
+good         2
+animation    2
+lead         2
+funny        2
+culture      2
+
+Примеры фильмов:
+             title                                                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+1824  Mulan (1998)  Adventure|Animation|Children|Comedy|Drama|Musical|Romance  Ming-Na Pat Morita impostor musical animated soundtrack cute cross dressing women preachy Super-35 Blow-Up heroine feminism characters Watched Harvey Fierstein Songs Amazing! Miguel Ferrer fabulous Barry Cook disney was really reaching for material Asian culture disney Disney Cartoons wholesome cross dressing good Soon-Tek nice movie ninja Chinese culture funny female director funny eddie murphy Girl Power Christina Aguilera performs "Reflection" 70mm Lea Salonga Disney animated feature witty children gender disguise B.D. Wong Signature Disney comic relief supporting characters strong woman feminist sexism Tony Bancroft strong women China judgemental other cultures some talking animals nicely animated childhood cultural Eddie Murphy Ming-Na Wen Disney Renaissance animation strong female lead female lead good animation chinese china great soundtrack standard Disney storyline family walt disney military Fun watch ending kinda ruined heartwarming

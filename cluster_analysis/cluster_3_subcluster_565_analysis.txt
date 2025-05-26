@@ -1,0 +1,29 @@
+Анализ подкластера 565 в кластере 3
+Размер подкластера: 33 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy      14
+Action       6
+Thriller     5
+Crime        4
+
+Топ-5 тегов:
+tag
+ratings    5
+300        5
+nudity     5
+movie      4
+school     4
+
+Примеры фильмов:
+                                        title    rating                                  genres                                                                                                                                                                                           tag
+7081                   Only the Strong (1993)  2.928571                                  Action                                                                                                                                       Sheldon Lettich capoeira drugs martial arts high school
+7082  Adventures of Ford Fairlane, The (1990)  2.670923                           Action|Comedy          comedy satire rock roll parody classic private detective explosions Golden Raspberry (Worst Picture) corny private eye Golden Raspberry (Worst Actor) Andrew Dice Clay stupid Harlin
+7106                      Dark Passage (1947)  3.765406  Crime|Drama|Film-Noir|Romance|Thriller  gloomy OUT FOR REVENGE Humphrey Bogart atmospheric AMATEUR SLEUTHS moody Bogart Bacall nocturnal FEWER 300 ratings less 300 ratings noir Delmer Daves HAUNTED THE PAST amnesia noir thriller
+7108               They Drive by Night (1940)  3.531469                                   Drama                                                                                                                                       FEWER 300 ratings Raoul Walsh less 300 ratings truckers
+7116          Trouble with Angels, The (1966)  3.725641                                  Comedy                                                                                                                                    nuns private school Ida Lupino less 300 ratings based book

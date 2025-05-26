@@ -1,0 +1,29 @@
+Анализ подкластера 150 в кластере 6
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Drama       8
+Comedy      3
+Action      2
+Crime       2
+Children    2
+
+Топ-5 тегов:
+tag
+bullying     1
+citizens     1
+problems     1
+fertility    1
+famliy       1
+
+Примеры фильмов:
+                           title  rating                 genres                                                                             tag
+26601          Girl Fight (2011)     3.0                  Drama                                                bullying compassion social media
+26602       Out of Bounds (1986)     3.0  Action|Crime|Thriller                                                                             NaN
+26603  The Derby Stallion (2005)     4.0         Children|Drama                                                                             NaN
+26604            Jewtopia (2012)     2.5         Comedy|Romance                                        Bryan Fogel satire judaism circumscision
+26605        His and Hers (2001)     3.5                 Comedy  low class citizens relations sweden humour farm life famliy fertility problems

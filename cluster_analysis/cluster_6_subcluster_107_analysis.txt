@@ -1,0 +1,29 @@
+Анализ подкластера 107 в кластере 6
+Размер подкластера: 43 фильмов
+Средний рейтинг: 2.43
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.73
+
+Топ-5 жанров:
+genres
+Comedy       20
+Children     12
+Drama        11
+Adventure     8
+Romance       7
+
+Топ-5 тегов:
+tag
+talking       3
+animals       2
+bad           2
+Christmas     2
+chimpanzee    2
+
+Примеры фильмов:
+                                                  title  rating                        genres             tag
+26339                              Thunder Birds (1942)  2.0000             Drama|Romance|War             NaN
+26342                          The Naughty Flirt (1931)  3.0000          Comedy|Drama|Romance             NaN
+26343                            Two Times Lotte (1950)     NaN               Children|Comedy  Josef von Báky
+26344  The Land Before Time VIII: The Big Freeze (2001)  3.1875  Adventure|Animation|Children             NaN
+26345                   Who's Minding the Store? (1963)  4.0000                        Comedy             NaN

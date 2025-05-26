@@ -1,0 +1,25 @@
+Анализ кластера 2262
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Mystery     1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Futuristmovies.com    1
+ominous               1
+Bechdel               1
+Test:Pass             1
+housewives            1
+remade                1
+movie                 1
+see                   1
+sci-fi                1
+original              1
+
+Примеры фильмов:
+                           title                   genres                                                                                                     tag
+2262  Stepford Wives, The (1975)  Mystery|Sci-Fi|Thriller  Futuristmovies.com ominous Bechdel Test:Pass housewives remade movie see sci-fi original better creepy

@@ -1,0 +1,24 @@
+Анализ кластера 1994
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+great         1
+depression    1
+Jeremy        1
+Paul          1
+Kagan         1
+Betamax       1
+period        1
+piece         1
+movie         1
+see           1
+
+Примеры фильмов:
+                                  title              genres                                                                               tag
+1994  Journey of Natty Gann, The (1985)  Adventure|Children  great depression Jeremy Paul Kagan Betamax period piece movie see Can't remember

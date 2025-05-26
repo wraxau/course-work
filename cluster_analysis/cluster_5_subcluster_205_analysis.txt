@@ -1,0 +1,29 @@
+Анализ подкластера 205 в кластере 5
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.35
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       8
+Comedy      7
+Romance     7
+Action      1
+Thriller    1
+
+Топ-5 тегов:
+tag
+Uruguay      2
+Criterion    2
+kapoor       2
+America      2
+Jason        1
+
+Примеры фильмов:
+                                                             title    rating          genres                                                                                                                                            tag
+14323                                       Couples Retreat (2009)  2.765817  Comedy|Romance  Jason Bateman island Malin Akerman waste time Vince Vaughn Ken Jeong Kristen Bell not funny Jean Reno Jon Favreau Peter Billingsley bad cameo
+14324                                       All About Steve (2009)  2.617133          Comedy                                                    Bradley Cooper stupid hell Sandra Bullock plot satire! corny annoying charactor Phil Traill
+14325                                             Hiroshima (2009)  3.500000          Comedy                                                                              silent movie aesthetics South America Latin America music Uruguay
+14326                                               Gigante (2009)  3.250000    Comedy|Drama                                                                                                            Horacio Camandule Argentina Uruguay
+14327  End of St. Petersburg, The (Konets Sankt-Peterburga) (1927)  3.125000           Drama                                                                                                                                            NaN

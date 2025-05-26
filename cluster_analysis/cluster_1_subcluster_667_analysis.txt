@@ -1,0 +1,29 @@
+Анализ подкластера 667 в кластере 1
+Размер подкластера: 91 фильмов
+Средний рейтинг: 2.94
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.66
+
+Топ-5 жанров:
+genres
+Drama          37
+Comedy         27
+Thriller       13
+Documentary    12
+Crime          10
+
+Топ-5 тегов:
+tag
+IMAX          4
+based         3
+soundtrack    3
+prospect      3
+comedy        3
+
+Примеры фильмов:
+                                         title    rating                    genres                                                                                                                                                                                                                                                         tag
+24410  Charles Bradley: Soul of America (2012)       NaN               Documentary                                                                                                                                                                                                                          Poull Brien musicians rhythm blues
+24421               Autómata (Automata) (2014)  3.304383           Sci-Fi|Thriller  bechdel test:fail atmospheric Bleak evolution Watched misogyny x-anael post-apocalyptic Futuristic realistic sensitive heterosexual artificial intelligence BD-Video heterosexuality intense soundtrack dystopia science robots consciousness heartwarming
+24441       Magic of Ordinary Days, The (2005)  3.200000                     Drama                                                                                                                                                          Keri Russell 1940s Brent Shields farming Colorado arranged marriage World War based book pregnancy
+24444                      Captive, The (2014)  2.833333      Crime|Drama|Thriller                                                                                                                                                 Lost Child Plot Holes Boring Kidnapping Human Trafficking Kevin Durand Rosario Dawson Ryan Reynolds Editing
+24464                   Silent One, The (1985)       NaN  Adventure|Children|Drama                                                                                                                                                                                                                                               Yvonne Mackay

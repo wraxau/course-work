@@ -1,0 +1,24 @@
+Анализ кластера 1534
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Demi          1
+Moore         1
+underrated    1
+military      1
+(rear)        1
+nudity        1
+feminism      1
+Actress)      1
+(Worst        1
+Raspberry     1
+
+Примеры фильмов:
+                 title        genres                                                                                                                                                                                 tag
+1534  G.I. Jane (1997)  Action|Drama  Demi Moore strong female lead Nudity (Rear) war women Ridley Scott enpowering Bechdel Test:Pass Golden Raspberry (Worst Actress) feminism nudity (rear) military underrated action

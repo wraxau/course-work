@@ -1,0 +1,21 @@
+Анализ кластера 831
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Not          1
+DVD          1
+Hal          1
+Hartley      1
+not          1
+available    1
+from         1
+Netflix      1
+
+Примеры фильмов:
+            title genres                                             tag
+831  Flirt (1995)  Drama  Not DVD Hal Hartley not available from Netflix

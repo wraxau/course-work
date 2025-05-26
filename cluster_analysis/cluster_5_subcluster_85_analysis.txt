@@ -1,0 +1,29 @@
+Анализ подкластера 85 в кластере 5
+Размер подкластера: 27 фильмов
+Средний рейтинг: 3.35
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama          17
+Comedy          7
+Crime           5
+Documentary     4
+Action          4
+
+Топ-5 тегов:
+tag
+BD-Video     4
+based        4
+Zatoichi     3
+book         3
+Criterion    3
+
+Примеры фильмов:
+                                title    rating                   genres                                                                                                                                                                                                                             tag
+22353                  Sel8nne (2013)  3.592593              Documentary                                                                                                                                                  husband-wife relationship Jukka-Pekka Siili biography sports ice hockey hockey
+22367       Christmas Carol, A (1997)  3.100000  Animation|Drama|Fantasy                                                                                                                                                                                           Xmas theme Charles Dickens based book
+22371           Geography Club (2013)  3.285714     Comedy|Drama|Romance                                                                                                                                                                    queer misfits loneliness high school heartwarming based book
+22384         Saving Mr. Banks (2013)  3.667808             Comedy|Drama  protagonist writer movie business tragic Disney writers BD-Video character development historical toplist13 SeeAlso:Mary Poppins period drama based true story Tom Hanks Well played John Lee Hancock Emma Thompson true story
+22396  Ghetto (Vilniaus Getas) (2006)  3.500000                      War                                                                                                                                                                                                                             NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 202 в кластере 8
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.62
+Медиана рейтинга: 3.57
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama          4
+Documentary    3
+Crime          2
+Thriller       2
+War            1
+
+Топ-5 тегов:
+tag
+Sergiu        1
+Nicolaescu    1
+Masahiro      1
+Shinoda       1
+Criterion     1
+
+Примеры фильмов:
+                                                                                     title    rating                    genres                                                        tag
+17350  Then I Sentenced Them All to Death (Atunci i-am condamnat pe toti la moarte) (1972)  4.000000                 Drama|War                                          Sergiu Nicolaescu
+17351                                                    Pale Flower (Kawaita hana) (1964)  3.615385  Crime|Film-Noir|Thriller                                 Masahiro Shinoda Criterion
+17352                     Santa Claus Has Blue Eyes (Le père Noël a les yeux bleus) (1969)  4.500000                     Drama                                                        NaN
+17353                                                           It Felt Like a Kiss (2009)  3.571429               Documentary  history shock value lack story disgusting scenes violence
+17354                                                                   Interkosmos (2006)  3.000000                     Drama                                                        NaN

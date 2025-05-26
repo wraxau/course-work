@@ -1,0 +1,28 @@
+Анализ подкластера 119 в кластере 1
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.38
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama                 4
+(no genres listed)    3
+Documentary           2
+Thriller              1
+Western               1
+
+Топ-5 тегов:
+tag
+2014       4
+Gabriel    1
+London     1
+2015       1
+
+Примеры фильмов:
+                                           title  rating                             genres             tag
+28140                     The Discoverers (2014)     4.0                 (no genres listed)             NaN
+28141            The Gambler and the Lady (1952)     3.0                           Thriller             NaN
+28142                     Half-Breed, The (1916)     3.0                      Drama|Western             NaN
+28143                          The Hollow (2004)     2.5                             Horror             NaN
+28144  The Life and Mind of Mark DeFriest (2014)     3.0  Animation|Crime|Documentary|Drama  Gabriel London

@@ -1,0 +1,15 @@
+Анализ кластера 1284
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+
+Топ-10 тегов:
+tag
+Larry     1
+Bishop    1
+
+Примеры фильмов:
+                    title genres           tag
+1284  Mad Dog Time (1996)  Crime  Larry Bishop

@@ -1,0 +1,16 @@
+Анализ кластера 1053
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Jan        1
+Bucquoy    1
+
+Примеры фильмов:
+                                                                                title          genres          tag
+1053  Sexual Life of the Belgians, The (Vie sexuelle des Belges 1950-1978, La) (1994)  Comedy|Romance  Jan Bucquoy

@@ -1,0 +1,25 @@
+Анализ кластера 351
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+
+Топ-10 тегов:
+tag
+show           2
+comedy         1
+cartoon        1
+prehistoric    1
+Based          1
+action         1
+live           1
+remade         1
+animation      1
+Levant         1
+
+Примеры фильмов:
+                       title                   genres                                                                                                                                                               tag
+351  Flintstones, The (1994)  Children|Comedy|Fantasy  comedy cartoon flying John Goodman dinosaur sitcom children Rick Moranis Halle Berry Brian Levant animation remade live action Based show prehistoric based show

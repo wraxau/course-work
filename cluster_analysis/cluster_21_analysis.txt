@@ -1,0 +1,29 @@
+Анализ кластера 21
+Размер кластера: 1363 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Drama          701
+Comedy         345
+Thriller       194
+Romance        167
+Documentary    166
+
+Топ-5 тегов:
+tag
+nudity    70
+ending    70
+story     67
+based     67
+acting    64
+
+Примеры фильмов:
+                                       title    rating          genres                                                                                                                                                                                                                                                                                                                                                                                            tag
+17864  House of the Seven Gables, The (1940)  3.000000  Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                        Joe May
+17865                       Havre, Le (2011)  3.531447    Comedy|Drama  Criterion police investigation hospital Aki KaurismÃ?Â¤ki ruutu.fi 12/11 husband-wife relationship shopping list boring shoes executed with economy expression unsympathetic characters experimental seen 2012 bar addition deadpan slow french Aki KaurismÃ¤ki seen the cinema illegal immigration Aki Kaurismäki Excrutiating emotional investment empty characters hope friendship disease
+17866             Unlikely Weapon, An (2008)  3.500000     Documentary                                                                                                                                                                                                                                                                                                                                                                                            NaN
+17867                               X (2011)  2.916667        Thriller                                                                                                                                                                                                                                                                                                                                                             nudity (full frontal) prostitution
+17868                    A Via Láctea (2007)  2.250000           Drama                                                                                                                                                                                                                                                                                                                                                                                            NaN

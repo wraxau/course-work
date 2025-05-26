@@ -1,0 +1,23 @@
+Анализ кластера 1281
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+music       3
+rock        2
+business    2
+Doug        1
+Pray        1
+producer    1
+and         1
+roll        1
+grunge      1
+Seattle     1
+
+Примеры фильмов:
+             title       genres                                                                                                                                    tag
+1281  Hype! (1996)  Documentary  Doug Pray music producer rock and roll business grunge Seattle Young Fresh Fellows musicians music music business community punk rock

@@ -1,0 +1,17 @@
+Анализ кластера 2331
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+chick      1
+flick      1
+Betamax    1
+
+Примеры фильмов:
+                           title         genres                  tag
+2331  Violets Are Blue... (1986)  Drama|Romance  chick flick Betamax

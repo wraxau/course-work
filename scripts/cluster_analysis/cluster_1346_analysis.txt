@@ -1,0 +1,24 @@
+Анализ кластера 1346
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+
+Топ-10 тегов:
+tag
+comic        3
+Batman       3
+action       3
+dark         2
+the          2
+Catwoman     2
+kills        1
+Gothic       1
+childhood    1
+direction    1
+
+Примеры фильмов:
+                      title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1346  Batman Returns (1992)  Action|Crime  Rehash Sequel brain candy michael keaton Comics vigilante seen the cinema double life Christopher Walken action Bibliothek dark hero Thriller boring franchise still the best Catwoman villain:Penguin Action Fantasy cat women mood sexual references super-hero Danny DeVito Michelle Pfeiffer Gender Issues based comic Crime adapted from:comic dark art direction Batman kills Gothic childhood classics better expected Tim Burton light Comic Book adaption Michael Keaton Catwoman ridiculous superhero Romance not that bad Great Villain alter ego Batman (series) Batman comic book action martial-arts revenge batman action packed campy comic fantasy

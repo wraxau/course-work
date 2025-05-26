@@ -1,0 +1,24 @@
+Анализ кластера 1586
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Bechdel        2
+Victoria       2
+character      2
+based          2
+real           2
+protagonist    1
+Judi           1
+madness        1
+into           1
+descent        1
+
+Примеры фильмов:
+                                                   title         genres                                                                                                                                                                                                                                              tag
+1586  Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)  Drama|Romance  protagonist royal royalty biographical Bechdel Test:Who Cares character based real person:Disraeli John Madden period piece Judi Dench England Bechdel Test:Fail character based real person:Queen Victoria descent into madness Queen Victoria

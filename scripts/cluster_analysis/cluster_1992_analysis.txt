@@ -1,0 +1,24 @@
+Анализ кластера 1992
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+TOTALITARIAN    1
+STATES          1
+See             1
+tense           1
+LIFE            1
+ACTOR'S         1
+Szabó           1
+István          1
+disturbing      1
+Betamax         1
+
+Примеры фильмов:
+                title     genres                                                                                                                                                               tag
+1992  Mephisto (1981)  Drama|War  TOTALITARIAN STATES biting confrontational RISE AND FALL STORIES Oscar (Best Foreign Language Film) Betamax disturbing István Szabó ACTOR'S LIFE tense See bleak

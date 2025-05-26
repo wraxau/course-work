@@ -1,0 +1,29 @@
+Анализ подкластера 20 в кластере 4
+Размер подкластера: 67 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 1.06
+
+Топ-5 жанров:
+genres
+Drama                 25
+Comedy                22
+(no genres listed)    15
+Romance               10
+Children               6
+
+Топ-5 тегов:
+tag
+science       1
+astronauts    1
+ending        1
+Christmas     1
+parody        1
+
+Примеры фильмов:
+                                         title    rating              genres  tag
+32990  I cavalieri che fecero l'impresa (2001)  1.000000  (no genres listed)  NaN
+32996                     Entre Abelhas (2015)  4.000000        Comedy|Drama  NaN
+33003                         Condemned (2015)  2.458333              Horror  NaN
+33004                     Entertainment (2015)  2.500000        Comedy|Drama  NaN
+33007                    Sharpe's Siege (1996)  3.333333  (no genres listed)  NaN

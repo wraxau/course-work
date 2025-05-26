@@ -1,0 +1,29 @@
+Анализ подкластера 89 в кластере 3
+Размер подкластера: 10 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.66
+
+Топ-5 жанров:
+genres
+Comedy         3
+Thriller       3
+Documentary    2
+Drama          2
+Adventure      2
+
+Топ-5 тегов:
+tag
+human        2
+Middle       1
+Alexandra    1
+Poland       1
+social       1
+
+Примеры фильмов:
+                                                                                 title    rating              genres                                                                                                                                            tag
+20568                                                          Gatekeepers, The (2012)  3.815068         Documentary                                                                                                              Middle East Israel spy Dror Moreh
+20569                            Glimpse Inside the Mind of Charles Swan III, A (2012)  2.500000              Comedy                                                                                                                                            NaN
+20570                                                                      Lore (2012)  3.594595  Drama|Thriller|War  children horror ultra-violence subtle human nature sensual Cate Shortland bodily World War visceral wwii 2014 nazis realistic human condition
+20571                                                                  Drogówka (2013)  3.125000  Comedy|Crime|Drama     corruption Marcin Dorocinski truth humorous Wojciech Smarzowski Poland social commentary zassania Marian Dziedziel Bartlomiej Topa sarcasm
+20572  Rumble in the Air-Conditioned Auditorium: O'Reilly vs. Stewart 2012, The (2012)  3.700000              Comedy                                                                                                                                   Chuck O'Neil

@@ -1,0 +1,23 @@
+Анализ кластера 30
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+teacher        3
+drama          2
+school         2
+Dangerous      1
+social         1
+commentary     1
+death          1
+protagonist    1
+poetry         1
+nigga          1
+
+Примеры фильмов:
+                     title genres                                                                                                                                                                                                                                                                                                                                                                                             tag
+30  Dangerous Minds (1995)  Drama  erlend's DVDs island Emilio! seen the cinema Bibliothek based book education professor teacher school drama crime Michelle Pfeiffer awesome Highschool dead douchebags gangsters drama kinda scary Dangerous Minds social commentary death protagonist teacher poetry nigga inspirational John Smith great soundtrack own teacher changing lives touching high school afternoon section stupid

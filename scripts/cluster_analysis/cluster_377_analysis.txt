@@ -1,0 +1,24 @@
+Анализ кластера 377
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+like-i-like    1
+Philip         1
+touching       1
+drinking       1
+Love           1
+Garcia         1
+Andy           1
+Hoffman        1
+Seymour        1
+story          1
+
+Примеры фильмов:
+                               title         genres                                                                                                                                               tag
+377  When a Man Loves a Woman (1994)  Drama|Romance  like-i-like top pick addiction alcoholism co-dependancy Meg Ryan love story Philip Seymour Hoffman Andy Garcia Love drinking touching Alcoholism

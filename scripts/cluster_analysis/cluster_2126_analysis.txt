@@ -1,0 +1,18 @@
+Анализ кластера 2126
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Hitchcock    2
+thriller     1
+Alfred       1
+comedy       1
+
+Примеры фильмов:
+                          title          genres                                         tag
+2126  Young and Innocent (1937)  Crime|Thriller  thriller Alfred Hitchcock comedy Hitchcock

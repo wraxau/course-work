@@ -1,0 +1,18 @@
+Анализ кластера 1748
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+China    1
+Hong     1
+Kong     1
+deep     1
+
+Примеры фильмов:
+                   title         genres                   tag
+1748  Chinese Box (1997)  Drama|Romance  China Hong Kong deep

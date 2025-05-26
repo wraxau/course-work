@@ -1,0 +1,25 @@
+Анализ кластера 721
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+action        3
+the           2
+Want          1
+Nudity        1
+biological    1
+warfare       1
+Cut           1
+chit          1
+chat          1
+A-Hole        1
+
+Примеры фильмов:
+                title                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+721  Rock, The (1996)  Action|Adventure|Thriller  Want terrorism seen the cinema clever lines Zeus Butthole memasa's movies action thriller Netflix Finland hole Sean Connery Alcatraz reviewed nicolas cage Action Own Terrorism classic San Francisco Michael Bay setting:prison ClearPlay biological warfare Cut the chit chat A-Hole Gfei own discribe details Harris setting:Alcatraz Nudity (Nic Cage) prison great soundtrack Criterion homelist1 good action Hans Zimmer action packed Nicolas Cage

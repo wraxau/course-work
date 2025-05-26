@@ -1,0 +1,20 @@
+Анализ кластера 144
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+animal         1
+picture        1
+china          1
+Christopher    1
+Cain           1
+panda          1
+
+Примеры фильмов:
+                                   title              genres                                          tag
+144  Amazing Panda Adventure, The (1995)  Adventure|Children  animal picture china Christopher Cain panda

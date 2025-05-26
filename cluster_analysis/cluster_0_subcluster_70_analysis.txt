@@ -1,0 +1,29 @@
+Анализ подкластера 70 в кластере 0
+Размер подкластера: 42 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Drama       24
+Thriller    14
+Comedy       8
+Horror       7
+Sci-Fi       5
+
+Топ-5 тегов:
+tag
+nudity      9
+Nudity      7
+based       6
+violence    5
+book        5
+
+Примеры фильмов:
+                                                               title    rating                            genres                                                                                                              tag
+12833                              Summer of '04 (Sommer '04) (2006)  3.411765                             Drama                                                                                                 nudity (topless)
+12834  Home of Dark Butterflies, The (Tummien perhosten koti) (2008)  3.463415                             Drama                                     01/11 04/11 05/11 06/11 03/11 Dome Karukoski orphanage memasa's movies 02/11
+12835                                             Dark Floors (2008)  2.032609                    Fantasy|Horror                                               monster wheelchair stopping time elevator pointless Lordi hospital
+12836                                               Silentium (2004)  3.750000                    Crime|Thriller  austria injustice quirky Christianity Catholicism crime Josef Hader black comedy based book Wolfgang Murnberger
+12837                                                   Rogue (2007)  3.030435  Action|Adventure|Horror|Thriller                          Australia Thriller Michael Vartan Suspense creature feature Giant animal Radha Mitchell

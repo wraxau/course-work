@@ -1,0 +1,29 @@
+Анализ подкластера 473 в кластере 3
+Размер подкластера: 37 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 2.97
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama       21
+Comedy      15
+Romance      6
+Children     5
+Thriller     4
+
+Топ-5 тегов:
+tag
+Nudity      9
+Oscar       5
+AFI         5
+remember    5
+adapted     5
+
+Примеры фильмов:
+                                     title    rating          genres                                                                   tag
+633                      Diabolique (1996)  2.973226  Drama|Thriller      Chazz Palminteri Nudity (Full Frontal Brief) remake Sharon Stone
+636  Peanuts - Die Bank zahlt alles (1996)  2.392857          Comedy                                                                   NaN
+637                   Happy Weekend (1996)  2.476190          Comedy                                                                   NaN
+641     Cold Fever (Á köldum klaka) (1995)  3.721429    Comedy|Drama                                       Iceland Friðrik Þór Friðriksson
+642                   Moll Flanders (1996)  3.458653           Drama  Morgan Freeman Nudity (Topless Brief) library vhs based book netflix

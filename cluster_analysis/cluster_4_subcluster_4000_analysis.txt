@@ -1,0 +1,29 @@
+Анализ подкластера 4000 в кластере 4
+Размер подкластера: 629 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.37
+
+Топ-5 жанров:
+genres
+Drama          335
+Comedy         164
+Romance         87
+Thriller        82
+Documentary     80
+
+Топ-5 тегов:
+tag
+nudity    31
+plot      30
+based     28
+ending    27
+acting    26
+
+Примеры фильмов:
+                                                           title    rating                       genres                                                                                                   tag
+15034                               North Face (Nordwand) (2008)  3.770000              Adventure|Drama            Switzerland Philipp Stölzl melodramatic based true story climbing emotional man vs. nature
+15036                Apprenticeship of Duddy Kravitz, The (1974)  3.310345                 Comedy|Drama  setting:Montreal Ted Kotcheff Randy Quaid adapted from:book author:Mordecai Richler Richard Dreyfuss
+15037                             Brothers Karamazov, The (1958)  3.071429                        Drama             Dostoyevsky poor adaptation Russia author:Fyodor Dostoyevsky adapted from:book based book
+15038                                      Buccaneer, The (1958)  3.833333  Adventure|Drama|Romance|War                                                                                           VistaVision
+15048  Your Vice is a Locked Room and Only I Have the Key (1972)  2.850000      Horror|Mystery|Thriller                                                                                                   NaN

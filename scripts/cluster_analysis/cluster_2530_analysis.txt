@@ -1,0 +1,20 @@
+Анализ кластера 2530
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+robots       2
+nudity       1
+(topless)    1
+killer       1
+mall         1
+
+Примеры фильмов:
+                                       title                genres                                         tag
+2530  Chopping Mall (a.k.a. Killbots) (1986)  Action|Horror|Sci-Fi  nudity (topless) killer robots robots mall

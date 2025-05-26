@@ -1,0 +1,25 @@
+Анализ кластера 92
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Portman       2
+Natalie       1
+Demme         1
+Thurman       1
+Uma           1
+love          1
+Dillon        1
+Matt          1
+beautiful     1
+believable    1
+
+Примеры фильмов:
+                     title                genres                                                                                                                                                            tag
+92  Beautiful Girls (1996)  Comedy|Drama|Romance  Natalie Portman atmospheric humorous girl blossoming friendship relations lolita Portman Ted Demme believable beautiful Matt Dillon love Uma Thurman violence

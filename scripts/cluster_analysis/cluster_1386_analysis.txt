@@ -1,0 +1,23 @@
+Анализ кластера 1386
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+01/11     1
+03/10     1
+05/10     1
+10/10     1
+12/10     1
+03/11     1
+08/10     1
+Murray    1
+Lerner    1
+11/10     1
+
+Примеры фильмов:
+                                                   title       genres                                                                        tag
+1386  Message to Love: The Isle of Wight Festival (1996)  Documentary  01/11 03/10 05/10 10/10 12/10 03/11 08/10 Murray Lerner 11/10 06/10 02/11

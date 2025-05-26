@@ -1,0 +1,29 @@
+Анализ подкластера 193 в кластере 0
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama      8
+Comedy     5
+Romance    3
+Fantasy    2
+Action     1
+
+Топ-5 тегов:
+tag
+movie    7
+see      3
+story    3
+Oscar    2
+Nom      2
+
+Примеры фильмов:
+                                                                   title    rating                                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+11194                                   Pursuit of Happyness, The (2006)  3.827578                                             Drama  homeless toplist06 Gabriele Muccino Motivation Below poignant father-son relationship american dream single parents single father true story amazing actors and good story line Oscar Nom 2007 jonossa Potential Oscar Nom understated Oakland poverty Tumey's DVDs Alameda salesmen capitalism earnest depressing San Francisco tearjerking Thandie Newton Feelings sad power hope Will Smith dvr example willpower movie see inspirational Brian Howe overcoming reality happy ending want see again courage based true story feel-good beautiful Jaden Smith movie bittersweet PG13
+11195                   Tears of the Black Tiger (Fah talai jone) (2000)  3.239583                     Action|Comedy|Romance|Western                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             cult classic Engrish movie western stylized
+11196                                        John Tucker Must Die (2006)  3.040960                                    Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Betty Thomas fun sunny switch revenge high school funny brittany snow Teen movie
+11197                                              Ant Bully, The (2006)  2.952479  Adventure|Animation|Children|Comedy|Fantasy|IMAX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              animation computer animation John Davis IMAX DMR 3-D bugs movie see movie Stereoscopic 3-D
+11198  Warning Shadows (Schatten - Eine nächtliche Halluzination) (1923)  2.500000                                     Drama|Fantasy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           shadow puppets shadows dialogue German Expressionism silent movie seen German

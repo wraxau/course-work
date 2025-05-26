@@ -1,0 +1,23 @@
+Анализ кластера 2026
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Steve        2
+Martin       2
+Johnson      1
+ever         1
+movie        1
+funniest     1
+Favorites    1
+(Laughs)     1
+100          1
+AFI          1
+
+Примеры фильмов:
+                 title  genres                                                                                                                                                                                                 tag
+2026  Jerk, The (1979)  Comedy  Steve Martin Slapstick biography Betamax Carl Reiner holes70s Bernadette peters Best Performance: Steve Martin Navin Johnson dumb but funny AFI 100 (Laughs) Favorites funniest movie ever classic

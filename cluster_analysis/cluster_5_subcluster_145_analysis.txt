@@ -1,0 +1,29 @@
+Анализ подкластера 145 в кластере 5
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.27
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama          12
+Comedy          7
+Animation       5
+Thriller        3
+Documentary     3
+
+Топ-5 тегов:
+tag
+story      4
+short      3
+based      3
+seen       2
+reality    2
+
+Примеры фильмов:
+                                                                           title    rating                                      genres                                                                                                                                                                                                             tag
+14515                       Teenage Mutant Ninja Turtles: Turtles Forever (2009)  2.886667  Action|Adventure|Animation|Comedy|Thriller                                                                                                      comedy animation tnmt Timelines nostalgia turtle Cartoon childish ninja silly based comic Stupid superhero
+14516                                                    Merry Madagascar (2009)  3.050562                                   Animation                                                                                                                                                             holiday Dreamworks christmas movie Family Animation
+14517                                                            Brothers (2009)  3.487342                          Drama|Thriller|War  easily confused with other movie(s) (title) Natalie Portman emotion war Tobey Maguire Bailee Madison remake dialogue Jim Sheridan presumed dead TIPICA Jake Gyllenhaal DRAMON 01/10 jake gyllenhaal slow start
+14518                                    Portraits of Women (Naisenkuvia) (1970)  3.625000                                Comedy|Drama                                                                                                                                                                                                finnish new wave
+14519  Nine Ways to Approach Helsinki (Yhdeksän tapaa lähestyä Helsinkiä) (1982)  3.166667                                 Documentary                                                                                                                                                                                                             NaN

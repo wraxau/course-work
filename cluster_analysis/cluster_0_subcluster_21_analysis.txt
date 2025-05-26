@@ -1,0 +1,29 @@
+Анализ подкластера 21 в кластере 0
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.37
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama       26
+Comedy      11
+Thriller     9
+Romance      9
+Action       7
+
+Топ-5 тегов:
+tag
+movie     10
+action     8
+see        8
+the        7
+story      7
+
+Примеры фильмов:
+                                            title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+12637                            Deception (2008)  3.068493   Action|Drama|Thriller                                                                                                                                                                                                                                                                                                  nudity (topless) blackmail KiszÃ¡mÃ­thatÃ³ atmospheric Ewan McGregor Calculable movie twist Hugh Jackman movie see revenge sex with the enemy Nudity (Topless) assumed identities
+12638                            Baby Mama (2008)  3.126802                  Comedy  video games doorman Greg Kinnear Bechdel Test:Pass Tina Fey Will Forte surogate mother pregnancy PG-13 surrogate PG-13:a drug reference Philadelphia scam Amy Poehler Pregnancy Sigourney Weaver Steve Martin Seen 2011 junk food baby Romany Malco PG-13:language surrogacy business health food tina fey Michael McCullers boss girl power Dax Shepard friendship Dax Sheppard screenwriter:Michael Cullers Saturday Night Live PG-13:crude and sexual humor adoption deception
+12639  Unknown Woman, The (La Sconosciuta) (2006)  3.395833  Drama|Mystery|Thriller                                                                                                                                                                                                                                                                                                                                                                       erlend's DVDs PROSTITUTES library Giuseppe Tornatore mask dvr adoption apartment Nudity (Full Frontal) nanny
+12640                            Delirious (2006)  3.174603            Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                          easily confused with other movie(s) (title) Steve Buscemi
+12641                                Klimt (2006)  2.406250                   Drama                                                                                                                                                                                                                                                                                                                                                                                                                     painter true story Nudity (Full Frontal) nudity (full frontal)

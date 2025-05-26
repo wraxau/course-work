@@ -1,0 +1,29 @@
+Анализ подкластера 101 в кластере 1
+Размер подкластера: 141 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.74
+
+Топ-5 жанров:
+genres
+Drama       63
+Thriller    28
+Comedy      26
+Horror      23
+Romance     21
+
+Топ-5 тегов:
+tag
+nudity     7
+war        6
+Award      5
+ending     5
+Academy    5
+
+Примеры фильмов:
+                                     title    rating                                  genres                                                   tag
+24302       Good Times (Beste Zeit) (2007)  3.000000                   Action|Drama|Thriller                                                   NaN
+24311  Musketeers of Pig Alley, The (1912)  2.600000                             Crime|Drama                                                   NaN
+24312                          CBGB (2013)  3.033333                                   Drama                                                   NaN
+24313                        Cement (2000)  0.500000                             Crime|Drama                                                   NaN
+24314                    Centennial (1978)  5.000000  Action|Adventure|Drama|Romance|Western  Paul Krasny Bernard McEveety Virgil Vogel Harry Falk

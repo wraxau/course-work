@@ -1,0 +1,29 @@
+Анализ подкластера 20 в кластере 8
+Размер подкластера: 37 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama          20
+Thriller       10
+Romance         8
+Comedy          8
+Documentary     6
+
+Топ-5 тегов:
+tag
+comedy     5
+book       4
+See        3
+based      3
+Richard    3
+
+Примеры фильмов:
+                                 title    rating                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+12580             Shine a Light (2008)  3.435294  Documentary|Musical|IMAX                                                                                                                                                                                                                                                                                                               erlend's DVDs library rock and roll interviews good IMAX DMR Martin Scorsese Annemari toplist08 concert See PG13 the rolling stones
+12581               Dark Matter (2007)  2.854167                     Drama                                                                                                                                                                                                                                                                                                                            college immigrants school drama science astronomy Alfred Sloan Feature Film Prize physics underrated genius true story
+12583  Black Peter (Cerný Petr) (1964)  3.318182                     Drama                                                                                                                                                                                                                                                                                                                                                                                                                             Czechoslovak New Wave
+12602              Visitor, The (2007)  3.866853             Drama|Romance  New York City Below USA great acting cool end 9/11 Haaz Sleiman See Richard Jenkins humanity quirky immigrants real complex characters English-language millenial comedies DIVX diverse cast discrimination immigration process U.S. romance realistic alternate endings solitude social commentary predictable movie see Thomas McCarthy quirky style Bob*ola cincinnati heavy-handed redbox BGAB LRC beautiful morality predictable movie PG13
+12615          Puff, Puff, Pass (2006)  2.958333                    Comedy                                                                                                                                                                                                                                                                                                                                                                                                       comedy witty stoner comedy drugs underrated

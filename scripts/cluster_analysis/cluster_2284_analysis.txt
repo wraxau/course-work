@@ -1,0 +1,19 @@
+Анализ кластера 2284
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+monster          1
+King             1
+Kong             1
+monster:giant    1
+gorilla          1
+
+Примеры фильмов:
+                       title            genres                                      tag
+2284  King Kong Lives (1986)  Adventure|Sci-Fi  monster King Kong monster:giant gorilla

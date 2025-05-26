@@ -1,0 +1,25 @@
+Анализ кластера 1014
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Drama        1
+
+Топ-10 тегов:
+tag
+animals       2
+friendship    2
+animation     2
+Disney        2
+Ted           1
+tragedy       1
+foxes         1
+animated      1
+feature       1
+dogs          1
+
+Примеры фильмов:
+                              title                    genres                                                                                                                                                                                                                                                                          tag
+1014  Fox and the Hound, The (1981)  Animation|Children|Drama  Ted Berman Surullinen Touching story friendship Annemari Richard Rich disney Disney memorable animation animals unlikely friendships Art Stevens classic foxes Disney animated feature tragedy dogs food betrayal talking animals animation friendship Kurt Russell hunting

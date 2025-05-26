@@ -1,0 +1,26 @@
+Анализ кластера 2338
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Children     1
+Drama        1
+
+Топ-10 тегов:
+tag
+Los             1
+luta            1
+Macchio         1
+horticulture    1
+Seen            1
+2006            1
+Okinawa         1
+story           1
+mentor          1
+sentiment       1
+
+Примеры фильмов:
+                                 title                           genres                                                                                                                                                                                                                                                                        tag
+2338  Karate Kid, Part III, The (1989)  Action|Adventure|Children|Drama  Los Angeles Pat Morita veterans stupidity nostalgia bonsai martial arts karate John Avildsen children competition Razzie nominee: worst actor luta Ralph Macchio horticulture Seen 2006 Okinawa story mentor sentiment sequel coercion not good all small business Karate

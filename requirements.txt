@@ -31,3 +31,5 @@ tqdm==4.67.1
 tzdata==2024.2
 urllib3==2.3.0
 zipp==3.21.0
+
+kneed~=0.8.5

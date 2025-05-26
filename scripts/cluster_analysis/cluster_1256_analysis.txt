@@ -1,0 +1,25 @@
+Анализ кластера 1256
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Film-Noir    1
+Mystery      1
+
+Топ-10 тегов:
+tag
+Bacall      3
+noir        3
+Bogart      3
+Chandler    2
+DVDs        2
+bogart      2
+classic     2
+top         2
+250         2
+Marlowe     2
+
+Примеры фильмов:
+                      title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1256  Big Sleep, The (1946)  Crime|Film-Noir|Mystery  1305 erlend's DVDs bogart Howard Hawks Hammett lauren bacall National Film Registry sexy remade Emerson must see Bechdel Test:Fail humphrey bogart neo-noir author:Raymond Chandler based book mystery character:Philip Marlowe Legenda PT-BR Friends Should See philip marlowe BFI classic William Faulkner vday Great Screenplays Tumey's DVDs literary adaptation assassin top 250 IMDB Raymond Chandler Bogart and Bacall noir noir thriller classic Bogart Bacall Philip Marlowe murder grande sonno adapted from:book convoluted Humphrey Bogart head movie imdb top 250 100 Greatest Movies film noir private detective Bogie and Bacall major reshooting infidelity

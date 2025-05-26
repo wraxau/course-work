@@ -1,0 +1,29 @@
+Анализ подкластера 58 в кластере 8
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama       22
+Comedy       9
+Thriller     8
+Crime        6
+Romance      5
+
+Топ-5 тегов:
+tag
+ending     4
+nudity     4
+and        3
+William    3
+REDBOX     3
+
+Примеры фильмов:
+                                                 title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                      tag
+16282  Vincent Wants to Sea (Vincent will meer) (2010)  3.562500                  Drama                                                                                                                                                                                                                                                                                                                               Tourette syndrome psychology inspirational
+16283                          London Boulevard (2010)  3.182119          Crime|Romance                                                                                                                                                                                                                                   nudity (topless) London William Monahan unpredictable Colin Farrell Unpredictable organized crime vindictive gangsters Keira Knightley
+16284                                   Skyline (2010)  2.234300        Sci-Fi|Thriller  waste time unintentional comedy Acting Hate Love unresolved ending swaggering action Eyecandy boring tries too hard insignificance gratuitous death weak screenplay aliens CGI Alien Invasion Brittany Daniel random pointless death Eric Balfour dumb sci-fi stupid ending just not good Bob*ola lengthy plot REDBOX hot girls! evil ending pointless Scottie Thompson
+16285                   Karthik Calling Karthik (2010)  4.000000  Comedy|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                      NaN
+16286                 Sex & Drugs & Rock & Roll (2010)  3.593750           Comedy|Drama                                                                                                                                                                                                                                                                                                                         Mat Whitecross musicians rock and roll punk rock

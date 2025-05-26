@@ -1,0 +1,23 @@
+Анализ кластера 1407
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Steve        1
+James        1
+Biography    1
+Olympics     1
+reviewed     1
+biography    1
+track        1
+and          1
+field        1
+mentor       1
+
+Примеры фильмов:
+                   title genres                                                                                  tag
+1407  Prefontaine (1997)  Drama  Steve James Biography Olympics reviewed biography track and field mentor true story

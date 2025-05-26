@@ -1,0 +1,29 @@
+Анализ подкластера 157 в кластере 7
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 1.11
+
+Топ-5 жанров:
+genres
+Comedy                9
+Drama                 7
+Romance               4
+(no genres listed)    3
+Children              3
+
+Топ-5 тегов:
+tag
+Inaccurate    1
+Chris         1
+Hall          1
+The           1
+Comedy        1
+
+Примеры фильмов:
+                                                              title  rating              genres  tag
+29359                                         I'm Photogenic (1980)    3.50              Comedy  NaN
+29362  Paolo Barca, maestro elementare, praticamente nudista (1975)    2.00  (no genres listed)  NaN
+29365                                         The Bonesetter (2004)    1.00  (no genres listed)  NaN
+29367                          Si le vent soulève les sables (2007)    3.50           Drama|War  NaN
+29369                         A Virgin Among the Living Dead (1973)    1.25              Horror  NaN

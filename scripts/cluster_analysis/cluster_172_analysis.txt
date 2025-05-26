@@ -1,0 +1,20 @@
+Анализ кластера 172
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Golden         1
+Raspberry      1
+(Worst         1
+Actor)         1
+John           1
+Fortenberry    1
+tacos          1
+
+Примеры фильмов:
+                title  genres                                                    tag
+172  Jury Duty (1995)  Comedy  Golden Raspberry (Worst Actor) John Fortenberry tacos

@@ -1,0 +1,24 @@
+Анализ кластера 1504
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Nudity      3
+nudity      3
+library     2
+romance     2
+book        2
+Notable)    2
+(Full       2
+filmed      1
+poetry      1
+house       1
+
+Примеры фильмов:
+                        title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1504  Pillow Book, The (1996)  Drama|Romance  full frontal nudity nudity (full frontal) typography important cinematography Ewe Mean Sausage McHoody With Eggs visually appealing artistic Bechdel Test:Fail Fascinating movie based book poetic hypertextual book literary adaptation assassin romance dark diary Ewan McGregor Nudity (Topless Notable) art house murder ewan mcgregor has giant penis bisexual calligraphy poetry fetish books male nudity Nudity (Full Frontal) interracial romance Nudity (Full Frontal Notable) library autobiographical Peter Greenaway library vhs beautifully filmed jus+san Gay Character WRITER'S LIFE

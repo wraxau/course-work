@@ -1,0 +1,25 @@
+Анализ кластера 1632
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+comedy       1
+hilarious    1
+product      1
+placement    1
+Jon          1
+Amiel        1
+mistaken     1
+identity     1
+farcical     1
+spies        1
+
+Примеры фильмов:
+                                    title                 genres                                                                                              tag
+1632  Man Who Knew Too Little, The (1997)  Comedy|Crime|Thriller  comedy hilarious product placement Jon Amiel mistaken identity farcical spies Bill Murray funny

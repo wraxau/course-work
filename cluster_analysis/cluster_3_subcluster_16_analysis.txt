@@ -1,0 +1,29 @@
+Анализ подкластера 16 в кластере 3
+Размер подкластера: 49 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Comedy      21
+Drama       19
+Action      10
+Thriller    10
+Crime       10
+
+Топ-5 тегов:
+tag
+the       12
+comedy    11
+movie      8
+nudity     7
+film       7
+
+Примеры фильмов:
+                                       title    rating                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+3513               Gay Deceivers, The (1969)  2.261905                           Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                       NaN
+3523                    Things Change (1988)  3.613181                           Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                         David Mamet mafia
+3534                    Shanghai Noon (2000)  3.288680  Action|Adventure|Comedy|Western                                                                                                                                                                                                 comedy improvised martial arts not funny action princess Western Comedy buddy movie watch the credits kidnapping montage martial arts funny shit owen wilson Tom Dey subgenre:buddies Owen Wilson Lucy Liu Jackie Chan Great movie fight scenes trains culture shock kung
+3535  Better Living Through Circuitry (1999)  3.412162                      Documentary                                                                                                                                                                                                                                                                                                                                                                                                            underground subculture music electronic music dance music rave
+3539                   Gold Rush, The (1925)  4.068534         Adventure|Comedy|Romance  comedy erlend's DVDs public domain Best Rotten Tomatoes: All Time etaegeshelf National Film Registry AFI #74 chaplin Alaska memasa's movies Classic RAGS RICHES silent mining Tumey's DVDs Charlie Chaplin starving classic New Year's Eve narration the 1945 version written and spoken Chaplin himself CAV Funny hell movie see AFI 100 (Laughs) amnesia gold black and white Charles Chaplin afi imdb top 250 hunger 100 Greatest Movies Criterion dance AFI 100 hdtv

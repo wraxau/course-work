@@ -1,0 +1,29 @@
+Анализ подкластера 183 в кластере 7
+Размер подкластера: 91 фильмов
+Средний рейтинг: 2.82
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.67
+
+Топ-5 жанров:
+genres
+Drama                 31
+Comedy                25
+(no genres listed)    12
+Thriller              12
+Documentary            9
+
+Топ-5 тегов:
+tag
+80s        2
+video      2
+Alberto    2
+Greene     2
+David      2
+
+Примеры фильмов:
+                                                        title    rating              genres        tag
+26853  Jay And Silent Bob's Super Groovy Cartoon Movie (2013)  2.416667  (no genres listed)        NaN
+26876                                            Kidco (1984)       NaN              Comedy  80s video
+26884                           Waltz of the Toreadors (1962)  4.000000              Comedy        NaN
+26890                               The Feminine Touch (1941)  3.000000  (no genres listed)        NaN
+26899              The Pee-Wee Herman Show on Broadway (2011)  3.500000              Comedy        NaN

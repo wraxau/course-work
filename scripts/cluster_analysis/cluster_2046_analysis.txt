@@ -1,0 +1,15 @@
+Анализ кластера 2046
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+far      1
+flung    1
+
+Примеры фильмов:
+                                                         title       genres        tag
+2046  Saltmen of Tibet, The (Salzmänner von Tibet, Die) (1997)  Documentary  far flung

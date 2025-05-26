@@ -1,0 +1,29 @@
+Анализ подкластера 95 в кластере 0
+Размер подкластера: 13 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.11
+
+Топ-5 жанров:
+genres
+Drama       11
+Comedy       5
+Romance      4
+Thriller     2
+Horror       2
+
+Топ-5 тегов:
+tag
+Nudity     5
+300        4
+ratings    4
+funny      4
+remake     3
+
+Примеры фильмов:
+                                                title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                            tag
+11048               Notorious Bettie Page, The (2005)  3.163265                  Drama  politics nudity (full frontal) biography 1950s less 300 ratings Sexualized violence Walked out/didn't finish true story Bondage glitz glamour pinup biographical Mary Harron female director austere christianity BDSM Nudity (Topless Notable) chilly nostalgic Biopic Lili Taylor beautiful woman Nudity (Full Frontal) Nudity (Full Frontal Notable) censorship irreverent sexual stylized
+11049  Russian Specialist, The (Mechanik, The) (2005)  2.777778  Action|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                            NaN
+11050                          Parting Glances (1986)  3.777778   Comedy|Drama|Romance                                                                                                                                                                                                                                                                                                                 Moving interesting characters realistic relationships AIDS HIV funny realistic
+11051                                   Game 6 (2005)  2.861111           Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                            NaN
+11052                             American Gun (2005)  3.444444                  Drama                                                                                                                                                                                                                                                                                                                                                                 gun control multiple storyline

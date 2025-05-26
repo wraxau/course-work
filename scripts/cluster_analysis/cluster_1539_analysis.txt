@@ -1,0 +1,26 @@
+Анализ кластера 1539
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+superhero    2
+John         1
+Leguizamo    1
+horrible     1
+threats      1
+rape         1
+see:         1
+disaster     1
+Dippé        1
+A.Z.         1
+
+Примеры фильмов:
+             title                            genres                                                                                                                                                 tag
+1539  Spawn (1997)  Action|Adventure|Sci-Fi|Thriller  John Leguizamo horruible movie super hero ableist language comic book Mark A.Z. Dippé disaster superhero see: superhero rape threats horrible film

@@ -1,0 +1,29 @@
+Анализ подкластера 73 в кластере 3
+Размер подкластера: 23 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.63
+
+Топ-5 жанров:
+genres
+Comedy       9
+Drama        6
+Adventure    5
+Crime        5
+Action       4
+
+Топ-5 тегов:
+tag
+adapted      5
+murder       4
+from:book    4
+Bechdel      3
+secret       3
+
+Примеры фильмов:
+                                   title    rating                     genres                                                             tag
+19376  Tortoise and the Hare, The (1935)  3.625000  Animation|Children|Comedy  Aesop author:Aesop adapted from:book subgenre:fable based book
+19377                       Steak (2007)  3.593750                     Comedy                                                 Quentin Dupieux
+19378      Legend of Bigfoot, The (1976)  1.700000                Documentary                                           monster cryptozoology
+19379         Neil Young Journeys (2012)  2.815789                Documentary                                        Jonathan Demme musicians
+19380     Capture of Bigfoot, The (1979)  1.000000    Adventure|Horror|Sci-Fi                                                             NaN

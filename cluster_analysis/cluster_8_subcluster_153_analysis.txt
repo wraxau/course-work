@@ -1,0 +1,26 @@
+Анализ подкластера 153 в кластере 8
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 2.83
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama        3
+Crime        2
+Western      2
+Film-Noir    1
+Action       1
+
+Топ-5 тегов:
+tag
+Frank      1
+Borzage    1
+
+Примеры фильмов:
+                             title    rating                       genres            tag
+18503  Las Vegas Story, The (1952)  3.750000        Crime|Drama|Film-Noir            NaN
+18504          My Man and I (1952)  2.500000                        Drama            NaN
+18505               Secrets (1933)  2.833333                      Western  Frank Borzage
+18506             Westbound (1959)  3.000000                      Western            NaN
+18507      Don Is Dead, The (1973)  2.500000  Action|Crime|Drama|Thriller            NaN

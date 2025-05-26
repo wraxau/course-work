@@ -1,0 +1,24 @@
+Анализ подкластера 87 в кластере 6
+Размер подкластера: 10 фильмов
+Средний рейтинг: 2.31
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 1.18
+
+Топ-5 жанров:
+genres
+Comedy     5
+Drama      5
+Mystery    2
+Action     2
+Romance    1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                                      title  rating          genres  tag
+26404                  Pretty Devils (2000)    2.25    Comedy|Drama  NaN
+26405             Music for Millions (1944)    3.00    Comedy|Drama  NaN
+26406                   Wild Orchids (1929)    3.00   Drama|Romance  NaN
+26407               Movers & Shakers (1985)    0.50          Comedy  NaN
+26408  Nancy Drew... Trouble Shooter (1939)    3.00  Comedy|Mystery  NaN

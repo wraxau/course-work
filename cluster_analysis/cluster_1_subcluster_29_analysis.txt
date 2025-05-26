@@ -1,0 +1,29 @@
+Анализ подкластера 29 в кластере 1
+Размер подкластера: 203 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.48
+
+Топ-5 жанров:
+genres
+Drama       77
+Comedy      56
+Thriller    36
+Action      34
+Romance     25
+
+Топ-5 тегов:
+tag
+the          11
+nudity        9
+action        8
+IMAX          8
+(topless)     7
+
+Примеры фильмов:
+                                                                        title    rating                 genres                                                                                                                                                                                                                                                                                                                                        tag
+23696                                                    So Undercover (2012)  2.958333          Action|Comedy                                                                                                                                                                                                                                                                                                                                    college
+23698                                                        Northeast (2011)  2.500000                  Drama                                                                                                                                                                                                                                                                                                          drama independent film coming age
+23702  Bikini Spring Break (Revenge of the Nerds' Bikini Spring Break) (2012)  1.666667                 Comedy                                                                                                                                                                                                                                                                                                                           nudity (topless)
+23704                                                    I Feel Sleepy (2012)  3.500000                 Comedy                                                                                                                                                                                                                                                                                                                                        NaN
+23706                                                   Equalizer, The (2014)  3.527810  Action|Crime|Thriller  MOLT_CRITICADA USA visually appealing one man army revenge action dark hero disappointing third act reviewed violent Action straight forward cliché time control russian mafia makes sense Chloë Grace Moretz IMAX DMR wondrful movie bravery tough guy bad the title Denzel Washington invincible brutality JAMES BOND IMAX Digital only

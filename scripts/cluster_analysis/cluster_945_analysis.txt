@@ -1,0 +1,16 @@
+Анализ кластера 945
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+Busby       1
+Berkeley    1
+
+Примеры фильмов:
+                                                                              title       genres             tag
+945  They Made Me a Criminal (I Became a Criminal) (They Made Me a Fugitive) (1939)  Crime|Drama  Busby Berkeley

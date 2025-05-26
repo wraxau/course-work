@@ -1,0 +1,29 @@
+Анализ подкластера 237 в кластере 8
+Размер подкластера: 24 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama          13
+Documentary     6
+Comedy          5
+Thriller        3
+Horror          2
+
+Топ-5 тегов:
+tag
+Fassbinder    3
+Werner        2
+black         2
+Rainer        2
+dvr           1
+
+Примеры фильмов:
+                                                                 title    rating                 genres                                                                                 tag
+16027                                                    Martha (1974)  3.454545         Drama|Thriller                                                        dvr Rainer Werner Fassbinder
+16028                    Rooster's Breakfast (Petelinji zajtrk) (2007)  3.500000                  Drama                                                                                 NaN
+16029                                  Massacre at Central High (1976)  2.687500  Drama|Horror|Thriller                                                                                 NaN
+16030  Love Is Colder Than Death (Liebe ist kälter als der Tod) (1969)  3.200000   Comedy|Crime|Romance  black and white Rainer Werner Fassbinder Criterion black humor Fassbinder stylized
+16031                  Family Friend, The (L'amico di famiglia) (2006)  3.590909                  Drama                                        Paolo Sorrentino Giacomo Rizzo Laura Chiatti

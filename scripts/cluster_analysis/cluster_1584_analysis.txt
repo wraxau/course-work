@@ -1,0 +1,24 @@
+Анализ кластера 1584
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+seen          2
+British       2
+funny         2
+Carlyle       2
+community     1
+plot:small    1
+comes         1
+touching      1
+England       1
+RRobert       1
+
+Примеры фильмов:
+                       title        genres                                                                                                                                                                                                                                                                                                                tag
+1584  Full Monty, The (1997)  Comedy|Drama  seen the cinema Peter Cattaneo unemployment British strippers stripping indecent etaege striptease DVD working class actually funny seen more once funny RRobert Carlyle humane disco british comedy Robert Carlyle yorkshire Mark Addy England touching plot:small British community comes together heartwarming

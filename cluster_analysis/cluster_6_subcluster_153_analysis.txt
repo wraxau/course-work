@@ -1,0 +1,29 @@
+Анализ подкластера 153 в кластере 6
+Размер подкластера: 16 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Romance     6
+Drama       4
+Comedy      4
+Fantasy     4
+Thriller    3
+
+Топ-5 тегов:
+tag
+America    2
+Latin      1
+talking    1
+Clement    1
+Jemaine    1
+
+Примеры фильмов:
+                                       title  rating                           genres                            tag
+23372                        Hit Lady (1974)    4.00             Crime|Drama|Thriller                            NaN
+23373              All American Chump (1936)    2.50                           Comedy                            NaN
+23374  American Cyborg: Steel Warrior (1993)    3.00                    Action|Sci-Fi                            NaN
+23375                    Arsène Lupin (1932)    3.25                  Mystery|Romance  adapted from:play Jack Conway
+23376            Beauty and the Beast (1962)    3.75  Children|Fantasy|Horror|Romance                            NaN

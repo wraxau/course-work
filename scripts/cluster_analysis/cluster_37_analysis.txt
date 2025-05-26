@@ -1,0 +1,24 @@
+Анализ кластера 37
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+
+Топ-10 тегов:
+tag
+twins/inter-related    1
+lives                  1
+cute                   1
+fun                    1
+twins                  1
+Andy                   1
+Tennant                1
+nostalgic              1
+mary                   1
+kate                   1
+
+Примеры фильмов:
+                  title           genres                                                                                                                 tag
+37  It Takes Two (1995)  Children|Comedy  twins/inter-related lives cute fun twins Andy Tennant nostalgic mary kate and ashley switching places heartwarming

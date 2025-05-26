@@ -1,0 +1,29 @@
+Анализ подкластера 38 в кластере 1
+Размер подкластера: 75 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          27
+Comedy         21
+Documentary    12
+Thriller       11
+Horror          8
+
+Топ-5 тегов:
+tag
+nudity     5
+comedy     5
+Africa     3
+sequel     3
+history    2
+
+Примеры фильмов:
+                                              title  rating            genres                                                                 tag
+22966                          Women in Love (2011)   3.000             Drama                                               nudity (full frontal)
+22973                                 Jaguar (1967)   3.500       Documentary                                  Ghana immigrants Africa Jean Rouch
+22977  Big Money Rustlas (Big Money Ru$tla$) (2010)   3.500    Comedy|Western                                                                 NaN
+22983                            The African (1983)   3.250  Adventure|Comedy  Catherine Deneuve French Film French France Planes Africa airplane
+22987                    Someone Marry Barry (2014)   2.625            Comedy                                       buddy movie predictable humor

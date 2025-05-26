@@ -1,0 +1,23 @@
+Анализ кластера 1073
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Mamet        4
+dialogue     3
+business     2
+Lemmon       2
+Alec         2
+Baldwin      2
+Jack         2
+David        2
+watch        1
+difficult    1
+
+Примеры фильмов:
+                           title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1073  Glengarry Glen Ross (1992)  Drama  business the antagonist too much dialogue irony writer:David Mamet Pacino independent boring nothing happens famous line Tumey's DVDs dialogue driven Jack Lemmon playwright:David Mamet based play realistic drama satire Ari desperation David Mamet. Jack Lemmon business Lesson acting for all ensemble cast David Mamet difficult watch depressing without being uplifting Harris Business Kevin Spacey stage greed Alec Baldwin Great Performances: Alec Baldwin dialogue Real Estate complexity adapted from:play Mamet James Foley

@@ -1,0 +1,26 @@
+Анализ кластера 1917
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+movie     3
+action    2
+buddy     2
+70mm      2
+once      2
+Los       1
+humor     1
+Verbal    1
+80's      1
+foqam     1
+
+Примеры фильмов:
+                     title                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1917  Lethal Weapon (1987)  Action|Comedy|Crime|Drama  Los Angeles comedy Mel Gibson subgenre:cop buddies mel eating dog food directing Danny Glover Let down action torture Netflix Finland Richard Donner wannabe-funny buddy movie franchise seen more once 70mm blowup want Tumey's DVDs kidnapping Buddy movie funny Can't remember classic 70mm drama Leong suicide attempt humor foqam 80's Verbal Byplay suffering protagonist buddy Nudity (Topless) death wish series okay once nudity police sequel Spherical Blow-Up good action inner turmoil movie Seen 2008

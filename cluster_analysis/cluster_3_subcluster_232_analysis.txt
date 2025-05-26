@@ -1,0 +1,29 @@
+Анализ подкластера 232 в кластере 3
+Размер подкластера: 30 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy      11
+Thriller     7
+Romance      5
+Crime        4
+
+Топ-5 тегов:
+tag
+good     5
+the      5
+based    5
+drama    4
+show     4
+
+Примеры фильмов:
+                                                         title    rating          genres                                                                                              tag
+563                                  Bhaji on the Beach (1993)  3.551020    Comedy|Drama                                                                                directorial debut
+566                                   Wedding Gift, The (1994)  3.616114   Drama|Romance                                                                        Richard Loncraine netflix
+573                            Escort, The (Scorta, La) (1993)  3.012195  Crime|Thriller                                                                                              NaN
+578  I Don't Want to Talk About It (De eso no se habla) (1993)  3.066667   Drama|Romance                                                                                              NaN
+579                              Brady Bunch Movie, The (1995)  2.617674          Comedy  comedy Betty Thomas like-i-like top pick Based Show based show parody Comedy Brad Pitt misogyny

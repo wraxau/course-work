@@ -1,0 +1,29 @@
+Анализ подкластера 323 в кластере 7
+Размер подкластера: 29 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.68
+
+Топ-5 жанров:
+genres
+Drama                 11
+Comedy                 9
+(no genres listed)     6
+Romance                6
+Action                 3
+
+Топ-5 тегов:
+tag
+prostitution    1
+French          1
+comedy          1
+made            1
+for             1
+
+Примеры фильмов:
+                        title  rating              genres  tag
+30271         Flat Top (1952)     2.5    Action|Drama|War  NaN
+30276       Druid Peak (2014)     4.0     Adventure|Drama  NaN
+30277       The Lawyer (1970)     3.0  (no genres listed)  NaN
+30279  Los Enchiladas! (1999)     4.5              Comedy  NaN
+30283    Gräfin Mariza (1958)     3.0              Comedy  NaN

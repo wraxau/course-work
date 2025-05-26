@@ -1,0 +1,24 @@
+Анализ кластера 2217
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Musical    1
+
+Топ-10 тегов:
+tag
+satire         1
+Nudity         1
+empire         1
+Roman          1
+silly          1
+Inquisition    1
+Spanish        1
+Welles         1
+Orson          1
+goofy          1
+
+Примеры фильмов:
+                                    title          genres                                                                                                                                                                                                            tag
+2217  History of the World: Part I (1981)  Comedy|Musical  satire multiple roles Mel Brooks mockumentary irreverent light Classical Studies madcap Betamax Tumey's DVDs Nudity (Topless Brief) merry goofy Orson Welles Spanish Inquisition silly Roman empire satirical

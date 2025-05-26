@@ -1,0 +1,29 @@
+Анализ подкластера 663 в кластере 6
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.47
+
+Топ-5 жанров:
+genres
+Drama       29
+Comedy      11
+Action      10
+Thriller     8
+Crime        7
+
+Топ-5 тегов:
+tag
+the          3
+ending       3
+Criterion    3
+film         2
+Netflix      2
+
+Примеры фильмов:
+                            title    rating                               genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+14358    The Paris Express (1952)  3.000000                          Crime|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  NaN
+14361          Black Eagle (1988)  2.000000                         Action|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  VHS
+14366  Law Abiding Citizen (2009)  3.628534                       Drama|Thriller  Jamie Foxx lame twist vigilante twist revenge fun plot enjoyable gadgets Act From fridging women predictable ending graphic violent Gary Gray gore antihero Colm Meaney Hell!" Gerard Butler technology unrealistic messed with the wrong guy Netflix Streaming cinematography Questioning Morality unpredictable "Tonite editing COMENÇA MOLT ACABA MALAMENT REDBOX Obviously sarificed the writer's tale moral relativism for black and white moralism. explosions ending kinda ruined implauisble fantasy stupid
+14378   Boys Are Back, The (2009)  3.290698                         Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Clive Owen single parents based book
+14418                 Ryan (2004)  3.666667  Animation|Documentary|Drama|Fantasy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Chris Landreth

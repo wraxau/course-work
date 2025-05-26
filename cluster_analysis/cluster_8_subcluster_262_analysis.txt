@@ -1,0 +1,29 @@
+Анализ подкластера 262 в кластере 8
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.82
+Медиана рейтинга: 2.23
+Дисперсия рейтинга: 1.48
+
+Топ-5 жанров:
+genres
+Drama       4
+Mystery     2
+Thriller    2
+Horror      1
+Comedy      1
+
+Топ-5 тегов:
+tag
+Pietro    1
+Germi     1
+show      1
+feel      1
+cheesy    1
+
+Примеры фильмов:
+                                                                  title    rating                        genres                         tag
+17778                                Messengers 2: The Scarecrow (2009)  1.857143                Horror|Mystery                         NaN
+17779                                              Boys (Drenge) (1977)  5.000000                         Drama                         NaN
+17780  Birds, the Bees and the Italians, The (Signore & signori) (1966)  3.500000                        Comedy                Pietro Germi
+17781                                                  Backlight (2010)  2.083333         Drama|Sci-Fi|Thriller  show feel cheesy overacted
+17782                                                Lodger, The (2009)  2.285714  Crime|Drama|Mystery|Thriller      remake Jack the Ripper

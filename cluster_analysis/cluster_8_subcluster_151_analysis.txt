@@ -1,0 +1,29 @@
+Анализ подкластера 151 в кластере 8
+Размер подкластера: 32 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.37
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Drama       19
+Comedy      10
+Crime        9
+Thriller     9
+Action       6
+
+Топ-5 тегов:
+tag
+ending     9
+funny      6
+movie      6
+netflix    5
+comic      5
+
+Примеры фильмов:
+                                         title    rating                              genres                                                                                                   tag
+11628                        Point, The (1971)  3.500000  Animation|Children|Fantasy|Musical           psychedelic 11/11 anti-discrimination 12/10 06/11 12/11 fable 01/12 Harry Nilsson Fred Wolf
+11632             Wake Up, Ron Burgundy (2004)  3.060606                              Comedy                                                                                                   NaN
+11633  S.P.L.: Kill Zone (Saat po long) (2005)  3.756410         Action|Crime|Drama|Thriller                                                                  dark Hong Kong Wilson Yip Donnie Yen
+11640         Days of Glory (Indigènes) (2006)  3.527211          Action|Adventure|Drama|War                                                     Rachid Bouchareb war dvr World War algeria France
+11648      Trailer Park Boys: The Movie (2006)  3.507042                        Comedy|Crime  nudity (topless) comedy Mike Clattenburg humor adapted from:TV series tits drugs characters rickyism

@@ -1,0 +1,24 @@
+Анализ кластера 1455
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+American     1
+Golden       1
+Age          1
+Nudity       1
+(Topless     1
+Notable)     1
+period       1
+piece        1
+
+Примеры фильмов:
+                             title         genres                                                                                                 tag
+1455  Inventing the Abbotts (1997)  Drama|Romance  nudity (topless) American Golden Age Nudity (Topless Notable) period piece romance Joaquin Phoenix

@@ -1,0 +1,17 @@
+Анализ кластера 740
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Uma        1
+Thurman    1
+
+Примеры фильмов:
+                           title                genres          tag
+740  Month by the Lake, A (1995)  Comedy|Drama|Romance  Uma Thurman

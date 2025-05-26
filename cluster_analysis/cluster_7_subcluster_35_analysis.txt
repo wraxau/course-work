@@ -1,0 +1,29 @@
+Анализ подкластера 35 в кластере 7
+Размер подкластера: 289 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.97
+
+Топ-5 жанров:
+genres
+Drama                 95
+Comedy                88
+Action                44
+Thriller              43
+(no genres listed)    38
+
+Топ-5 тегов:
+tag
+terrorism    2
+action       2
+abusive      2
+bollywood    2
+story        2
+
+Примеры фильмов:
+                                  title  rating                     genres  tag
+26664  Mark of the Astro-Zombies (2002)    1.50              Horror|Sci-Fi  NaN
+26667              The Happy Elf (2005)    0.50  Animation|Children|Comedy  NaN
+26669                     Zouzou (1934)    3.00                     Comedy  NaN
+26682                     HazMat (2013)    2.25                     Horror  NaN
+26704             Paper Soldiers (2002)    3.25              Action|Comedy  NaN

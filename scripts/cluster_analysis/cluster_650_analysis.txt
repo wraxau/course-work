@@ -1,0 +1,15 @@
+Анализ кластера 650
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Musical    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                      title         genres  tag
+650  Billy's Holiday (1995)  Drama|Musical  NaN

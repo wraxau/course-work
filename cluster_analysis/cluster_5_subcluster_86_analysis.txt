@@ -1,0 +1,29 @@
+Анализ подкластера 86 в кластере 5
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.30
+Медиана рейтинга: 3.46
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Comedy       8
+Drama        7
+Action       5
+Romance      4
+Adventure    3
+
+Топ-5 тегов:
+tag
+made     4
+for      4
+book     2
+White    2
+plot     2
+
+Примеры фильмов:
+                                                   title    rating                                        genres                                                                                                                                                                                       tag
+14790   Dr. Otto and the Riddle of the Gloom Beam (1986)  3.250000                                        Comedy                                                                                                                                                                                       NaN
+14791             Rudolph, the Red-Nosed Reindeer (1964)  3.612474  Adventure|Animation|Children|Fantasy|Musical  Christmas Larry Roemer Xmas theme Kizo Nagashima BD-Video made for made for television family snowman Santa Claus seen stopmotion stop motion reindeer talking animals Burl Ives classic
+14792              Dennis the Menace Christmas, A (2007)  1.804348                                        Comedy                                                                                                                                                                                  made for
+14793                                 Nowhere Boy (2009)  3.607527                                         Drama                                                                                            dysfunctional family John Lennon mother-son relationship coming-of-age music Beatles BIOGRAFIA
+14794  Note by Note: The Making of Steinway L1037 (2007)  3.700000                                   Documentary                                                                                                                                                                                       NaN

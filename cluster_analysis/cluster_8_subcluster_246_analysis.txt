@@ -1,0 +1,29 @@
+Анализ подкластера 246 в кластере 8
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.68
+Медиана рейтинга: 2.96
+Дисперсия рейтинга: 1.04
+
+Топ-5 жанров:
+genres
+Action       3
+Comedy       3
+Drama        2
+Romance      2
+Adventure    1
+
+Топ-5 тегов:
+tag
+statistics    2
+romance       1
+feminism      1
+Jennifer      1
+Siebel        1
+
+Примеры фильмов:
+                             title    rating                          genres                                                                                                                                                                                                                                          tag
+18135            Pajeczarki (1993)  1.000000                   Action|Comedy                                                                                                                                                                                                                                          NaN
+18136                 Mulan (2009)  3.516129  Action|Adventure|Drama|Romance                                                                                                                                                                                                               romance inteligent good acting
+18137          Campus Radio (2011)  2.000000                    Comedy|Drama                                                                                                                                                                                                                                          NaN
+18138  Machine Gun Preacher (2011)  3.260331                    Action|Crime                                                                                                                                                           pious Gerard Butler Direction child killing superficial Character Development Flow
+18139   Miss Representation (2011)  3.627907                     Documentary  framing personal narrative talking heads politics america tightly focused Jennifer Siebel Newsom far-reaching vague statistics media representation feminism poor use statistics undermines its correct argument polemic wide range experts

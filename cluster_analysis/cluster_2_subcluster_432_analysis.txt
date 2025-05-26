@@ -1,0 +1,29 @@
+Анализ подкластера 432 в кластере 2
+Размер подкластера: 35 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Drama          21
+Comedy         10
+Thriller        4
+Documentary     4
+Animation       4
+
+Топ-5 тегов:
+tag
+animation    2
+made         2
+for          2
+book         2
+oppl         1
+
+Примеры фильмов:
+                                                                 title    rating           genres                                                                               tag
+17412                                            Seconds Apart (2011)   2.666667  Horror|Thriller                                                                               NaN
+17421                                           Too Big to Fail (2011)  3.803279            Drama  11/11 politics made for business Curtis Hanson 12/11 01/12 based book true story
+17429  Apart from You (After Our Separation) (Kimi to wakarete) (1933)  3.250000            Drama                                                            Criterion Mikio Naruse
+17432                                                 Meat Love (1989)  3.218750   Comedy|Fantasy                                                                    Jan Svankmajer
+17434                                            Film ist. 7-12 (2002)  3.500000      Documentary                                                                               NaN

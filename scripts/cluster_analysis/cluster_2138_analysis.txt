@@ -1,0 +1,19 @@
+Анализ кластера 2138
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Hitchcock    2
+Alfred       1
+First        1
+Britain      1
+talkie       1
+
+Примеры фильмов:
+                 title          genres                                              tag
+2138  Blackmail (1929)  Drama|Thriller  Alfred Hitchcock Hitchcock First Britain talkie

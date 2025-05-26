@@ -1,0 +1,23 @@
+Анализ кластера 1331
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Bob*ola       1
+murder        1
+courtroom     1
+queue         1
+Netflix       1
+System        1
+Library       1
+disturbing    1
+MTSKAF        1
+Joe           1
+
+Примеры фильмов:
+                                                            title       genres                                                                                                                                  tag
+1331  Paradise Lost: The Child Murders at Robin Hood Hills (1996)  Documentary  Bob*ola Joe Berlinger wrongly accused woods Legal Documentary MTSKAF murder disturbing Library System Netflix queue courtroom guilt

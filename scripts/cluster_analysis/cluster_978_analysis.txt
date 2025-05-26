@@ -1,0 +1,19 @@
+Анализ кластера 978
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+adultery     1
+nudity       1
+(topless)    1
+Robert       1
+Young        1
+
+Примеры фильмов:
+             title          genres                                     tag
+978  Caught (1996)  Drama|Thriller  adultery nudity (topless) Robert Young

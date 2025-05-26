@@ -1,0 +1,25 @@
+Анализ кластера 2125
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+DVDs          2
+erlend's      1
+Undertones    1
+Gay           1
+Criterion     1
+Farce         1
+Conspiracy    1
+250           1
+top           1
+imdb          1
+
+Примеры фильмов:
+                          title                  genres                                                                                                                                                                                                                           tag
+2125  Lady Vanishes, The (1938)  Drama|Mystery|Thriller  erlend's DVDs Politics Spy Mystery Tumey's DVDs Charters and Caldicott Alfred Hitchcock classic Comedy ummarti2006 Suspenseful MISSING PERSONS train Surprising imdb top 250 Conspiracy Farce Criterion Gay Undertones Janus

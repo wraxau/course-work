@@ -1,0 +1,24 @@
+Анализ кластера 366
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+
+Топ-10 тегов:
+tag
+Leslie        2
+funny         2
+seen          2
+comedy        1
+crazy         1
+Comedy        1
+parody        1
+fast-paced    1
+foqam         1
+Funny         1
+
+Примеры фильмов:
+                                         title         genres                                                                                                                                                                                                                                                                                   tag
+366  Naked Gun 33 1/3: The Final Insult (1994)  Action|Comedy  comedy hilarious ZAZ Leslie Neilsen Doesn't age well. Peter Segal boring screwball nazi Arma nua seen with parents funny Can't remember Slapstick crap Comedy parody fast-paced foqam Funny hell crazy Leslie Nielsen I'm embarassed find this funny seen under duress police sequel

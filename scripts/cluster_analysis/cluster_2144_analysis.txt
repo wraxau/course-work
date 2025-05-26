@@ -1,0 +1,21 @@
+Анализ кластера 2144
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Hitchcock    2
+Alfred       1
+Scary        1
+Movies       1
+See          1
+Halloween    1
+
+Примеры фильмов:
+                                              title                genres                                                    tag
+2144  Lodger: A Story of the London Fog, The (1927)  Crime|Drama|Thriller  Alfred Hitchcock Scary Movies See Halloween Hitchcock

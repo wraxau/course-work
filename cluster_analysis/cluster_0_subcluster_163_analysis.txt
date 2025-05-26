@@ -1,0 +1,29 @@
+Анализ подкластера 163 в кластере 0
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.47
+Медиана рейтинга: 3.52
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Drama       6
+Comedy      5
+Romance     3
+Action      2
+Thriller    2
+
+Топ-5 тегов:
+tag
+Nudity       9
+nudity       3
+(Topless)    3
+(Topless     3
+Brief)       3
+
+Примеры фильмов:
+                                          title    rating               genres                                                                                                                                                                                                                                             tag
+12117              In the Valley of Elah (2007)  3.582842        Drama|Mystery  nudity (topless) different Nudity (Topless Brief) less 300 ratings See Paul Haggis Iraq twist ending Netflix Finland army DIVX investigation Tommy Lee Jones ClearPlay Charlize Theron murder Tedious Nudity (Topless) Susan Sarandon Iraq War
+12118  Paint It Yellow (Rang De Basanti) (2006)  3.971429  Action|Comedy|Drama                                                                                                                                                                       11/11 bollywood india youth patriotic social cause Rakesh Omprakash Mehra
+12119        I Could Never Be Your Woman (2007)  2.945545       Comedy|Romance                                                                                                                                Seen 2014 dolls Amy Heckerling mother daughter relationship AGE DISPARITY ROMANCE Paul Rudd May-December romance
+12120                  Design for Living (1933)  3.595238       Comedy|Romance                                                                                                                                Gary Cooper mÃ©nage trois Ernst Lubitsch Fredric March Criterion pre-code Hollywood love triangle Miriam Hopkins
+12121                      December Boys (2007)  3.041176                Drama                                                                                                                                      Australia drama boring orphans Teresa Palmer Nudity (Topless Brief) Daniel Radcliffe Nudity (Topless) PG13

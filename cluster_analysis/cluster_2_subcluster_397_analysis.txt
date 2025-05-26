@@ -1,0 +1,29 @@
+Анализ подкластера 397 в кластере 2
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.37
+Медиана рейтинга: 3.46
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama        8
+Comedy       4
+Adventure    3
+Fantasy      3
+Thriller     3
+
+Топ-5 тегов:
+tag
+plot            8
+ending          6
+relationship    5
+funny           4
+reality         4
+
+Примеры фильмов:
+                                                                  title    rating                                            genres                                                                                                             tag
+15504  When Father Was Away on Business (Otac na sluzbenom putu) (1985)  3.937500                                             Drama                                                                                                  Emir Kusturica
+15512                                           This Happy Breed (1944)  3.500000                                      Comedy|Drama                                                                                            David Lean Criterion
+15524                                  Island of Dr. Moreau, The (1977)  2.842105  Adventure|Fantasy|Horror|Romance|Sci-Fi|Thriller  mad scientist island Brief Nudity remade H.G. Wells 70s adapted from:book author:H. Wells shipwreck based book
+15525                                        Malice N Wonderland (2010)  2.400000                                     Drama|Musical                                                                                                        made for
+15552                                        Hell and High Water (1954)  3.000000                          Adventure|Drama|Thriller                                                                                                             NaN

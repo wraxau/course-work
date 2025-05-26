@@ -1,0 +1,29 @@
+Анализ подкластера 47 в кластере 7
+Размер подкластера: 46 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama          21
+Comedy         11
+Documentary     8
+Thriller        6
+Adventure       5
+
+Топ-5 тегов:
+tag
+Lattuada     2
+Alberto      2
+Greene       2
+David        2
+courtroom    1
+
+Примеры фильмов:
+                                                      title  rating                      genres  tag
+27281                               Help! I'm A Fish (2001)   2.550  Adventure|Animation|Comedy  NaN
+27288                        Lotta på Bråkmakargatan (1992)   3.250                    Children  NaN
+27298                                    Grandmother (2010)   3.000                       Drama  NaN
+27299                                      Our Sunhi (2013)   3.250                       Drama  NaN
+27303  When Evening Falls on Bucharest or Metabolism (2013)   3.875          (no genres listed)  NaN

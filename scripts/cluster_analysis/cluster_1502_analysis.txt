@@ -1,0 +1,25 @@
+Анализ кластера 1502
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+John          2
+adventure     2
+aviation      1
+redemption    1
+watched       1
+1997          1
+Great         1
+Actions       1
+Malkovich     1
+Simon         1
+
+Примеры фильмов:
+               title                     genres                                                                                                                                                                                                                                                                                                                                                                           tag
+1502  Con Air (1997)  Action|Adventure|Thriller  John Cusack soundtrack seen the cinema unintentional comedy action Steve Buscemi Danny Trejo convicts distructive adventure Jerry Bruckheimer Homestuck crazy adventure aeroplane airplane mawkish dave chapelle redemption watched 1997 Great Actions John Malkovich Simon West aviation dark humour (not comedy) prison explosions afternoon section Nicolas Cage violence

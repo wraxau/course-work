@@ -1,0 +1,29 @@
+Анализ подкластера 16 в кластере 8
+Размер подкластера: 220 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       122
+Comedy       66
+Thriller     35
+Romance      29
+Crime        27
+
+Топ-5 тегов:
+tag
+Nudity    26
+nudity    24
+movie     22
+comedy    20
+based     19
+
+Примеры фильмов:
+                                                        title    rating                                    genres                                                                                                                                                                                                                               tag
+12374  Lemonade Joe (Limonádový Joe aneb Konská opera) (1964)  3.562500  Adventure|Comedy|Musical|Romance|Western                                                                                                                                                                                                                    Oldrich Lipský
+12376                                              LOL (2006)  2.850000                              Comedy|Drama                                                                                                                                                                                                                               NaN
+12377            Band's Visit, The (Bikur Ha-Tizmoret) (2007)  3.785924                              Comedy|Drama  confronting stereotypes Sasson Gabai Israel challenging understated egyptian complex relationships Eran Kolirin millenial foreign comedies see Ronit Elkabetz social commentary music israel beautiful kupienia Middle East PG13
+12378                                  In Between Days (2006)  3.250000                                     Drama                                                                                                                                                                                                                               NaN
+12381                            And Soon the Darkness (1970)  2.750000                          Mystery|Thriller                                                                                                                                                                                                                               NaN

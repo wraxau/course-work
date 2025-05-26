@@ -1,0 +1,29 @@
+Анализ подкластера 41 в кластере 2
+Размер подкластера: 32 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.44
+Дисперсия рейтинга: 0.54
+
+Топ-5 жанров:
+genres
+Drama          20
+Thriller        8
+Romance         8
+Comedy          7
+Documentary     3
+
+Топ-5 тегов:
+tag
+bad      4
+great    4
+2011     3
+funny    3
+music    3
+
+Примеры фильмов:
+                                  title    rating       genres                                                                                                      tag
+17447                Squall, The (1929)  4.000000        Drama                                                                                                      NaN
+17474          Room for One More (1952)  3.375000       Comedy                                                                                            Norman Taurog
+17477             Bright Victory (1951)  2.000000        Drama                                                                                                      NaN
+17481          Between the Folds (2008)  3.782609  Documentary  androcentrism mind-bending informative visually appealing thought-provoking origami enthralling thought
+17511  New Wave (Nouvelle vague) (1990)  3.500000        Drama                                                                                          Jean-Luc Godard

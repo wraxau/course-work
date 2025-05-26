@@ -1,0 +1,25 @@
+Анализ кластера 1506
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+sequel          3
+Ship            1
+unrealistic     1
+Bont            1
+Jan             1
+crappy          1
+plot            1
+speed           1
+rec?            1
+sequel:worse    1
+
+Примеры фильмов:
+                               title                   genres                                                                                                                                                                                                                      tag
+1506  Speed 2: Cruise Control (1997)  Action|Romance|Thriller  Ship Takeover Sandra Bullock Keanu Reeves boat Boat Ocean Cruise Jason Patric not good the first unrealistic predictable Willem Dafoe Stupid Hell sequel:worse rec? sequel speed plot crappy sequel Jan Bont bad sequel

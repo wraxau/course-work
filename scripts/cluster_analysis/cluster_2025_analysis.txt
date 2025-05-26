@@ -1,0 +1,24 @@
+Анализ кластера 2025
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+weather          2
+shakespeare      2
+realism          2
+references       2
+Sarah            1
+story            1
+kind             1
+Shakespearean    1
+reporter         1
+protagonist      1
+
+Примеры фильмов:
+                  title          genres                                                                                                                                                                                                                                                                                                                                   tag
+2025  L.A. Story (1991)  Comedy|Romance  weather forecaster Nudity (Topless Brief) shakespeare magic realism surreal quirky Mick Jackson Steve Martin social commentary steve martin setting:LA shakespeare references magical realism story kind Shakespearean references weather reporter protagonist Sarah Jessica Parker VHS los angeles cameos satire:Hollywood insiders

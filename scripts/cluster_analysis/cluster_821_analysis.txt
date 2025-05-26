@@ -1,0 +1,25 @@
+Анализ кластера 821
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+but           1
+Keanu         1
+corruption    1
+fuel;         1
+reeves        1
+keanu         1
+Davis         1
+Andrew        1
+Freeman       1
+Morgan        1
+
+Примеры фильмов:
+                     title                     genres                                                                                                                                                         tag
+821  Chain Reaction (1996)  Action|Adventure|Thriller  but not very good political conspiracy theory seen the cinema andrew davis Keanu Reeves Morgan Freeman Andrew Davis keanu reeves fuel; corruption thriller

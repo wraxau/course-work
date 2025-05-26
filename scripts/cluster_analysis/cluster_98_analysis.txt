@@ -1,0 +1,20 @@
+Анализ кластера 98
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+corruption    1
+politics      1
+own           1
+Pacino        1
+Harold        1
+Becker        1
+
+Примеры фильмов:
+               title          genres                                           tag
+98  City Hall (1996)  Drama|Thriller  corruption politics own Pacino Harold Becker

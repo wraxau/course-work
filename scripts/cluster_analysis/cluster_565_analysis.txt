@@ -1,0 +1,23 @@
+Анализ кластера 565
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+working          1
+class            1
+Åke              1
+Sandgren         1
+socialism        1
+anti-Semitism    1
+1920s            1
+social           1
+commentary       1
+
+Примеры фильмов:
+                                   title        genres                                                                         tag
+565  Slingshot, The (Kådisbellan) (1993)  Comedy|Drama  working class Åke Sandgren socialism anti-Semitism 1920s social commentary

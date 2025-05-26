@@ -1,0 +1,24 @@
+Анализ кластера 178
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+teen      2
+Kevin     1
+Smith     1
+jason     1
+lee       1
+Jay       1
+and       1
+Silent    1
+Bob       1
+one       1
+
+Примеры фильмов:
+               title          genres                                                                                                                                                                                                                                                                                                                                                                                                     tag
+178  Mallrats (1995)  Comedy|Romance  nudity (topless) comedy hilarious Ben Affleck karrin's favorite USA mall crude humor Shannen Doherty DVD malos tratos Way better Dogma Jersey Girl good dialogue seen more once ensemble materialism teen romance Kevin Smith jason lee Jay and Silent Bob one day ClearPlay comic books 1990s Nudity (Topless) still behind chasing amy. Jason Mewes teen angst view askew Jeremy London own kupienia

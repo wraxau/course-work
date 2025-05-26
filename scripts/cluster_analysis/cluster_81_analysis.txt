@@ -1,0 +1,24 @@
+Анализ кластера 81
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Film           2
+Festival       2
+Winner         2
+Toronto        2
+lesbian        1
+Gorris         1
+mathematics    1
+NO_FA_GANES    1
+feminism       1
+Marleen        1
+
+Примеры фильмов:
+                              title        genres                                                                                                                                                                                                                                                                                  tag
+81  Antonia's Line (Antonia) (1995)  Comedy|Drama  lesbian Toronto Film Festival Winner 2.5 Toronto Film Festival Winner 1995 intellectual nudity (full frontal) strong woman Bechdel Test:Pass Oscar (Best Foreign Language Film) mathematics NO_FA_GANES feminism Marleen Gorris mathematician fantasy Nudity (Full Frontal) netflix

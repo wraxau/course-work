@@ -1,0 +1,29 @@
+Анализ подкластера 1 в кластере 6
+Размер подкластера: 150 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.43
+
+Топ-5 жанров:
+genres
+Drama       80
+Comedy      38
+Thriller    24
+Romance     23
+Action      21
+
+Топ-5 тегов:
+tag
+not          13
+nudity       12
+(topless)    10
+funny        10
+book          9
+
+Примеры фильмов:
+                                  title    rating                  genres                                                                                                                                                                    tag
+13351  Duel at Silver Creek, The (1952)  3.500000                 Western                                                                                                                                                                    NaN
+13363          Island in the Sun (1957)  2.750000           Drama|Romance                                                                                                                                                                 island
+13366          Battle in Seattle (2007)  3.252632            Action|Drama                                                                                                   1999 Seattle Protest ClearPlay political Charlize Theron WTO Protest
+13438              Escapist, The (2008)  3.330357                Thriller  subterranean easily confused with other movie(s) (title) Brian Cox prison escape FATHERS AND DAUGHTERS great use music prison ingenuity Joseph Fiennes plot twist See
+13447             Canyon Passage (1946)  3.300000  Action|Romance|Western                                                                                                                                                       Jacques Tourneur

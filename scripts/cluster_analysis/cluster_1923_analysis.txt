@@ -1,0 +1,25 @@
+Анализ кластера 1923
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Banderas    3
+sword       2
+Oscar       2
+fun         2
+story       2
+Nudity      2
+hot         1
+women       1
+hate        1
+this        1
+
+Примеры фильмов:
+                          title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1923  Mask of Zorro, The (1998)  Action|Comedy|Romance  Banderas fencing Nudity (Topless Brief) Antinio Banderas sword fighting script they made fun California action great story boring Funny remake swashbuckler acting Julio Oscar Mechoso stereotypes Martin Campbell Oscar Nominee: Sound Effects Editing antonio banderas sword fight hate this shit Nick Chinlund Slashy lone hero x-vu silly story Mexico Nudity (Rear) Masculinity Catherine Zeta-Jones fun Anthony Hopkins dialogue adventure Antonio Banderas hot women Rufus Sewell

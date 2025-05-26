@@ -1,0 +1,29 @@
+Анализ подкластера 44 в кластере 1
+Размер подкластера: 110 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Drama        46
+Comedy       31
+Thriller     19
+Action       19
+Adventure    15
+
+Топ-5 тегов:
+tag
+comedy     5
+the        4
+fun        3
+Angeles    3
+Los        3
+
+Примеры фильмов:
+                                    title    rating                   genres  tag
+23453           Tout ce qui brille (2010)  4.000000             Comedy|Drama  NaN
+23455               Donovan's Echo (2011)  2.818182    Drama|Sci-Fi|Thriller  NaN
+23464        Golden Christmas 3, A (2012)  0.500000  Children|Comedy|Romance  NaN
+23465  Haunting at Silver Falls, A (2013)  2.875000          Horror|Thriller  NaN
+23466             Three Faces East (1930)  3.500000        Drama|Mystery|War  NaN

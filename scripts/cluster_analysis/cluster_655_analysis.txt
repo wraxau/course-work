@@ -1,0 +1,23 @@
+Анализ кластера 655
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy       2
+canadian     2
+kids         1
+based        1
+Makin        1
+Kelly        1
+excellent    1
+just         1
+Excellent    1
+hall         1
+
+Примеры фильмов:
+                                    title  genres                                                                                                                                                           tag
+655  Kids in the Hall: Brain Candy (1996)  Comedy  comedy Seth Brian Canadian humor sketch comedy drugs Big Pharmaceutical canadian haha kids the hall Excellent just excellent Kelly Makin canadian based show

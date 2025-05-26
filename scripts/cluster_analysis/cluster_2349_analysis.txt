@@ -1,0 +1,23 @@
+Анализ кластера 2349
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+courtroom        2
+reviewed         1
+environmental    1
+drama            1
+Steven           1
+Zaillian         1
+adapted          1
+from:book        1
+lawyer           1
+based            1
+
+Примеры фильмов:
+                       title genres                                                                                                   tag
+2349  Civil Action, A (1998)  Drama  reviewed environmental courtroom drama Steven Zaillian adapted from:book courtroom lawyer based book

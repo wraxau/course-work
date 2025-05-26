@@ -1,0 +1,29 @@
+Анализ подкластера 533 в кластере 7
+Размер подкластера: 53 фильмов
+Средний рейтинг: 3.32
+Медиана рейтинга: 3.45
+Дисперсия рейтинга: 1.15
+
+Топ-5 жанров:
+genres
+Drama                 22
+Comedy                12
+(no genres listed)    10
+Thriller               9
+Action                 8
+
+Топ-5 тегов:
+tag
+femme      2
+fatale     2
+abusive    2
+based      2
+faith      1
+
+Примеры фильмов:
+                           title    rating              genres                                        tag
+29615  18 Year Old Virgin (2009)  3.400000              Comedy                                        NaN
+29624              Chicks (2010)  2.750000  (no genres listed)                                        NaN
+29630                 Jig (2011)  5.000000         Documentary                                        NaN
+29646  All the Wilderness (2014)  3.857143               Drama                                        NaN
+29666     Do You Believe? (2015)  3.600000               Drama  faith spirituality Religious Christianity

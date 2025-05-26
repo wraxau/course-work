@@ -1,0 +1,25 @@
+Анализ кластера 49
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+ending    6
+Oscar     3
+great     3
+see       3
+good      3
+more      3
+once      3
+(Best     3
+must      3
+twist     3
+
+Примеры фильмов:
+                         title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+49  Usual Suspects, The (1995)  Crime|Mystery|Thriller  Los Angeles complicated Want seen the cinema rated-R twist commedy matrix twists turns Dark unexpected ending dull characters twist ending slow kevin spacey soze predictable ending must see more once fell asleep Edgar Award (Best Motion Picture) ambiguous ending slow beginning R:violence acting puzzle-like Suspense anti-hero predictable Love excellent script great cast dvd Kevin Pollak Kevin Spacey Eric's Dvds modern classic smart writing organized crime btaege keyser sose Keser Soze overrated erlend's DVDs plot twist unreliable narrators whodunnit Best the 90's mystery Oscar (Best Supporting Actor) boring rewatchable detective thriller Benicio del toro conspiracy funny great ending Crime flashbacks complot movies 1990s #thriling surprise ending ensemble cast violence against children Surprise complex caper movie imdb top 250 Benicio Del Toro fun own must seen more once psychothriller comedy New York City great acting Web Lies characters short-term memory loss mentiras robo nonlinear storyline filim noir clever good dialogs intelligent action mindfuck seen more once watch-again Tumey's DVDs crime DEN KAISER SOSE owned cerebral black humour ClearPlay bad acting must see Oscar (Best Writing Screenplay Written Directly for the Screen) heist Gabriel Byrne spaceyal tricky Pete Postlethwaite neo noir Oscar Winner Myth violence flash back Keyser SÃ¶ze good actors complicated plot Bryan Singer caper very good con men unexpected thriller Netflix Finland Chazz Palminteri atmosphere awesome upside down Academy Award Best Original Screenplay suspense classic R:strong language mind blowing BD-Video sensational crazy genre-defining library solving riddles/puzzles want see again storytelling Good movie with deep quotes

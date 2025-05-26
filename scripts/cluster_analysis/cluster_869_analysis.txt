@@ -1,0 +1,19 @@
+Анализ кластера 869
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Ernest       1
+Dickerson    1
+Adam         1
+Sandler      1
+
+Примеры фильмов:
+                  title               genres                            tag
+869  Bulletproof (1996)  Action|Comedy|Crime  Ernest Dickerson Adam Sandler

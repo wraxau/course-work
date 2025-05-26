@@ -1,0 +1,24 @@
+Анализ кластера 1732
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+but        2
+bloody     2
+Good       2
+AND        2
+the        2
+Kitano     2
+art        2
+family     2
+silence    1
+money      1
+
+Примеры фильмов:
+                           title       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+1732  Fireworks (Hana-bi) (1997)  Crime|Drama  guns wheelchair deceased family member cancer painter disability slow art tokyo poetic 2.5 violent hospital shopping list Good but too bloody bank robbery Not the Best Kitano but Good Japan drama the road terminal illness Landscapes Technique art house ex-cop snow loneliness non-typical story leads fine ending silence money blood gore bloody DOCTORS AND PATIENTS japan flowers dysku husband-wife relationship BREAKUPS AND DIVORCES police yakuza family library vhs visual melancholic guilt bittersweet Takeshi Kitano

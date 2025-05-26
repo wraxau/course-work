@@ -1,0 +1,26 @@
+Анализ кластера 1326
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+space       3
+show        2
+seen        2
+Goldberg    2
+first       1
+Trek        1
+BD-Video    1
+STTNG       1
+James       1
+Cromwell    1
+
+Примеры фильмов:
+                                title                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+1326  Star Trek: First Contact (1996)  Action|Adventure|Sci-Fi|Thriller  first contact seen the cinema even-numbered movie space The line Futuristmovies.com great makeup franchise noise space Based show post-apocalyptic science fiction Patrick Stewart aliens earnest Saturn Award (Best Supporting Actress) Star Trek BD-Video STTNG James Cromwell 6.5-FilmAffinity Borg sci-fi space opera time travel Whoopi Goldberg cameo:Whoopi Goldberg sequel Intense Owned seen several times cyborgs Jonathan Frakes based show

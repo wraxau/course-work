@@ -1,0 +1,29 @@
+Анализ подкластера 36 в кластере 7
+Размер подкластера: 31 фильмов
+Средний рейтинг: 2.88
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.84
+
+Топ-5 жанров:
+genres
+Drama       13
+Comedy       7
+Romance      5
+Thriller     5
+Sci-Fi       4
+
+Топ-5 тегов:
+tag
+cult           1
+australian     1
+father-son     1
+grief          1
+predictable    1
+
+Примеры фильмов:
+                                   title  rating            genres  tag
+26753  The Secret of Convict Lake (1951)    1.00           Western  NaN
+26793              Shaolin Mantis (1978)    2.50            Action  NaN
+26794                Evel Knievel (2004)    3.00             Drama  NaN
+26817       The Mysterious Island (1973)    3.50  Adventure|Sci-Fi  NaN
+26820                  The Threat (1949)    2.25    Crime|Thriller  NaN

@@ -1,0 +1,24 @@
+Анализ кластера 2363
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+football        2
+nudity          1
+Smart           1
+Nudity          1
+MTV             1
+Texas           1
+school          1
+high            1
+cheerleading    1
+strippers       1
+
+Примеры фильмов:
+                     title        genres                                                                                                                                                                                                                tag
+2363  Varsity Blues (1999)  Comedy|Drama  nudity (topless) Paul Walker sport:American football reviewed teen 1990s James Van Der Beek Amy Smart sports Sports Coordinator:Mark Ellis strippers cheerleading high school football Texas MTV Nudity (Topless)

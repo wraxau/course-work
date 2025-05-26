@@ -1,0 +1,25 @@
+Анализ кластера 1208
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+cult        2
+classic     2
+suicide     2
+100         2
+romance     2
+dark        2
+AFI         2
+breaking    1
+(Laughs)    1
+wall        1
+
+Примеры фильмов:
+                        title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+1208  Harold and Maude (1971)  Comedy|Drama|Romance  computer original looks interesting plot unconventional romance soundtrack humorous National Film Registry Betamax Hal Ashby older woman younger man Bibliothek existentialist delights perrot library good dialogue quirky dark humor seen more once hearthbreaking Cat Stevens made cry Cult Classic Ruth Gordon Breaking The Fourth Wall Everything Soundtrack classic suicide attempt Maude's braids death This movie perfect breaking the fourth wall AFI 100 (Laughs) cult film Volkswagen Beetle must see Eccentric reflective cult classic imdb top 250 irreverent Bud Cort Free Spirit Criterion Wierd suicide AFI 100 (Cheers) May-December romance heartwarming sweet dark comedy

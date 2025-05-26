@@ -1,0 +1,29 @@
+Анализ подкластера 12 в кластере 5
+Размер подкластера: 271 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.47
+
+Топ-5 жанров:
+genres
+Drama          118
+Comedy          81
+Documentary     45
+Action          43
+Thriller        41
+
+Топ-5 тегов:
+tag
+nudity     16
+the        13
+bad        13
+based      13
+adapted    11
+
+Примеры фильмов:
+                                            title   rating          genres                                                                                                                      tag
+19015                             Nob Hill (1945)  2.25000   Drama|Musical                                                                                                                      NaN
+19020       Greening of Whitney Brown, The (2011)  3.12500       Adventure  and was surprised that enjoyed this movie much did; gave 4.0 stars out possible 5.0 stars enjoyable cute touching parts
+19024                 Fairy, The (La fée) (2011)   3.28125    Comedy|Drama                                                                       Dominique Abel weird added Fiona Gordon Bruno Romy
+19025  Diaries Notes and Sketches (Walden) (1969)  2.75000     Documentary                                                                                                                      NaN
+19067                              Zig Zag (1970)  2.50000  Drama|Thriller                                                                                                                      NaN

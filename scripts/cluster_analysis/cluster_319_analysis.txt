@@ -1,0 +1,24 @@
+Анализ кластера 319
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+comedy      2
+Kevin       1
+Spacey      1
+movie       1
+business    1
+2.5         1
+George      1
+Huang       1
+not         1
+funny       1
+
+Примеры фильмов:
+                           title        genres                                                                                                     tag
+319  Swimming with Sharks (1995)  Comedy|Drama  Kevin Spacey movie business 2.5 George Huang not funny revenge black comedy mean hollywood dark comedy

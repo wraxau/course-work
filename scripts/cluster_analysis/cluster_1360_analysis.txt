@@ -1,0 +1,25 @@
+Анализ кластера 1360
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+comedy     2
+more       2
+killing    2
+Parker     1
+Sarah      1
+Fox        1
+Michael    1
+crazy      1
+guns       1
+better     1
+
+Примеры фильмов:
+                     title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1360  Mars Attacks! (1996)  Action|Comedy|Sci-Fi  comedy erlend's DVDs Marlon Brando off-beat comedy alien invasion smart DVD Parody seen more once mars glenn close funny Jack Nicholson aliens Pam Grier nice cgi satire Martin Short cow killing Pierce Brosnan Didn't finish parody Tim Burton ensemble cast dog killing Lame ending sci-fi special effects domination doesn't always require more intelligence just better guns crazy Michael Fox Sarah Jessica Parker two hours suck Natalie Portman animation annette bening adapted from:game Saturn Award (Best Music) Tom Jones quirky humor stupid

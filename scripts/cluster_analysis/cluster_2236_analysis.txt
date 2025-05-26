@@ -1,0 +1,24 @@
+Анализ кластера 2236
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Nazis        1
+nazi         1
+book         1
+based        1
+holocaust    1
+Telefilm     1
+own          1
+LRC          1
+BGAB         1
+Schwimmer    1
+
+Примеры фильмов:
+                 title          genres                                                                                                                                                                         tag
+2236  Apt Pupil (1998)  Drama|Thriller  Nazis psychological sociopaths Ian McKellen Avorrida Stephen King psychopaths Bryan Singer murder nazi David Schwimmer BGAB LRC own Telefilm holocaust based book violence

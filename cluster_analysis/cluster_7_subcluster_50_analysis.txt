@@ -1,0 +1,29 @@
+Анализ подкластера 50 в кластере 7
+Размер подкластера: 98 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.82
+
+Топ-5 жанров:
+genres
+Comedy      27
+Drama       26
+Action      17
+Thriller    16
+Children    15
+
+Топ-5 тегов:
+tag
+bond         4
+reviewed     3
+animation    2
+Daniel       2
+2015         2
+
+Примеры фильмов:
+                                  title    rating                 genres  tag
+29546                  Il Gaucho (1964)  3.500000                 Comedy  NaN
+29550           Before Stonewall (1984)  3.083333            Documentary  NaN
+29557                        Bad Boys 3  3.000000  Action|Crime|Thriller  NaN
+29565             Pink Narcissus (1971)  4.666667          Drama|Romance  NaN
+29569  The Men Who Built America (2012)  3.833333            Documentary  NaN

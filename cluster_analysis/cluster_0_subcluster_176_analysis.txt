@@ -1,0 +1,29 @@
+Анализ подкластера 176 в кластере 0
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 2.98
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama      7
+Comedy     3
+Romance    1
+Crime      1
+Horror     1
+
+Топ-5 тегов:
+tag
+nudity      2
+Nudity      2
+movie       2
+Wim         1
+cheating    1
+
+Примеры фильмов:
+                                            title    rating         genres                                                                                                                                                                                                                                tag
+12730         Boat People (Tau ban no hoi) (1982)  4.000000          Drama                                                                                                                                                                                                                                NaN
+12731   Wrong Move, The (Falsche Bewegung) (1975)  2.900000          Drama                                                                                                                                                                                                                        Wim Wenders
+12732                     Dust in the Wind (1987)  4.000000  Drama|Romance                                                                                                                                                                                                                    Hsiao-Hsien Hou
+12733        You Don't Mess with the Zohan (2008)  2.653533         Comedy  comedy hilarious exaggerated Below assembly line film Adam Sandler hot chicks tasteless owned crude over the top ugly Israeli/Palestinian conflict heartless movie see ridiculous dvd unfunny Dennis Dugan redbox florence stupid
+12734  Prefab People, The (Panelkapcsolat) (1982)  2.333333          Drama                                                                                                                                                                                                                          Béla Tarr

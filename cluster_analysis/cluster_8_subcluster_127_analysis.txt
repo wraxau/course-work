@@ -1,0 +1,29 @@
+Анализ подкластера 127 в кластере 8
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.66
+
+Топ-5 жанров:
+genres
+Drama          5
+Documentary    2
+Comedy         2
+Thriller       2
+War            2
+
+Топ-5 тегов:
+tag
+family    3
+drug      3
+story     3
+sexy      2
+scenes    2
+
+Примеры фильмов:
+                                                   title    rating              genres                                                                                         tag
+16231  Agony and the Ecstasy of Phil Spector, The (2009)  3.071429         Documentary                                                                                   musicians
+16232            Lost Skeleton Returns Again, The (2009)  3.875000              Comedy                                                                       parody sequel b-movie
+16233                              Snow and Ashes (2010)  4.500000  Drama|Thriller|War                                                                                         NaN
+16234                       Art of the Steal, The (2009)  3.450000         Documentary  01/11 documentary 04/11 agenda 05/11 06/11 03/11 Don Argott not well researched unbalanced
+16235                          Missing in America (2005)  3.000000           Drama|War                                                                                         NaN

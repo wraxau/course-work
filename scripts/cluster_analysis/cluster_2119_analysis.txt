@@ -1,0 +1,24 @@
+Анализ кластера 2119
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+det          2
+Hitchcock    2
+You          1
+Steinbeck    1
+sig          1
+for          1
+kÃ¸rende     1
+sceancer     1
+gode         1
+virkelig     1
+
+Примеры фильмов:
+                title     genres                                                                                                                                                                                                                             tag
+2119  Lifeboat (1944)  Drama|War  You Mean It's Over Inflated! holes40s Overrated claustrophobic men det var som det Ã¦bede lidt til sidst John Steinbeck Single set Hitchcock Alfred Hitchcock den havde nogle virkelig gode sceancer kÃ¸rende for sig survival

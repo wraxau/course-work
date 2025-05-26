@@ -1,0 +1,24 @@
+Анализ кластера 1953
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+
+Топ-10 тегов:
+tag
+for            2
+unrealistic    1
+unlimited      1
+everything     1
+made           1
+toys           1
+spree          1
+shopping       1
+thought        1
+kid's          1
+
+Примеры фильмов:
+                   title           genres                                                                                                                                 tag
+1953  Blank Check (1994)  Children|Comedy  unrealistic kid's movie Rupert Wainwright Nostalgia Critic The thought unlimited shopping spree for toys made for everything else.

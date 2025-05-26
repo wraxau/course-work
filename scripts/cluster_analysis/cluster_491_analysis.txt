@@ -1,0 +1,23 @@
+Анализ кластера 491
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+sex              3
+nudity           2
+Nudity           2
+(Full            2
+Frontal          1
+castration       1
+Japanese         1
+Frontal)         1
+male             1
+non-simulated    1
+
+Примеры фильмов:
+                                                 title genres                                                                                                                                                                                                                                                                                                                                                                  tag
+491  In the Realm of the Senses (Ai no corrida) (1976)  Drama  nudity (full frontal) smut poignant true story Nagisa Ôshima BFI classic controversial Art claustrophobic art house unsimulated sex disturbing erotic paradoxically tedious sex scenes castration Japanese Nudity (Full Frontal) male nudity non-simulated sex Nudity (Full Frontal Notable) VHS VistaVision passionate sadism Criterion library vhs jus+san sexual

@@ -1,0 +1,24 @@
+Анализ кластера 2061
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+teen             3
+John             2
+family           2
+80's             2
+nudity           1
+bad              1
+Ringwald         1
+angst            1
+dysfunctional    1
+nerds            1
+
+Примеры фильмов:
+                       title          genres                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+2061  Sixteen Candles (1984)  Comedy|Romance  nudity (topless) John Cusack hilarious mysoginistic Brat Pack idealistic exchange student seen more once directorial debut teen crush siblings depressing dorks teen movie 80's teens first love 80s Nudity (Topless) Molly Ringwald teen angst dysfunctional family nerds family gatherings charming sexist 80's classic bad message John Hughes chick flick wedding high school racist 1980s suburbia shallow characters sweet

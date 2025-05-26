@@ -1,0 +1,29 @@
+Анализ подкластера 111 в кластере 5
+Размер подкластера: 17 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.50
+
+Топ-5 жанров:
+genres
+Drama          8
+Romance        6
+Animation      4
+Comedy         3
+Documentary    1
+
+Топ-5 тегов:
+tag
+2000s    2
+TIFF     2
+Top      2
+the      2
+Grant    1
+
+Примеры фильмов:
+                                                                                    title  rating         genres                                       tag
+14591                                              White Shadows in the South Seas (1928)    3.50  Drama|Romance             W.S. Van Dyke Robert Flaherty
+14592                                               Blissfully Yours (Sud sanaeha) (2002)    3.15  Drama|Romance                        TIFF Top the 2000s
+14593                                         Colossal Youth (Juventude Em Marcha) (2006)    2.75          Drama  TIFF Top the 2000s Pedro Costa Criterion
+14594  Not Reconciled (Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt herrscht) (1965)    1.00          Drama                                       NaN
+14595                                                           Devil in the Flesh (1947)     NaN  Drama|Romance                        Claude Autant-Lara

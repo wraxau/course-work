@@ -1,0 +1,25 @@
+Анализ кластера 1347
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Comedy     1
+Western    1
+
+Топ-10 тегов:
+tag
+comedy       1
+fighting     1
+Kiefer       1
+Estevez      1
+Emilio       1
+funny        1
+western      1
+death        1
+character    1
+movie        1
+
+Примеры фильмов:
+                  title                 genres                                                                                                                                                                                                tag
+1347  Young Guns (1988)  Action|Comedy|Western  comedy fighting guns Lou Diamond Phillips shootout History Christopher Cain Jack Palance humor Warren Nudity (Topless Brief) movie character death western funny Emilio Estevez Kiefer Sutherland

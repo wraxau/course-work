@@ -1,0 +1,29 @@
+Анализ подкластера 166 в кластере 0
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Documentary    1
+Comedy         1
+Action         1
+Horror         1
+Musical        1
+
+Топ-5 тегов:
+tag
+Peter        1
+Gilbert      1
+Parajanov    1
+Sergei       1
+poetry       1
+
+Примеры фильмов:
+                                                  title    rating                 genres                                                                              tag
+12782                    At the Death House Door (2008)  3.583333            Documentary                                                        Peter Gilbert Steve James
+12783                                  Archangel (1990)  2.476190                 Comedy  black and white war weird historically inaccurate stylized amnesia supernatural
+12784      Battlefield Baseball (Jigoku kôshien) (2003)  3.136364  Action|Horror|Musical                                                                              NaN
+12785  Sandglass, The (Sanatorium pod klepsydra) (1973)  2.700000                Mystery                                                                              NaN
+12786    Color of Pomegranates, The (Sayat Nova) (1968)  3.663793                  Drama                                         art film poetry Sergei Parajanov collage

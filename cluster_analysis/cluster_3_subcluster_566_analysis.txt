@@ -1,0 +1,29 @@
+Анализ подкластера 566 в кластере 3
+Размер подкластера: 45 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.18
+
+Топ-5 жанров:
+genres
+Drama       16
+Comedy      15
+Thriller    13
+Action       9
+Romance      6
+
+Топ-5 тегов:
+tag
+comedy     8
+movie      7
+the        6
+horror     6
+reality    6
+
+Примеры фильмов:
+                                 title    rating                      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1361               Citizen Ruth (1996)  3.631203                Comedy|Drama                                                                                                                                                                                                                                                                                                                                                social satire Alexander Payne directorial debut want see again abortion 100 Essential Female Performances well done Underrated disgusting pregnancy
+1363            Raising Arizona (1987)  3.873241                      Comedy  motorcycle comedy hilarious off-beat comedy Betamax Annemari hard rate (personal) frantic KIDNAPPING eccentric quirky madcap crime kidnapping Arizona Cult classic Nicholas Cage babies goofy narrated cheesy Can't remember satirical UNLIKELY CRIMINALS classic witty deadpan PARENTHOOD BD-Video Holly Hunter AFI 100 (Laughs) cult film coen bros Quirky cute baby infertility dysku cult classic creative seen 2011 Coen Brothers off-beat afternoon section Nicolas Cage ESCAPE FROM PRISON
+1375  Last of the Mohicans, The (1992)  3.709820  Action|Romance|War|Western                     erlend's DVDs soundtrack James Fennimore Cooper melodramatic transcendentialist author:Fennimore Cooper memasa's movies based book PG-13 historical Tumey's DVDs colonialist Anamorphic Blow-Up character:Hawkeye romance Own Daniel Day-Lewis 70mm Adventure Fennimore Cooper cinematography Michael Mann excellent historical depiction music adapted from:book Madeleine Stowe historical depiction Native American great soundtrack Pre-20th Century Period Hawkeye tribal
+1378                     Hamlet (1996)  3.736608         Crime|Drama|Romance                                                                                                                                                                                                                                erlend's DVDs Brian adultery Darrin Shakespeare Panavision Super reviewed Jack Lemmon Tumey's VHS Derek Jacobi want own romance based play kenneth branagh 70mm drama Nostalgia Critic's Top murder Kenneth Branagh Hamlet adapted from:play playwright:Shakespeare
+1380      Whole Wide World, The (1996)  3.554462                       Drama                                                                                                                                                                                                                                                                                                                                                                                            Dan Ireland Conan writers prospect Netflix queue chemistry between actors bittersweet Vincent D'Onofrio

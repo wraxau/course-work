@@ -1,0 +1,19 @@
+Анализ кластера 1783
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+musicians    1
+Woody        1
+Allen        1
+jazz         1
+concert      1
+Paris        1
+
+Примеры фильмов:
+                      title       genres                                       tag
+1783  Wild Man Blues (1997)  Documentary  musicians Woody Allen jazz concert Paris

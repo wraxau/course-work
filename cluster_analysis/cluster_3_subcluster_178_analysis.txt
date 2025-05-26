@@ -1,0 +1,29 @@
+Анализ подкластера 178 в кластере 3
+Размер подкластера: 14 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.39
+Дисперсия рейтинга: 0.89
+
+Топ-5 жанров:
+genres
+Drama          9
+Documentary    3
+Comedy         3
+Romance        2
+Horror         2
+
+Топ-5 тегов:
+tag
+love         2
+sports       1
+appealing    1
+Dunst        1
+beautiful    1
+
+Примеры фильмов:
+                                  title    rating             genres                                       tag
+20518                 Head Games (2012)  3.583333        Documentary                 sports Steve James etaege
+20519         Pink Ribbons, Inc. (2011)  3.800000        Documentary                         Léa Pool business
+20520       Ballplayer: Pelotero (2011)  3.500000  Documentary|Drama  Jonathan Paley Trevor Martin Ross Finkel
+20521                     Désiré (1992)  3.500000             Comedy                                     short
+20522  Den sommeren jeg fylte 15 (1976)  2.500000              Drama                                       NaN

@@ -1,0 +1,23 @@
+Анализ кластера 1381
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Albert      1
+Brooks      1
+easily      1
+confused    1
+with        1
+other       1
+movie(s)    1
+(title)     1
+Debbie      1
+Reynolds    1
+
+Примеры фильмов:
+              title  genres                                                                               tag
+1381  Mother (1996)  Comedy  Albert Brooks easily confused with other movie(s) (title) Debbie Reynolds quirky

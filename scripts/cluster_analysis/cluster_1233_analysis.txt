@@ -1,0 +1,26 @@
+Анализ кластера 1233
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Comedy     1
+Fantasy    1
+Horror     1
+
+Топ-10 тегов:
+tag
+evil          3
+cult          3
+violence      2
+comedy        2
+horror        2
+dark          2
+possession    2
+demons        1
+classic       1
+book          1
+
+Примеры фильмов:
+                                   title                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1233  Evil Dead II (Dead by Dawn) (1987)  Action|Comedy|Fantasy|Horror  atmospheric horror humorous Great Ending Necronomicon zombies Betamax Sam Raimi violence evil spirits frantic demon possession DEMONIC POSSESSION zombified action occult Lovecraftian mythology dark humor want see madcap cult horror tense gore Bruce Campbell over the top black comedy wilderness possession evil computer BD-Video movies Continued evil hand cult film ancient book cult classic demons gratuitous violence isolation splatter this just haha.. RENEGADE BODY PARTS Evil Dead Series heroic own campy undead stylized zombie dark comedy

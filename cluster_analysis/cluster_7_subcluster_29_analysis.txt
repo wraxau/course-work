@@ -1,0 +1,29 @@
+Анализ подкластера 29 в кластере 7
+Размер подкластера: 203 фильмов
+Средний рейтинг: 3.00
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.95
+
+Топ-5 жанров:
+genres
+Drama                 67
+Comedy                45
+Thriller              30
+(no genres listed)    27
+Documentary           24
+
+Топ-5 тегов:
+tag
+based    6
+book     5
+story    4
+true     3
+crime    3
+
+Примеры фильмов:
+                                                                         title    rating          genres                                                                                                            tag
+27236                                                          Kamikaze (2014)  3.500000           Drama                                                                                                            NaN
+27237                                                      Planet Ocean (2012)  3.600000     Documentary                                                                            Michael Pitiot Yann Arthus-Bertrand
+27243                                                          Solyaris (1968)  3.933036    Drama|Sci-Fi  easily confused with other movie(s) (title) made for slow paced sci-fi space Stanislaw Lem based book classic
+27247  The Hyperboloid of Engineer Garin (Giperboloid inzhenera Garina) (1965)  3.500000          Sci-Fi                                                                                                            NaN
+27251                                                   Paris-Manhattan (2012)  2.285714  Comedy|Romance                                                                                                            NaN

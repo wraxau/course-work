@@ -1,0 +1,24 @@
+Анализ кластера 737
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+War       1
+
+Топ-10 тегов:
+tag
+comedy     4
+nuclear    4
+AFI        4
+100        4
+war        3
+the        3
+George     3
+Kubrick    2
+humor      2
+black      2
+
+Примеры фильмов:
+                                                                           title      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+737  Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)  Comedy|War  Want politics apocalypse absurd great breakthroughs insanely funny mutual assured destruction slow genius George Scott dark humor Cold War unreasonable purity essence humor CAV CLASS the end the world cold war cult film Peter Sellers black and white dvd Slim Pickens significant character wheelchair dialogue AFI 100 required high school 1997 anti-war nuclear bomb overrated erlend's DVDs corruption cynical USA film registry author:Peter George like Tracy Reed idiocy Bechdel Test:Fail Satire apocolypse funny old satire witty social commentary movies Precious Bodily Fluids kubrick Black Comedy imdb top 250 100 Greatest Movies AFI 100 (Movie Quotes) nuclear weapons own sarcasm Hugo Award over-the-top dark comedy comedy multiple roles wheelchair Best Rotten Tomatoes: All Time biting nuclear great movie excellent and worth while National Film Registry always applicable present har virkelig nogle sjove ting kørende. synes den mister lidt tempo længden desværre Don't Get literate adapted from:book Atomic bomb paranoia ending kinda ruined quotable watch violence Stanley Kubrick hilarious British visually appealing George C.Scott memasa's movies doomsday based book war Tumey's See Again want btaegepriority president satirical classic deadpan AFI #26 BD-Video Funny hell AFI 100 (Laughs) silly pacing Quirky why the hell anyone would like this movie? Deep compare:Fail-Safe Dramatic irreverent nuclear war good comedy want see again Sterling Hayden military black comedy Kubrick

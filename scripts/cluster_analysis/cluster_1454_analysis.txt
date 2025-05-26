@@ -1,0 +1,23 @@
+Анализ кластера 1454
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+
+Топ-10 тегов:
+tag
+island         1
+movie          1
+Damme          1
+Van            1
+Jean-Claude    1
+damme          1
+van            1
+jean-claude    1
+arts           1
+martial        1
+
+Примеры фильмов:
+                   title  genres                                                                                                                                                                                           tag
+1454  Double Team (1997)  Action  island tsui hark monks ridiculous training sequence product placement box office flop Friday night movie tattoo Hark Tsui martial arts jean-claude van damme Jean-Claude Van Damme pregnancy

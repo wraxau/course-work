@@ -1,0 +1,22 @@
+Анализ кластера 1712
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Mystery     1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+neo-noir    1
+blonde      1
+boring      1
+noir        1
+thriller    1
+
+Примеры фильмов:
+                title                                genres                                   tag
+1712  Palmetto (1998)  Crime|Drama|Mystery|Romance|Thriller  neo-noir blonde boring noir thriller

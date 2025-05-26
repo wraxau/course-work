@@ -1,0 +1,24 @@
+Анализ кластера 1728
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+heist          2
+earnest        1
+humorous       1
+understated    1
+Brett          1
+Northcutt      1
+nostalgic      1
+sentimental    1
+bank           1
+robbers        1
+
+Примеры фильмов:
+                        title       genres                                                                                                                        tag
+1728  Newton Boys, The (1998)  Crime|Drama  earnest humorous understated Brett Northcutt nostalgic sentimental bank robbers trains heist Richard Linklater heist film

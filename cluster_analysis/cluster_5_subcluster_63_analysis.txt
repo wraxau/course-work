@@ -1,0 +1,29 @@
+Анализ подкластера 63 в кластере 5
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.83
+Медиана рейтинга: 2.76
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama        5
+Animation    1
+Action       1
+Comedy       1
+Horror       1
+
+Топ-5 тегов:
+tag
+David         1
+expression    1
+Why           1
+the           1
+terrorists    1
+
+Примеры фильмов:
+                                                                              title    rating                genres                                                                                                                                                                                                                                                                tag
+19023                                                                 Hamlet (2009)  3.906977                 Drama                                                                                                                                                                                                      David Tennant added modernisation shakespeare Patrick Stewart
+19028  Disney Princess Collection: Jasmine's Enchanted Tales: Jasmine's Wish (1999)  3.000000             Animation                                                                                                                                                                                                                                                                NaN
+19037                                            Feast III: The Happy Finish (2009)  2.380952  Action|Comedy|Horror                                                                                                                                                                                                                                      monster satire parody surreal
+19041                                          Sweet Bunch (Glykia symmoria) (1983)  2.333333  Crime|Drama|Thriller                                                                                                                                                                                                                                                                NaN
+19045                                                Big Boys Gone Bananas!* (2011)  3.576923           Documentary  democracy bananas related:Big Boys Gone Bananas!* (2011) related:Bananas!* (2009) internet See Also:This Film Not Yet Rated (2006) Why the terrorists hate FILMMAKING business documentary critique Sweden freedom expression lawsuit journalism Nicaragua threat

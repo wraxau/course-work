@@ -1,0 +1,29 @@
+Анализ подкластера 368 в кластере 0
+Размер подкластера: 88 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.42
+
+Топ-5 жанров:
+genres
+Drama        44
+Comedy       28
+Action       17
+Romance      16
+Adventure    15
+
+Топ-5 тегов:
+tag
+the         15
+Godzilla    11
+book         7
+Kaiju        6
+good         5
+
+Примеры фильмов:
+                                                             title    rating                genres                                                                                                                                                                                                                                                                                                                                                                 tag
+9587                                    Hellraiser: Inferno (2000)  2.647059                Horror                                                                                                                                                                                                                                                                                  police investigation occult horror franchise hell relic murder temptation insanity
+9591                                       3-Iron (Bin-jip) (2004)  3.983873         Drama|Romance  computer nonsense dry Ki-duk Kim existentialism magic realism korean boring silent quirky understated Romantic and sweet Kim Ki-duk shopping list UNLIKELY FRIENDSHIPS cerebral =============== magical realism 12.01.06 very little dialogue WOMEN JEOPARDY deliberate STAR-CROSSED LOVERS empty house Kim Ki-Duk visual btaege seen philosophycal stylized quiet
+9596                                         Beyond the Sea (2004)  3.158759         Drama|Musical                                                                                                                                                                                                                                                                                              great music Kevin Spacey soundtrack biography musicians vocalists jazz
+9600                    Assassination of Richard Nixon, The (2004)  3.422775  Crime|Drama|Thriller                                                                                                                                                                                                                           Naomi Watts mental illness Richard Nixon the truth Sean Penn sean penn DIVX never lie acting President Don Cheadle naomi watts true story
+9641  Son of Godzilla (Kaijûtô no kessen: Gojira no musuko) (1967)  2.465517                Sci-Fi                                                                                                                                                                                                                                                           monster:giant insect Minilla Kaiju monster:giant spider Kamacuras Godzilla Universe Godzilla Japan stupid

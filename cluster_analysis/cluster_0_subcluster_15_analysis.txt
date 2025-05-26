@@ -1,0 +1,29 @@
+Анализ подкластера 15 в кластере 0
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Drama       9
+Comedy      7
+Thriller    5
+Action      4
+War         4
+
+Топ-5 тегов:
+tag
+nudity       4
+Nudity       4
+comedy       3
+(topless)    3
+feminism     3
+
+Примеры фильмов:
+                          title    rating                            genres                                                                                                                                                                                                                            tag
+12969     Disaster Movie (2008)  1.268013                            Comedy                                                                                                                                                        parody imdb bottom 100 not funny parody. bullshit Friedberg and Seltzer
+12970       Babylon A.D. (2008)  2.899457  Action|Adventure|Sci-Fi|Thriller                                                                                      Bob*ola artificial intelligence sequel hook unresolved futuristic KAF post-apocalyptic predictable movie see sci-fi based book Vin Diesel
+12971            Traitor (2008)  3.526699              Crime|Drama|Thriller                                                                                                   spy thriller terrorism perrot library FBI intelligence operations Guy Pearce muslim Don Cheadle espionage Jeffrey Nachmanoff
+12972            College (2008)  2.398990                            Comedy                                                                                                                                                                             nudity (topless) Nudity (Rear) Nudity (Rear Brief)
+12973  Trouble the Water (2008)  3.437500                       Documentary  Injustice Louisiana Cinema Verité Carl Deal United States Cinema VeritÃƒÂ© Tia Lessin African American toplist08 hurricane incompetence Hurricane Katrina Cinema VeritÃ© New Orleans Poor People George Bush natural disaster

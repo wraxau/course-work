@@ -1,0 +1,25 @@
+Анализ кластера 171
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+Prochnow      3
+corruption    2
+police        2
+Stallone      2
+comic         2
+comics        1
+Rob           1
+Schneider     1
+Can't         1
+remember      1
+
+Примеры фильмов:
+                  title               genres                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+171  Judge Dredd (1995)  Action|Crime|Sci-Fi  corruption Want cheesy lines wrongly accused Sylvester Stallone JÃ¼rgen Prochnow Danny Cannon THE LAW Futuristmovies.com What this highly quotable not really interested' Nostalgia Critic bad it's good Rob Schneider Can't remember ?android(s)/cyborg(s) better expected futuristic comics comic sidekick JÃ?Â¼rgen Prochnow sci-fi one-liners Jurgen Prochnow dystopia Stallone future police police corruption comic book cyborgs

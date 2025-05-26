@@ -1,0 +1,29 @@
+Анализ подкластера 235 в кластере 3
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.61
+
+Топ-5 жанров:
+genres
+Drama          3
+Romance        2
+Horror         1
+Thriller       1
+Documentary    1
+
+Топ-5 тегов:
+tag
+Criterion    2
+btaege       1
+harakiri     1
+gore         1
+movie        1
+
+Примеры фильмов:
+                                               title    rating           genres                                                                                       tag
+19530                           Apartment 143 (2011)  2.681818  Horror|Thriller                                                                                    btaege
+19531                               Klitschko (2011)  4.166667      Documentary                                                                                       NaN
+19532                             Kinyarwanda (2011)  3.700000    Drama|Romance                                                racism international mass murder/terrorism
+19533  Nobody's Children (I figli di nessuno) (1952)  3.500000    Drama|Romance                                                             Raffaello Matarazzo Criterion
+19534                     Patriotism (Yûkoku) (1966)  3.500000            Drama  black and white harakiri Masaki Dômoto Yukio Mishima silent movie Criterion gore suicide

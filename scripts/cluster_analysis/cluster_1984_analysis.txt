@@ -1,0 +1,25 @@
+Анализ кластера 1984
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+War        1
+
+Топ-10 тегов:
+tag
+revolution    4
+AFI           2
+Alec          2
+shot          2
+russian       2
+finland       1
+lavish        1
+done          1
+well          1
+Richardson    1
+
+Примеры фильмов:
+                      title             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1984  Doctor Zhivago (1965)  Drama|Romance|War  russian revolution history Julie Christie atmospheric Russia Russian revolution Epic julie christie russian sweeping epic romantic author:Boris Pasternak memasa's movies slow based book DVD long AFI #39 war Friends Should See rousing Tumey's DVDs literary adaptation Omar Sharif Anamorphic Blow-Up love story classic 70mm David Lean good music cinematography BD-Video Alec Guiness adapted from:book shot spain Ralph Richardson well done wintry communism dvd reflective flowers Alec Guinness imdb top 250 deliberate revolution Amazing Cinematography bolshevik revolution omar sharif AFI 100 WWI lavish shot finland movie Oscar (Best Cinematography)

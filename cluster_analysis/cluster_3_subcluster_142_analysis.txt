@@ -1,0 +1,29 @@
+Анализ подкластера 142 в кластере 3
+Размер подкластера: 52 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama      24
+Comedy     24
+Romance    12
+Western     5
+Crime       4
+
+Топ-5 тегов:
+tag
+comedy     12
+Nudity     11
+book        9
+Betamax     7
+seen        7
+
+Примеры фильмов:
+                                      title    rating            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+4935                  Good Wife, The (1987)  2.363636             Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+4959                      Brainstorm (1983)  3.458141   Sci-Fi|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                      hilarious Betamax unintentional comedy Christopher Walken muista what hath science wrought brain machine factory memory 70mm mysticism evil military Super Panavision scientist experiments self death CAV psychological Spherical Blow-Up science robots military
+4963  Heart of Glass (Herz aus Glas) (1976)  3.252941             Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Werner Herzog BD-Video Tumey's DVDs
+4965           M*A*S*H (a.k.a. MASH) (1970)  3.884227  Comedy|Drama|War  Robert Altman CULTURE CLASH biting the show better Donald Sutherland suicide National Film Registry plots are for the weak Nudity (Topless Brief) talky Vietnam Vietnam War based book AFI #56 Korean War quirky surgery AMERICANS ABROAD madcap Old and funny Suicide painless cool-ish adaptedInto:Television series insanity during war Elliott Gould satirical classic satire adapted for television witty Golden Palm comedy classic sexism Tom Skerritt Sally Kellerman movie see ensemble cast AFI 100 (Laughs) WOMEN DURING WARTIME Alan Alda DOCTORS AND PATIENTS FIGHTING THE SYSTEM drab matter-of-fact Altman Robert Altmann Bud Cort AFI 100 great soundtrack World War military wry POWs
+4983                 Falling in Love (1984)  3.020270     Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Betamax

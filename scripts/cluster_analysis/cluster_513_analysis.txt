@@ -1,0 +1,25 @@
+Анализ кластера 513
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Drama      1
+Mystery    1
+
+Топ-10 тегов:
+tag
+Nudity       3
+Crichton     2
+nudity       1
+Crime        1
+Michael      1
+Brief)       1
+Frontal      1
+(Full        1
+(Rear)       1
+Detective    1
+
+Примеры фильмов:
+                 title                genres                                                                                                                                                                                                                                                                   tag
+513  Rising Sun (1993)  Action|Drama|Mystery  nudity (topless) Seen 2014 seen the cinema Bibliothek based book Thriller excellent plot Japan Can't remember Crime intrigue Murder xenophobic? murder Nudity (Topless) Detective Nudity (Rear) Nudity (Full Frontal Brief) Michael Crichton author:Michael Crichton

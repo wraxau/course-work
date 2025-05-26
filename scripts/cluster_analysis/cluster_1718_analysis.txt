@@ -1,0 +1,25 @@
+Анализ кластера 1718
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+easily       1
+confused     1
+with         1
+other        1
+movie(s)     1
+(title)      1
+ClearPlay    1
+Nudity       1
+
+Примеры фильмов:
+                title                genres                                                                                                                             tag
+1718  Twilight (1998)  Crime|Drama|Thriller  nudity (topless) easily confused with other movie(s) (title) ClearPlay Nudity (Topless Notable) Reese Witherspoon Gene Hackman

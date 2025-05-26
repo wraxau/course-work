@@ -1,0 +1,24 @@
+Анализ кластера 1207
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+great          4
+con            3
+Entertainer    2
+The            2
+DVDs           2
+Robert         2
+soundtrack     2
+depression     2
+(Best          2
+Oscar          2
+
+Примеры фильмов:
+                  title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1207  Sting, The (1973)  Comedy|Crime  complicated Want great twist artistic twists turns genius twist ending Classic Theme: The Entertainer Oscar (Best Directing) plot:wager music Cons grifting period piece organized crime gambling erlend's DVDs theater musical soundtrack never gets old Bechdel Test:Fail Bibliothek 30s setting:Chicago Scott Joplin boring The Entertainer deception win wager 1930s betting Slashy murder surprise ending Sweet thriller Paul Newman depression Oscar (Best Picture) depression-era imdb top 250 great depression great soundtrack holds well cheating comed Chicago great acting National Film Registry Newman/Redford revenge clever FBI Tumey's DVDs crime Robert Redford sting confidence game almost favorite Ray Walston George Roy Hill Robert Shaw heist planning team VHS con fun movie jovial con artists Veja positive caper con men paul newman slow paced top 250 IMDB scam classic Inspiring need own bets poker library nudity

@@ -1,0 +1,24 @@
+Анализ кластера 888
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+(Best       4
+Oscar       4
+100         3
+AFI         3
+top         2
+comedy      2
+250         2
+Greatest    1
+imdb        1
+Movies      1
+
+Примеры фильмов:
+                            title          genres                                                                                                                                                                                                                                                                                                                            tag
+888  It Happened One Night (1934)  Comedy|Romance  BEST PICTURE Claudette Colbert National Film Registry delightful screwball comedy romantic comedy Clark Gable AFI #35 Oscar (Best Directing) top 250 IMDB bus need own AFI 100 (Laughs) Oscar (Best Picture) Screwball imdb top 250 AFI 100 100 Greatest Movies Oscar (Best Actor) Criterion Oscar (Best Actress) Frank Capra

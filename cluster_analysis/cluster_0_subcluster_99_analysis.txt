@@ -1,0 +1,29 @@
+Анализ подкластера 99 в кластере 0
+Размер подкластера: 17 фильмов
+Средний рейтинг: 3.39
+Медиана рейтинга: 3.43
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Drama          11
+Documentary     4
+Romance         4
+Comedy          4
+War             2
+
+Топ-5 тегов:
+tag
+Nudity     7
+not        5
+ratings    5
+300        5
+less       5
+
+Примеры фильмов:
+                                                                           title    rating         genres                                                                                                                                                tag
+11390  Once in a Lifetime: The Extraordinary Story of the New York Cosmos (2006)  3.300000    Documentary  New York City soccer Football Pele Franz Beckenbauer John Dower Soccer sports documentary sports 1970s Cosmos New York Sports Paul Crowder Futbol
+11391                Fellini's Casanova (Il Casanova di Federico Fellini) (1976)  3.430000  Drama|Romance                                         01/11 Federico Fellini 04/11 long 05/11 10/10 06/11 03/11 12/10 love 08/10 grotesque 11/10 decadence 02/11
+11392                                            Howards of Virginia, The (1940)  3.125000      Drama|War                                                                                                                                                NaN
+11393                       Last Bolshevik, The (Tombeau d'Alexandre, Le) (1993)  4.285714    Documentary                                                                                                                                       Chris Marker
+11394                                                            Chapayev (1934)  3.187500      Drama|War                                                                                                                                                NaN

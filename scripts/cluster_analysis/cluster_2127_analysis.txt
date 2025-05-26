@@ -1,0 +1,23 @@
+Анализ кластера 2127
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Thriller    1
+
+Топ-10 тегов:
+tag
+black        1
+and          1
+white        1
+Joseph       1
+Conrad       1
+London       1
+anarchism    1
+World        1
+War          1
+England      1
+
+Примеры фильмов:
+                title    genres                                                                                                                 tag
+2127  Sabotage (1936)  Thriller  black and white Joseph Conrad London anarchism World War England ummarti2007 Alfred Hitchcock espionage based book

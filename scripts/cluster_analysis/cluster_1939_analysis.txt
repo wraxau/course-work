@@ -1,0 +1,23 @@
+Анализ кластера 1939
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+music         2
+DVDs          2
+soundtrack    2
+good          2
+Peter         2
+Gabriel       2
+Blow-Up       1
+need          1
+own           1
+Zim           1
+
+Примеры фильмов:
+                                      title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1939  Last Temptation of Christ, The (1988)  Drama  nudity (topless) erlend's DVDs Brian soundtrack jesus good soundtrack Bible breakthroughs Katzanzakis slow based book long Biblical Christianity Tumey's DVDs Jesus Christ edgy sacrilege 70mm mysticism god controversial good music christianity need own Zim scorsese Nudity (Topless) christian Peter Gabriel Peter Gabriel music Spherical Blow-Up Criterion Martin Scorsese Religious religion storytelling Última Tentação Cristo movie violence

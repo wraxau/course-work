@@ -1,0 +1,29 @@
+Анализ подкластера 185 в кластере 5
+Размер подкластера: 56 фильмов
+Средний рейтинг: 2.89
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama       20
+Comedy      16
+Thriller    11
+Horror       8
+Romance      8
+
+Топ-5 тегов:
+tag
+French       4
+(topless)    4
+nudity       4
+acting       3
+police       3
+
+Примеры фильмов:
+                                    title  rating              genres              tag
+22382  Mountaintop Motel Massacre (1986)      1.0     Horror|Thriller          Slasher
+22390     Boy and the Pirates, The (1960)     1.5   Adventure|Fantasy              NaN
+22397         Battle of amfAR, The (2013)     3.5         Documentary     AIDS disease
+22405        All Things to All Men (2013)     2.5      Crime|Thriller         Thriller
+22406                Outsider, The (2014)     2.4  Action|Crime|Drama  mediocre acting

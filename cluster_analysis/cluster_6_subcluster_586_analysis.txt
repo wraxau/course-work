@@ -1,0 +1,29 @@
+Анализ подкластера 586 в кластере 6
+Размер подкластера: 31 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama       13
+Comedy      12
+Thriller     6
+Romance      5
+Crime        4
+
+Топ-5 тегов:
+tag
+corruption     4
+not            4
+documentary    3
+true           3
+Netflix        3
+
+Примеры фильмов:
+                                  title    rating          genres                                                                                                                                                                                                                                                                                                                     tag
+13834                New in Town (2009)  2.919283  Comedy|Romance                                                                                                                                                                                                                                             Minnesota Boring Bob*ola Nice Harry Connick Jr. predictable Renee Zellweger
+13839                Clique, The (2008)  3.000000          Comedy                                                                                                                                                                                                                                                   shopping uninspired bad acting designer clothes rip off middle school
+13840                      Fatso (2008)  3.233333          Comedy                                                                                                                                                               relationships self-mutilation sex controversial friendship masturbation pornography comic book summery obesity self-esteem dream sequence Netflix Finland
+13853            American Violet (2008)  3.595238           Drama                                                                                                                                                                                                                                       corruption wrongly accused reviewed drugs single parents Texas lawyers true story
+13861  Stoning of Soraya M., The (2008)  3.834395     Crime|Drama  netflix streaming wrongly accused 06/11 brutal Women's rights 11/10 based book true story islam 12/10 NO_FA_GANES 08/10 Middle East Cyrus Nowrasteh journalism women's rights small town 09/10 10/10 village Iranian graphic violence library sister sister relationship 05/11 03/11 Iran religion 1980s Stoning Islam

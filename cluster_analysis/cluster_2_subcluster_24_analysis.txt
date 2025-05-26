@@ -1,0 +1,29 @@
+Анализ подкластера 24 в кластере 2
+Размер подкластера: 123 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama          58
+Comedy         26
+Documentary    20
+Thriller       20
+Action         16
+
+Топ-5 тегов:
+tag
+based          7
+story          6
+good           5
+the            5
+unrealistic    4
+
+Примеры фильмов:
+                                title    rating                        genres                                                                                                                                                                                                                                                                                        tag
+17815  Inbetweeners Movie, The (2011)  3.354582              Adventure|Comedy                                                culture teen angst friendship holiday netflix streaming hilarious unrealistic characters adolescence badly written jokes poor acting Based show not funny cringe funny Ben Palmer Missing some the charm the show british comedy based show
+17823         Payment Deferred (1932)  3.500000                         Drama                                                                                                                                                                                                                                                                              Lothar Mendes
+17824        Interrupters, The (2011)  3.812500                   Documentary                                                                                                                                                                                                                                                                                Steve James
+17826                Red State (2011)  3.143322  Action|Crime|Horror|Thriller  MOLT_CRITICADA guns Kerry BishÃ© backwoods horror Annemari michael parks RELIGIOUS ZEALOTRY folk horror netflix John Goodman independent film FBI Kevin Smith gory 10/11 social commentary kyle gallner religious cult Religion Non-dramatic Parts fundamentalists shoot out religion ATF
+17833                Restraint (2008)  3.428571                Drama|Thriller                                                                                                                                                                                                                                                                           nudity (topless)

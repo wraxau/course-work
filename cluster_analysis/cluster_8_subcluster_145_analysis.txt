@@ -1,0 +1,29 @@
+Анализ подкластера 145 в кластере 8
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          5
+Documentary    3
+Romance        2
+Adventure      1
+Comedy         1
+
+Топ-5 тегов:
+tag
+David         1
+commentary    1
+Jon           1
+romance       1
+foolish       1
+
+Примеры фильмов:
+                                                                         title    rating              genres          tag
+17894                                                        Green Fire (1954)  2.333333     Adventure|Drama          NaN
+17895      Russell Peters: The Green Card Tour - Live from the O2 Arena (2011)  3.000000  Comedy|Documentary  David Higby
+17896  Photos in the City of Sylvia (Unas fotos en la ciudad de Sylvia) (2007)  3.750000         Documentary          NaN
+17897                                      Children of the Secret State (2001)  3.500000         Documentary  North Korea
+17898                                       Pathetic Fallacy (Ajantrik) (1958)  3.750000               Drama          NaN

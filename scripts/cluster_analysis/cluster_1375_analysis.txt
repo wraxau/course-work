@@ -1,0 +1,26 @@
+Анализ кластера 1375
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Romance    1
+War        1
+Western    1
+
+Топ-10 тегов:
+tag
+historical    3
+Cooper        3
+soundtrack    2
+DVDs          2
+Fennimore     2
+depiction     2
+erlend's      1
+Michael       1
+Mann          1
+excellent     1
+
+Примеры фильмов:
+                                 title                      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1375  Last of the Mohicans, The (1992)  Action|Romance|War|Western  erlend's DVDs soundtrack James Fennimore Cooper melodramatic transcendentialist author:Fennimore Cooper memasa's movies based book PG-13 historical Tumey's DVDs colonialist Anamorphic Blow-Up character:Hawkeye romance Own Daniel Day-Lewis 70mm Adventure Fennimore Cooper cinematography Michael Mann excellent historical depiction music adapted from:book Madeleine Stowe historical depiction Native American great soundtrack Pre-20th Century Period Hawkeye tribal

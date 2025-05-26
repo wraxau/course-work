@@ -1,0 +1,29 @@
+Анализ подкластера 172 в кластере 1
+Размер подкластера: 36 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.71
+
+Топ-5 жанров:
+genres
+Drama        8
+Comedy       8
+Animation    8
+Children     8
+Fantasy      6
+
+Топ-5 тегов:
+tag
+dark         3
+anthology    2
+comedy       2
+twist        2
+dinosaurs    2
+
+Примеры фильмов:
+                                            title  rating            genres  tag
+30044                              Cyanide (2013)   3.500             Drama  NaN
+30045                             Fracture (2010)   4.500             Drama  NaN
+30046  Green Street Hooligans: Underground (2013)   2.500      Action|Drama  NaN
+30047                   Les Petits princes (2013)   4.000      Comedy|Drama  NaN
+30048                        The Prodigies (2011)   3.375  Animation|Sci-Fi  NaN

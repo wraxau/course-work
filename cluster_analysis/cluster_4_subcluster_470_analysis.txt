@@ -1,0 +1,29 @@
+Анализ подкластера 470 в кластере 4
+Размер подкластера: 44 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 1.22
+
+Топ-5 жанров:
+genres
+Drama          14
+Comedy         12
+Documentary     8
+Thriller        8
+Horror          5
+
+Топ-5 тегов:
+tag
+espn           2
+atrocious      2
+for            2
+sports         2
+documentary    2
+
+Примеры фильмов:
+                              title  rating                  genres                                    tag
+30657  Little Hope Was Arson (2013)   3.000             Documentary                                    NaN
+30668         One, Two, Many (2008)   4.000                  Comedy                                    NaN
+30671             Inside Out (2006)   2.000  Drama|Mystery|Thriller                                    NaN
+30680         My Golden Days (2015)   3.625                   Drama                                    NaN
+30688      The False Servant (2000)   2.000            Comedy|Drama  Marivaux theater play fausse suivante

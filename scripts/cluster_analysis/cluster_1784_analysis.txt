@@ -1,0 +1,25 @@
+Анализ кластера 1784
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+comedy       2
+Jews         1
+hitman       1
+sexuality    1
+off-beat     1
+crime        1
+Kirk         1
+Wong         1
+Mark         1
+Wahlberg     1
+
+Примеры фильмов:
+                    title               genres                                                                                                           tag
+1784  Big Hit, The (1998)  Action|Comedy|Crime  comedy Jews hitman sexuality off-beat comedy crime Kirk Wong Mark Wahlberg action cheating coolness violence

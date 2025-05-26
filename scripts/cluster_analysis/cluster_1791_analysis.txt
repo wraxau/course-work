@@ -1,0 +1,16 @@
+Анализ кластера 1791
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+true    1
+love    1
+
+Примеры фильмов:
+                       title          genres        tag
+1791  Still Breathing (1997)  Comedy|Romance  true love

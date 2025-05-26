@@ -1,0 +1,25 @@
+Анализ кластера 1354
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nudity        2
+lone          1
+Gary          1
+notable)      1
+(topless      1
+action        1
+Jones         1
+Lee           1
+Tommy         1
+Battleship    1
+
+Примеры фильмов:
+                   title                 genres                                                                                                                                                                                                                           tag
+1354  Under Siege (1992)  Action|Drama|Thriller  nudity (topless) Jinni Top Pick steven seagal Steven Seagal Nudity (Topless Notable) andrew davis Erika Eleniak lone hero U.S.S. Missouri Andrew Davis Battleship Tommy Lee Jones action nudity (topless notable) Gary Busey

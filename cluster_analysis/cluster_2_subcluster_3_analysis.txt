@@ -1,0 +1,29 @@
+Анализ подкластера 3 в кластере 2
+Размер подкластера: 252 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama          129
+Comedy          78
+Romance         43
+Documentary     36
+Thriller        33
+
+Топ-5 тегов:
+tag
+nudity    19
+based     16
+ending    15
+story     14
+book      14
+
+Примеры фильмов:
+                                        title    rating                genres                                                                                                     tag
+15526                  Stones in Exile (2010)  3.500000   Documentary|Musical                                                               11/11 rock and roll 12/11 musicians 01/12
+15533  Waiting Women (Kvinnors väntan) (1952)  3.600000          Comedy|Drama                                                                                                     NaN
+15550              When You're Strange (2009)  3.806748           Documentary  the doors music documentary remake used before footage rock and roll musicians Tom DiCillo Johnny Depp
+15555              So Proudly We Hail! (1943)  3.700000     Drama|Romance|War                                                                                  reviewed Mark Sandrich
+15557                    Irene in Time (2009)  2.000000  Comedy|Drama|Romance                                                                                                     NaN

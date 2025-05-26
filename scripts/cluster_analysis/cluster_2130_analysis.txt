@@ -1,0 +1,17 @@
+Анализ кластера 2130
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Musical    1
+
+Топ-10 тегов:
+tag
+musicians    1
+classical    1
+music        1
+
+Примеры фильмов:
+                           title          genres                        tag
+2130  Waltzes from Vienna (1933)  Comedy|Musical  musicians classical music

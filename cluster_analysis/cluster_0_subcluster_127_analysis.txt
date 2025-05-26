@@ -1,0 +1,29 @@
+Анализ подкластера 127 в кластере 0
+Размер подкластера: 7 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 2.95
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama        6
+Thriller     4
+Comedy       2
+Film-Noir    1
+Horror       1
+
+Топ-5 тегов:
+tag
+bad        3
+John       2
+Nudity     2
+Persia     1
+Judaism    1
+
+Примеры фильмов:
+                        title    rating                         genres                                                                                                                                                                                             tag
+11383      Brute Force (1947)  3.517857       Drama|Film-Noir|Thriller                                                                                                        04/11 03/10 05/10 05/11 09/10 07/10 10/10 03/11 Criterion 08/10 02/10 06/10 Jules Dassin
+11384     Ellie Parker (2005)  2.894737                   Comedy|Drama                                                                                                                                                         Nudity (Topless) Nudity (Topless Brief)
+11385    Grudge 2, The (2006)  2.476510  Drama|Horror|Mystery|Thriller                                                                                                                                                                                             NaN
+11386  Man of the Year (2006)  2.950989                Comedy|Thriller  dvd comedy politics Laura Linney Jeff Goldblum Barry Levinson redbox Christopher Walken President election president jacksonville Mandy Patinkin presidential election/politics Robin Williams
+11387      Marine, The (2006)  2.387446          Action|Drama|Thriller                                                                              stupid but funny fighting bad acting action, fighting, adventure bad directing John cena bad writing action marine

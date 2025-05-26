@@ -1,0 +1,26 @@
+Анализ кластера 2100
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Mystery      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+Hitchcock         4
+Bernard           3
+Africa            2
+DVDs              2
+assassin          2
+protagonist       2
+erlend's          1
+own               1
+need              1
+cinematography    1
+
+Примеры фильмов:
+                                  title                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+2100  Man Who Knew Too Much, The (1956)  Adventure|Drama|Mystery|Thriller  erlend's DVDs North Africa didn't know enough Doris Day remade same director Bernard Miles James Stewart Morocco Betamax assassin shooting auditorium thriller the plot and style seems outdated this Hitchcock setting:North Africa remake Tumey's DVDs kidnapping assassin protagonist stage performer Alfred Hitchcock espionage classic setting:London (UK) London score: Bernard Hermann protagonist medical doctor Academy award:Best Song Ralph Truman cinematography need own Bernard Herrmann setting:Marrakech murder civilian caught intrigue Brenda Banzie VistaVision adventure setting:Royal Albert Hall music key story (not Musical genre) Hitchcock homage Hitchcock

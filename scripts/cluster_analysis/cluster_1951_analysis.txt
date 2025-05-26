@@ -1,0 +1,24 @@
+Анализ кластера 1951
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Sci-Fi      1
+
+Топ-10 тегов:
+tag
+space       2
+Disney      2
+weird       1
+story       1
+70mm        1
+ENVELLIT    1
+MOLT        1
+silly       1
+evil        1
+robot       1
+
+Примеры фильмов:
+                       title           genres                                                                                                                                                                                                                                                                                 tag
+1951  Black Hole, The (1979)  Children|Sci-Fi  weird ending Betamax Ernest Borgnine space travel script space mad scientist disney bad science Disney Anamorphic Blow-Up acting Can't remember aliens mostly nonsense 70mm ENVELLIT MOLT silly evil robot story SERIE dialogue Maximilian Schell robots black hole Disney studios

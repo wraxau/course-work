@@ -1,0 +1,26 @@
+Анализ кластера 834
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+dystopia              1
+Futuristmovies.com    1
+Kurt                  1
+Russell               1
+John                  1
+Carpenter             1
+weird                 1
+snake                 1
+plissken              1
+character:Snake       1
+
+Примеры фильмов:
+                       title                            genres                                                                                                                                       tag
+834  Escape from L.A. (1996)  Action|Adventure|Sci-Fi|Thriller  dystopia Futuristmovies.com Kurt Russell John Carpenter weird snake plissken character:Snake Plissken Bruce Campbell cheesy bad thriller

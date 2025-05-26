@@ -1,0 +1,23 @@
+Анализ кластера 2153
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+story            2
+long             1
+want             1
+figure           1
+historical       1
+impersonation    1
+seamless         1
+Towne            1
+Robert           1
+field            1
+
+Примеры фильмов:
+                      title genres                                                                                                                                                                                                                              tag
+2153  Without Limits (1998)  Drama  long Olympics adapted from:true story Billy Crudup reviewed Donald Sutherland unfulfilled destiny biography [ITA] limits want see again sports track and field Robert Towne seamless impersonation historical figure true story

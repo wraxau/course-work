@@ -1,0 +1,29 @@
+Анализ подкластера 93 в кластере 0
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.31
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama      6
+Comedy     4
+Romance    3
+Crime      3
+IMAX       2
+
+Топ-5 тегов:
+tag
+movie     6
+ending    5
+good      5
+based     5
+book      5
+
+Примеры фильмов:
+                                               title    rating                      genres                                                                                                                         tag
+10890                                 Chronos (1985)  3.519231            Documentary|IMAX                                                                                                         Ron Fricke BD-Video
+10891                    Five Children and It (2004)  2.869565  Adventure|Children|Fantasy                                                                                    Nesbit adventure based book Eddie Izzard
+10892                               Free Zone (2005)  2.695652                   Drama|War                                                                                                                         NaN
+10893                         Naked Spur, The (1953)  3.540984                     Western  Robert Ryan James Stewart Ralph Meeker Millard Mitchell National Film Registry genre:western noir Anthony Mann Janet Leigh
+10894  Prince & Me II: The Royal Wedding, The (2006)  2.231343              Comedy|Romance                                                                                                                     royalty

@@ -1,0 +1,23 @@
+Анализ кластера 1071
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nudity      2
+music       2
+Sound       1
+Blow-Up     1
+jim         1
+morrison    1
+70mm        1
+movies      1
+Cinema      1
+Digital     1
+
+Примеры фильмов:
+                  title genres                                                                                                                                                                                                                                                                                                            tag
+1071  Doors, The (1991)  Drama  nudity (topless) Jim Morrison full frontal nudity Val Kilmer biography music business Annemari mainstream Oliver Stone vocalists booze biopic hallucination rock and roll Anamorphic Blow-Up jim morrison 70mm movies Cinema Digital Sound music drug abuse 1960s Nudity (Topless) drugs musicians val kilmer

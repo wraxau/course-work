@@ -1,0 +1,23 @@
+Анализ кластера 1808
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+cinematography    2
+flashbacks        1
+cerebral          1
+excellent         1
+surreal           1
+understated       1
+innovative        1
+abstract          1
+ending            1
+
+Примеры фильмов:
+                 title           genres                                                                                                         tag
+1808  Ugly, The (1997)  Horror|Thriller  flashbacks cerebral excellent cinematography surreal understated innovative cinematography abstract ending

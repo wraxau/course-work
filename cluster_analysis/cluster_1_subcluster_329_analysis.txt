@@ -1,0 +1,29 @@
+Анализ подкластера 329 в кластере 1
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          10
+Comedy          7
+Horror          5
+Crime           5
+Documentary     5
+
+Топ-5 тегов:
+tag
+war         4
+driving     2
+religion    2
+tank        2
+much        2
+
+Примеры фильмов:
+                                              title    rating                          genres                                           tag
+24475                                Ward 13 (2003)  3.250000  Action|Animation|Comedy|Horror  surgery short escape Peter Cornwell hospital
+24479                    Tatort: Im Schmerz geboren  4.000000                           Crime                          stylized Shakespeare
+24481  Celine: Through the Eyes of the World (2010)       NaN                     Documentary                                     musicians
+24482                    Challenge to Lassie (1949)  3.666667                  Children|Drama                                           tcm
+24490                       Good For Nothing (2011)  3.500000                  Comedy|Western     Cinematography Inge Rademeyer New Zealand

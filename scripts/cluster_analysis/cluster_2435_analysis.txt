@@ -1,0 +1,25 @@
+Анализ кластера 2435
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+house        2
+DVDs         2
+erlend's     1
+it's         1
+ghosts       1
+Halloween    1
+See          1
+Movies       1
+Scary        1
+remade       1
+
+Примеры фильмов:
+                             title                 genres                                                                                                                                                                                                       tag
+2435  House on Haunted Hill (1959)  Drama|Horror|Thriller  erlend's DVDs subgenre:haunted house perrot library William Castle Frank Lloyd Wright Vincent Price bad it's good Tumey's DVDs dwelling character remade Scary Movies See Halloween ghosts haunted house

@@ -1,0 +1,22 @@
+Анализ кластера 2449
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+"damn         1
+dirty         1
+apes"         1
+BD-Video      1
+social        1
+commentary    1
+time          1
+travel        1
+
+Примеры фильмов:
+                                          title         genres                                                       tag
+2449  Escape from the Planet of the Apes (1971)  Action|Sci-Fi  "damn dirty apes" BD-Video social commentary time travel

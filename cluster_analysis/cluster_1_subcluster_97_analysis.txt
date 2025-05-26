@@ -1,0 +1,29 @@
+Анализ подкластера 97 в кластере 1
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 2.97
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama          8
+Comedy         6
+Documentary    4
+Children       3
+Romance        3
+
+Топ-5 тегов:
+tag
+the          3
+romance      2
+based        2
+Filmation    1
+green        1
+
+Примеры фильмов:
+                                          title    rating                        genres                                                                                                                                                                                                          tag
+23608      Revolt in the Fifth Dimension (1970)  3.500000  Adventure|Animation|Children  Filmation character:Spiderman quote:"Climb the stairway mystery then cross the threshold reality and enter into the realm Dementia Five!" setting:Dementia setting:NYC character:Infanata Bechdel Test:Fail
+23609   Scooby-Doo! WrestleMania Mystery (2014)  2.666667            Animation|Children                                                                                                                                                                                                   based show
+23612                  Ordinary Miracles (2005)  3.500000                         Drama                                                                                                                                                                                                          NaN
+23613  A Million Ways to Die in the West (2014)  2.942765                Comedy|Western                                                                                                    witty Emmett Brown New Mexico BD-Video wild west distasteful django Charlize Theron Seth MacFarlane funny
+23614           Cabinet of Caligari, The (1962)  2.700000                      Thriller                                                                                                                                                                                         twist ending surreal

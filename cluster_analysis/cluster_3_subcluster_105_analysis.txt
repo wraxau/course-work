@@ -1,0 +1,29 @@
+Анализ подкластера 105 в кластере 3
+Размер подкластера: 30 фильмов
+Средний рейтинг: 2.88
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.66
+
+Топ-5 жанров:
+genres
+Drama          10
+Comedy          7
+Action          7
+Documentary     7
+Thriller        6
+
+Топ-5 тегов:
+tag
+New         3
+dark        3
+adapted     2
+Godzilla    2
+based       2
+
+Примеры фильмов:
+                                    title    rating                  genres                                                                                                                                                                           tag
+22123                 Beau Brummel (1924)  3.500000           Drama|Romance                                                                                                                                              adapted from:play Harry Beaumont
+22124                  Red Garters (1954)  4.000000  Comedy|Musical|Western                                                                                                                                                                           NaN
+22125  Les Formidables (Gang-jeok) (2006)  3.000000  Action|Adventure|Crime                                                                                                                                                                           NaN
+22126               How I Live Now (2013)  3.389474   Action|Drama|Thriller  unlikeable characters gritty atmospheric war Indie Mental Illness happy ending realist post-apocalyptic racist conversative Saoirse Ronan Weak Plot World War III coming age
+22127             Girl Most Likely (2012)  2.935185                  Comedy                                                                      Darren Criss dysfunctional family New York City suicide attempt mental hospital New Jersey family writer

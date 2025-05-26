@@ -1,0 +1,29 @@
+Анализ подкластера 248 в кластере 3
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.05
+Дисперсия рейтинга: 0.90
+
+Топ-5 жанров:
+genres
+Drama          3
+Horror         3
+Documentary    2
+Comedy         2
+Romance        2
+
+Топ-5 тегов:
+tag
+bad         3
+cgi         2
+plot        2
+Marten      1
+monsters    1
+
+Примеры фильмов:
+                                          title    rating                    genres                                                                                                                                                                                 tag
+19815              This Ain't California (2012)  3.714286               Documentary                                                                                                                                                                      Marten Persiel
+19817                            Rolling (2007)  3.000000                     Drama                                                                                                                                                                                 NaN
+19818         Silent Hill: Revelation 3D (2012)  2.455645   Horror|Mystery|Thriller  Adelaide Clemens boring occult demons based video game the plot makes sense bad acting bad cgi Stilted Dialogue bad plot atmosphere monsters not scary cgi Stereoscopic 3-D Horror
+19819    Warren Oates: Across the Border (1993)  3.500000               Documentary                                                                                                                                                                         Tom Thurman
+19820  Step Up Love Story (Futari ecchi) (2002)  4.750000  Animation|Comedy|Romance                                                                                                                                                                              hentai

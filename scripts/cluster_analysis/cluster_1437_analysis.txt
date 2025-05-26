@@ -1,0 +1,23 @@
+Анализ кластера 1437
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Romance    1
+
+Топ-10 тегов:
+tag
+royalty      1
+nudity       1
+(full        1
+frontal)     1
+16th         1
+century      1
+India        1
+courtesan    1
+Nudity       1
+(Full        1
+
+Примеры фильмов:
+                                  title   genres                                                                                       tag
+1437  Kama Sutra: A Tale of Love (1996)  Romance  royalty nudity (full frontal) 16th century India courtesan Nudity (Full Frontal Notable)

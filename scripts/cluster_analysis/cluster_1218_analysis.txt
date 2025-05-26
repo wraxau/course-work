@@ -1,0 +1,23 @@
+Анализ кластера 1218
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+school           6
+teacher          3
+School           2
+age              2
+literature       2
+AFI              2
+100              2
+drama            2
+heartbreaking    1
+passage          1
+
+Примеры фильмов:
+                          title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1218  Dead Poets Society (1989)  Drama  Free Quotable Ethan Hawke unrealistic arts teacher portrayal highschool out context quotes Peter Weir memasa's movies hilosophy Shakespeare coming age Robert Sean Leonard education Netflix Finland School ohsoso Carpe Diem seen more once teacher watch-again real school drama teen school carpe diem literature High School cheesy Robin Williams drama 70mm bittesweet boarding school sad childhood theater poetry schmaltzy teaching inspirational story philosophy juvenile delinquencies high school special Coming age prep school cliche Drama friendship rite passage heartbreaking bad influence students melodrama Soul Spherical Blow-Up AFI 100 (Movie Quotes) private school feel-good own teacher changing lives suicide iconic AFI 100 (Cheers) bittersweet English literature overly sentimental Veja

@@ -1,0 +1,23 @@
+Анализ кластера 268
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Stephen       1
+Gyllenhaal    1
+The           1
+drama         1
+good          1
+bad           1
+parents       1
+but           1
+the           1
+court         1
+
+Примеры фильмов:
+                    title genres                                                                                     tag
+268  Losing Isaiah (1995)  Drama  Stephen Gyllenhaal The drama good bad parents but the court scene leaves much desired.

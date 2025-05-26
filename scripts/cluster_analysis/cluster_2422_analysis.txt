@@ -1,0 +1,25 @@
+Анализ кластера 2422
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Giovanni      1
+Ribisi        1
+Juliette      1
+Lewis         1
+Poppy         1
+Montgomery    1
+Tom           1
+Skerritt      1
+disability    1
+Diane         1
+
+Примеры фильмов:
+                         title                genres                                                                                   tag
+2422  Other Sister, The (1999)  Comedy|Drama|Romance  Giovanni Ribisi Juliette Lewis Poppy Montgomery Tom Skerritt disability Diane Keaton

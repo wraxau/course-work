@@ -1,0 +1,29 @@
+Анализ подкластера 146 в кластере 8
+Размер подкластера: 18 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama          9
+Thriller       5
+Comedy         4
+Documentary    4
+Musical        2
+
+Топ-5 тегов:
+tag
+cinematography    3
+acting            3
+bad               3
+family            3
+Elizabeth         2
+
+Примеры фильмов:
+                                                                 title    rating                          genres                                                                                                                                                                                                                                       tag
+18056                                         Bullfighters, The (1945)  2.875000                  Comedy|Musical                                                                                                                                                                                                Stan Laurel Malcolm St. Clair Oliver Hardy
+18057  Last Days of Pompeii, The (Gli ultimi giorni di Pompeii) (1913)  2.500000                 Adventure|Drama                                                                                                                                                                                   Romans Pompeii TOGA silent volcano Isis Special Effects
+18058                                             Catching Hell (2011)  3.833333                     Documentary                                                                                                                                                                       baseball media collusion. Innocent victim sports btaege Alex Gibney
+18059                                                 Footloose (2011)  3.097826            Comedy|Drama|Musical                                                                                                                                                  fav small town remake Christianity rock and roll dance teen religion high school dancing
+18060                                                Thing, The (2011)  3.146429  Horror|Mystery|Sci-Fi|Thriller  inferior original horror alien invasion continuity practical effects lens flare remake Norwegian Antarctica aliens lame score Mary Elizabeth Winstead space ship claustrophobic snow clean cinematography polar sci-fi paranoia research

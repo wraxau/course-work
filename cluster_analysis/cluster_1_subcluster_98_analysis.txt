@@ -1,0 +1,29 @@
+Анализ подкластера 98 в кластере 1
+Размер подкластера: 42 фильмов
+Средний рейтинг: 2.84
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.96
+
+Топ-5 жанров:
+genres
+Drama       20
+Thriller    13
+Comedy      11
+Action       6
+Crime        5
+
+Топ-5 тегов:
+tag
+old        2
+high       2
+humor      2
+Slasher    2
+drama      2
+
+Примеры фильмов:
+                     title    rating                genres                                                            tag
+29109      Stripped (2014)  3.611111           Documentary  Digital Economy Art Documentary Comics Dying Industry Artists
+29110       Accused (2014)  3.625000        Drama|Thriller                                                            NaN
+29111  Ankhon Dekhi (2014)  3.400000          Comedy|Drama               rajat kapoor high concept old delhi family drama
+29112        Gulaal (2009)  3.625000           Crime|Drama        anurag kashyap Suspense Politics acting direction story
+29113  Black Friday (2004)  4.333333  Crime|Drama|Thriller                           drama Anurag Kashyap real crime noir

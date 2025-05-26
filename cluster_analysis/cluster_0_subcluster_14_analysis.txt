@@ -1,0 +1,29 @@
+Анализ подкластера 14 в кластере 0
+Размер подкластера: 238 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama      144
+Comedy      82
+Romance     41
+Action      40
+Crime       27
+
+Топ-5 тегов:
+tag
+300        27
+ratings    27
+book       21
+less       19
+based      19
+
+Примеры фильмов:
+                                                title    rating                  genres                                                                                                                                                                                                                                                                                tag
+8338                                Cheat, The (1915)  3.450000                   Drama                                                                                                                                                                                                                                                                                NaN
+8350                       HE Who Gets Slapped (1924)  3.625000          Drama|Thriller                                                                                                                                                                                                                                                                    Victor Sjöström
+8352                              Sherlock Jr. (1924)  3.894515  Comedy|Fantasy|Romance  innovative erlend's DVDs Buster Keaton humorous National Film Registry marx brothers Dream Sequence perrot library silent madcap goofy pocket watch rival suitor movie theatre witty amateur detective AFI 100 (Laughs) stealing projectionist easygoing stylized special effects
+8359                         Old San Francisco (1927)  3.500000           Drama|Romance                                                                                                                                                                                                                                                                                NaN
+8360  Unknown, The (a.k.a. Alonzo the Armless) (1927)  3.455882    Drama|Horror|Romance                                                                                                                                                                                                                                Tod Browning Lon Chaney Joan Crawford erlend's DVDs

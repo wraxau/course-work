@@ -1,0 +1,25 @@
+Анализ кластера 2110
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+fantasy      4
+and          3
+evil         2
+high         2
+versus       2
+70mm         2
+Award        1
+Good         1
+Costumes)    1
+(Best        1
+
+Примеры фильмов:
+              title                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+2110  Willow (1988)  Action|Adventure|Fantasy  WITCHCRAFT Want high fantasy fantasy world saw when little and liked outdated 80's high fantasy Val Kilmer Betamax rewatch for rating characters Industrial Light and Magic 70mm blowup warwick davis Anamorphic Blow-Up Ron Howard Joanne Whalley romance dragons Special Effects 70mm Warwick Davis fairy tales witches predictable Saturn Award (Best Costumes) Good versus evil talking animals wizards middle earth magic dragon George Lucas plot adventure sword and sorcery good versus evil fantasy val kilmer

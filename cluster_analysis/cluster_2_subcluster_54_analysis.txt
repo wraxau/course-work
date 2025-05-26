@@ -1,0 +1,29 @@
+Анализ подкластера 54 в кластере 2
+Размер подкластера: 35 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Drama          19
+Comedy          7
+Romance         6
+Documentary     5
+Action          4
+
+Топ-5 тегов:
+tag
+nudity       2
+Alexander    2
+horses       2
+Skarsgard    2
+(topless)    2
+
+Примеры фильмов:
+                            title    rating         genres                                                   tag
+17855            Maze, The (1953)  3.250000  Horror|Sci-Fi                                      Stereoscopic 3-D
+17856           Straw Dogs (2011)  3.017241       Thriller  atheism remake KAF Annemari Alexander Skarsgard rape
+17861    Winning Team, The (1952)  3.600000  Drama|Romance                                                   NaN
+17866  Unlikely Weapon, An (2008)  3.500000    Documentary                                                   NaN
+17868         A Via Láctea (2007)  2.250000          Drama                                                   NaN

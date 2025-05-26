@@ -1,0 +1,26 @@
+Анализ подкластера 174 в кластере 1
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.53
+Медиана рейтинга: 3.62
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Comedy                3
+(no genres listed)    2
+Drama                 1
+Documentary           1
+
+Топ-5 тегов:
+tag
+Prostitution    1
+Woman           1
+director        1
+
+Примеры фильмов:
+                                                            title    rating              genres                          tag
+28956                       How Sherlock Changed the World (2013)  3.000000  (no genres listed)                          NaN
+28957                                        Working Girls (1986)  2.916667               Drama  Prostitution Woman director
+28958     Doug Stanhope: Before Turning the Gun on Himself (2012)  3.333333  (no genres listed)                          NaN
+28959  Doug Stanhope: Oslo - Burning the Bridge to Nowhere (2011)  4.500000              Comedy                          NaN
+28960                      Doug Stanhope: Beer Hall Putsch (2013)  3.681818              Comedy                          NaN

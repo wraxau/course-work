@@ -1,0 +1,29 @@
+Анализ подкластера 69 в кластере 7
+Размер подкластера: 13 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 1.49
+
+Топ-5 жанров:
+genres
+Drama          7
+Comedy         6
+Romance        4
+Documentary    3
+Thriller       2
+
+Топ-5 тегов:
+tag
+relationships    1
+women            1
+Hunt             1
+Marsha           1
+Wood             1
+
+Примеры фильмов:
+                                  title  rating                 genres  tag
+30608            Brooklyn Boheme (2012)    3.25            Documentary  NaN
+30609  Basilicata Coast to Coast (2010)    2.00           Comedy|Drama  NaN
+30610                  Smash Cut (2009)    2.25          Comedy|Horror  NaN
+30611                       Waar (2013)    3.50  Action|Drama|Thriller  NaN
+30612         In the Name of God (2008)    4.00                  Drama  NaN

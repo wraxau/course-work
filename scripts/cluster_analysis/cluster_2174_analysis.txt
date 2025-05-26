@@ -1,0 +1,14 @@
+Анализ кластера 2174
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+
+Топ-10 тегов:
+tag
+ninja    1
+
+Примеры фильмов:
+                   title  genres    tag
+2174  Master, The (1984)  Action  ninja

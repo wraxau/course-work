@@ -1,0 +1,23 @@
+Анализ кластера 1910
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Chucky      1
+dolls       1
+andy        1
+robinson    1
+Jack        1
+Bender      1
+chick       1
+flick       1
+
+Примеры фильмов:
+                      title                  genres                                                 tag
+1910  Child's Play 3 (1991)  Comedy|Horror|Thriller  Chucky dolls andy robinson Jack Bender chick flick

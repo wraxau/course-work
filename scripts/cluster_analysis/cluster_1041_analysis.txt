@@ -1,0 +1,23 @@
+Анализ кластера 1041
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Thriller    1
+
+Топ-10 тегов:
+tag
+story        3
+abuse        2
+true         2
+seen         1
+innocence    1
+Brad         1
+Pitt         1
+excellent    1
+acting       1
+okay         1
+
+Примеры фильмов:
+                title    genres                                                                                                                                                                                                                                                                                                                                                               tag
+1041  Sleepers (1996)  Thriller  seen the cinema Robert Niro revenge sexual abuse Bibliothek true story lifelong reviewed always watch when it's Tumey's DVDs ClearPlay movies thrilling story thought-provoking emotional Kevin Bacon child abuse Brad Pitt excellent acting okay once Minnie Driver innocence lost prison Barry Levinson Terry Kinney based true story vengeance Dustin Hoffman

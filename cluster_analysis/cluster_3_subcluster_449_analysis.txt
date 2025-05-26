@@ -1,0 +1,29 @@
+Анализ подкластера 449 в кластере 3
+Размер подкластера: 27 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.35
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       19
+Comedy      10
+Romance      5
+Thriller     4
+Crime        4
+
+Топ-5 тегов:
+tag
+seen           5
+funny          5
+NO_FA_GANES    4
+nudity         3
+music          3
+
+Примеры фильмов:
+                                    title    rating                                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+232                        Ed Wood (1994)  3.659607                               Comedy|Drama  gentle biography B-movie poignant Martin Landau Johnny Depp etaege Tim burton and Johnny Depp true story movie business Oscar (Best Supporting Actor) Biography quirky Dark dramedy Underrated piece genius biopic cross dressing NO_FA_GANES Bill Murray DIVX Bella Lugosi owned Kurosawa elegiac witty youtube cross dressing men Tim Burton Nostalgia Critic's Top Edith Wharton Lisa Marie Biopic affectionate underappreciated black and white dvd Sarah Jessica Parker imdb top 250 dracula eccentricity b&w charming film noir Oscar Winner Bechdel Test:Pass (technically) Wood Patricia Arquette
+246               Immortal Beloved (1994)  3.674869                              Drama|Romance                                                                                                                                                                                                                                                                                                                                deafness nudity (full frontal) great acting biography classical music See Beethoven biographical Classical music historical gary oldman topic:deafness beethoven beautiful music Bernard Rose Nudity (Full Frontal) character based real person:Beethoven Drama Gary Oldman
+253                         Junior (1994)  2.682537                              Comedy|Sci-Fi                                                                                                                                                                                                                                                                                                                                                                                                  bizarre Arnold Schwarzenegger Emma Thompson Nostalgia Critic arnold Danny DeVito Julie Andrews funny Ivan Reitman earnest experiment light Nice effects silly bright horrible seen easygoing pregnant man
+255  Kid in King Arthur's Court, A (1995)  2.640543  Adventure|Children|Comedy|Fantasy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              arthurian legend baseball merlin Michael Gottlieb Joss Acklund King Arthur medieval little league time travel
+260              Ladybird Ladybird (1994)  3.729478                                      Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Crissy Rock biting drab forceful harsh social commentary Ken Loach DIVX cathartic angry

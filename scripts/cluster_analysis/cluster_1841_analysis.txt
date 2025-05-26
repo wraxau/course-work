@@ -1,0 +1,24 @@
+Анализ кластера 1841
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+it's      5
+bad       4
+worst     2
+good      2
+movie     2
+cult      2
+Wood      2
+DVDs      2
+horror    1
+after     1
+
+Примеры фильмов:
+                               title         genres                                                                                                                                                                                                                                                                                     tag
+1841  Plan 9 from Outer Space (1959)  Horror|Sci-Fi  horror zombies bad it's not good anymore it's realy bad Bela Lugosi Tumey's DVDs bad it's good cheesy aliens camp humor cult film who cares DVDs bad it's funny ironic worst movie ever cult classic after minutes it's unwatchable Edward Wood Jr. campy best worst movie Wood zombie

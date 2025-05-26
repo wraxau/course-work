@@ -1,0 +1,29 @@
+Анализ подкластера 68 в кластере 7
+Размер подкластера: 32 фильмов
+Средний рейтинг: 2.79
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 1.09
+
+Топ-5 жанров:
+genres
+Drama       12
+Thriller    11
+Horror       9
+Comedy       7
+Crime        5
+
+Топ-5 тегов:
+tag
+bad      3
+good     2
+movie    2
+found    2
+manga    2
+
+Примеры фильмов:
+                                title    rating                        genres                                         tag
+30576  Death of a Ghost Hunter (2007)  2.000000               Horror|Thriller                                         NaN
+30577            Dark Mountain (2013)  1.500000        Horror|Sci-Fi|Thriller              stuttercam utterly predictable
+30578  Ghost of Goodnight Lane (2014)  2.166667                 Comedy|Horror  bad writing ghost bad acting haunted house
+30579     Black Day Blue Night (1996)  2.500000  Crime|Drama|Romance|Thriller                                         NaN
+30580         The Opposite Sex (2014)  2.250000                        Comedy                                         NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 47 в кластере 5
+Размер подкластера: 13 фильмов
+Средний рейтинг: 2.86
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.37
+
+Топ-5 жанров:
+genres
+Drama          8
+Crime          3
+Comedy         3
+Thriller       2
+Documentary    1
+
+Топ-5 тегов:
+tag
+police       2
+Maurier      2
+Jason        1
+parenting    1
+added        1
+
+Примеры фильмов:
+                         title    rating                 genres                                                                                                               tag
+19014           Chosin (2010)   3.250000        Documentary|War                                                                                                               NaN
+19016      Bride Flight (2008)  3.318182                  Drama                                                                                                               NaN
+19017  Chained for Life (1951)  2.000000                  Crime                                                                                                               NaN
+19021              Safe (2012)  3.327922  Action|Crime|Thriller  Jason Statham police Chris Sarandon police corruption kidnapping jason statham Prodigy Catherine Chan Boaz Yakin
+19027         Fruitcake (2003)  3.500000                 Comedy                                                                                                               NaN

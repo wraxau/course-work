@@ -1,0 +1,29 @@
+Анализ подкластера 135 в кластере 2
+Размер подкластера: 110 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          59
+Comedy         25
+Documentary    14
+Thriller       13
+Horror          9
+
+Топ-5 тегов:
+tag
+nudity       7
+acting       6
+(topless)    6
+story        6
+book         6
+
+Примеры фильмов:
+                                             title    rating                   genres                                                                           tag
+16955  Winnie the Pooh and a Day for Eeyore (1983)  3.518519       Animation|Children                                                                           NaN
+16958                                 Games (1967)  2.750000                 Thriller                                                                           NaN
+16959                            Noah's Ark (1928)  3.500000                Drama|War                                                                           NaN
+16964                        Breathing Room (2008)  2.090909  Horror|Mystery|Thriller  room tape recorder rapist game pedophile suspense surprising ending thriller
+16965                                 Otaku (1994)  2.500000              Documentary                                                                           NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 18 в кластере 4
+Размер подкластера: 153 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.21
+
+Топ-5 жанров:
+genres
+Drama                 56
+Comedy                41
+(no genres listed)    26
+Romance               18
+Documentary           17
+
+Топ-5 тегов:
+tag
+Duvivier       3
+Julien         3
+documentary    3
+Great          2
+love           2
+
+Примеры фильмов:
+                                  title  rating         genres                                                                                                                                       tag
+33233      La mossa del pinguino (2014)    4.00         Comedy                                                                                                                                       NaN
+33251                  The Taint (2010)    4.50  Comedy|Horror                                                                                                                                       NaN
+33256  His Picture in the Papers (1916)    3.00         Comedy                                                                                                                                       NaN
+33257        Dancing on the Edge (2013)    3.75          Drama                                                                                                                                       NaN
+33259                      Plush (2013)    3.00       Thriller  psycho dark violence lust forbidden love disturbing love story visually appealing erotic artistic psychological thriller action thriller

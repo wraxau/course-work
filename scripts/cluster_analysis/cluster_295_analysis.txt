@@ -1,0 +1,17 @@
+Анализ кластера 295
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+directorial    1
+debut          1
+Ang            1
+Lee            1
+
+Примеры фильмов:
+                               title genres                        tag
+295  Pushing Hands (Tui shou) (1992)  Drama  directorial debut Ang Lee

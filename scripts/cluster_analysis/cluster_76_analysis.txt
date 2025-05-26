@@ -1,0 +1,20 @@
+Анализ кластера 76
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+enigmatic      1
+biopic         1
+music          1
+The            1
+Velvet         1
+Underground    1
+performer      1
+
+Примеры фильмов:
+               title       genres                                                      tag
+76  Nico Icon (1995)  Documentary  enigmatic biopic music The Velvet Underground performer

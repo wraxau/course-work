@@ -1,0 +1,25 @@
+Анализ кластера 2343
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+War       1
+
+Топ-10 тегов:
+tag
+war           4
+seen          3
+again         2
+classic       2
+but           2
+see           2
+ensemble      1
+reflective    1
+Penn          1
+Sean          1
+
+Примеры фильмов:
+                          title            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+2343  Thin Red Line, The (1998)  Action|Drama|War  overrated meditation about war atmospheric nature seen the cinema George Clooney sound effects visually appealing Nick Nolte thruthful psychology random shots animals Bibliothek based book Adrien Brody war Jared Leto best looking war film have ever seen remake MOLT_AVORRIDA Tumey's DVDs philosophical narrated slow start elegiac meditative Terrence Malick Netflix Streaming cinematography melancholy music ensemble cast lyrical Oscar Nominee: Adapted Screenplay John Travolta reflective cult classic library deliberate 04.04.06 Sean Penn Criterion want see again World War BFI modern classic Grown Men Weep for Two Hours seen war movie I'd see again sad but good Guadalcanal 7.1-FilmAffinity but it's bit long.

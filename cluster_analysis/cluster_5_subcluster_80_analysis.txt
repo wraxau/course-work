@@ -1,0 +1,29 @@
+Анализ подкластера 80 в кластере 5
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.34
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Comedy      2
+Drama       2
+Action      1
+Crime       1
+Thriller    1
+
+Топ-5 тегов:
+tag
+racism        1
+Chuck         1
+based         1
+chimpanzee    1
+sports        1
+
+Примеры фильмов:
+                                    title    rating                        genres                                                                     tag
+14447                      Top Dog (1995)  1.791667  Action|Comedy|Crime|Thriller     racism Chuck Norris drunk police dog predictable only for dogpeople
+14448  Pebble and the Penguin, The (1995)  3.039216             Animation|Musical  penguins animation animated Don Bluth Nostalgia Critic talking animals
+14449   MVP: Most Valuable Primate (2000)  1.636364                        Comedy                                                hockey sports chimpanzee
+14450            Not Easily Broken (2009)  2.722222                 Drama|Romance                                                              based book
+14451               Price of Glory (2000)  2.500000                         Drama                                                                     NaN

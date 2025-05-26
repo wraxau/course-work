@@ -1,0 +1,18 @@
+Анализ кластера 1334
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+french     1
+18th       1
+century    1
+Patrice    1
+Leconte    1
+
+Примеры фильмов:
+                title genres                                  tag
+1334  Ridicule (1996)  Drama  french 18th century Patrice Leconte

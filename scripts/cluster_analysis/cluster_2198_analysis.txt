@@ -1,0 +1,24 @@
+Анализ кластера 2198
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+photography    1
+John           1
+Waters         1
+Edward         1
+Furlong        1
+Parody         1
+Art            1
+World          1
+Nudity         1
+(Full          1
+
+Примеры фильмов:
+              title        genres                                                                            tag
+2198  Pecker (1998)  Comedy|Drama  photography John Waters Edward Furlong Parody Art World Nudity (Full Frontal)

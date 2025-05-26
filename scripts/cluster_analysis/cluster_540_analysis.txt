@@ -1,0 +1,18 @@
+Анализ кластера 540
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Bruce     1
+Willis    1
+seen      1
+2010      1
+
+Примеры фильмов:
+                        title        genres                     tag
+540  Striking Distance (1993)  Action|Crime  Bruce Willis seen 2010

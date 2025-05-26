@@ -1,0 +1,29 @@
+Анализ подкластера 134 в кластере 5
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.60
+
+Топ-5 жанров:
+genres
+Drama          9
+Comedy         5
+Animation      3
+Documentary    3
+Crime          3
+
+Топ-5 тегов:
+tag
+and          3
+horror       2
+(topless)    2
+nudity       2
+black        2
+
+Примеры фильмов:
+                                         title    rating                                     genres                                                                    tag
+22736  Why Not Me? (Pourquoi pas moi ?) (1999)  4.000000                                     Comedy  lesbian French Film French Julie Gayet coming out Johnny Hallyday gay
+22738         Rock-afire Explosion, The (2008)  3.750000                                Documentary                              quirky hobbies documentary Brett Whitcomb
+22740                            Yanco (1961)   2.000000                                      Drama                                                      Servando González
+22746                        Concussion (2013)  3.357143                                      Drama                                nudity (topless) lesbian lesbians queer
+22760               Justice League: War (2014)  3.286517  Action|Adventure|Animation|Fantasy|Sci-Fi                                             less 300 ratings Jay Oliva

@@ -1,95 +1,142 @@
 import pandas as pd
 import os
-from concurrent.futures import ThreadPoolExecutor
+import logging
+logging.basicConfig(level=logging.INFO)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, '..', 'data')
+OUTPUT_DIR = os.path.join(BASE_DIR, '..', 'output')
 
 def ensure_output_directory():
-    #Создаёт папку 'output' если её нет
-    os.makedirs('output', exist_ok=True)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    logging.info("Папка 'output' создана или уже существует.")
 
 def clean_data(file_name, output_name, drop_columns=None):
-    #Общая функция для очистки данных `movies.csv`, `tags.csv` и `ratings.csv`
+    """Общая функция для очистки данных `movies.csv`, `tags.csv` и `ratings.csv`"""
     ensure_output_directory()
-    file_path = os.path.join('data', file_name)
+    file_path = os.path.join(DATA_DIR, file_name)
 
     if not os.path.exists(file_path):
-        print(f"Ошибка: Файл {file_path} не найден!")
+        logging.error(f"Ошибка: Файл {file_path} не найден!")
         return
 
-    print(f"Загружаем {file_name}...")
-    df = pd.read_csv(file_path, low_memory=False)
+    logging.info(f"Загружаем {file_name}...")
+    try:
+        df = pd.read_csv(file_path, low_memory=False)
+    except Exception as e:
+        logging.error(f"Ошибка при загрузке файла {file_name}: {e}")
+        return
 
     # Удаление ненужных столбцов, но оставляем `title`
     if drop_columns:
-        drop_columns = [col for col in drop_columns if col != "title"]  # НЕ УДАЛЯЕМ `title`
+        drop_columns = [col for col in drop_columns if col != "title"]
         df = df.drop(columns=drop_columns, errors="ignore")
 
-    # Очистка данных
     df.drop_duplicates(inplace=True)
 
-    # Оптимизация памяти
     if "movieId" in df.columns:
         df["movieId"] = df["movieId"].astype("uint32")
     if "userId" in df.columns:
         df["userId"] = df["userId"].astype("uint32")
 
-    print(f"Размер после очистки {file_name}: {df.memory_usage(deep=True).sum() / 1e6:.2f} MB")
+    logging.info(f"Размер после очистки {file_name}: {df.memory_usage(deep=True).sum() / 1e6:.2f} MB")
 
-    # Сохранение очищенных данных
-    output_path = os.path.join("output", output_name)
-    df.to_csv(output_path, index=False)
-    print(f"Очищенные данные сохранены в {output_path}")
+    output_path = os.path.join(OUTPUT_DIR, output_name)
+    try:
+        df.to_csv(output_path, index=False)
+        logging.info(f"Очищенные данные сохранены в {output_path}")
+    except Exception as e:
+        logging.error(f"Ошибка при сохранении файла {output_name}: {e}")
 
 def clean_movies():
-    """Очистка данных `movies.csv`, НЕ удаляем `title`!"""
-    print("Очистка данных `movies.csv`...")
+    logging.info("Очистка данных `movies.csv`...")
     clean_data("movies.csv", "cleaned_movies.csv", drop_columns=[])
 
+
 def clean_tags():
-    """Очистка данных `tags.csv`."""
-    print("Очистка данных `tags.csv`...")
-    clean_data("tags.csv", "cleaned_tags.csv")
-def clean_ratings():
-    """Очистка данных `ratings.csv`."""
-    print("Очистка данных `ratings.csv`...")
-    clean_data("ratings.csv", "cleaned_ratings.csv", drop_columns=[])
+    logging.info("Очистка данных `tags.csv`...")
+    file_path = os.path.join(DATA_DIR, "tags.csv")
 
-def load_data():
-    """Загружает и оптимизирует данные, уменьшая потребление памяти."""
-    print("Загружаем данные с оптимизированными типами...")
+    if not os.path.exists(file_path):
+        logging.error(f"Файл {file_path} не найден!")
+        return
 
-    dtype_dict = {
-        "userId": "uint32",
-        "movieId": "uint32",
-        "rating": "float32",
-        "timestamp": "int32",
-    }
+    try:
+        df = pd.read_csv(file_path)
 
-    tags_df = pd.read_csv("output/cleaned_tags.csv", encoding="utf-8", usecols=["movieId", "tag"], na_filter=False)
-    movies_df = pd.read_csv("output/cleaned_movies.csv", encoding="utf-8")
+        if "tag" not in df.columns:
+            logging.warning("Столбец 'tag' отсутствует в файле tags.csv!")
+            return
 
-    if "title" not in movies_df.columns:
-        print("Ошибка: 'title' отсутствует в movies_df! Перезагружаем из оригинального movies.csv...")
-        movies_df = pd.read_csv("data/movies.csv", encoding="utf-8", usecols=["movieId", "title", "genres"])
-        movies_df.to_csv("output/cleaned_movies.csv", index=False, encoding="utf-8")
+        df.drop_duplicates(inplace=True)
+        df.to_csv(os.path.join(OUTPUT_DIR, "cleaned_tags.csv"), index=False)
+        logging.info("Данные из `tags.csv` очищены и сохранены.")
+    except Exception as e:
+        logging.error(f"Ошибка при очистке данных `tags.csv`: {e}")
 
-    ratings_df = pd.read_csv("output/cleaned_ratings.csv", encoding="utf-8", dtype=dtype_dict)
 
-    print(f"Размер movies_df: {movies_df.memory_usage(deep=True).sum() / 1e6:.2f} MB")
-    print(f"Размер tags_df: {tags_df.memory_usage(deep=True).sum() / 1e6:.2f} MB")
-    print(f"Размер ratings_df: {ratings_df.memory_usage(deep=True).sum() / 1e6:.2f} MB")
+def clean_ratings(input_path=None, output_path=None):
+    """Очистка данных рейтингов"""
+    ensure_output_directory()
 
-    return tags_df, movies_df, ratings_df
+    if input_path is None:
+        input_path = os.path.join(DATA_DIR, "ratings.csv")
+    if output_path is None:
+        output_path = os.path.join(OUTPUT_DIR, "cleaned_ratings.csv")
+
+    if not os.path.exists(input_path):
+        logging.error(f"Файл {input_path} не найден.")
+        return
+
+    try:
+        df = pd.read_csv(input_path)
+        df.drop_duplicates(inplace=True)
+        df["userId"] = df["userId"].astype("uint32")
+        df["movieId"] = df["movieId"].astype("uint32")
+        df["rating"] = df["rating"].astype("float32")
+        df["timestamp"] = df["timestamp"].astype("int32")
+        df.to_csv(output_path, index=False)
+        logging.info(f"Очищенные рейтинги сохранены в {output_path}")
+    except Exception as e:
+        logging.error(f"Ошибка при очистке рейтингов: {e}")
+
+def standardize_ratings(input_path=None, output_path=None):
+    """Стандартизация рейтингов (z-score)"""
+    if input_path is None:
+        input_path = os.path.join(OUTPUT_DIR, "cleaned_ratings.csv")
+    if output_path is None:
+        output_path = os.path.join(OUTPUT_DIR, "standardized_ratings.csv")
+
+    if not os.path.exists(input_path):
+        logging.error(f"Файл {input_path} не найден.")
+        return
+
+    try:
+        df = pd.read_csv(input_path)
+
+        if "rating" not in df.columns or df.empty:
+            logging.warning("Файл пуст или не содержит столбец 'rating'")
+            return
+
+        mean = df["rating"].mean()
+        std = df["rating"].std()
+        df["standardized_rating"] = (df["rating"] - mean) / std
+
+        df.to_csv(output_path, index=False)
+        logging.info(f"Стандартизованные рейтинги сохранены в {output_path}")
+
+    except Exception as e:
+        logging.error(f"Ошибка при стандартизации рейтингов: {e}")
 
 def main():
-    print("Очистка данных...")
+    logging.info("Очистка и стандартизация данных...")
 
-    # Используем ThreadPoolExecutor для многопоточной очистки
-    with ThreadPoolExecutor() as executor:
-        executor.submit(clean_movies)
-        executor.submit(clean_tags)
-        executor.submit(clean_ratings)
+    # Очистка данных
+    clean_movies()  # очистка данных о фильмах
+    clean_tags()    # очистка данных о тегах
+    clean_ratings() # очистка данных о рейтингах
+    standardize_ratings() # стандартизация рейтингов
 
-    print("Очистка завершена!")
+    logging.info("Очистка и стандартизация завершены!")
 
 if __name__ == "__main__":
     main()

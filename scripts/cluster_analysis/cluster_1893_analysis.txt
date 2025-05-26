@@ -1,0 +1,23 @@
+Анализ кластера 1893
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+Jason               2
+Vorhees             2
+campy               1
+subgenre:slasher    1
+serial              1
+killer              1
+slasher             1
+horror              1
+franchise           1
+nudity              1
+
+Примеры фильмов:
+                                  title  genres                                                                                                                                                      tag
+1893  Friday the 13th Part 3: 3D (1982)  Horror  Jason Vorhees Jason campy subgenre:slasher serial killer slasher horror franchise nudity murder cheesy 3-Depix Stereoscopic 3-D character:Jason Vorhees

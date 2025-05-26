@@ -1,0 +1,29 @@
+Анализ подкластера 50 в кластере 6
+Размер подкластера: 39 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.48
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy      11
+Romance     10
+Thriller     5
+Crime        5
+
+Топ-5 тегов:
+tag
+muppets          1
+relations        1
+satire           1
+judaism          1
+circumscision    1
+
+Примеры фильмов:
+                           title  rating             genres  tag
+26582         The Command (1954)     3.0            Western  NaN
+26583             Mockery (1927)     3.5  Drama|Romance|War  NaN
+26584       The Inspector (1962)     3.5      Drama|Romance  NaN
+26585    Hotel California (2008)     3.5    Action|Thriller  NaN
+26586  Nine Hours to Rama (1963)     2.5              Drama  NaN

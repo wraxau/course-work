@@ -1,0 +1,25 @@
+Анализ кластера 797
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+
+Топ-10 тегов:
+tag
+music        1
+industry     1
+rec?         1
+Paul         1
+Michael      1
+Glaser       1
+Nostalgia    1
+Critic       1
+imdb         1
+bottom       1
+
+Примеры фильмов:
+             title                   genres                                                                                           tag
+797  Kazaam (1996)  Children|Comedy|Fantasy  music industry rec? Paul Michael Glaser Nostalgia Critic imdb bottom 100 genie cheesy stupid

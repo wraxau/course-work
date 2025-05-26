@@ -1,0 +1,24 @@
+Анализ кластера 1849
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Musical    1
+
+Топ-10 тегов:
+tag
+(Best       2
+Oscar       2
+comedy      1
+girls       1
+Leonard     1
+Robert      1
+love        1
+circus      1
+Actress)    1
+sandow      1
+
+Примеры фильмов:
+                           title         genres                                                                                                                                                          tag
+1849  Great Ziegfeld, The (1936)  Drama|Musical  comedy Oscar (Best Picture) Biography musical ziegfeld follies biopic broadway dancing girls sandow Oscar (Best Actress) circus love Robert Leonard classic

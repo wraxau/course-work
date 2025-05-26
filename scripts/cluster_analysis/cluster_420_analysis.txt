@@ -1,0 +1,20 @@
+Анализ кластера 420
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+college       2
+basketball    2
+William       1
+Friedkin      1
+sports        1
+Shaquille     1
+O'Neal        1
+
+Примеры фильмов:
+                 title genres                                                                             tag
+420  Blue Chips (1994)  Drama  William Friedkin college sports Shaquille O'Neal basketball college basketball

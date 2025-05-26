@@ -1,0 +1,24 @@
+Анализ подкластера 70 в кластере 7
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama                 6
+Documentary           2
+Romance               1
+Thriller              1
+(no genres listed)    1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                                  title    rating         genres  tag
+31501                   One Love (2011)  3.000000  Drama|Romance  NaN
+31502         Let There Be Light (1946)  3.833333    Documentary  NaN
+31503                    Paulina (2015)  3.250000       Thriller  NaN
+31504  Report from the Aleutians (1943)       NaN    Documentary  NaN
+31505   The Princess of Nebraska (2008)  3.500000          Drama  NaN

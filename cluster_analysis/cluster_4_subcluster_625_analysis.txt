@@ -1,0 +1,29 @@
+Анализ подкластера 625 в кластере 4
+Размер подкластера: 33 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.59
+
+Топ-5 жанров:
+genres
+Drama                 10
+Comedy                 8
+Thriller               6
+(no genres listed)     4
+Crime                  4
+
+Топ-5 тегов:
+tag
+Shark       2
+lifetime    1
+Star        1
+Secret      1
+Dealers     1
+
+Примеры фильмов:
+                             title    rating                   genres        tag
+31391        Pregnancy Pact (2010)  3.500000                    Drama   lifetime
+31412    The Spiderwebhouse (2015)  3.750000       (no genres listed)        NaN
+31422            Sugarhouse (2007)  4.000000           Drama|Thriller        NaN
+31431     Kill Your Friends (2015)  3.000000    Comedy|Crime|Thriller        NaN
+31435  Star Trek: Renegades (2015)  2.928571  Action|Adventure|Sci-Fi  Star Trek

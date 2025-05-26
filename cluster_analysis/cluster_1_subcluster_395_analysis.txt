@@ -1,0 +1,29 @@
+Анализ подкластера 395 в кластере 1
+Размер подкластера: 36 фильмов
+Средний рейтинг: 2.82
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.74
+
+Топ-5 жанров:
+genres
+Drama       22
+Horror       9
+Thriller     6
+Comedy       5
+Mystery      5
+
+Топ-5 тегов:
+tag
+Yves        1
+John        1
+intruder    1
+William     1
+Wellman     1
+
+Примеры фильмов:
+                              title    rating                    genres            tag
+25998                Riptide (1949)       NaN                     Drama  Yves Allégret
+26015                    Flu (2013)  3.433333       Action|Drama|Sci-Fi            NaN
+26017    The Fox & the Child (2007)  4.000000  Adventure|Children|Drama    Luc Jacquet
+26029  Shortcut to Happiness (2003)  2.428571      Comedy|Drama|Fantasy            NaN
+26035                 Room 6 (2006)  2.100000   Horror|Mystery|Thriller            NaN

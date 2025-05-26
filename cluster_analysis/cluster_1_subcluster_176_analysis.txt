@@ -1,0 +1,29 @@
+Анализ подкластера 176 в кластере 1
+Размер подкластера: 45 фильмов
+Средний рейтинг: 2.83
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.77
+
+Топ-5 жанров:
+genres
+Drama       18
+Comedy      13
+Thriller    12
+Action       9
+Horror       9
+
+Топ-5 тегов:
+tag
+the           5
+action        4
+apocalypse    4
+great         3
+sequel        3
+
+Примеры фильмов:
+                                                title  rating                                genres               tag
+26240  The Haunting Hour: Don't Think About It (2007)     3.0      Children|Fantasy|Horror|Thriller               NaN
+26246                         The Elephant Man (1982)     4.0                                 Drama      Jack Hofsiss
+26248                            On the Inside (2011)     3.1                        Drama|Thriller               NaN
+26267     Little Fridolf Becomes a Grandfather (1957)     2.5                                Comedy               NaN
+26275                    The Feathered Serpent (1948)     NaN  Comedy|Crime|Horror|Mystery|Thriller  William Beaudine

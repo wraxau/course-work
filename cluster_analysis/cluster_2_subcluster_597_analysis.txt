@@ -1,0 +1,29 @@
+Анализ подкластера 597 в кластере 2
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama          23
+Comedy         14
+Romance         5
+Crime           4
+Documentary     3
+
+Топ-5 тегов:
+tag
+plot           2
+nudity         2
+(topless)      2
+zoo            1
+perspective    1
+
+Примеры фильмов:
+                                               title    rating              genres                          tag
+17457                               Zookeeper (2011)  2.400538              Comedy  zoo talking animals Animals
+17478                            Promise, The (1979)  3.500000               Drama                          NaN
+17480                          In Old Arizona (1928)  2.500000     Romance|Western                          NaN
+17490  Red Like the Sky (Rosso come il cielo) (2007)  3.750000               Drama                          NaN
+17519                          Double Dhamaal (2011)  2.500000  Comedy|Crime|Drama                          NaN

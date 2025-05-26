@@ -1,0 +1,23 @@
+Анализ кластера 1694
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+music         2
+singers       1
+movie         1
+embarassed    1
+watch         1
+spice         1
+girls         1
+girl          1
+power         1
+Roger         1
+
+Примеры фильмов:
+                   title  genres                                                                                                                                                                                                                                              tag
+1694  Spice World (1997)  Comedy  singers music business vocalists true story cheesy Golden Raspberry (Worst Actress) who thought this was good idea? Awful Awards teen movie embarassed watch music spice girls girl power Roger Moore rec? fun Alan Cumming british chick flick

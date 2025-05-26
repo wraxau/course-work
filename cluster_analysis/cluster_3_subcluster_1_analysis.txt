@@ -1,0 +1,29 @@
+Анализ подкластера 1 в кластере 3
+Размер подкластера: 76 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama        38
+Comedy       27
+Romance      14
+Adventure    11
+Thriller      8
+
+Топ-5 тегов:
+tag
+ratings    15
+300        15
+less       14
+the         9
+ending      8
+
+Примеры фильмов:
+                                        title    rating                    genres                                                                                                           tag
+7688  Sansho the Bailiff (Sanshô dayû) (1954)  3.995652                     Drama  elegant Not available from Netflix sweeping Criterion poignant Kenji Mizoguchi literate bittersweet stylized
+7689               Zazie dans le métro (1960)  3.377907                    Comedy                       Louis Malle French Sven's see list Criterion surrealism based book annoying little girl
+7705                War of the Buttons (1994)  3.603774  Adventure|Children|Drama                                           less 300 ratings might like John Roberts not available from Netflix
+7709            Drums Along the Mohawk (1939)  3.264045     Adventure|War|Western                                                                                    less 300 ratings John Ford
+7727  Crazy Stranger, The (Gadjo Dilo) (1997)  3.696809              Comedy|Drama                                01/11 21.02.06 10/10 12/10 03/11 Tony Gatlif 01/12 seen 11/10 Bibliothek 02/11

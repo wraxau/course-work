@@ -1,0 +1,26 @@
+Анализ кластера 1511
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Fantasy      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+bad           5
+one           2
+franchise     2
+liners        2
+style         1
+jokes         1
+guilty        1
+pleasure      1
+camp          1
+from:comic    1
+
+Примеры фильмов:
+                      title                             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1511  Batman & Robin (1997)  Action|Adventure|Fantasy|Thriller  atmospheric soundtrack Comics vigilante Alicia Silverstone George Clooney double life nipple suits travesty film Arnold Schwarzenegger action Uma Thurman franchise bad science Nostalgia Critic Action terrible dialogue super-hero bad plot bad puns bad script misunderstood comedy bank robbery funny cheesy franchise killer adapted from:comic camp style jokes guilty pleasure one liners batgirl bad acting nonsensical vehicles Bad one liners tacky silly ridiculous story superhero unlikeable characters alter ego overacting Elle Macpherson Batman comic book Joel Schumacher robin Chris O'Donnell

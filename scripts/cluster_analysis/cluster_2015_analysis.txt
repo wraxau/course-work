@@ -1,0 +1,15 @@
+Анализ кластера 2015
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+
+Топ-10 тегов:
+tag
+Betamax    1
+
+Примеры фильмов:
+                      title           genres      tag
+2015  Son of Flubber (1963)  Children|Comedy  Betamax

@@ -1,0 +1,29 @@
+Анализ подкластера 259 в кластере 3
+Размер подкластера: 33 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.16
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama        17
+Comedy        9
+Thriller      8
+Adventure     6
+Action        6
+
+Топ-5 тегов:
+tag
+seen      10
+Nudity     9
+the        9
+story      9
+acting     6
+
+Примеры фильмов:
+                            title    rating                                      genres                                                                                                                                                                                                                                                                                                                                                                                          tag
+1631             Anastasia (1997)  3.413375  Adventure|Animation|Children|Drama|Musical  Russian revolution Russia animated cute puka villain nonexistent not needed for good story romantic storyline villain princess cute movie charm school NOT DISNEY Bearable Disney Meg Ryan Kirsten Dunst funny Christopher Lloyd classic Disney animated feature witty children cartoon BD-Video loosely based historical event music classic animation animation Dreamworks songs rasputin
+1635               Amistad (1997)  3.590091                               Drama|Mystery                                                                                                                                                 slavery erlend's DVDs United States true story boring historical Morgan Freeman rebellion courtroom drama too violent Hollywood drama movies law seafaring spielberg want see again adventure period piece Steven Spielberg based true story
+1640             Boys, Les (1997)  2.815789                                      Comedy                                                                                                                                                                                                                                                                                                                                                                                          NaN
+1642  Deconstructing Harry (1997)  3.464673                                Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                writers Woody Allen hilarious
+1650          Legal Deceit (1997)  2.742424                                    Thriller                                                                                                                                                                                                                                                                                                                                                                                          NaN

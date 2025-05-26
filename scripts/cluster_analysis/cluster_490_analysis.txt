@@ -1,0 +1,25 @@
+Анализ кластера 490
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+muista    1
+Kurt      1
+Seagal    1
+Steven    1
+plane     1
+Baird     1
+Stuart    1
+Berry     1
+Halle     1
+ford      1
+
+Примеры фильмов:
+                         title                     genres                                                                                                                                                              tag
+490  Executive Decision (1996)  Action|Adventure|Thriller  muista Kurt Russell mountain climbing steven segal Harrison Ford tom clancy seen the cinema harrison ford Halle Berry Stuart Baird plane Steven Seagal thriller

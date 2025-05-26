@@ -1,0 +1,23 @@
+Анализ кластера 533
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Nudity       2
+Australia    1
+piece        1
+Frontal      1
+(Full        1
+Mountains    1
+Blue         1
+remember     1
+Can't        1
+stream       1
+
+Примеры фильмов:
+             title genres                                                                                                                                                                                                                        tag
+533  Sirens (1994)  Drama  Australia great story posing nude skinnydipping nudity (full frontal) artist Norman Lindsay Notable Nudity Period piece The Body REDBOX erotic bathing stream Can't remember Blue Mountains Nudity (Full Frontal Notable)

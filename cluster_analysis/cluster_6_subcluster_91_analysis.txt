@@ -1,0 +1,29 @@
+Анализ подкластера 91 в кластере 6
+Размер подкластера: 12 фильмов
+Средний рейтинг: 2.47
+Медиана рейтинга: 2.62
+Дисперсия рейтинга: 0.93
+
+Топ-5 жанров:
+genres
+Comedy       8
+Romance      6
+Drama        4
+Adventure    2
+Animation    2
+
+Топ-5 тегов:
+tag
+Ethan        1
+Spaulding    1
+animation    1
+animated     1
+bears        1
+
+Примеры фильмов:
+                                  title  rating                                       genres                                                  tag
+26262       One Husband Too Many (2010)  1.0000                               Comedy|Romance                                                  NaN
+26263     Scooby-Doo! Camp Scare (2010)  2.9375  Adventure|Animation|Children|Comedy|Mystery                                      Ethan Spaulding
+26264       Half of a Yellow Sun (2013)  2.7500                                Drama|Romance                                                  NaN
+26265  Hey There, It's Yogi Bear (1964)  3.5000  Adventure|Animation|Children|Comedy|Romance  animation animated bears talking animals based show
+26266                Men to Kiss (2012)  1.5000                               Comedy|Romance                                                  NaN

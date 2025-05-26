@@ -1,0 +1,24 @@
+Анализ кластера 915
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Grant      2
+remake     2
+too        1
+romcom     1
+Classic    1
+story      1
+love       1
+classic    1
+McCarey    1
+Leo        1
+
+Примеры фильмов:
+                             title         genres                                                                                                                                                                    tag
+915  Affair to Remember, An (1957)  Drama|Romance  too long Deborah Kerr Carey Grant Bob*ola Didn't finish Cary Grant painful watch romcom unnecessary remake remake TV-G Leo McCarey classic love story Classic Romance

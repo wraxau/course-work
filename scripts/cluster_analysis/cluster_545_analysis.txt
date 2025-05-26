@@ -1,0 +1,24 @@
+Анализ кластера 545
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Musical    1
+
+Топ-10 тегов:
+tag
+music           2
+prententious    1
+bullshit        1
+biopics         1
+"eccentric      1
+genius"         1
+François        1
+Girard          1
+biography       1
+classical       1
+
+Примеры фильмов:
+                                               title         genres                                                                                                                                tag
+545  Thirty-Two Short Films About Glenn Gould (1993)  Drama|Musical  prententious bullshit biopics "eccentric genius" François Girard biography classical music piano musicians music Canada nonlinear

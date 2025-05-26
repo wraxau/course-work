@@ -1,0 +1,26 @@
+Анализ кластера 1010
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Drama        1
+Musical      1
+
+Топ-10 тегов:
+tag
+cartoon          3
+animals          3
+animated         3
+hallucination    2
+Disney           2
+Elliotte         1
+sad.             1
+again            1
+fears            1
+the              1
+
+Примеры фильмов:
+             title                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+1010  Dumbo (1941)  Animation|Children|Drama|Musical  musical animated evil humans cute Betamax social exclusion subgenre:fable power belief Samuel Armstrong Animated Classic Dumb Disney Ben Sharpsteen hallucination animals Bill Roberts Oscar (Best Music Original Score) Wilfred Jackson circus Can't remember drunk hallucination Disney animated feature children cartoon BD-Video John Elliotte sad. again with the dying animated animals mother-son relationship overcoming fears disturbing clown content Jack Kinney talking animals elephant elephants animation friendship cartoon Norman Ferguson bullying orphaned cartoon character sweet

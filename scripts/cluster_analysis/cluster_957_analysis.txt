@@ -1,0 +1,15 @@
+Анализ кластера 957
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+own    1
+
+Примеры фильмов:
+              title         genres  tag
+957  Algiers (1938)  Drama|Romance  own

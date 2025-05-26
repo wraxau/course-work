@@ -1,0 +1,28 @@
+Анализ подкластера 87 в кластере 1
+Размер подкластера: 36 фильмов
+Средний рейтинг: 2.95
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.75
+
+Топ-5 жанров:
+genres
+Drama      17
+Romance     6
+Comedy      6
+Action      5
+Western     5
+
+Топ-5 тегов:
+tag
+radiation    1
+soviet       1
+union        1
+physics      1
+
+Примеры фильмов:
+                                            title  rating                         genres  tag
+26898                        Cossacks, The (1928)     2.5       Action|Drama|Romance|War  NaN
+26899  The Pee-Wee Herman Show on Broadway (2011)     3.5                         Comedy  NaN
+26902               Shadows Over Chinatown (1946)     2.5  Comedy|Crime|Mystery|Thriller  NaN
+26903                           Tom Sawyer (2011)     2.0                      Adventure  NaN
+26904                        Me and My Gal (1932)     3.0           Comedy|Drama|Romance  NaN

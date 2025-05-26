@@ -1,0 +1,21 @@
+Анализ кластера 838
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Australia    1
+outback      1
+music        1
+jazz         1
+obsession    1
+Paris        1
+Rolf         1
+Heer         1
+
+Примеры фильмов:
+            title genres                                                     tag
+838  Dingo (1991)  Drama  Australia outback music jazz obsession Paris Rolf Heer

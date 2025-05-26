@@ -1,0 +1,23 @@
+Анализ кластера 260
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Crissy        1
+Rock          1
+biting        1
+drab          1
+forceful      1
+harsh         1
+social        1
+commentary    1
+Ken           1
+Loach         1
+
+Примеры фильмов:
+                        title genres                                                                                      tag
+260  Ladybird Ladybird (1994)  Drama  Crissy Rock biting drab forceful harsh social commentary Ken Loach DIVX cathartic angry

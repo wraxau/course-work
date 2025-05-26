@@ -1,0 +1,21 @@
+Анализ кластера 2398
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+rock       1
+and        1
+roll       1
+Library    1
+System     1
+perrot     1
+library    1
+
+Примеры фильмов:
+                   title          genres                                          tag
+2398  Still Crazy (1998)  Comedy|Romance  rock and roll Library System perrot library

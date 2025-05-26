@@ -1,0 +1,14 @@
+Анализ кластера 2202
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                           title  genres  tag
+2202  Fiendish Plot of Dr. Fu Manchu, The (1980)  Comedy  NaN

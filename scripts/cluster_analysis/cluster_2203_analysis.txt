@@ -1,0 +1,25 @@
+Анализ кластера 2203
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+ants             2
+monster:giant    1
+science          1
+atom             1
+giant            1
+monster          1
+Classic          1
+sci-fi           1
+Douglas          1
+Gordon           1
+
+Примеры фильмов:
+             title                  genres                                                                                                                                                                                                                tag
+2203  Them! (1954)  Horror|Sci-Fi|Thriller  monster:giant insect erlend's DVDs Joan Weldon horror atomic age Betamax creature feature wilhelm ants bugs science fiction Scary Movies See Halloween Gordon Douglas sci-fi Classic monster giant ants atom bomb

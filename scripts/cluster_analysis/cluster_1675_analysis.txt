@@ -1,0 +1,24 @@
+Анализ кластера 1675
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Dickens           2
+telecine          1
+Brett             1
+Northcutt         1
+Charles           1
+author:Charles    1
+life              1
+story             1
+connections       1
+between           1
+
+Примеры фильмов:
+                          title         genres                                                                                                                                 tag
+1675  Great Expectations (1998)  Drama|Romance  telecine Brett Northcutt Charles Dickens author:Charles Dickens life story connections between events adapted from:book based book

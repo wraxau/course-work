@@ -1,0 +1,29 @@
+Анализ подкластера 5 в кластере 4
+Размер подкластера: 53 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 1.45
+
+Топ-5 жанров:
+genres
+Drama                 18
+Comedy                16
+(no genres listed)    15
+Romance                7
+Children               4
+
+Топ-5 тегов:
+tag
+documentary     2
+inconsistent    1
+tone            1
+mind            1
+meditation      1
+
+Примеры фильмов:
+                                     title  rating              genres                tag
+32680                To Catch a Spy (1971)    2.00  (no genres listed)                NaN
+32692                     Sandesham (1991)    5.00     Children|Comedy                NaN
+32698  The Haunting of Whaley House (2012)    1.25              Horror  inconsistent tone
+32704                Song 'e napule (2013)    4.50  (no genres listed)                NaN
+32706                  Living It Up (1954)    3.00              Comedy                NaN

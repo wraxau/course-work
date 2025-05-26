@@ -1,0 +1,25 @@
+Анализ кластера 1242
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+time         4
+Award        3
+fun          2
+Time         2
+movies       2
+(Best        2
+TIME         2
+alternate    2
+Saturn       2
+not          2
+
+Примеры фильмов:
+                          title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+1242  Back to the Future (1985)  Adventure|Comedy|Sci-Fi  Want slacker! humorous Classic Futuristmovies.com perrot library teen rock and roll science fiction Christopher Lloyd BUILDING SELF-ESTEEM RACE AGAINST TIME humor fanciful FINDING WAY BACK HOME Continued FISH OUT WATER story clasic Michael Fox dvd alternate universe Steven Spielberg Time Travel easygoing time DeLorean HIGH SCHOOL LIFE dated inventor sexual inuendo attempted rape travel delorean DVD Robert Zemeckis Saturn Award (Best Science Fiction Film) quirky great screenplays time loop funny kids whimsical futuristic THEATER sci-fi Time Paradox time travel incestual content imdb top 250 fun alternate reality Spherical Blow-Up own rock high school Hugo Award powerful ending kinetic comedy Lea Thompson National Film Registry back the future clever Funny seen more once spielberg/lucas madcap logic complexity retro-futuristic owned movies every kid should see--Entertainment Weekly romance mother-son relationship nostalgic netflix queue spielberg not available from Netflix streaming time-travel adventure inconsistencies LOVE TRIANGLES fun movie quotable fantasy Highly quotable TIME TRAVEL cliffhanger 1950s father-son relationship memasa's movies guitar self-referentail silly but good based book thriller Tumey's See Again lovable love triangles not seen classic 70mm Adventure Comedy BD-Video Saturn Award (Best Special Effects) awesome soundtrack time machine future sequel bullying want see again 1980s Crispin Glover

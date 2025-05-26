@@ -1,0 +1,23 @@
+Анализ кластера 1210
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+grim         2
+DVDs         2
+classic      2
+plague       2
+death        2
+black        2
+seven        1
+overrated    1
+crusaders    1
+chess        1
+
+Примеры фильмов:
+                                                title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1210  Seventh Seal, The (Sjunde inseglet, Det) (1957)  Drama  crusades erlend's DVDs gloomy atmospheric plague dark comedy bits painter epidemic existentialism Ingmar Bergman cinematographer:Gunnar Fischer The black plague squire boring perrot library BFI classic grim reaper John church Tumey's DVDs vhs knights visionary tense medieval philosophical rural funny actors grim classic somber flagellation cerebral god board game meditative need own Death theatrical acting death witch hunt Max von Sydow dvr Breathtaking seven afterlife black and white reflective chess crusaders overrated for certain tastes imdb top 250 husband-wife relationship forest death personified dialogue Criterion phylosophycal existensialism religion seeking meaning dreamlike Swedish Janus

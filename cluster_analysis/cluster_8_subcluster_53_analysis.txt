@@ -1,0 +1,29 @@
+Анализ подкластера 53 в кластере 8
+Размер подкластера: 32 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.40
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama          18
+Comedy          7
+Documentary     5
+Thriller        4
+Romance         4
+
+Топ-5 тегов:
+tag
+long             2
+nudity           2
+atmospheric      2
+psychological    2
+plot             2
+
+Примеры фильмов:
+                                                             title    rating                        genres                                                                                              tag
+17871                                              Restless (2011)  3.493333                         Drama                                                       dealing with loss Gus Van Sant love cancer
+17872                                                  Neds (2010)  3.393939                         Drama  too long coming age Scotland violent Glasgow youth Peter Mullan violence stabbing gangs glasgow
+17873                        Cold Fish (Tsumetai nettaigyo) (2010)  3.314286                Drama|Thriller                   11/11 psychological loud eccentric character 12/11 disturbing 01/12 long setup
+17874                                             Skeletons (2010)  3.400000                Comedy|Fantasy                                                   mystery supernatural powers hello jason isaacs
+17875  Phineas and Ferb the Movie: Across the 2nd Dimension (2011)  3.486486  Adventure|Animation|Children                    humorous soundtrack alternate dimension stepbrother dialogue animals brothers

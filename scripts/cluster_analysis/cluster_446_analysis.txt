@@ -1,0 +1,19 @@
+Анализ кластера 446
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+homeless        1
+Alek            1
+Keshishian      1
+homelessness    1
+feel-good       1
+
+Примеры фильмов:
+                  title        genres                                              tag
+446  With Honors (1994)  Comedy|Drama  homeless Alek Keshishian homelessness feel-good

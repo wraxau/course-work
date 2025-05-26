@@ -1,0 +1,17 @@
+Анализ кластера 495
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Director    1
+English     1
+Patient     1
+
+Примеры фильмов:
+                    title          genres                       tag
+495  Mr. Wonderful (1993)  Comedy|Romance  Director English Patient

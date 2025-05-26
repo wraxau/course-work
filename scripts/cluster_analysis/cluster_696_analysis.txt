@@ -1,0 +1,24 @@
+Анализ кластера 696
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Janeane         1
+Garofalo        1
+cats            1
+Veterinarian    1
+sunny           1
+childhood       1
+classics        1
+animals         1
+NO_FA_GANES     1
+romantic        1
+
+Примеры фильмов:
+                                   title          genres                                                                                                                     tag
+696  Truth About Cats & Dogs, The (1996)  Comedy|Romance  Janeane Garofalo cats Veterinarian sunny childhood classics animals NO_FA_GANES romantic chick flick silly Uma Thurman

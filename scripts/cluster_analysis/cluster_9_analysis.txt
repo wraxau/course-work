@@ -1,0 +1,25 @@
+Анализ кластера 9
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+the         4
+007         4
+Bond        2
+good        2
+Bean        2
+Sean        2
+bond        2
+(series)    1
+Dench       1
+Bond.       1
+
+Примеры фильмов:
+              title                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+9  GoldenEye (1995)  Action|Adventure|Thriller  Memorable Characters killer protagonist 007 movies are bad. James Bond action gadgets thriller boys with toys franchise reviewed good dialogue sexuality seen more once Tumey's DVDs spies assassin owned Puerto Rico funny espionage 007 classic secret service dark Pierce Brosnan computer games Latin America it's good movie but the end 007 always the same BD-Video james bond 007 (series) pseudo rated MTSKAF murder Sean Bean dies Judi Dench wanted the bad guy win. Sean Bean out-Bonds Bond. tank chase scene one-liners Bond ITS MOVIE YOU LIKE JAMES BOUND. Best the Brosnon Bonds Bob*ola sequel memorable lines adventure btaege bond Famke Janssen Caribbean violence

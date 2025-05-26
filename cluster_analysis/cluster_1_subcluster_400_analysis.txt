@@ -1,0 +1,29 @@
+Анализ подкластера 400 в кластере 1
+Размер подкластера: 59 фильмов
+Средний рейтинг: 2.77
+Медиана рейтинга: 2.75
+Дисперсия рейтинга: 0.70
+
+Топ-5 жанров:
+genres
+Drama       27
+Comedy      16
+Thriller    11
+Romance      8
+Horror       8
+
+Топ-5 тегов:
+tag
+documentary    5
+comedy         5
+reviewed       3
+acting         3
+romance        3
+
+Примеры фильмов:
+                                          title  rating            genres  tag
+24704                         Going Back (2001)   1.000  Action|Drama|War  NaN
+24736                         Cold Heart (2001)   2.500  Romance|Thriller  NaN
+24749              O Amor das Três Romãs (1979)   3.000             Drama  NaN
+24762  Electronic Labyrinth THX 1138 4EB (1967)   3.875            Sci-Fi  NaN
+24765                        Jive Turkey (1974)   2.000            Action  NaN

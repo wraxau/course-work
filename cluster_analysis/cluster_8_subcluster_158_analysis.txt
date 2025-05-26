@@ -1,0 +1,29 @@
+Анализ подкластера 158 в кластере 8
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.48
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama          7
+Documentary    4
+Comedy         3
+Crime          2
+Action         1
+
+Топ-5 тегов:
+tag
+story             2
+ending            2
+Michael           1
+cinematography    1
+bitter            1
+
+Примеры фильмов:
+                                                   title    rating                genres                                                                                       tag
+18960                           Crime After Crime (2011)  2.750000           Documentary                                                                               Yoav Potash
+18961                                  Black Pond (2011)  3.833333          Comedy|Drama                                                                                       NaN
+18962         18 Years Later (Diciotto anni dopo) (2010)  3.500000          Comedy|Drama                                                                                       NaN
+18963  King of Devil's Island (Kongen av Bastøy) (2010)   3.677083          Action|Drama  island 1910s addition uprising Annemari based true story sexual abuse juvenile deliquent
+18964                                      Twelve (2010)  3.055556  Crime|Drama|Thriller                                                                                       NaN

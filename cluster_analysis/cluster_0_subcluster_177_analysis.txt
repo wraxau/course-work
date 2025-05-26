@@ -1,0 +1,29 @@
+Анализ подкластера 177 в кластере 0
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.88
+Медиана рейтинга: 2.91
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Adventure    4
+Action       3
+Comedy       2
+Thriller     2
+Romance      2
+
+Топ-5 тегов:
+tag
+Niblo      2
+book       2
+Betamax    2
+jungle     2
+Fred       2
+
+Примеры фильмов:
+                           title    rating                        genres                                                                                                                            tag
+12740        Flesh Gordon (1974)  2.700000       Adventure|Comedy|Sci-Fi                                                                                                                          campy
+12741             Telefon (1977)  2.826087         Action|Crime|Thriller                                                                                     Charles Bronson Espianage Betamax Cold War
+12742     Lost World, The (1960)  2.055556                     Adventure  jungle lost world greed jungle girl Arthur Conan Doyle dinosaurs Irwin Allen revenge based book stereotypes not true the book
+12743  Mark of Zorro, The (1920)  3.352941     Adventure|Romance|Western                                                                             Fred Niblo double life Douglas Fairbanks vigilante
+12744      Protector, The (1985)  3.333333  Action|Comedy|Drama|Thriller                                                                                                                        Betamax

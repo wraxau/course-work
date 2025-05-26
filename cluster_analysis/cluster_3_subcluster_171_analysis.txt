@@ -1,0 +1,29 @@
+Анализ подкластера 171 в кластере 3
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.24
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 1.19
+
+Топ-5 жанров:
+genres
+Drama          3
+Action         2
+Thriller       2
+Sci-Fi         1
+Documentary    1
+
+Топ-5 тегов:
+tag
+Japan          1
+aliens         1
+sappy          1
+Australia      1
+docventures    1
+
+Примеры фильмов:
+                                                      title    rating                 genres                                                            tag
+19399  Warning from Space (Uchûjin Tôkyô ni arawaru) (1956)  2.500000                 Sci-Fi                     Japan aliens B-movie unintentionally funny
+19400                    Logan's War: Bound by Honor (1998)  1.000000  Action|Drama|Thriller   slow paced flashback overload not enough action Chuck Norris
+19401       President's Man: A Line in the Sand, The (2002)  1.250000  Action|Drama|Thriller                                                            NaN
+19402                       Queen of Versailles, The (2012)  3.596591            Documentary  documentary Lauren Greenfield rich mansion excess docventures
+19403                                   33 Postcards (2011)  2.833333                  Drama                                         Australia sappy prison

@@ -1,0 +1,29 @@
+Анализ подкластера 602 в кластере 1
+Размер подкластера: 37 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Comedy         13
+Drama          12
+Action         10
+Thriller        9
+Documentary     7
+
+Топ-5 тегов:
+tag
+death       3
+youtube     3
+short       3
+story       3
+reviewed    3
+
+Примеры фильмов:
+                                          title    rating                   genres                                                                                                                                                                                                                                                                        tag
+24209                Return to Homs, The (2013)  3.428571              Documentary                                                                                                                                                                                                                                              Middle East Syria Talal Derki
+24216                              Pride (2014)  3.835304             Comedy|Drama  history politics strike lgbt queer NUM gay protest homosexuality reviewed emotional and heroic mining upbeat worker's movement historical NO_FA_GANES trade unions miners welsh activism emotional inspiring fun liberation feel good Matthew Warchus heartwarming unions
+24229  Good Job:  Stories of the FDNY, A (2014)  3.750000              Documentary                                                                                                                                                                                                                                                                 Liz Garbus
+24234               Bambi Meets Godzilla (1969)  3.424528         Animation|Comedy                                                                                                                                                                                                                    cartoon youtube short Bambi Godzilla seen funny classic
+24255                    Naked Face, The (1984)  2.666667  Action|Mystery|Thriller                                                                                                                                                                                                                                                                        NaN

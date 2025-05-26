@@ -1,0 +1,29 @@
+Анализ подкластера 428 в кластере 2
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 3.11
+Дисперсия рейтинга: 0.48
+
+Топ-5 жанров:
+genres
+Drama          14
+Thriller        6
+Documentary     6
+Action          5
+Crime           4
+
+Топ-5 тегов:
+tag
+story          3
+based          2
+unrealistic    2
+Rocky          2
+kidnapping     2
+
+Примеры фильмов:
+                                                                               title    rating                       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+18017  I Am Taraneh, I Am Fifteen Years Old (Man, taraneh, panzdah sal daram) (2002)  3.500000                        Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       NaN
+18019                                    Tony Arzenta (No Way Out) (Big Guns) (1973)  3.000000  Action|Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Duccio Tessari
+18023        Happiest Girl in the World, The (Cea mai fericita fata din lume) (2009)  3.000000                        Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       NaN
+18024                                                           Examined Life (2008)  3.666667                  Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                philosophy
+18030                                                              Real Steel (2011)  3.330238     Action|Drama|Sci-Fi|IMAX  computer obnoxious kid Boxing android(s)/cyborg(s) childish boxing Hugh Jackman father-son relationship action silly plot bad science Evangeline Lilly near-future tinkering sports corny unrealistic plot audience intelligence underestimated cartoonish antagonists unrealistic IMAX DMR predictable sport:boxing sci-fi Fighting Robots Rocky Homage Rocky wannabe fighting ending hugh jackman torrential downpour unresolved robots feel-good robot bad technology Science Fiction

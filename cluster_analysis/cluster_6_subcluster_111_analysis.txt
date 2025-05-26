@@ -1,0 +1,29 @@
+Анализ подкластера 111 в кластере 6
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Comedy         5
+Drama          4
+Western        2
+Documentary    2
+Adventure      1
+
+Топ-5 тегов:
+tag
+Satyajit    1
+Ray         1
+cheesy      1
+werewolf    1
+gimmik      1
+
+Примеры фильмов:
+                                                title    rating                   genres           tag
+24178         Angry Video Game Nerd: The Movie (2014)  2.294118  Adventure|Comedy|Sci-Fi           NaN
+24179  Guy and a Gal, A (En kille och en tjej) (1975)  3.000000             Comedy|Drama           NaN
+24180                                     Zaza (1938)  3.000000                    Drama           NaN
+24181                      Long Ride Home, The (2003)  2.500000          Romance|Western           NaN
+24182               Holy Man, The (Mahapurush) (1965)  3.375000                   Comedy  Satyajit Ray

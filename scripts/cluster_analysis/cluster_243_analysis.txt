@@ -1,0 +1,23 @@
+Анализ кластера 243
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+documentary    2
+Basketball     2
+long           2
+school         2
+social         1
+NBA            1
+Isaiah         1
+Thomas         1
+Steve          1
+James          1
+
+Примеры фильмов:
+                  title       genres                                                                                                                                                                                                                                                                                                          tag
+243  Hoop Dreams (1994)  Documentary  documentary Chicago Basketball National Film Registry sport:basketball true story coming age basketball Netflix Finland long too long setting:Chicago Basketball documentary poverty school sports NBA Isaiah Thomas Steve James social commentary movie see hulu Documentary Criterion Poverty high school

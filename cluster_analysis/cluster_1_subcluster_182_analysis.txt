@@ -1,0 +1,29 @@
+Анализ подкластера 182 в кластере 1
+Размер подкластера: 12 фильмов
+Средний рейтинг: 2.80
+Медиана рейтинга: 2.87
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Thriller     4
+Drama        4
+Animation    3
+Children     2
+Romance      2
+
+Топ-5 тегов:
+tag
+comedy      1
+language    1
+San         1
+Japanese    1
+moody       1
+
+Примеры фильмов:
+                      title  rating              genres              tag
+28721  The Lightship (1986)    3.00            Thriller              NaN
+28722  The Stone Boy (1984)    2.00               Drama              NaN
+28723      Threshold (1981)    2.75        Drama|Sci-Fi              NaN
+28724      Géraldine (2000)    3.50           Animation  comedy language
+28725   Laura's Star (2004)    1.50  Animation|Children              NaN

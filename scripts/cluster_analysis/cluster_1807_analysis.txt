@@ -1,0 +1,14 @@
+Анализ кластера 1807
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                       title genres  tag
+1807  Little Boy Blue (1997)  Drama  NaN

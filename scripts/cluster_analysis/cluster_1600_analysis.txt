@@ -1,0 +1,20 @@
+Анализ кластера 1600
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy         1
+Documentary    1
+
+Топ-10 тегов:
+tag
+easily      1
+confused    1
+with        1
+other       1
+movie(s)    1
+(title)     1
+
+Примеры фильмов:
+                  title              genres                                          tag
+1600  Wonderland (1997)  Comedy|Documentary  easily confused with other movie(s) (title)

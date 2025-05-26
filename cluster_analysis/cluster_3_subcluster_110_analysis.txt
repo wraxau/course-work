@@ -1,0 +1,29 @@
+Анализ подкластера 110 в кластере 3
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.48
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama          11
+Comedy          8
+Documentary     6
+Romance         3
+Adventure       2
+
+Топ-5 тегов:
+tag
+Shakespeare    3
+reviewed       3
+3-D            2
+btaege         2
+superhero      2
+
+Примеры фильмов:
+                                                   title    rating                genres                                                                                                                                                                                                                                                                                                                          tag
+21205                      Much Ado About Nothing (2012)  3.474820  Comedy|Drama|Romance  dissonant dialogue Shakespeare with American accents Shakespeare sparse reviewed modern adaptation Joss Whedon fresh Shakespeare modern dress based play Fran Kranz joss whedon ensemble cast purposefully bad acting setting:Southern California black and white Amy Acker btaege adapted from:play playwright:Shakespeare
+21206                                 Any Day Now (2012)  3.666667                 Drama                                                                                                                                                                                                                         Equality gay rights injustice Travis Fine gay romance queer legal system adoption Gay Lead Character
+21207  They Call Us Misfits (Dom kallar oss mods) (1968)  4.125000           Documentary                                                                                                                                                                                                                                      gritty Sex Stockholm unsimulated sex Homelessness Youth Drugs Stefan Jarl Jan Lindkvist
+21208                       No and Me (No et moi) (2010)  3.500000                 Drama                                                                                                                                                                                                                                                                                                                          NaN
+21209                          His New Profession (1914)  2.000000                Comedy                                                                                                                                                                                                                                                                                                                          NaN

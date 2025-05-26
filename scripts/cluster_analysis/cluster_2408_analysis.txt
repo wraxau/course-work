@@ -1,0 +1,16 @@
+Анализ кластера 2408
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+fake           1
+documentary    1
+
+Примеры фильмов:
+                title          genres               tag
+2408  20 Dates (1998)  Comedy|Romance  fake documentary

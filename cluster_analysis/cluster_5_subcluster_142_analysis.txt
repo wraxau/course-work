@@ -1,0 +1,29 @@
+Анализ подкластера 142 в кластере 5
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.10
+
+Топ-5 жанров:
+genres
+Drama        3
+Comedy       3
+Romance      2
+Action       1
+Adventure    1
+
+Топ-5 тегов:
+tag
+Red      1
+06/11    1
+Nia      1
+2009     1
+Seen     1
+
+Примеры фильмов:
+                                                                                                                               title    rating            genres                                                                                     tag
+14154                                                                                                            Goodbye Solo (2008)  3.422078             Drama                                                Red West Souleymane Savane Ramin Bahrani
+14155                                                                                                        Long John Silver (1954)  2.666667  Action|Adventure                                                                                     NaN
+14156                                                                                             Questo piccolo grande amore (2009)  3.000000    Comedy|Romance                                                                     Maria Petruolo love
+14157                                                                                                                  Voices (1979)  3.500000     Drama|Romance                                                                                     NaN
+14158  To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence) (2007)  3.272727      Comedy|Drama  01/11 alot bad ones 05/11 Lars von Trier 06/11 03/11 short movies Roman Polanski 02/11

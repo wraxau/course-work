@@ -1,0 +1,29 @@
+Анализ подкластера 27 в кластере 5
+Размер подкластера: 272 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama       115
+Comedy       76
+Action       40
+Romance      35
+Thriller     34
+
+Топ-5 тегов:
+tag
+based       15
+comedy      14
+story       14
+ending      13
+BD-Video    11
+
+Примеры фильмов:
+                                                           title    rating                           genres                                                                                                                                                                                                                                                                      tag
+20667  Look, Up in the Sky! The Amazing Story of Superman (2006)  3.944444                      Documentary                                                                                                                                                                                                                                                       superhero Superman
+20676                                           Verboten! (1959)  3.600000               Action|Romance|War                                                                                                                                                                                                                                                                      NaN
+20680                        Legend of Sleepy Hollow, The (1949)  3.550847  Animation|Comedy|Horror|Musical                                                                                                                                                              Clyde Geronimi better the remake Disney short Scary Movies See Halloween Bing Crosby Jack Kinney very funny
+20684                                              Stoker (2013)  3.373057           Drama|Mystery|Thriller  serial killer horror piano music psychology Mia Wasikowska thriller Nicole Kidman Chan-wook Park symbolism visually stylish dark nonsense story erotic psychological thriller Matthew Goode stylish psychological mental illness imagery insubstantial btaege beautiful
+20701                                   Sons of Perdition (2010)  3.500000                      Documentary                                                                                                                                                                                                                             Mormon Jennilyn Merten religion Tyler Measom

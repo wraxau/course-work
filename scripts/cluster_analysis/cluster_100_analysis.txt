@@ -1,0 +1,20 @@
+Анализ кластера 100
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Nick      1
+Castle    1
+one       1
+the       1
+worst     1
+ever      1
+stupid    1
+
+Примеры фильмов:
+                title  genres                                    tag
+100  Mr. Wrong (1996)  Comedy  Nick Castle one the worst ever stupid

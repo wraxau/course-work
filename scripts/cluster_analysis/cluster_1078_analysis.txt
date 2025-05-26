@@ -1,0 +1,25 @@
+Анализ кластера 1078
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+cars        2
+racing      2
+Tom         2
+Cruise      2
+car         2
+70mm        2
+to-rent     1
+Digital     1
+Can't       1
+remember    1
+
+Примеры фильмов:
+                       title                genres                                                                                                                                                                                                                                                       tag
+1078  Days of Thunder (1990)  Action|Drama|Romance  to-rent racing Top Gun Tom Cruise action Tom Cruise asshole good dialogue 70mm blowup sports Anamorphic Blow-Up race nascar cars not seen Underdog Can't remember 70mm Cinema Digital Sound fast cars but boring car sport:car racing (NASCAR) car chase

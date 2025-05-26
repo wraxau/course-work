@@ -1,0 +1,29 @@
+Анализ подкластера 71 в кластере 6
+Размер подкластера: 62 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama       24
+Comedy      18
+Romance     14
+Action      11
+Thriller    11
+
+Топ-5 тегов:
+tag
+based        5
+nudity       5
+(topless)    5
+ending       5
+slow         4
+
+Примеры фильмов:
+                                                   title    rating                            genres                                                                                                                               tag
+13572  Kung Fu Panda: Secrets of the Furious Five (2008)  3.612652  Action|Animation|Children|Comedy  easily confused with other movie(s) (title) animation inner worth humorous short underdog Jack Black too short Raman Hui earnest
+13573                              Hangman's Knot (1952)  2.833333                           Western                                                                                                                               NaN
+13578                                       Stacy (2001)  2.892857                     Comedy|Horror                                                        butterfly twinkle powder awesome! Schoolgirls Zombies zombies campy zombie
+13581                          Echelon Conspiracy (2009)  2.838710           Action|Mystery|Thriller                                                          mystery Bob*ola Added Shane West bad acting predictable acting sentience
+13588             California Dreamin' (Nesfarsit) (2007)  3.718182                  Comedy|Drama|War                                         nerd NATO ensemble Romania Cristian Nemescu village military language barrier dark comedy

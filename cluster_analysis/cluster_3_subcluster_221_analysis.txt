@@ -1,0 +1,29 @@
+Анализ подкластера 221 в кластере 3
+Размер подкластера: 50 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama        28
+Comedy       20
+Romance      16
+Adventure     5
+Crime         5
+
+Топ-5 тегов:
+tag
+story     6
+nudity    6
+movie     6
+John      5
+100       4
+
+Примеры фильмов:
+                                       title    rating                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+6418                      Scaramouche (1952)  3.558036        Adventure|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             French Revolution witty George Sidney wordplay revenge motive
+6419  Start the Revolution Without Me (1970)  3.500000                   Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   multiple roles twins absurd mistaken identity siblings less 300 ratings
+6422             Hour of the Pig, The (1993)  3.390173      Crime|Drama|Mystery                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Legal lawyer protagonist? less 300 ratings period piece lawyer
+6424                  What's Up, Doc? (1972)  3.713574                   Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               VHS Screwball Comedy Peter Bogdanovich San Francisco Madeline Kahn AFI 100 (Laughs) subgenre:screwball related:Bringing Baby (1938) heist great chase scenes espionage Bibliothek Barbara Striesand classic
+6425                             Hulk (2003)  2.671041  Action|Adventure|Sci-Fi  Eric Bana Brett Northcutt muscle lust for power Jennifer Connely hula hoop rage father-son relationship characters aircraft animal research Dynamic CGI Action script overambitious action mad scientist father daughter relationship boring depth super hero Action tissue regeneration EXPERIMENTS GONE AWRY super-hero helicopters radiation mutants DVD1 Adaptation marvel audience intelligence underestimated adapted from:comic memories subterranean strength movies Based show? murder hulk dogs genetics story superhero angry male nudity Comic Movie unlikeable characters green Nudity (Rear) nudity ending ang lee dialogue Ang Lee want see again comic book transformation desert military FORBIDDEN LOVE Jennifer Connelly biology stylized vijayrawtag

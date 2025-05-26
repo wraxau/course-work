@@ -1,0 +1,29 @@
+Анализ подкластера 479 в кластере 7
+Размер подкластера: 36 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 1.16
+
+Топ-5 жанров:
+genres
+Comedy       13
+Drama         9
+Thriller      7
+Horror        6
+Animation     6
+
+Топ-5 тегов:
+tag
+"not        2
+horror      2
+thriller    2
+twist       2
+perfect"    2
+
+Примеры фильмов:
+                             title  rating                genres                                             tag
+29906       The Terminators (2009)    3.50  Action|Horror|Sci-Fi                                             NaN
+29911       American Animal (2012)    3.25          Comedy|Drama                                             NaN
+29912   The Howling: Reborn (2011)    2.50                Horror                                             NaN
+29918    Last Train to Freo (2006)    3.00        Drama|Thriller  intense edge seat thuggery Australian thriller
+29924  Freshman Orientation (2004)    3.50                Comedy                                             NaN

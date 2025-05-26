@@ -1,0 +1,26 @@
+Анализ кластера 1315
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Fantasy     1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+King             2
+for              2
+her              2
+bad              2
+Brian            1
+from:book        1
+adapted          1
+gruesome         1
+goth             1
+uncomfortable    1
+
+Примеры фильмов:
+              title                         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+1315  Carrie (1976)  Drama|Fantasy|Horror|Thriller  Felt bad for her atmospheric horror 'Carrie Don't Wanna Rain Your Parade But That's Not Fruit Punch' nudity (full frontal) don't want see good scare visceral AFI 100 (Thrills) See Classic based book easily confused with other movie(s) (title) Sissy Spacek prom I'd killed those people too were her Stephen King frightening bad parents eerie lurid tense classic camp dark PSYCHIC ABILITIES classic!! possession Brian Palma BD-Video social commentary uncomfortable goth gruesome adapted from:book ESP Piper Laurie Nudity (Full Frontal Notable) MOTHERS AND DAUGHTERS author:Stephen King bullying Great movie for the time period religion Netflix queue high school stephen king hitchcockian

@@ -1,0 +1,29 @@
+Анализ подкластера 157 в кластере 0
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.52
+Медиана рейтинга: 3.51
+Дисперсия рейтинга: 0.09
+
+Топ-5 жанров:
+genres
+Drama          4
+Crime          3
+Romance        2
+Documentary    2
+Comedy         1
+
+Топ-5 тегов:
+tag
+space        2
+beautiful    2
+ratings      2
+08/09        2
+manga        2
+
+Примеры фильмов:
+                                                     title    rating                                    genres                                                                                                                                                                                                                                                                       tag
+12126                             27 Missing Kisses (2000)  3.500000                      Comedy|Drama|Romance                                                                                                                                                                                                                                                                       NaN
+12127                                Brooklyn Rules (2007)  3.157143                       Crime|Drama|Romance                                                                     Christmas class society New York City friendship hair obsession relationships board game college mafia Catholicism nightclub relationship drama with mob twist mobster hair 1980s Underrated whipping
+12128                          Unreasonable Man, An (2006)  3.721053                               Documentary                                                                                                                                                 democracy documentary history politics Ralph Nader youtube activism business 08/09 Henriette Mantel Steve Skrovan netflix
+12129  Vengeance is Mine (Fukushu suruwa wareniari) (1979)  3.508475                               Crime|Drama                                                                                                                                                                                                                          VistaVision Shôhei Imamura 07/10 Criterion 08/10
+12130             Tekkonkinkreet (Tekkon kinkurîto) (2006)  3.781346  Action|Adventure|Animation|Crime|Fantasy  atmospheric beautiful animation dualism Annemari visually appealing 08/09 sureal music plaid violent based manga made cry visually stunning yingyang empty characters Michael Arias BD-Video manga disturbing japan heartbreaking anime trippy yakuza beautiful violence

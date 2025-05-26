@@ -1,0 +1,25 @@
+Анализ кластера 2445
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+damn       2
+AFI        2
+dirty      2
+science    2
+the        2
+top        2
+seen       2
+100        2
+acting     2
+apes       2
+
+Примеры фильмов:
+                          title               genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+2445  Planet of the Apes (1968)  Action|Drama|Sci-Fi  damn dirty apes original erlend's DVDs National Film Registry nightmare visually appealing Bechdel Test:Fail violence Franklin Schaffner script play adaptation AFI 100 (Thrills) based book twist ending Netflix Finland Futuristmovies.com Charlton Heston seen more once rousing damn you all hell post-apocalyptic Rod Serling science fiction tense acting "damn dirty apes" satirical over the top BD-Video social commentary science religion bad acting allegory adapted from:book planet the apes dramatic talking animals dystopia dvd VHS dysku Nudity (Rear) imdb top 250 nudity forceful far future long and repetitive AFI 100 (Movie Quotes) astronauts seen paranoid one-way time travel

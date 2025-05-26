@@ -1,0 +1,29 @@
+Анализ подкластера 200 в кластере 6
+Размер подкластера: 11 фильмов
+Средний рейтинг: 2.24
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.88
+
+Топ-5 жанров:
+genres
+Action     4
+Drama      4
+Comedy     4
+Romance    4
+Sci-Fi     3
+
+Топ-5 тегов:
+tag
+talking     2
+bad         2
+animal      1
+animals     1
+argument    1
+
+Примеры фильмов:
+                                        title    rating                   genres  tag
+26356                        Supernova (2005)  1.000000      Action|Drama|Sci-Fi  NaN
+26357                  Kissin' Cousins (1964)  2.000000           Comedy|Romance  NaN
+26358                 Student Services (2010)  3.166667            Drama|Romance  NaN
+26359  JLA Adventures: Trapped in Time (2014)  2.750000  Action|Animation|Sci-Fi  NaN
+26360                       Joy Ride 3 (2014)  2.000000                 Thriller  NaN

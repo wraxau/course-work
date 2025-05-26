@@ -1,0 +1,24 @@
+Анализ кластера 895
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+100        5
+AFI        5
+the        3
+and        3
+play       3
+Oscar      3
+romance    2
+classic    2
+music      2
+film       2
+
+Примеры фильмов:
+                 title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+895  Casablanca (1942)  Drama|Romance  7-10-2007 humorous adultery USA Historic and characters Classic Oscar (Best Directing) Claude Rains nazi can't remember CAV anti-hero cool music black and white excellent story stage Favorite AFI 100 dialogue music key story (not Musical genre) overrated erlend's DVDs USA film registry Hollywood Bechdel Test:Fail AFI 100 (Thrills) DVD setting:nightclub/casino drama movies murder Oscar (Best Picture) Romance Drama Humphrey Bogart imdb top 250 (s)vcd 100 Greatest Movies AFI 100 (Movie Quotes) Ingrid Bergman bittersweet AFI 100 (Cheers) overly sentimental boring unless you are like the characters the film atmospheric BEST PICTURE National Film Registry sentimental humphrey bogart Conrad Veidt seen more once watch-again Tumey's DVDs Great Screenplays casablanca owned romance espionage noir elegant marriage quotes WWII wwii netflix queue Kitsch VHS World War filmed play who's script was made the spot and it's strangely cinematic Michael Curtiz Oscar Winner slow starter quotable Sidney Greenstreet Film Noir computer bogart mvlc start beautiful friendship AFI love Nazis delights war sad ending nazi villains classic romance time goes vhs DIVX love triangles based play earnest classic classical africa afi100 Paul Henreid play

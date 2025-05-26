@@ -1,0 +1,19 @@
+Анализ кластера 1579
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+reviewed    1
+Peter       1
+Fonda       1
+Victor      1
+Nunez       1
+drama       1
+
+Примеры фильмов:
+                   title genres                                      tag
+1579  Ulee's Gold (1997)  Drama  reviewed Peter Fonda Victor Nunez drama

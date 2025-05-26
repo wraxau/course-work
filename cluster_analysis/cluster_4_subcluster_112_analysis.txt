@@ -1,0 +1,29 @@
+Анализ подкластера 112 в кластере 4
+Размер подкластера: 74 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Thriller    24
+Drama       24
+Action      20
+Comedy      13
+Crime       11
+
+Топ-5 тегов:
+tag
+Game        3
+Drama       2
+Thriller    2
+ending      2
+cast        2
+
+Примеры фильмов:
+                                                title  rating                  genres                              tag
+32194                         Er ist wieder da (2015)  4.0625                  Comedy  comedy nazi germany 2015 hitler
+32203                        The Boy Next Door (2008)  2.0000  Crime|Mystery|Thriller                              NaN
+32204                            The Grim Game (1919)  3.5000      (no genres listed)                              NaN
+32205  The Life and Times of Rosie the Riveter (1980)  3.7500         Documentary|War                              NaN
+32207                                The Other (2007)  2.5000                   Drama                              NaN

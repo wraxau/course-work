@@ -1,0 +1,23 @@
+Анализ кластера 525
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+story       2
+true        2
+baseball    1
+music       1
+Kingsley    1
+disk        1
+board       1
+game        1
+ending      1
+differs     1
+
+Примеры фильмов:
+                                  title genres                                                                                                                                                                                                                                                                                                                                                                                         tag
+525  Searching for Bobby Fischer (1993)  Drama  baseball Laurence Fishburne Best Rotten Tomatoes: All Time father-son relationship characters Steven Zaillian script genius true story boring They Forgot Mention that Fisher Insane Nazi Joe Mantegna acting prodigy Ben Kingsley disk board game ending differs from real life music predictable child actors dysku chess dialogue based true story jodi foster AFI 100 (Cheers) obvious

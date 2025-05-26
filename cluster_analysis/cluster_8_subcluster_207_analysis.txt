@@ -1,0 +1,29 @@
+Анализ подкластера 207 в кластере 8
+Размер подкластера: 17 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama       10
+Comedy       5
+Thriller     4
+Action       3
+Crime        2
+
+Топ-5 тегов:
+tag
+bad       3
+3-D       3
+spy       3
+ending    3
+crash     2
+
+Примеры фильмов:
+                              title    rating                      genres                                                                                                                                                                                                                                                                                                                                                                                                            tag
+18486      The Man Next Door (2009)  3.818182                Comedy|Drama                                                                                                                                                                                                                                                                                        Gastón Duprat Corbusier snob humor CLASS DIFFERENCES design surprise ending Argentina Mariano Cohn glasses architecture
+18487            Divide, The (2011)  2.907407                    Thriller                                                                                                                                                                                                                                                                                                                   Bob*ola apocalypse shelter nuclear war post-apocalyptic insanity Madness nuke story survival
+18488  Underworld: Awakening (2012)  3.162257  Action|Fantasy|Horror|IMAX                                                                                                                                                                                                                                horror supernatural franchise cynical money grab vampires visually appealing Watched werewolves ended too soon brutal didn't like 3-D Stereoscopic 3-D action IMAX Digital only
+18489              Grey, The (2012)  3.129926                Action|Drama  OST childish wolves Very emotional characters wolves are evil Alaska overdramatic Plane Crash journey survival crash scene instant view Liam Neeson gritty watch the credits life death philosophical depressing man vs. nature stranded philosophical overtones last man standing unrealistic plane crash cinematography BODRIO thought provoking music silly PASTELON wintry might like intense open ending
+18490         Man on a Ledge (2012)  3.307647              Crime|Thriller                                                                                                                                                                                                                                                                                           bad language Elizabeth Banks Sam Worthington Génesis Rodríguez corrupt cops shaky camera naive heist suspense clever

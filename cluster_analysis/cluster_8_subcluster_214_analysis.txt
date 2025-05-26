@@ -1,0 +1,29 @@
+Анализ подкластера 214 в кластере 8
+Размер подкластера: 9 фильмов
+Средний рейтинг: 2.91
+Медиана рейтинга: 2.91
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama        7
+Comedy       3
+Crime        2
+Thriller     2
+Film-Noir    1
+
+Топ-5 тегов:
+tag
+Chantal      1
+Akerman      1
+Two-color    1
+remake       1
+Weaver       1
+
+Примеры фильмов:
+                                                        title    rating        genres                                                                                                                  tag
+16254  Rendez-vous d'Anna, Les (Meetings of Anna, The) (1978)  3.416667         Drama                                                                                            Chantal Akerman Criterion
+16255                                   Extra Man, The (2010)  2.757576        Comedy                                                                                                                  NaN
+16256                                    Ingeborg Holm (1913)  3.416667         Drama                                                                                                                  NaN
+16257                             Crazy on the Outside (2010)  2.425000  Comedy|Crime  tim allen comeback turning life around Tim Allen prison going straight falsely accused predictable Sigourney Weaver
+16258                          Bad Family (Paha Perhe) (2010)  2.200000  Comedy|Drama                                                                                                                  NaN

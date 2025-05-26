@@ -1,0 +1,29 @@
+Анализ подкластера 115 в кластере 1
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.86
+
+Топ-5 жанров:
+genres
+Drama          10
+Documentary     5
+Comedy          5
+Action          3
+Romance         2
+
+Топ-5 тегов:
+tag
+propaganda    1
+high          1
+pessimism     1
+poetry        1
+torment       1
+
+Примеры фильмов:
+                                 title    rating       genres  tag
+29174  In the Shadow of the Sun (2012)  3.500000  Documentary  NaN
+29175                 Chappaqua (1967)  3.500000        Drama  NaN
+29176                  Deli Man (2015)  3.666667  Documentary  NaN
+29177                   Sparkle (1976)  3.500000        Drama  NaN
+29178          Rags and Tatters (2013)  2.500000        Drama  NaN

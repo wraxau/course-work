@@ -1,0 +1,29 @@
+Анализ подкластера 421 в кластере 7
+Размер подкластера: 77 фильмов
+Средний рейтинг: 2.87
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.73
+
+Топ-5 жанров:
+genres
+Drama          26
+Thriller       13
+Comedy         13
+Horror          9
+Documentary     9
+
+Топ-5 тегов:
+tag
+alternate    3
+cars         2
+reality      2
+musicians    2
+America      2
+
+Примеры фильмов:
+                                  title    rating           genres                                                                                                                                                               tag
+28365                  The Brain (1969)  2.700000     Comedy|Crime                                                                                                                                                               NaN
+28369  Night of the Living Dorks (2004)  2.500000    Comedy|Horror                                                                                                                                                               NaN
+28380           Manta - Der Film (1991)  3.500000           Comedy                                                                                                                                                               NaN
+28384              Voll Normaaal (1994)  3.000000           Comedy                                                                                                                                                               NaN
+28398                  Parallels (2015)  3.184783  Sci-Fi|Thriller  short parallel universes alternate reality cliff hanger intended pilot post-apocalyptic science fiction bad ending alternate dimensions loose ends family secret

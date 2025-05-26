@@ -1,0 +1,25 @@
+Анализ кластера 1565
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+War          1
+
+Топ-10 тегов:
+tag
+book            2
+JOURNEY         1
+Pitt            1
+Buddhism        1
+loneliness      1
+China           1
+DVDs            1
+Jean-Jacques    1
+Annaud          1
+Brad            1
+
+Примеры фильмов:
+                            title               genres                                                                                                                                                                                                                                                                                                                                            tag
+1565  Seven Years in Tibet (1997)  Adventure|Drama|War  JOURNEY SELF-DISCOVERY history mountain climbing mountains adventureous traveling based book dalai lama true story Biography book historical wartime NO_FA_GANES longing propaganda disguise colonialism Buddhism loneliness China DVDs Jean-Jacques Annaud Brad Pitt scenic great cinematography quirky style tibet Eastern philosophy Tibet

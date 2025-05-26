@@ -1,0 +1,24 @@
+Анализ кластера 2297
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Bobcat        1
+police        1
+Tony          1
+Hawk          1
+Michael       1
+Winslow       1
+Nudity        1
+(Topless)     1
+Jim           1
+Goldthwait    1
+
+Примеры фильмов:
+                                            title        genres                                                                                                                                                                                                                                       tag
+2297  Police Academy 4: Citizens on Patrol (1987)  Comedy|Crime  Bobcat Goldthwait comedy Betamax nostalgia franchise seen more once Bubba Smith Tim Kazurinsky Steve Guttenberg crime funny Sharon Stone Tony Hawk Michael Winslow Nudity (Topless) police Jim Drake David Graf Lance Kinsey G.W. Bailey

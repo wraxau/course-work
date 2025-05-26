@@ -1,0 +1,29 @@
+Анализ подкластера 156 в кластере 3
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Comedy       5
+Adventure    2
+Drama        2
+Horror       1
+Sci-Fi       1
+
+Топ-5 тегов:
+tag
+police    2
+music     2
+ending    2
+nudity    2
+Jonas     1
+
+Примеры фильмов:
+                                                                               title    rating                           genres                                                                                          tag
+20867  War of the Gargantuas, The (Furankenshutain no kaijû: Sanda tai Gaira) (1968)  2.187500                    Horror|Sci-Fi  Russ Tamblyn Kaiju Godzilla Universe Toho Kumi Mizuno good versus evil Japan subgenre:Kaiju
+20868         Machine That Kills Bad People, The (La Macchina Ammazzacattivi) (1952)  3.500000                   Comedy|Fantasy                                                                                          NaN
+20869                                                          Chasing Beauty (2013)  3.375000                      Documentary                                                                                          NaN
+20870                                                            Killing Bono (2011)  2.708333                           Comedy                                      nudity (topless) Ireland music business musicians music
+20871                                                    Welcome to the Punch (2013)  2.842105  Action|Adventure|Crime|Thriller                                   police torrential downpour police corruption crime British

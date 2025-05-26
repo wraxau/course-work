@@ -1,0 +1,24 @@
+Анализ кластера 599
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Alex         1
+Pfeiffer     1
+Hoffman      1
+Michael      1
+father       1
+single       1
+section      1
+afternoon    1
+silly        1
+Michelle     1
+
+Примеры фильмов:
+                   title         genres                                                                                                                                              tag
+599  One Fine Day (1996)  Drama|Romance  Alex Linz Mae Whitman George Clooney Charles Durning romance Michelle Pfeiffer silly afternoon section single father Michael Hoffman Bibliothek

@@ -1,0 +1,29 @@
+Анализ подкластера 76 в кластере 4
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.35
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Comedy      4
+Thriller    4
+Action      2
+Drama       2
+Romance     1
+
+Топ-5 тегов:
+tag
+Marx        2
+Brothers    2
+police      1
+sindrome    1
+Tumey's     1
+
+Примеры фильмов:
+                                                        title    rating                  genres                                                              tag
+10220                  Silent Witness (Do Not Disturb) (1999)  3.000000  Action|Comedy|Thriller  police suspense killer mute canal business trip Amsterdam child
+10221                                         Deceived (1991)  2.942308                Thriller                                                              NaN
+10222                                     Room Service (1938)  3.368750                  Comedy                                                    Marx Brothers
+10223                                    Desert Saints (2002)  2.800000         Action|Thriller                                                 nudity (topless)
+10224  Caterina in the Big City (Caterina va in città) (2003)  3.625000           Drama|Romance                                                              NaN

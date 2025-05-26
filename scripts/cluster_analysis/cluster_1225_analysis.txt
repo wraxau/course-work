@@ -1,0 +1,25 @@
+Анализ кластера 1225
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+100         2
+AFI         2
+imdb        1
+BD-Video    1
+movie       1
+see         1
+sci-fi      1
+black       1
+and         1
+white       1
+
+Примеры фильмов:
+                                      title                 genres                                                                                                                                                                                                                                                                                                                        tag
+1225  Day the Earth Stood Still, The (1951)  Drama|Sci-Fi|Thriller  first contact National Film Registry poignant Scary Movies See Halloween AFI 100 (Thrills) menacing Futuristmovies.com corny music mars Tumey's DVDs eerie science fiction aliens classic BD-Video movie see sci-fi black and white VHS AFI 100 (Cheers) imdb top 250 dated directing Michael Rennie paranoid Robert Wise

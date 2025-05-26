@@ -1,0 +1,24 @@
+Анализ кластера 1635
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Mystery    1
+
+Топ-10 тегов:
+tag
+true         2
+story        2
+drama        2
+slavery      1
+movies       1
+Spielberg    1
+Steven       1
+piece        1
+period       1
+adventure    1
+
+Примеры фильмов:
+               title         genres                                                                                                                                                                                                                                           tag
+1635  Amistad (1997)  Drama|Mystery  slavery erlend's DVDs United States true story boring historical Morgan Freeman rebellion courtroom drama too violent Hollywood drama movies law seafaring spielberg want see again adventure period piece Steven Spielberg based true story

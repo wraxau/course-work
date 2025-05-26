@@ -1,0 +1,24 @@
+Анализ кластера 1235
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+AFI        3
+war        3
+Oscar      3
+(Best      3
+movie      3
+250        2
+see        2
+Vietnam    2
+top        2
+Robert     2
+
+Примеры фильмов:
+                        title     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+1235  Deer Hunter, The (1978)  Drama|War  atmospheric BEST PICTURE USA AFI #79 coal miners Pennsylvania Robert Niro epic National Film Registry visually appealing Christopher Walken AFI 100 (Thrills) painful probably libelous about Vietnamese Vietnam Vietnam War too long gritty war Oscar (Best Supporting Actor) surreal Oscar (Best Directing) reviewed avorridissima boring death penalty Anamorphic Blow-Up top 250 IMDB tense Robert DeNiro violently stupid suspense aftermath war 70mm Didn't finish Michael Cimino need own cinematography movies movie see unique confrontational Oscar (Best Picture) friendship coming home library imdb top 250 american propaganda cinematographer:Vilmos Zsigmond Sven's see list Meryl Streep surreal-Panos AFI 100 Friday night movie Russian roulette btaege hunting war movie Best Performance: Chirstopher Walken Nick Chevotarevich

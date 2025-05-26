@@ -1,0 +1,25 @@
+Анализ кластера 323
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+comic          3
+apocalyptic    2
+character      2
+action         1
+kick           1
+ass            1
+main           1
+lori           1
+petty          1
+rachel         1
+
+Примеры фильмов:
+                title                genres                                                                                                                                                                                                                                                                                                                                                                                        tag
+323  Tank Girl (1995)  Action|Comedy|Sci-Fi  punk Malcolm McDowell hilarious Post apocalyptic comic-verfilmung character styles Naomi Watts Nostalgia Critic Unrealistic Comedy bad it's good post-apocalyptic craptacular Lori Petty based comic mutants kick ass main character lori petty rachel talalay bestiality post apocalyptic comic action unfinished talking animals iggy pop prosthetics comic book desert stylized stupid

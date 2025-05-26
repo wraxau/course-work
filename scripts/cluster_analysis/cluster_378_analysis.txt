@@ -1,0 +1,26 @@
+Анализ кластера 378
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Mike                     1
+Nichols                  1
+werewolf                 1
+David                    1
+Schwimmer                1
+gothic                   1
+werewolves               1
+afternoon                1
+section                  1
+killer-as-protagonist    1
+
+Примеры фильмов:
+           title                         genres                                                                                                                                    tag
+378  Wolf (1994)  Drama|Horror|Romance|Thriller  Mike Nichols werewolf David Schwimmer gothic werewolves afternoon section killer-as-protagonist Jack Nicholson Can't remember classic

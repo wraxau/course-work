@@ -1,0 +1,25 @@
+Анализ кластера 31
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Mystery     1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+film      4
+future    3
+ending    3
+time      3
+you       2
+Bruce     2
+good      2
+dark      2
+Time      2
+great     2
+
+Примеры фильмов:
+                                        title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+31  Twelve Monkeys (a.k.a. 12 Monkeys) (1995)  Mystery|Sci-Fi|Thriller  nature insanity complicated Joseph Melito Sci-Fi seen the cinema absurd Post apocalyptic Bruce Willis rated-R psychology Terry Gilliam genius twist ending Futuristmovies.com Bad acting memory remains science fiction jeffrey music story Mental Institution dystopic future good hell brilliant biology Time Travel sci overrated Divx1 strong director DVD Saturn Award (Best Science Fiction Film) asylum get inmate can hard follow time loop Stupid dystopian great ending depressing drama Time paradox agonizing Madeleine Stowe sci-fi time travel dystopian future Drama mental illness imdb top 250 ending Interesting atmospheric epidemic practical effects clever bruce willis Gilliam Christopher Plummer Weird good film mindfuck remake Tumey's DVDs after you watch you spend hours thinkig about brad pitt owned setting:Philadelphia Dark Future great actors historiograpghy and time travel different view Special ClearPlay Orange Ponytail Mindfuck Movie Gfei own sci-fi. dark excellent deterministic adventure plot point:bio-medical danger remake french film Bruce Willlis violence original adapted from/inspired by:short film favorite reviewers disliked this film: that's when started trust them less imagination complicated plot British design memasa's movies thriller end the world annoying characters Based short film post-apocalyptic not seen social misfits classic dark scenario biological warfare genetics reality imagination? Brad Pitt dystopia future monty-python-related

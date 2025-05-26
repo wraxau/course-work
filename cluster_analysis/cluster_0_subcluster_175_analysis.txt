@@ -1,0 +1,29 @@
+Анализ подкластера 175 в кластере 0
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 2.95
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Thriller       3
+Comedy         3
+Action         3
+Documentary    2
+Horror         2
+
+Топ-5 тегов:
+tag
+Tarantino    4
+and          4
+this         3
+family       2
+rock         2
+
+Примеры фильмов:
+                                                                       title    rating                               genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+11779  Armwrestler From Solitude, The (Armbryterskan från Ensamheten) (2004)  3.100000                          Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+11780                                   Kissed by Winter (Vinterkyss) (2005)  2.750000               Drama|Mystery|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+11781                                                Are We Done Yet? (2007)  2.202381                               Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               family THIS the nicely acted story with some good moments black comedy; home improvement; dumb; children's this what they SAY "The Notebook" was
+11782                                                      Grindhouse (2007)  3.694404  Action|Crime|Horror|Sci-Fi|Thriller  motorcycle overhyped serial killer adultery cherry darling boring plot zombies Rob Zombie Machete Watched strippers genre spoof Gore attempted rape Danny Trejo The Crazy Babysitter Twins Sci-fi Thriller exploitation boring tried funny and failed half good fake trailers Sexy ladies Action want grindhouse typically Tarantino bad script owned cars funny! nothing better this Crime Eli Roth holes00s Didn't finish subgenre:zombie movies dull Quentin Tarantino murder Edgar Wright ridiculous fake trailer Rosario Dawson Quinten Tarantino multiple short stories one rape bloody Kurt Russell Tarantino Death Proof Dialogue<3 BORING! Robert Rodriguez Trash audience participation? teen appeal double feature btaege hdtv planet terror bad dialogue machine gun leg violence
+11783                                                    Reaping, The (2007)  2.793696                      Horror|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      twist ending AnnaSophia Robb Biblical Christianity Bible Stephen Hopkins religion based book Hilary Swank

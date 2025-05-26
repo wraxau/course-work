@@ -1,0 +1,29 @@
+Анализ подкластера 80 в кластере 4
+Размер подкластера: 23 фильмов
+Средний рейтинг: 2.48
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.90
+
+Топ-5 жанров:
+genres
+Drama                 10
+Romance                7
+Comedy                 5
+Children               4
+(no genres listed)     3
+
+Топ-5 тегов:
+tag
+stop         1
+motion       1
+christmas    1
+hindi        1
+bollywood    1
+
+Примеры фильмов:
+                                        title    rating              genres  tag
+33623            Successful Alcoholics (2010)  2.000000              Comedy  NaN
+33644          Ice Sculpture Christmas (2015)  3.125000             Romance  NaN
+33646      I'm Not Ready for Christmas (2015)  1.750000            Children  NaN
+33649              Crown for Christmas (2015)  2.833333  (no genres listed)  NaN
+33650  On the Twelfth Day of Christmas (2015)  3.000000            Children  NaN

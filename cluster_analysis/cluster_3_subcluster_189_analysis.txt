@@ -1,0 +1,29 @@
+Анализ подкластера 189 в кластере 3
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 1.16
+
+Топ-5 жанров:
+genres
+Fantasy      2
+Horror       2
+Drama        2
+Thriller     2
+Animation    2
+
+Топ-5 тегов:
+tag
+Nudity         2
+chess          1
+setting:Tel    1
+prospects      1
+add            1
+
+Примеры фильмов:
+                                                                title    rating                      genres                                                                                                                                                                                 tag
+21527                                           Computer Chess (2013)  3.290909                      Comedy  chess computer programming mockumentary artificial intelligence board game swingers black-and-white surreal Alfred Sloan Feature Film Prize period piece Andrew Bujalski computers
+21528  Devil's Nightmare, The (Plus longue nuit du diable, La) (1971)  2.250000              Fantasy|Horror                                                                                                                   Erika Blanc priest seven deadly sins succubus deal with the devil
+21529                                              Attack, The (2012)  3.625000                       Drama                          Ziad Doueiri setting:Israel protagonist medical doctor terrorism author:Yasmina Khadra murder setting:Tel Aviv adapted from:book add prospects list banned
+21530                                              Attack, The (1996)       NaN            Romance|Thriller                                                                                                                                                        short film migraine headache
+21531                          My Little Pony: Equestria Girls (2013)  3.272727  Animation|Children|Fantasy                                                                                                                                                                          family mlp

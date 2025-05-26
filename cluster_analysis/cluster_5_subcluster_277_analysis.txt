@@ -1,0 +1,29 @@
+Анализ подкластера 277 в кластере 5
+Размер подкластера: 20 фильмов
+Средний рейтинг: 2.95
+Медиана рейтинга: 3.02
+Дисперсия рейтинга: 0.53
+
+Топ-5 жанров:
+genres
+Drama        10
+Comedy        7
+Action        4
+Adventure     3
+Horror        2
+
+Топ-5 тегов:
+tag
+dating    2
+based     2
+New       2
+movie     2
+war       2
+
+Примеры фильмов:
+                                                    title    rating          genres                         tag
+22296                            Marriage Material (2012)  3.000000           Drama                         NaN
+22303  Gamera: The Giant Monster (Daikaijû Gamera) (1965)  1.916667          Sci-Fi  Gamera Kaiju giant monster
+22310                             Days Of Darkness (2007)  1.250000          Horror                         NaN
+22311                          Breaking the Girls (2013)   3.045455  Crime|Thriller          lesbian plot twist
+22317                                All is Bright (2013)  2.285714    Comedy|Drama                     amateur

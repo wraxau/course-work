@@ -1,0 +1,25 @@
+Анализ кластера 1669
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+great         4
+Tarantino     3
+DVDs          3
+movies        2
+crime         2
+cast          2
+good          2
+plot          2
+soundtrack    2
+tarantino     2
+
+Примеры фильмов:
+                    title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1669  Jackie Brown (1997)  Crime|Drama|Thriller  erlend's DVDs crimial soundtrack great acting seen the cinema Robert Niro talky violence memasa's movies slow Bibliothek based book Netflix Finland katsomattomat gritty too long boring plan quirky CRIME GONE AWRY meandering contemplative crime Tumey's DVDs pointless AVORRIDA nudity (rear) clever script conspiracy tense Tarantinos best owned Pam Grier Jack Nicholson gangsters MOLT_LENTA MOLT_LLARGA Micheal Keaton great plot excellent characters movies Samuel Jackson Quentin Tarantino cast ensemble cast offbeat subculture detective action DVDs Chris Tucker Quinten Tarantino unoriginal tarantino god interracial romance great music Eric's Dvds dysku Tarantino Nudity (Rear) drab tarantino forceful good story Elmore Leonard dialogue great soundtrack drugs Bridget Fonda own gay confusing plot good sound wacky crime dark comedy

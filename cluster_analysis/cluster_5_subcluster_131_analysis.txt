@@ -1,0 +1,29 @@
+Анализ подкластера 131 в кластере 5
+Размер подкластера: 57 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama          22
+Comedy         17
+Action         15
+Romance        13
+Documentary    11
+
+Топ-5 тегов:
+tag
+Oscar        2
+animation    2
+plot         2
+sports       2
+book         2
+
+Примеры фильмов:
+                                                                                           title    rating                                          genres                                                     tag
+19758                                                                            Tormento (1950)  3.000000                                           Drama                           Raffaello Matarazzo Criterion
+19769                                              Warped Ones, The (Kyonetsu no kisetsu) (1960)  3.500000                                           Drama                            Criterion Koreyoshi Kurahara
+19778  Asterix & Obelix: God Save Britannia (Astérix et Obélix: Au service de Sa Majesté) (2012)  2.878378                                Adventure|Comedy  Based Comic Book Edouard Baer Gerard Depardieu Asterix
+19799        Glamorous Life of Sachiko Hanai, The (Hatsujô kateikyôshi: sensei no aijiru) (2003)  3.083333  Action|Comedy|Drama|Fantasy|Mystery|Sci-Fi|War                                                     NaN
+19810                                                                                  Rx (2005)  2.750000                          Crime|Romance|Thriller                                       Colin Hanks drugs

@@ -1,0 +1,15 @@
+Анализ кластера 1788
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                                     title        genres  tag
+1788  Friend of the Deceased, A (Priyatel pokonika) (1997)  Comedy|Drama  NaN

@@ -1,0 +1,26 @@
+Анализ кластера 1837
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Fantasy      1
+War          1
+
+Топ-10 тегов:
+tag
+toys           2
+horror         1
+cinema         1
+Christopher    1
+Cross          1
+David          1
+dunst          1
+kirsten        1
+living         1
+the            1
+
+Примеры фильмов:
+                      title                          genres                                                                                                                        tag
+1837  Small Soldiers (1998)  Animation|Children|Fantasy|War  horror für kinder kites for kiddos Joe Dante seen the cinema toys living toys kirsten dunst David Cross Christopher Guest

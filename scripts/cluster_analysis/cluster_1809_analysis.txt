@@ -1,0 +1,23 @@
+Анализ кластера 1809
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Thriller    1
+
+Топ-10 тегов:
+tag
+paltrow      2
+remake       2
+Thriller     1
+Andrew       1
+based        1
+Mortensen    1
+Viggo        1
+murder       1
+assassin     1
+gwyneth      1
+
+Примеры фильмов:
+                         title    genres                                                                                                                                                                                  tag
+1809  Perfect Murder, A (1998)  Thriller  Thriller remake bad remake crime viggo mortensen Michael Douglas paltrow suspenseful potato awesome Andrew Davis douglas gwyneth paltrow assassin murder Viggo Mortensen based play

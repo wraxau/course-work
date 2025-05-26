@@ -1,0 +1,25 @@
+Анализ кластера 2307
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+characters    2
+noir          2
+spiral        2
+Tragedy       1
+snow          1
+town          1
+loneliness    1
+the           1
+weren't       1
+likeable      1
+
+Примеры фильмов:
+                      title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+2307  Simple Plan, A (1998)  Crime|Drama|Thriller  Tragedy great acting morality Sam Raimi psychology gripping thriller good story line teenagers Netflix Finland 2.5 reviewed downward spiral suspense trust noir airplane cover-up drama brother-brother relationship plane crash Billy Bob Thornton small town loneliness the characters weren't likeable murder What Happiness? money heist noir spiral snow Oscar Nominee: Adapted Screenplay unlikeable characters greed crime gone awry intense hillbillies suicide parenthood dark comedy

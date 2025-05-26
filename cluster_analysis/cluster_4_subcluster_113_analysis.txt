@@ -1,0 +1,29 @@
+Анализ подкластера 113 в кластере 4
+Размер подкластера: 21 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 1.07
+
+Топ-5 жанров:
+genres
+Comedy         7
+Drama          6
+Horror         3
+Thriller       3
+Documentary    2
+
+Топ-5 тегов:
+tag
+comedy        2
+Misfits       1
+music         1
+business      1
+corruption    1
+
+Примеры фильмов:
+                        title  rating         genres  tag
+32504  God's Angry Man (1980)   3.500    Documentary  NaN
+32511  They Found Hell (2015)   1.300         Horror  NaN
+32513             1944 (2015)   3.125      Drama|War  NaN
+32519      Go Goa Gone (2013)   3.250  Comedy|Horror  NaN
+32523  Aanmodderfakker (2014)   3.250         Comedy  NaN

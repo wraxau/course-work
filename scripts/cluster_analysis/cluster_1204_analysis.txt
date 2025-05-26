@@ -1,0 +1,23 @@
+Анализ кластера 1204
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+space          2
+movie          2
+70mm           2
+erlend's       1
+exploration    1
+Good           1
+aviation       1
+Harris         1
+frontier       1
+from:book      1
+
+Примеры фильмов:
+                        title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1204  Right Stuff, The (1983)  Drama  erlend's DVDs history Sam Shepard just pleasure see Paul playing pool again. Betamax cowboy movie Bechdel Test:Fail memasa's movies space true story space program too long 2.5 NASA Barbara Hershey historical 70mm blowup race awesome Tom Hanks topic:NASA Great Music Score factual astronaut 70mm drama U.S.S. Coral Sea Movie didn't watch the end tom wolfe Lance Henriksen adapted from:book frontier Harris aviation Good movie Drama exploration Spherical Blow-Up macho adventure BFI modern classic author:Tom Wolfe astronauts entertaining AFI 100 (Cheers) Philip Kaufman Aerospace Scott Glenn

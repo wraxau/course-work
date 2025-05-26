@@ -1,0 +1,29 @@
+Анализ подкластера 34 в кластере 4
+Размер подкластера: 57 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.21
+
+Топ-5 жанров:
+genres
+Drama                 23
+Comedy                15
+Documentary           11
+Romance                7
+(no genres listed)     6
+
+Топ-5 тегов:
+tag
+Duvivier     5
+Julien       5
+bad          2
+Poitier      1
+Criterion    1
+
+Примеры фильмов:
+                                           title  rating                       genres  tag
+33840                          Dossier K. (2009)     3.5  Action|Crime|Drama|Thriller  NaN
+33868                          Buitenspel (2005)     2.5                        Drama  NaN
+33873  The Man Who Had His Hair Cut Short (1966)     3.5                        Drama  NaN
+33881                   Lost Persons Area (2009)     3.0                        Drama  NaN
+33883             De Leeuw van Vlaanderen (1985)     2.5                        Drama  NaN

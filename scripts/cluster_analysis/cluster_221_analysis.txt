@@ -1,0 +1,25 @@
+Анализ кластера 221
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Johnny      1
+Depp        1
+passion     1
+madness     1
+fantasy     1
+remember    1
+Can't       1
+brando      1
+marlon      1
+romance     1
+
+Примеры фильмов:
+                       title                genres                                                                                                                                                          tag
+221  Don Juan DeMarco (1995)  Comedy|Drama|Romance  Johnny Depp mental illness afternoon section Nudity (Rear) insanity psychology Madness romance marlon brando Can't remember fantasy madness passion Romance

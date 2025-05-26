@@ -1,0 +1,28 @@
+Анализ подкластера 231 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 2.75
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Drama          2
+Documentary    2
+Western        2
+Comedy         1
+
+Топ-5 тегов:
+tag
+bootlegging    1
+prohibition    1
+based          1
+book           1
+historical     1
+
+Примеры фильмов:
+                                                       title  rating       genres                                            tag
+18154                                 Colorado Avenue (2007)   3.500        Drama  bootlegging prohibition based book historical
+18155  Sunday Day in Hell, A (En forårsdag i Helvede) (1976)   4.125  Documentary                                            NaN
+18156                                             Doc (1971)   2.500      Western                                            NaN
+18157                           Al Franken: God Spoke (2006)   1.750  Documentary                                            NaN
+18158                                            Bone (1972)   2.500       Comedy                                    Larry Cohen

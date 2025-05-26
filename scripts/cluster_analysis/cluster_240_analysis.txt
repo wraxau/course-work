@@ -1,0 +1,20 @@
+Анализ кластера 240
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+
+Топ-10 тегов:
+tag
+pigs       1
+talking    1
+animals    1
+Mark       1
+Lewis      1
+
+Примеры фильмов:
+            title                   genres                              tag
+240  Gordy (1995)  Children|Comedy|Fantasy  pigs talking animals Mark Lewis

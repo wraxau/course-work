@@ -1,0 +1,26 @@
+Анализ кластера 2213
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Fantasy      1
+Romance      1
+
+Топ-10 тегов:
+tag
+Matheson             3
+heaven               2
+story                2
+visually             2
+love                 2
+good                 2
+author:Richard       1
+buy                  1
+metaphysics          1
+thought-provoking    1
+
+Примеры фильмов:
+                            title                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+2213  What Dreams May Come (1998)  Adventure|Drama|Fantasy|Romance  author:Richard Matheson Jinni Top Pick favorite ghosts/afterlife Vincent Ward visually appealing love based book heaven surreal heaven and hell incestuous subtext love story DRAMA_PASTELON visually stunning Richard Matheson Robin Williams tear jerker imaginative buy metaphysics thought-provoking philosophy afterlife scenic good story (s)vcd alternate reality Matheson seen partly good cinematography Cuba Gooding Jr. religion suicide dreamlike

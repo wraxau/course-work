@@ -1,0 +1,24 @@
+Анализ кластера 1491
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+comedy       1
+Matthew      1
+Broderick    1
+TchÃ©ky      1
+Karyo        1
+Dunne        1
+quirky       1
+camera       1
+obscura      1
+Meg          1
+
+Примеры фильмов:
+                        title          genres                                                                                                             tag
+1491  Addicted to Love (1997)  Comedy|Romance  comedy Matthew Broderick TchÃ©ky Karyo Dunne quirky camera obscura Meg Ryan Kelly Preston stars romance spying

@@ -1,0 +1,29 @@
+Анализ подкластера 73 в кластере 5
+Размер подкластера: 73 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.40
+
+Топ-5 жанров:
+genres
+Drama       37
+Comedy      16
+Romance     12
+Action      11
+Thriller     9
+
+Топ-5 тегов:
+tag
+Criterion    7
+based        5
+funny        5
+the          4
+like         4
+
+Примеры фильмов:
+                                                                       title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+19073                                                          Thrive (2011)  3.388889             Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+19089  Safrana or Freedom of Speech (Safrana ou le droit à la parole) (1978)  4.000000                   Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+19091                                                         Galileo (1975)  3.375000                   Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         history Brecht science biography astronomy historical adapted from:play based play
+19093                                     Snow White and the Huntsman (2012)  2.936195  Action|Adventure|Drama  band little people Thor animal:bird Kristen Stewart Bechdel Test:Pass fairy tale notable:beautiful forest (scene) epic stale plot visuals Watched evil queen weak plot setting:forest chris hemsworth tale:Snow White (A-T #709) based book Chris Hemsworth animal:horse too long boring charlize theron subgenre:fairy tale directorial debut sword battle visually stunning purity setting:castle BD-Video Snow White Charlize Theron main character boring bow arrow murder bugs adapted from:book dwarves unlikeable characters magic might like drab beautiful cinematography casting twist classic story theme:female power fantasy
+19095                                        Olympian Holiday (Loma) (1976)   3.250000          Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           finnish new wave

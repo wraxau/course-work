@@ -1,0 +1,25 @@
+Анализ кластера 93
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+John         2
+action       2
+Travolta     1
+nuclear      1
+watch        1
+packed       1
+military     1
+Utah         1
+Slater       1
+Christian    1
+
+Примеры фильмов:
+                  title                     genres                                                                                                                                                           tag
+93  Broken Arrow (1996)  Action|Adventure|Thriller  John Travolta Air Force Want Mark Gordon Productions scope park ranger John Woo foqam Christian Slater Utah military action packed watch nuclear bomb action

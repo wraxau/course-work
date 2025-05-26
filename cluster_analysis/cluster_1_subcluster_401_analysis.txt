@@ -1,0 +1,29 @@
+Анализ подкластера 401 в кластере 1
+Размер подкластера: 42 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.36
+Дисперсия рейтинга: 0.51
+
+Топ-5 жанров:
+genres
+Comedy         16
+Drama          15
+Romance         7
+Crime           7
+Documentary     6
+
+Топ-5 тегов:
+tag
+footprint    2
+refugees     2
+based        2
+Ricardo      2
+Trogi        2
+
+Примеры фильмов:
+                                          title    rating                     genres                                                                                  tag
+25279        Je préfère qu'on reste amis (2005)  2.500000       Comedy|Drama|Romance                                                                                added
+25280  Grumpy Cat's Worst Christmas Ever (2014)  2.394737  Adventure|Children|Comedy  grumpy cats made for Christmas special christmas self parodying cat talking animals
+25289                          Dirigible (1931)  3.000000                  Adventure                                                                                  NaN
+25291                     My Brother Tom (2001)  4.200000                      Drama              low budget Ben Whishaw humanizing destructive relationship Dom Rotheroe
+25299                      Hey Bartender (2013)  3.000000                Documentary                                                                                  NaN

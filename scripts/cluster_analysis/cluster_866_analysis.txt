@@ -1,0 +1,17 @@
+Анализ кластера 866
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+BORING!    1
+boring     1
+noHun      1
+
+Примеры фильмов:
+                          title          genres                   tag
+866  Trigger Effect, The (1996)  Drama|Thriller  BORING! boring noHun

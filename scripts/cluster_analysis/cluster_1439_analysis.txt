@@ -1,0 +1,15 @@
+Анализ кластера 1439
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Romance    1
+
+Топ-10 тегов:
+tag
+netflix    1
+queue      1
+
+Примеры фильмов:
+                  title   genres            tag
+1439  Love Jones (1997)  Romance  netflix queue

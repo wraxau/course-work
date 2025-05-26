@@ -1,0 +1,26 @@
+Анализ кластера 2081
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Drama     1
+Horror    1
+
+Топ-10 тегов:
+tag
+Nazis      1
+surfing    1
+Didn't     1
+finish     1
+bad        1
+it's       1
+good       1
+Worst      1
+movie      1
+ever       1
+
+Примеры фильмов:
+                           title                      genres                                                               tag
+2081  Surf Nazis Must Die (1987)  Action|Comedy|Drama|Horror  Nazis surfing Didn't finish bad it's good Worst movie ever Troma

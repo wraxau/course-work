@@ -1,0 +1,16 @@
+Анализ кластера 1121
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Susan      1
+Warms      1
+Dryfoos    1
+
+Примеры фильмов:
+                                               title       genres                  tag
+1121  Line King: The Al Hirschfeld Story, The (1996)  Documentary  Susan Warms Dryfoos

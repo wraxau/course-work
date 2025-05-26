@@ -1,0 +1,29 @@
+Анализ подкластера 69 в кластере 3
+Размер подкластера: 25 фильмов
+Средний рейтинг: 2.58
+Медиана рейтинга: 2.83
+Дисперсия рейтинга: 1.02
+
+Топ-5 жанров:
+genres
+Horror         7
+Drama          7
+Comedy         6
+Documentary    5
+Crime          3
+
+Топ-5 тегов:
+tag
+Full             6
+Entertainment    6
+Moon             6
+Clowns           4
+Demons           4
+
+Примеры фильмов:
+                                  title    rating       genres                                              tag
+21693  Subspecies IV: Bloodstorm (1998)  3.500000       Horror  Full Moon Entertainment vampires practical gore
+21694            Motivation, The (2013)  3.875000  Documentary            sports skateboarding Adam Bhala Lough
+21695       Conman (Du Xia 1999) (1998)  2.833333       Comedy                                              NaN
+21696                       Koch (2012)  3.333333  Documentary                           New York City politics
+21697  One Direction: This Is Us (2013)  2.031250  Documentary                                    musicians fav

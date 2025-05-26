@@ -1,0 +1,29 @@
+Анализ подкластера 56 в кластере 4
+Размер подкластера: 13 фильмов
+Средний рейтинг: 3.49
+Медиана рейтинга: 3.54
+Дисперсия рейтинга: 0.07
+
+Топ-5 жанров:
+genres
+Drama        13
+Romance       3
+Comedy        2
+Action        1
+Adventure     1
+
+Топ-5 тегов:
+tag
+01/12    2
+might    2
+like     2
+the      2
+Tarr     2
+
+Примеры фильмов:
+                                                                                                 title    rating                  genres                                                                                                                               tag
+10075  Zatoichi Meets the One-Armed Swordsman (Shin zatô Ichi: Yabure! Tôjin-ken) (Zatôichi 22) (1971)  3.375000  Action|Adventure|Drama                                                                                               Kimiyoshi Yasuda BD-Video Criterion
+10076                                                                        Angry Silence, The (1960)       NaN                   Drama                                                                                                              might like Guy Green
+10077                                                                                   Isadora (1968)  3.285714                   Drama                                                                                                            might like Karel Reisz
+10078                                                                             San Francisco (1936)  3.587302   Drama|Musical|Romance  heavy-handed W.S. Van Dyke Only gets the full stars viewed the Castro Theater disaster Special Effects Spenser Tracy Clark Gable
+10079                                                                            Earth (Zemlya) (1930)  3.652174                   Drama                                                                                       easily confused with other movie(s) (title)

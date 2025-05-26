@@ -1,0 +1,22 @@
+Анализ кластера 803
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+show        2
+sequel      1
+Arlene      1
+Sanford     1
+Based       1
+Terrible    1
+Can't       1
+remember    1
+based       1
+
+Примеры фильмов:
+                           title  genres                                                                  tag
+803  Very Brady Sequel, A (1996)  Comedy  sequel Arlene Sanford Based show Terrible Can't remember based show

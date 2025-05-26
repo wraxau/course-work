@@ -1,0 +1,23 @@
+Анализ кластера 516
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Mel         3
+Brooks      3
+comedy      2
+your        2
+when        2
+Funny       2
+funny       2
+remember    2
+rating      1
+Dave        1
+
+Примеры фильмов:
+                                title  genres                                                                                                                                                                                                                                                                                                                                                                             tag
+516  Robin Hood: Men in Tights (1993)  Comedy  comedy type historical comedy hilarious Richard Lewis rewatch for rating Robin Hood wacky very funny! mel brooks Cary Elwes spoof Mel Brooks movie good can't remember medieval Patrick Stewart Gross-out Dave Chappelle funny Mel Brooks his worst Borscht belt Jews buy now! parody Funny hell Mel Brooks Funny when your 10. Less funny when your not. don't remember Spoof

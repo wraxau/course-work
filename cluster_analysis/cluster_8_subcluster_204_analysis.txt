@@ -1,0 +1,29 @@
+Анализ подкластера 204 в кластере 8
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.68
+Медиана рейтинга: 2.95
+Дисперсия рейтинга: 0.73
+
+Топ-5 жанров:
+genres
+Drama      7
+Comedy     1
+Fantasy    1
+Romance    1
+Crime      1
+
+Топ-5 тегов:
+tag
+Pauly      1
+Shore      1
+Georg      1
+Wilhelm    1
+Pabst      1
+
+Примеры фильмов:
+                                                             title    rating                 genres                       tag
+17659                                               Adopted (2009)  2.000000                 Comedy               Pauly Shore
+17660             Joyless Street, The (Die freudlose Gasse) (1925)  3.000000                  Drama       Georg Wilhelm Pabst
+17661                                                  Rapt (2009)  3.466667                  Drama  Lucas Belvaux kidnapping
+17662                                           Bear's Kiss (2002)  1.000000  Drama|Fantasy|Romance                       NaN
+17663  Cairo Station (a.k.a. Iron Gate, The) (Bab el hadid) (1958)  3.636364            Crime|Drama                       NaN

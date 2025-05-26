@@ -1,0 +1,29 @@
+Анализ подкластера 95 в кластере 8
+Размер подкластера: 57 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama          21
+Thriller       13
+Comedy         12
+Documentary    10
+Action          8
+
+Топ-5 тегов:
+tag
+ending    9
+family    4
+funny     4
+twist     4
+Jay       3
+
+Примеры фильмов:
+                                                     title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+18794                                   John Carter (2012)  3.232858  Action|Adventure|Sci-Fi|IMAX  Mars Lynn Collins Edgar Rice Burroughs hughbar simple Dimensionalized 2-D 3-D Barsoom based book twist ending Disney Action lame title child killing average plot giving 4.5 out 5.0 stars much better the 2012 "The Avengers" aliens great ending Taylor Kitsch very real-looking better expected childish plot IMAX DMR 3-D surprise ending adapted from:book simplistic and enjoyable sci-fi MUCH BETTER thought female warriors flying jokes author:Edgar Rice Burroughs women vs. men too worried will offend people great soundtrack villain has motive racist steampunk well done fantasy big budget funny moments
+18795            Canned Dreams (Säilöttyjä unelmia) (2012)  3.464286                   Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+18797                    When We Leave (Die Fremde) (2010)  3.214286                         Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+18798  Genius Within: The Inner Life of Glenn Gould (2009)  2.666667                   Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+18799                         10 Mountains 10 Years (2010)  2.500000                   Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN

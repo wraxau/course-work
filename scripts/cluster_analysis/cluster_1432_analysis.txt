@@ -1,0 +1,14 @@
+Анализ кластера 1432
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                      title       genres  tag
+1432  Rhyme & Reason (1997)  Documentary  NaN

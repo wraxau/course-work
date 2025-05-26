@@ -1,0 +1,24 @@
+Анализ кластера 893
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+comedy      4
+men         4
+AFI         4
+100         3
+last        2
+dressing    2
+see         2
+classic     2
+movies      2
+cross       2
+
+Примеры фильмов:
+                       title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+893  Some Like It Hot (1959)  Comedy|Crime  comedy USA film registry Quotable Bechdel Test:Pass National Film Registry delightful sexy cross-dressing men screwball comedy great last line farce memasa's movies Veja romantic comedy classic comedy setting:Chicago fish out water setting:yacht AFI #14 Friends Should See protagonist musician Beautiful Woman Tony Curtis cross dressing costumes great last lines Jack Lemmon Tumey's VHS Marilyn Monroe Best Performance: Jack Lemmon Jerry/Daphne movies every kid should see--Entertainment Weekly men drag top 250 IMDB gangsters classic prohibition Comedy cross dressing men Slashy Billy Wilder murder movie see jazz AFI 100 (Laughs) men disguised women black and white setting:Florida imdb top 250 mafia funny hell Favorite AFI 100 AFI 100 (Movie Quotes) want see again quote:"five five" organized crime trains seen Compare:Some Like Hot Old

@@ -1,0 +1,25 @@
+Анализ кластера 1838
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+own           3
+bad           2
+soundtrack    2
+game          2
+Existenti     1
+stylized      1
+market        1
+stock         1
+Stylized      1
+use           1
+
+Примеры фильмов:
+          title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1838  Pi (1998)  Drama|Sci-Fi|Thriller  math psychology notable soundtrack genius directorial debut tense god intellectual pseudomathematics music pseudoscience black and white dvd Engimatic paranoid 6.8-FilmAffinity erlend's DVDs Judaism insanity game Divx1 life low budget bad science clueless NYC board game hallucinatory mental illness great soundtrack nyc religion own Mathematics MNM New York City atmospheric headache Sacred geometry maths mindfuck surreal seen more once well-made shopping list underrated cerebral ClearPlay mathematics metaphysics Gfei own psychological enigmatic paranoia Gory Psychology unsafe drill use Stylized stock market stylized Existenti artsy docudrama snorricam visually appealing existentialism bad moves Netflix Finland spot the patterns weird Darren Aronofsky ominous Cerebral need own cinematography religious disturbing Aronofski ambiguous without Martha philosophy

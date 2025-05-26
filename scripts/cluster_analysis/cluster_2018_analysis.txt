@@ -1,0 +1,16 @@
+Анализ кластера 2018
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+
+Топ-10 тегов:
+tag
+Native       1
+Americans    1
+
+Примеры фильмов:
+                                 title           genres               tag
+2018  Squanto: A Warrior's Tale (1994)  Adventure|Drama  Native Americans

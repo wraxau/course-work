@@ -1,0 +1,25 @@
+Анализ кластера 1194
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Comedy     1
+Musical    1
+
+Топ-10 тегов:
+tag
+movie         4
+car           3
+from          3
+John          3
+music         3
+soundtrack    3
+road          2
+mission       2
+show          2
+God           2
+
+Примеры фильмов:
+                           title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+1194  Blues Brothers, The (1980)  Action|Comedy|Musical  road trip Want USA rhythm blues music business notable soundtrack Cab Calloway john belushi Blues cars Buddy movie positive thinking nuns "We're mission from god" music cult film illinois nazis dvd black and white cult classic flamethrowers snl alums erlend's DVDs dated soundtrack Carrie Fisher Betamax John Belushi road movie Mission From God feel good movie SNL alums subgenre:road trip great soundtrack chicago explosions jus+san black music culture snl 80's car chase ray charles comedy sunglasses musical Chicago chase Dan Aykroyd destruction Dan Ackroyd action surreal know heart seen more once wired greatest soundtracks car crashes Based show Can't remember music:rhythm blues netflix queue out from prison subgenre:buddies police dan akroyd favourite based show mission from God buddies buddy movie Ray Charles gag:tossing lighter out car John Candy siblings cameo-fest awesome Neo-Nazis John Landis classic 70mm aretha franklin neo-Nazis Aretha Franklin Saturday Night Live cameos musicians James Brown

@@ -1,0 +1,24 @@
+Анализ кластера 1276
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Dean          2
+JOURNEY       1
+reflective    1
+2012          1
+jealousy      1
+loneliness    1
+WANDERLUST    1
+leave         1
+kid           1
+alone         1
+
+Примеры фильмов:
+                    title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1276  Paris, Texas (1984)  Drama|Romance  JOURNEY SELF-DISCOVERY photography soundtrack Betamax poignant Dean Stockwell Bibliothek Netflix Finland 2.5 Nastassja Kinski Beautiful Woman contemplative Tumey's DVDs warm shopping list road movie classic Soundtrack Indie meditative Golden Palm cinematography Wim Wenders melancholy seen 2012 jealousy loneliness WANDERLUST leave kid alone HAUNTED THE PAST pacing lyrical relationships reflective impossible relationship REDEMPTION deliberate isolation FATHERS AND SONS Criterion Harry Dean Stanton melancholic bittersweet stylized searching

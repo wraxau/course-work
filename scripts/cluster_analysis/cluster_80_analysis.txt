@@ -1,0 +1,25 @@
+Анализ кластера 80
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime      1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+stylish      1
+assassin     1
+gangsters    1
+sacrifice    1
+revenge      1
+Denver       1
+own          1
+crime        1
+organized    1
+hit          1
+
+Примеры фильмов:
+                                             title               genres                                                                                                                                                                       tag
+80  Things to Do in Denver When You're Dead (1995)  Crime|Drama|Romance  stylish friendship Recommendz Top Pick hitman 23-5-2007 noirish mobsters Detroit Colorado assassin hit organized crime own Denver revenge sacrifice gangsters underrated

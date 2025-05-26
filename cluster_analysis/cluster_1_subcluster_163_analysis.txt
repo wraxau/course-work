@@ -1,0 +1,29 @@
+Анализ подкластера 163 в кластере 1
+Размер подкластера: 11 фильмов
+Средний рейтинг: 2.63
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 1.15
+
+Топ-5 жанров:
+genres
+Comedy       5
+Action       4
+Drama        3
+Romance      2
+Adventure    1
+
+Топ-5 тегов:
+tag
+Fabrice        2
+Canada         1
+trains         1
+Luchini        1
+anachronism    1
+
+Примеры фильмов:
+                                                                                           title  rating         genres                                                                           tag
+30176                                                                      The Railrodder (1965)    1.50         Comedy                                                                 Canada trains
+30177                                                                       Les Héritiers (2014)    3.50   Comedy|Drama                                                            Hope Ghetto French
+30178                                                                      The Last Match (2013)    3.50  Drama|Romance                                                                           Gay
+30179  Quarter to Two Before Jesus Christ (Deux heures moins le quart avant Jésus-Christ) (1982)    3.40         Comedy  Cleopatra comedy Ancient Rome Julius Caesar ancient civilization anachronism
+30180                                                                    God Loves Caviar (2012)    1.25      Adventure                                                                           NaN

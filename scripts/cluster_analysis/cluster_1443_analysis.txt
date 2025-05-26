@@ -1,0 +1,24 @@
+Анализ кластера 1443
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Nudity             2
+(Full              2
+Ballard            2
+prize              1
+fetish             1
+from:book          1
+adapted            1
+sadomasochistic    1
+bisexual           1
+disturbing         1
+
+Примеры фильмов:
+             title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1443  Crash (1996)  Drama|Thriller  Los Angeles MOLT_CRITICADA author:J.G. Ballard distorted sense reality nudity (full frontal) prejudiced crash poor dialogue vapid disambiguation:Crash (1996/2004) Ballard based book car accident cronenberg easily confused with other movie(s) (title) ohsoso sexuality AVORRIDA James Spader cars NC-17 ominous noir creepy controversial Elias Koteas sexualized violence Cannes:special jury prize disturbing bisexual sadomasochistic adapted from:book fetish objectification people Nudity (Full Frontal) Nudity (Full Frontal Notable) death wish reflective enigmatic BFI modern classic sex scenes David Cronenberg stylized

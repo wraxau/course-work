@@ -1,0 +1,25 @@
+Анализ кластера 1991
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime      1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+nudity            1
+Liliana           1
+arthouse          1
+Criterion         1
+dance             1
+matter-of-fact    1
+reflective        1
+Notable)          1
+Frontal           1
+(Full             1
+
+Примеры фильмов:
+                                                 title               genres                                                                                                                                                                                                                                    tag
+1991  Night Porter, The (Portiere di notte, Il) (1974)  Crime|Drama|Romance  nudity (full frontal) Betamax strangely compelling Nazis moody surreal sexuality downbeat Japan bleak BDSM Liliana Cavani sadomasochistic Nudity (Full Frontal Notable) reflective matter-of-fact dance Criterion arthouse perversion

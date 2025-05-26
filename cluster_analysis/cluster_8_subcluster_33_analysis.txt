@@ -1,0 +1,29 @@
+Анализ подкластера 33 в кластере 8
+Размер подкластера: 151 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.16
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama       84
+Thriller    37
+Comedy      34
+Crime       26
+Romance     20
+
+Топ-5 тегов:
+tag
+Nudity    26
+movie     21
+nudity    17
+based     17
+the       17
+
+Примеры фильмов:
+                                                                      title  rating                       genres                                                       tag
+11010                      Wayward Cloud, The (Tian bian yi duo yun) (2005)  3.3000         Comedy|Drama|Musical                                   nudity (topless) poetic
+11013                                  Coast Guard, The (Hae anseon) (2002)  2.9500                        Drama                                                       NaN
+11018                                                  Man Push Cart (2005)  2.9750                        Drama                                        MUBI Ramin Bahrani
+11038                                                 Lost City, The (2005)  3.1875                        Drama  cuba Cuba Latin America immigrants Bill Murray Caribbean
+11040  Carlito's Way: Rise to Power (Carlito's Way 2: Rise to Power) (2005)  3.2500  Action|Crime|Drama|Thriller                                          nudity (topless)

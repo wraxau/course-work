@@ -1,0 +1,27 @@
+Анализ кластера 2283
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Fantasy      1
+Romance      1
+Sci-Fi       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+monster      2
+70mm         1
+dinosaurs    1
+tall         1
+onto         1
+carried      1
+woman        1
+Lange        1
+Jessica      1
+Brief)       1
+
+Примеры фильмов:
+                 title                                     genres                                                                                                                                                                               tag
+2283  King Kong (1976)  Adventure|Fantasy|Romance|Sci-Fi|Thriller  70mm Giant monster monster King Kong dumb blonde monster:giant gorilla WTC environmental Betamax dinosaurs Nudity (Topless Brief) Jessica Lange woman carried onto tall building

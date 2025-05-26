@@ -1,0 +1,24 @@
+Анализ кластера 2024
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Myers                2
+subgenre:slasher     1
+Curtis               1
+Horror               1
+Cool                 1
+Hartnett             1
+Josh                 1
+murder               1
+character:Michael    1
+teens                1
+
+Примеры фильмов:
+                                                                                 title           genres                                                                                                                                                                                    tag
+2024  Halloween H20: 20 Years Later (Halloween 7: The Revenge of Laurie Strode) (1998)  Horror|Thriller  subgenre:slasher the Shape slasher Michael Myers franchise serial killer horror Jamie Lee Curtis Steve Miner teens character:Michael Myers murder Josh Hartnett Cool Horror Halloween

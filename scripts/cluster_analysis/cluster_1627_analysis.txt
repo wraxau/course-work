@@ -1,0 +1,24 @@
+Анализ кластера 1627
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Woolf              2
+perrot             1
+library            1
+See:               1
+The                1
+Hours              1
+author:Virginia    1
+Virginia           1
+Marleen            1
+Gorris             1
+
+Примеры фильмов:
+                     title         genres                                                                                                  tag
+1627  Mrs. Dalloway (1997)  Drama|Romance  perrot library See: The Hours author:Virginia Woolf Virginia Woolf Marleen Gorris adapted from:book

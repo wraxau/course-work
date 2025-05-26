@@ -1,0 +1,29 @@
+Анализ подкластера 92 в кластере 6
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.89
+
+Топ-5 жанров:
+genres
+Drama        12
+Comedy       10
+Action        5
+Adventure     4
+Fantasy       3
+
+Топ-5 тегов:
+tag
+French    8
+Nudity    7
+male      6
+nudity    4
+Film      4
+
+Примеры фильмов:
+                                    title    rating                           genres                                              tag
+23247  BloodRayne: The Third Reich (2011)  2.333333  Action|Adventure|Fantasy|Horror           nudity (topless) video game adaptation
+23248                 Outlaw Blues (1977)  2.750000                            Drama                                              NaN
+23249       Prisoner of Zenda, The (1979)  1.625000                 Adventure|Comedy                                              NaN
+23250                 Haunted, The (1991)  3.375000                           Horror  demons made for Robert Mandel exorcism succubus
+23251          Across to Singapore (1928)  3.000000                    Drama|Romance                                     William Nigh

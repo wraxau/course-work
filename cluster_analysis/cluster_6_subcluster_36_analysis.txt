@@ -1,0 +1,29 @@
+Анализ подкластера 36 в кластере 6
+Размер подкластера: 57 фильмов
+Средний рейтинг: 2.95
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.60
+
+Топ-5 жанров:
+genres
+Drama       19
+Thriller    16
+Crime       14
+Comedy      12
+Horror      12
+
+Топ-5 тегов:
+tag
+Norman     2
+Eugene     2
+driving    2
+Bad        2
+great      2
+
+Примеры фильмов:
+                                                                  title  rating                                         genres                              tag
+24527  Swan Princess: The Mystery of the Enchanted Treasure, The (1998)     2.7             Animation|Children|Fantasy|Mystery                              NaN
+24528                                     Charlie Chan in Panama (1940)     3.0  Adventure|Comedy|Crime|Drama|Mystery|Thriller                    Norman Foster
+24529                                      Charlie Chan in Paris (1935)     3.0            Comedy|Crime|Drama|Mystery|Thriller  Lewis Seiler Hamilton MacFadden
+24530                                       Charlie Chan in Reno (1939)     3.0            Comedy|Crime|Drama|Mystery|Thriller                    Norman Foster
+24531                                        Charlie Chan in Rio (1941)     3.0                  Comedy|Crime|Mystery|Thriller                    Harry Lachman

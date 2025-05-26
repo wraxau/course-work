@@ -1,0 +1,29 @@
+Анализ подкластера 195 в кластере 2
+Размер подкластера: 31 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 2.94
+Дисперсия рейтинга: 0.43
+
+Топ-5 жанров:
+genres
+Drama          14
+Comedy          9
+Documentary     5
+Crime           4
+Romance         3
+
+Топ-5 тегов:
+tag
+comedy     2
+Cameron    2
+Diaz       2
+funny      2
+acting     2
+
+Примеры фильмов:
+                                       title    rating                genres                                                                                                                                                                                                                                                                tag
+17335             Eyes of the Mothman (2011)  2.333333           Documentary                                                                                                                                                                                                                                                                NaN
+17361                         Private (2004)  2.833333             Drama|War                                                                                                                                                                                                                                                                NaN
+17384                     Bad Teacher (2011)  2.896963                Comedy  sex jokes comedy Cameron Diaz breast implants rough humor Nudity (Topless Notable) Bechdel Test:Pass scatalogical humor swearing Jason Segel drugs not funny enough protagonist teacher Cameron Diaz getting older black comedy love triangle high school netflix
+17388                            Suez (1938)  2.300000         Drama|Romance                                                                                                                                                                                                                                                                NaN
+17402  Prizefighter and the Lady, The (1933)  2.000000  Comedy|Crime|Romance                                                                                                                                                                                                                                                                NaN

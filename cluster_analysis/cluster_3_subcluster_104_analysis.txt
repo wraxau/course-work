@@ -1,0 +1,29 @@
+Анализ подкластера 104 в кластере 3
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.44
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama      7
+Comedy     4
+Crime      2
+Romance    1
+Action     1
+
+Топ-5 тегов:
+tag
+Miriam     1
+Judaism    1
+Chahine    1
+Drama      1
+Ronit      1
+
+Примеры фильмов:
+                                     title    rating                genres                                                                                          tag
+20531  2 Become 1 (Tin sun yut dui) (2006)  4.500000  Comedy|Drama|Romance                          Miriam Yeung Chin Wah charming Hong Kong romantic comedy Richie Ren
+20532          Baytown Outlaws, The (2012)  3.250000   Action|Comedy|Crime                                                                                          NaN
+20533                           LUV (2012)  2.250000                 Drama                                                                                          NaN
+20534                 Stand Up Guys (2012)  3.227612          Comedy|Crime  old age ending melancholy death reminiscence cast drugs Christopher Walken revenge stylized
+20535                 Le grand soir (2012)  3.555556                Comedy                                                             dark humour punk burnout anarchy

@@ -1,0 +1,23 @@
+Анализ кластера 1871
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+AFI                5
+100                4
+Oscar              2
+Stallone           2
+(Best              2
+values             1
+youtube            1
+Avildsen           1
+John               1
+cinematography)    1
+
+Примеры фильмов:
+             title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1871  Rocky (1976)  Drama  Boxing BEST PICTURE National Film Registry boxing Sylvester Stallone simple visually appealing Bechdel Test:Fail memasa's movies Silvester Stallone AFI 100 (Thrills) See competitive sport Classic working class favourite character honest training montage franchise Oscar (Best Directing) real shyness Talia Shire sports Burgess Meredith Philadelphia Tony Burton setting:Philadelphia romance funny classic drama American values oscar (best cinematography) John Avildsen youtube underdog nostalgic inspirational sport:boxing Favorite Scenes Carl Weathers Oscar (Best Picture) fighting Inspirational stallone AFI 100 AFI 100 (Movie Quotes) great dialogue Burt Young AFI #78 AFI 100 (Cheers) bittersweet

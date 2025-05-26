@@ -1,0 +1,23 @@
+Анализ кластера 272
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Christmas     1
+Steve         1
+Martin        1
+Nora          1
+Ephron        1
+bummer        1
+bad           1
+acting        1
+annoying      1
+depressing    1
+
+Примеры фильмов:
+                 title  genres                                                                       tag
+272  Mixed Nuts (1994)  Comedy  Christmas Steve Martin Nora Ephron bummer bad acting annoying depressing

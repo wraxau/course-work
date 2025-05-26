@@ -1,0 +1,25 @@
+Анализ кластера 2077
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+DVDs          2
+seen          2
+book          2
+WITCHCRAFT    1
+creepy        1
+Camp          1
+satan         1
+Antichrist    1
+BD-Video      1
+satanism      1
+
+Примеры фильмов:
+                       title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+2077  Rosemary's Baby (1968)  Drama|Horror|Thriller  WITCHCRAFT erlend's DVDs child birth horror atmospheric true book evil Betamax AFI 100 (Thrills) Roman Polanski Atmospheric Dream Sequence based book seen 2010 long mystery see: cult classic occult surreal Tumey's DVDs literary adaptation Mia Farrow DIVX witchcraft funny suspense Ruth Gordon over-the-top ending creepy satanism BD-Video Antichrist satan Camp 1960s scary interpretable Oscar (Best Supporting Actress) imdb top 250 paranoia demons Criterion religion seen dreamlike Krzysztof Komeda

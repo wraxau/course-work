@@ -1,0 +1,20 @@
+Анализ кластера 2414
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+Disney         1
+remake         1
+Christopher    1
+Lloyd          1
+Based          1
+show           1
+
+Примеры фильмов:
+                           title         genres                                         tag
+2414  My Favorite Martian (1999)  Comedy|Sci-Fi  Disney remake Christopher Lloyd Based show

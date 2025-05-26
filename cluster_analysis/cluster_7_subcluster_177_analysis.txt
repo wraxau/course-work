@@ -1,0 +1,27 @@
+Анализ подкластера 177 в кластере 7
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.36
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.72
+
+Топ-5 жанров:
+genres
+Western               2
+(no genres listed)    1
+Comedy                1
+Action                1
+Drama                 1
+
+Топ-5 тегов:
+tag
+wishful       1
+comedienne    1
+gender        1
+
+Примеры фильмов:
+                               title  rating              genres                        tag
+26671      Women Aren't Funny (2014)     2.8  (no genres listed)  wishful comedienne gender
+26672        The Last Outpost (1951)     4.0             Western                        NaN
+26681  The Admirable Crichton (1957)     4.5              Comedy                        NaN
+26693              Lone Rider (2008)     3.0      Action|Western                        NaN
+26711                The Risk (1960)     2.5      Drama|Thriller                        NaN

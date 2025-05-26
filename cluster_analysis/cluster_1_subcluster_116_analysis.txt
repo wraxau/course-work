@@ -1,0 +1,29 @@
+Анализ подкластера 116 в кластере 1
+Размер подкластера: 46 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Drama        15
+Comedy       14
+Action       11
+Thriller      9
+Adventure     8
+
+Топ-5 тегов:
+tag
+the          4
+comedy       3
+fun          3
+franchise    3
+indiana      2
+
+Примеры фильмов:
+                                                   title    rating                      genres                                                                                                                                 tag
+25108                       Fast Track: No Limits (2008)  0.500000             Action|Thriller                                                                                                                                 NaN
+25120  Victor and the Secret of Crocodile Mansion (2012)  3.750000  Adventure|Children|Mystery                                                                                                                                 NaN
+25140                 Treasure of the Four Crowns (1983)  3.750000                   Adventure  indiana jones Treasure the Four Crowns booby traps 80s video treasure hunting indiana jones rip off treasure the four crowns Jonas
+25145                                   Les Tuche (2011)  4.250000                      Comedy                                                                                                                               added
+25147                                      Iceman (2014)  3.666667        Action|Comedy|Sci-Fi                                                                                                    odd Donnie Yen martial arts seen

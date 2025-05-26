@@ -1,0 +1,29 @@
+Анализ подкластера 556 в кластере 4
+Размер подкластера: 61 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.65
+
+Топ-5 жанров:
+genres
+Drama       27
+Comedy      14
+Action       8
+Thriller     8
+Romance      7
+
+Топ-5 тегов:
+tag
+Relationship    2
+Drama           2
+Story           2
+Malhotra        2
+lesbian         1
+
+Примеры фильмов:
+                                                                      title    rating                           genres                                                            tag
+31233  Ruined Heart: Another Love Story Between A Criminal & A Whore (2014)  3.000000           Action|Adventure|Drama                                                            NaN
+31242                                                 Get Your Stuff (2000)  5.000000                    Drama|Romance                                                            NaN
+31256         Puella Magi Madoka Magica the Movie Part I: Beginnings (2012)  3.571429  Action|Animation|Horror|Mystery  lesbian subtext Overrated Magical girl Good surprise lesbians
+31263                                                         Telets (2001)  3.250000                            Drama                                                        Sokurov
+31292                                                         Hacker (2002)  3.250000                           Comedy                                              computers hackers

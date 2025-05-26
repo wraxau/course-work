@@ -1,0 +1,25 @@
+Анализ кластера 478
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nudity     1
+brutal     1
+twist      1
+Jeremy     1
+Ron        1
+Avary      1
+Roger      1
+heist      1
+robbery    1
+bank       1
+
+Примеры фильмов:
+                  title                genres                                                                                                                                        tag
+478  Killing Zoe (1994)  Crime|Drama|Thriller  nudity (topless) Paris Nudity (Topless Notable) jazz club heroin AIDS drugs brutal bank robbery heist Roger Avary Ron Jeremy twist ending

@@ -1,0 +1,23 @@
+Анализ кластера 2518
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Horror       1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+easygoing        1
+King             1
+Kong             1
+wannabe          1
+monster:giant    1
+gorilla          1
+campy            1
+
+Примеры фильмов:
+                                                             title                          genres                                                      tag
+2518  Mighty Peking Man (a.k.a. Goliathon) (Xing xing wang) (1977)  Action|Adventure|Horror|Sci-Fi  easygoing King Kong wannabe monster:giant gorilla campy

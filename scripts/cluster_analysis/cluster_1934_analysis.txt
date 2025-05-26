@@ -1,0 +1,18 @@
+Анализ кластера 1934
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Fantasy     1
+Musical     1
+
+Топ-10 тегов:
+tag
+Christmas    1
+Jack         1
+Donohue      1
+
+Примеры фильмов:
+                        title                    genres                     tag
+1934  Babes in Toyland (1961)  Children|Fantasy|Musical  Christmas Jack Donohue

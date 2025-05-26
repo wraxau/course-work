@@ -1,0 +1,24 @@
+Анализ кластера 546
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Nudity       2
+nudity       1
+dude         1
+group        1
+threesome    1
+not          1
+triangle     1
+love         1
+Brief)       1
+(Topless     1
+
+Примеры фильмов:
+                title          genres                                                                                                                                           tag
+546  Threesome (1994)  Comedy|Romance  nudity (topless) comedy Lara Flynn Boyle friendship Nudity (Rear) poor gay dude Nudity (Topless Brief) love triangle not threesome group sex

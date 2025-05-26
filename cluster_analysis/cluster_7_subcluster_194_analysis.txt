@@ -1,0 +1,29 @@
+Анализ подкластера 194 в кластере 7
+Размер подкластера: 66 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.96
+
+Топ-5 жанров:
+genres
+Drama          22
+Comedy         13
+Crime          11
+Thriller        9
+Documentary     9
+
+Топ-5 тегов:
+tag
+comedy      4
+Plaza       3
+Aubrey      3
+reviewed    2
+nudity      2
+
+Примеры фильмов:
+                                  title  rating                   genres  tag
+26684     I Love Lucy: The Movie (1953)    4.00       (no genres listed)  NaN
+26688               Martial Club (1981)    2.00                   Action  NaN
+26689        Alice in Wonderland (1966)    1.25  Children|Fantasy|Sci-Fi  NaN
+26690  Pleasure at Her Majesty's (1976)    4.00       Comedy|Documentary  NaN
+26694      The Trip to Bountiful (2014)    4.00                    Drama  NaN

@@ -1,0 +1,17 @@
+Анализ кластера 426
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+John         1
+Whitesell    1
+teen         1
+
+Примеры фильмов:
+                    title        genres                  tag
+426  Calendar Girl (1993)  Comedy|Drama  John Whitesell teen

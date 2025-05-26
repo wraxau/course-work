@@ -1,0 +1,23 @@
+Анализ кластера 2306
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+ewan       1
+Blethyn    1
+Jane       1
+Badland    1
+Annette    1
+Herman     1
+Mark       1
+queue      1
+Netflix    1
+Brenda     1
+
+Примеры фильмов:
+                    title  genres                                                                                                                                       tag
+2306  Little Voice (1998)  Comedy  ewan mcgregor michael caine Philip Jackson Nudity (Topless Brief) Brenda Blethyn Netflix queue Mark Herman Annette Badland Jane Horrocks

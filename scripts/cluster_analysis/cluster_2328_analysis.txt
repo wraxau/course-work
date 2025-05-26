@@ -1,0 +1,24 @@
+Анализ кластера 2328
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+good            2
+Stallone        2
+not             1
+drama           1
+self-parody     1
+sport:boxing    1
+betrayal        1
+fighting        1
+worst           1
+series          1
+
+Примеры фильмов:
+               title        genres                                                                                                                                                                                                                                                                                                                                                tag
+2328  Rocky V (1990)  Action|Drama  Boxing crapflix Sage Stallone boxing Sylvester Stallone unlikable characters idiot action competitive sport box franchise Talia Shire Tommy Morrison sports Burgess Meredith good plot setting:Philadelphia drama self-parody sport:boxing betrayal fighting worst series brutality not good other rocky films for kids Burt Young face heel turn

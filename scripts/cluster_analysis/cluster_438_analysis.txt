@@ -1,0 +1,25 @@
+Анализ кластера 438
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+the           3
+time          3
+action        3
+cryonics      2
+travel        2
+dystopia      2
+Los           1
+dumb          1
+satire        1
+futuristic    1
+
+Примеры фильмов:
+                     title                   genres                                                                                                                                                                                                                                                                                                                                                                                   tag
+438  Demolition Man (1993)  Action|Adventure|Sci-Fi  Los Angeles cryonics comedy all the time hilarious seen the cinema Sandra Bullock Sylvester Stallone Prophetic action Futuristmovies.com Benjamin Bratt action groovy funny Can't remember Wesley Snipes cryonics not time travel satire futuristic Business the antagonist sci-fi time travel dystopia dumb dystopia Denis Leary future Owned Marco Brambilla taco bell good action

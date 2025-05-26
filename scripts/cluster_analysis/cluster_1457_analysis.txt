@@ -1,0 +1,25 @@
+Анализ кластера 1457
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Crime      1
+Romance    1
+
+Топ-10 тегов:
+tag
+soundtrack    3
+comedy        3
+Cusack        2
+reunion       2
+man           1
+acting        1
+light         1
+anti-hero     1
+hit           1
+men           1
+
+Примеры фильмов:
+                           title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1457  Grosse Pointe Blank (1997)  Comedy|Crime|Romance  John Cusack Great Ensemble Cast soundtrack pen the neck off-beat comedy Dan Aykroyd belivability 80s soundtrack jonossa George Armitage rewatchable its full comedy movie super-hero assassin funny little soft Joan Cusack killer-as-protagonist classic unrealistic good acting light anti-hero reunion hit men predictable Minnie Driver dysku mafia lighting man mystery dialogue great soundtrack Alan Arkin see: crime high school rekindled love college reunion dark comedy

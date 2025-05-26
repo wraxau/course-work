@@ -1,0 +1,29 @@
+Анализ подкластера 658 в кластере 1
+Размер подкластера: 53 фильмов
+Средний рейтинг: 2.62
+Медиана рейтинга: 2.76
+Дисперсия рейтинга: 0.80
+
+Топ-5 жанров:
+genres
+Comedy       21
+Drama        18
+Children     11
+Romance      11
+Adventure     9
+
+Топ-5 тегов:
+tag
+family           2
+Psychological    2
+sex              2
+Sergio           1
+Doppelganger     1
+
+Примеры фильмов:
+                             title  rating                  genres  tag
+25672     Escape from Crime (1942)     NaN             Crime|Drama  NaN
+25701   Alice in Murderland (2010)     0.5         Horror|Thriller  NaN
+25704            On the Ice (2011)     3.0          Drama|Thriller  NaN
+25706           Let It Snow (2013)     3.0  Children|Drama|Romance  NaN
+25747  The Magnificent Trio (1966)     3.5    Action|Drama|Romance  NaN

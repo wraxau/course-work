@@ -1,0 +1,24 @@
+Анализ кластера 2029
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+nudity         1
+(topless)      1
+like-i-like    1
+top            1
+pick           1
+reviewed       1
+social         1
+commentary     1
+own            1
+Social         1
+
+Примеры фильмов:
+                    title       genres                                                                                                 tag
+2029  Grand Canyon (1991)  Crime|Drama  nudity (topless) like-i-like top pick reviewed social commentary own Social Drama Nudity (Topless)

@@ -1,0 +1,20 @@
+Анализ кластера 1776
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+
+Топ-10 тегов:
+tag
+Sammo     1
+Hung      1
+Kam-Bo    1
+Jackie    1
+Chan      1
+kung      1
+
+Примеры фильмов:
+                                     title         genres                                 tag
+1776  Mr. Nice Guy (Yat goh ho yan) (1997)  Action|Comedy  Sammo Hung Kam-Bo Jackie Chan kung

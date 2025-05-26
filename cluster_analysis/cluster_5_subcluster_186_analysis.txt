@@ -1,0 +1,29 @@
+Анализ подкластера 186 в кластере 5
+Размер подкластера: 17 фильмов
+Средний рейтинг: 2.73
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.72
+
+Топ-5 жанров:
+genres
+Thriller     6
+Drama        5
+Action       4
+Adventure    4
+Comedy       4
+
+Топ-5 тегов:
+tag
+Great      4
+Gay        2
+music      2
+ratings    2
+300        2
+
+Примеры фильмов:
+                                         title    rating                              genres                                                                                              tag
+22839  Tom at the Farm (Tom à la ferme) (2013)  3.539474                               Drama  closeted homosexual Xavier Dolan gay romance quebec Canada Gay Lead Character Gay Character gay
+22842                      Wonder Woman (2009)  3.171053  Action|Adventure|Animation|Fantasy                                                              less 300 ratings Lauren Montogomery
+22843              Flowers in the Attic (2014)  2.789474              Drama|Mystery|Thriller                                                               grandparents incest Kiernan Shipka
+22845                Android Apocalypse (2006)  2.000000                     Sci-Fi|Thriller                                                                                              NaN
+22849                   Sleep Room, The (1998)       NaN                      Drama|Thriller                                                                                     Anne Wheeler

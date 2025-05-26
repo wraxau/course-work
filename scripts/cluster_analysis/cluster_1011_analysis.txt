@@ -1,0 +1,26 @@
+Анализ кластера 1011
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Musical      1
+
+Топ-10 тегов:
+tag
+Disney      2
+live        2
+action      2
+musical     1
+kids        1
+and         1
+family      1
+buy         1
+Sean        1
+Marshall    1
+
+Примеры фильмов:
+                     title                                genres                                                                                                                                                                                                                                                                                                                        tag
+1011  Pete's Dragon (1977)  Adventure|Animation|Children|Musical  musical Mickey Rooney Jim Dale Betamax characters cartoon-reality crossover action boring Disney acting funny dragons classic animation live action interact Disney animated feature live action/animation BD-Video kids and family buy Sean Marshall music drinking Animation dragon singing fun Helen Reddy Red Buttons

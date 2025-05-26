@@ -1,0 +1,24 @@
+Анализ кластера 213
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+seen            2
+romantic        2
+dialogue        2
+one             2
+conversation    2
+people          2
+love            2
+movie           1
+minimalist      1
+special         1
+
+Примеры фильмов:
+                     title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+213  Before Sunrise (1995)  Drama|Romance  overrated atmospheric Best Rotten Tomatoes: All Time long takes ethan hawke Vienna poignant romantic talky love Richard Linklater intelligent really romantic conversation Bibliothek realism boring one night stand quirky understated seen more once AMERICANS ABROAD vienna dialogue driven jolie delpy slow paced love story young people Julie Delpy philosophical romance BRIEF ENCOUNTERS fascinating how conversation and two people keep you interested one day generation cerebral witty seen 2014 Special Subscription ClearPlay girlie movie minimalist cinematography need own holes90s loneliness wistful buy literate thought-provoking must see philosophy TWENTYSOMETHING LIFE special reflective library imdb top 250 urbane (s)vcd Favorite dialogue reminded thoughts had when was that age facebook rec MKV VACATION ROMANCES BGAB LRC touching trains Castle Rock Austria bittersweet

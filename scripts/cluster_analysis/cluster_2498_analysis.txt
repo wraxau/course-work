@@ -1,0 +1,24 @@
+Анализ кластера 2498
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+
+Топ-10 тегов:
+tag
+jackie       1
+chan         1
+clever       1
+slapstick    1
+arts         1
+martial      1
+Kong         1
+Hong         1
+siblings     1
+Chan         1
+
+Примеры фильмов:
+                                      title         genres                                                                                                                                                                          tag
+2498  Twin Dragons (Shuang long hui) (1992)  Action|Comedy  jackie chan multiple roles lighthearted hilarious witty tsui hark better expected twins mistaken identity Jackie Chan siblings Hong Kong martial arts slapstick clever kung

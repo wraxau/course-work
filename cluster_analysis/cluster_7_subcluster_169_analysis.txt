@@ -1,0 +1,29 @@
+Анализ подкластера 169 в кластере 7
+Размер подкластера: 60 фильмов
+Средний рейтинг: 2.87
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.90
+
+Топ-5 жанров:
+genres
+Drama       25
+Comedy      14
+Romance      9
+Thriller     8
+Horror       7
+
+Топ-5 тегов:
+tag
+reviewed    2
+Good        2
+tale        2
+fairy       2
+action      2
+
+Примеры фильмов:
+                                       title    rating                     genres                                   tag
+28027                      About Alex (2014)  3.527778                      Drama  reviewed cast coming age Jesse Zwick
+28040  Tom and Jerry: The Lost Dragon (2014)  0.500000  Animation|Children|Comedy                                   NaN
+28078                  Gimme the Loot (2013)  3.416667                      Drama                                   NaN
+28084                        Assassin (2015)  1.500000             Crime|Thriller                                   NaN
+28102              Kingdom of Shadows (2015)  3.500000                Documentary                                   NaN

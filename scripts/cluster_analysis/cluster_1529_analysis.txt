@@ -1,0 +1,15 @@
+Анализ кластера 1529
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Martha      1
+Coolidge    1
+
+Примеры фильмов:
+                  title  genres              tag
+1529  Out to Sea (1997)  Comedy  Martha Coolidge

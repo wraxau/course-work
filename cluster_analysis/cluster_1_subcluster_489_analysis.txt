@@ -1,0 +1,29 @@
+Анализ подкластера 489 в кластере 1
+Размер подкластера: 35 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.79
+
+Топ-5 жанров:
+genres
+Comedy      13
+Drama       11
+Romance      6
+Thriller     5
+Crime        4
+
+Топ-5 тегов:
+tag
+added     3
+acting    2
+comedy    2
+drugs     1
+Katis     1
+
+Примеры фильмов:
+                                title    rating         genres                              tag
+25087       Neurons to Nirvana (2013)  4.250000    Documentary          drugs Oliver Hockenhull
+25091                Dream Boy (2008)  2.583333  Drama|Romance  painfully bad acting incest gay
+25094          Les invincibles (2013)  2.250000         Comedy                              NaN
+25100  On a marché sur Bangkok (2014)  2.833333         Comedy                              NaN
+25103         Secrets Of State (2008)  4.333333       Thriller                              NaN

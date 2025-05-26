@@ -1,0 +1,29 @@
+Анализ подкластера 315 в кластере 2
+Размер подкластера: 24 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Comedy         11
+Drama          11
+Documentary     3
+Romance         3
+Crime           2
+
+Топ-5 тегов:
+tag
+nudity         3
+protagonist    2
+drama          2
+school         1
+adapted        1
+
+Примеры фильмов:
+                             title    rating                genres                                                                             tag
+18586  Great Bank Hoax, The (1978)  1.500000          Comedy|Crime                                                          heist Richard Basehart
+18588            Reel Injun (2009)  3.625000           Documentary                                                                Native Americans
+18597            State Fair (1933)  2.666667  Comedy|Drama|Romance                                                                      Henry King
+18598      Grave Encounters (2011)  3.273077                Horror  creepy horror Bob*ola mental hospital found footage asylum ghosts supernatural
+18611                 Toast (2010)  3.250000          Comedy|Drama                                                                             NaN

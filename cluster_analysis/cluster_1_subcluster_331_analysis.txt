@@ -1,0 +1,29 @@
+Анализ подкластера 331 в кластере 1
+Размер подкластера: 55 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.02
+Дисперсия рейтинга: 0.79
+
+Топ-5 жанров:
+genres
+Comedy      22
+Drama       22
+Action      12
+Crime        9
+Thriller     8
+
+Топ-5 тегов:
+tag
+spy        5
+Award      3
+Academy    3
+comedy     3
+action     3
+
+Примеры фильмов:
+                                        title    rating                       genres  tag
+25417  Today We Kill, Tomorrow We Die! (1968)  3.500000             Thriller|Western  NaN
+25418   The Soldier On Great Maneuvers (1978)  3.000000                       Comedy  NaN
+25420            Colt 38 Special Squad (1976)  3.000000  Action|Crime|Drama|Thriller  NaN
+25421                  Ricky & Barabba (1992)  3.000000                       Comedy  NaN
+25433                             Fans (1999)  1.666667                       Comedy  NaN

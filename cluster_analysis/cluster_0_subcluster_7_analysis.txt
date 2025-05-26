@@ -1,0 +1,29 @@
+Анализ подкластера 7 в кластере 0
+Размер подкластера: 25 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Drama      13
+Comedy      9
+Fantasy     7
+Action      6
+Romance     5
+
+Топ-5 тегов:
+tag
+Nudity    5
+cult      3
+arts      3
+film      3
+and       3
+
+Примеры фильмов:
+                                           title    rating                genres                                                                                                                           tag
+8851                             Genocide (1982)  3.500000           Documentary                                                                               WWII documentary Holocaust Oscar (Best Picture)
+8860                             D.C. Cab (1983)  2.371212         Action|Comedy                                                                                             less 300 ratings Nudity (Topless)
+8875                              Star 80 (1983)  3.189655                 Drama  nudity (topless) movie business Nudity (Topless Notable) Betamax setting:Playboy mansion (scene) Nudity (Topless) true story
+8877                     Strange Invaders (1983)  2.833333  Drama|Romance|Sci-Fi                                                                                                                           NaN
+8884  One Deadly Summer (L'été meurtrier) (1983)  3.285714  Comedy|Drama|Mystery                                                                                              Jean Becker Insanely Hot Actress

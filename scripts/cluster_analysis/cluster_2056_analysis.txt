@@ -1,0 +1,26 @@
+Анализ кластера 2056
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Drama        1
+
+Топ-10 тегов:
+tag
+animation      2
+Animated       2
+atmospheric    1
+engineering    1
+BD-Video       1
+Nostalgia      1
+Critic's       1
+Top            1
+adapted        1
+from:book      1
+
+Примеры фильмов:
+                           title                              genres                                                                                                                                                                                                                                                                                                                                        tag
+2056  Secret of NIMH, The (1982)  Adventure|Animation|Children|Drama  atmospheric Don Bluth Bechdel Test:Pass Betamax Animated heroine mouse based book Jerry Goldsmith seen more once great animation directorial debut Can't remember mice anthropomorphic BD-Video Nostalgia Critic's Top adapted from:book genetic engineering talking animals rats animation Saturn Award (Best Animated Film) fantasy IhQ

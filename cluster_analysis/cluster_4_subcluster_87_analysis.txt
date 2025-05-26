@@ -1,0 +1,29 @@
+Анализ подкластера 87 в кластере 4
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.11
+Дисперсия рейтинга: 0.46
+
+Топ-5 жанров:
+genres
+Documentary    2
+Thriller       2
+Comedy         2
+Drama          2
+Children       1
+
+Топ-5 тегов:
+tag
+funny           2
+Yard            2
+dancing         2
+Longest         2
+RemakeOf:The    2
+
+Примеры фильмов:
+                                          title    rating                genres                                                                                                                                                                                                                                                                                                                                      tag
+10147                   Mad Hot Ballroom (2005)  3.869403  Children|Documentary  computer documentary New York City musical Yomaira Reynoso to-rent rent Michell Rodriguez latin music education teachers Allyssa Pollack realistic leaves you smiling children competition real kids ballroom dancing Elsamelys Ulerio Seen 2006 joy dancing adorable dance Wilson Castillo see again Dance heartwarming Marilyn Agrelo
+10148              Tell Them Who You Are (2004)  3.125000           Documentary                                                                                                                                                                                                                                                                                                                                      NaN
+10149  Dominion: Prequel to the Exorcist (2005)  2.298507       Horror|Thriller                                                                                                                                                                                                                                                                           pointless Stay out! cinematographer:Vittorio Storaro franchise
+10150                  Longest Yard, The (2005)  3.103373          Comedy|Drama    comedy dt: Spiel ohne Regeln Burt Reynolds Nelly remade RemakeOf:The Longest Yard (2005) Adam Sandler Divx1 football remake Prison sports funny very funny RemakeOf:The Longest Yard (1974) sport:American football adam sandler James Cromwell Sports Coordinator:Mark Ellis movie see Lonesome Polecat prison chris rock Chris Rock
+10151                        Saving Face (2004)  3.733333  Comedy|Drama|Romance                                                    nudity (topless) lesbian Wonderful Asian Film That Shows Why Shouldn't Hide Who Really Are See perrot library Alice reviewed lesbians hiding their identities queer English-language millenial comedies Gay saving face feel good silly Chinese culture netflix queue Funniest Movies

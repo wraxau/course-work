@@ -1,0 +1,29 @@
+Анализ подкластера 96 в кластере 8
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Drama          19
+Documentary     8
+Comedy          6
+Horror          3
+War             3
+
+Топ-5 тегов:
+tag
+movie        4
+bad          2
+Criterion    2
+sci-fi       2
+action       2
+
+Примеры фильмов:
+                                                                         title    rating        genres                                                                                   tag
+18023  Happiest Girl in the World, The (Cea mai fericita fata din lume) (2009)  3.000000         Drama                                                                                   NaN
+18024                                                     Examined Life (2008)  3.666667   Documentary                                                                            philosophy
+18025                          Wadd: The Life & Times of John C. Holmes (1999)  2.750000   Documentary                                                            pornography movie business
+18026     Don't Deliver Us from Evil (Mais ne nous délivrez pas du mal) (1971)  3.083333  Drama|Horror                                                                                   NaN
+18027                         Three Outlaw Samurai (Sanbiki no samurai) (1964)  3.617647  Action|Drama  Tetsuro Tanba samurai Criterion Miyuki Kuwano Hideo Gosha graphic novel action honor

@@ -1,0 +1,29 @@
+Анализ подкластера 16 в кластере 0
+Размер подкластера: 42 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama      23
+Comedy     17
+Crime       8
+Romance     8
+Musical     5
+
+Топ-5 тегов:
+tag
+based    9
+story    9
+true     7
+book     4
+the      4
+
+Примеры фильмов:
+                                                                            title    rating          genres                                                                                                                                                                                                                                                                                                                                                                       tag
+10801                                                     Temptations, The (1998)  3.411765   Drama|Musical                                                                                                                                                                                                                                                                                                                                                              Allan Arkush
+10802     Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005)  3.881054       Drama|War  Straight forward german White Rose simple memasa's movies martyrdom true story conversation netflix Nazis resistance movement Marc Rothemund interrogation Fantastic Foreign Films strong woman WOMEN DURING WARTIME Julia Jentsch dysku FIGHTING THE SYSTEM 7.0-FilmAffinity World War based true story Germany Reference Aktion beautiful See: Requiem anti-war ideals
+10803                                                       Big House, The (1930)  3.416667  Drama|Thriller                                                                                                                                                                                                                                                                                                                                                     Ward Wing George Hill
+10804  Numbskull Emptybrook in the Army (Uuno Turhapuro armeijan leivissä) (1984)  2.671053          Comedy                                                                                                                                                                                                                                                                                                                                                                       NaN
+10805                                    Matti: Hell Is for Heroes (Matti) (2006)  2.549451    Comedy|Drama                                                                                       sports hero manager strippers travel Biography domestic violence Olympics addition news media gullibility bar alcoholism sports falling satirical satire alcohol 1990s anti-hero dvr ski jumping drinking conviction Finnish husband-wife relationship singing police 1980s success

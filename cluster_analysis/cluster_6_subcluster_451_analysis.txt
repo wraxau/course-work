@@ -1,0 +1,29 @@
+Анализ подкластера 451 в кластере 6
+Размер подкластера: 56 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.41
+
+Топ-5 жанров:
+genres
+Drama       29
+Comedy      13
+Thriller    10
+Horror       8
+Crime        8
+
+Топ-5 тегов:
+tag
+based      7
+story      6
+nudity     4
+true       4
+Netflix    3
+
+Примеры фильмов:
+                                  title    rating                 genres                                             tag
+13219              Ace of Hearts (2008)  2.428571         Children|Drama                                             NaN
+13222              Fools' Parade (1971)  1.750000  Comedy|Drama|Thriller                                             NaN
+13240  Nothing Like the Holidays (2008)  2.875000   Comedy|Drama|Romance  John Leguizamo add prospects list Luis GuzmÃ¡n
+13241                Climax, The (1944)  1.700000         Horror|Musical   Turhan Bey Boris Karloff waste time not scary
+13242          Strange Door, The (1951)  2.900000                 Horror                                             NaN

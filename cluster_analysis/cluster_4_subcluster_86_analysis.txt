@@ -1,0 +1,29 @@
+Анализ подкластера 86 в кластере 4
+Размер подкластера: 55 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 1.38
+
+Топ-5 жанров:
+genres
+Drama          19
+Thriller       13
+Comedy         12
+Horror         11
+Documentary     8
+
+Топ-5 тегов:
+tag
+atmospheric    3
+documentary    3
+musicians      2
+survival       2
+good           2
+
+Примеры фильмов:
+                         title  rating                   genres                                                                                                                                tag
+30581              Skew (2011)    3.00  Horror|Mystery|Thriller                                                                                                                                NaN
+30583  Top of the World (1998)    5.00    Action|Drama|Thriller                                                                                                                                NaN
+30587        Shark Week (2012)    2.00                   Horror                                                                                                                                NaN
+30588    Annie's Garden (1997)    2.00           Drama|Thriller                                                                                                                                NaN
+30592      Gallows, The (2015)    2.26                   Horror  scary survival horror atmospheric found footage genrally dont like lame ending unnerving night bad movie decent movie jump scares

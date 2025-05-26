@@ -1,0 +1,25 @@
+Анализ кластера 1186
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Film-Noir    1
+Mystery      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+classic       3
+soundtrack    3
+AFI           3
+noir          3
+WWII          2
+music         2
+black         2
+100           2
+love          2
+top           2
+
+Примеры фильмов:
+                      title                      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+1186  Third Man, The (1949)  Film-Noir|Mystery|Thriller  classic soundtrack poignant zither Classic Bechdel Test:Pass (technically but not really) joseph cotton Carol Reed DANGEROUS FRIENDS Venice ferris wheel noir thriller disorientation foreign language music black market Trevor Howard black and white 1940s AFI 100 AFI #57 erlend's DVDs soundtrack post WWII AFI 100 (Thrills) Alida Valli google video mystery boring BFI classic Catchy Score murder plot point:animal:cat orson welles disorientating INNOCENCE LOST imdb top 250 Criterion Austria Old atmospheric Best Rotten Tomatoes: All Time Joseph Cotton cemetary funeral disorientation soundtrack music musical score drives crazy! Tumey's DVDs noir Graham Greene Joseph Cotten sewer/tunnel chase carol reed great visuals WWII great cinematography MIND GAMES ambivalent film noir CONS AND SCAMS wry Janus stylized Oscar (Best Cinematography) novelist protagonist final scene photography mvlc Vienna love this movie Orson Welles based book mind games vienna top 250 IMDB FALTERING FRIENDSHIPS ominous classic Golden Palm need own cinematography cool sewer chase scene disturbing setting:Vienna the nature love Amazing Cinematography bitter ending favourite all

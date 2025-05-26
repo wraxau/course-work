@@ -1,0 +1,29 @@
+Анализ подкластера 20 в кластере 0
+Размер подкластера: 48 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.34
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Drama       25
+Comedy      17
+Thriller    10
+Crime        8
+Horror       7
+
+Топ-5 тегов:
+tag
+ending     12
+Oscar       9
+story       9
+acting      8
+ratings     8
+
+Примеры фильмов:
+                                                    title    rating                 genres                                                                                                                                                                                                                                                                                    tag
+12197                        Manufacturing Dissent (2007)  2.531250            Documentary                                                                                                                                                                                                                                                    documentary movie business politics
+12198                                  Black Sheep (2006)  3.083333          Comedy|Horror                                                                  zombies Nudity (Topless Brief) mutation easily confused with other movie(s) (title) mad scientist gore mutants sheep Zombies activism activist genetics brothers food sheep zombies splatter cooking New Zealand farm
+12199  Edge of Heaven, The (Auf der anderen Seite) (2007)  3.896982                  Drama  atmospheric political great acting culture clash powerful turkish music complex characters local flavor realistic lesbian character migrant cinema fatih akin cinematography Fatih Akin death multiple storylines ensemble cast crossed lifes interwoven lives library prison transit
+12200         Tyler Perry's Why Did I Get Married? (2007)  2.752941           Comedy|Drama                                                                                                                                                                                                                   relationships Janet Jackson Tyler Perry African-American Sharon Leal
+12201                                       Saw IV (2007)  2.796138  Crime|Horror|Thriller                                                                                                                                               mindfuck serial killer franchise Psychological horror Darren Lynn Bousman the best movie ever made movie see torture twist ending clever

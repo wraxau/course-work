@@ -1,0 +1,27 @@
+Анализ кластера 21
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Horror      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+detective      2
+thriller       2
+female         2
+protagonist    1
+suspense       1
+seen           1
+suspenseful    1
+Weaver         1
+Sigourney      1
+mystery        1
+
+Примеры фильмов:
+             title                               genres                                                                                                                                                                             tag
+21  Copycat (1995)  Crime|Drama|Horror|Mystery|Thriller  mystery strong female lead serial killer claustrophobic agoraphobia detective thriller Sigourney Weaver suspenseful detective seen suspense female protagonist trauma thriller

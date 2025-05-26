@@ -1,0 +1,24 @@
+Анализ кластера 1577
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nudity         1
+(topless)      1
+cia            1
+Ben            1
+Kingsley       1
+terrorism      1
+Donald         1
+Sutherland     1
+Personality    1
+change         1
+
+Примеры фильмов:
+                       title           genres                                                                                                tag
+1577  Assignment, The (1997)  Action|Thriller  nudity (topless) cia Ben Kingsley terrorism Donald Sutherland Personality change spies undercover

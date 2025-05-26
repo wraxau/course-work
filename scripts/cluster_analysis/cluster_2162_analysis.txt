@@ -1,0 +1,16 @@
+Анализ кластера 2162
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                      title                 genres  tag
+2162  Stars and Bars (1988)  Action|Comedy|Romance  NaN

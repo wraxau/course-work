@@ -1,0 +1,25 @@
+Анализ кластера 907
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+AFI           5
+100           4
+soundtrack    3
+DVD           2
+DVDs          2
+kubrick       2
+great         2
+Kubrick       2
+seen          2
+future        2
+
+Примеры фильмов:
+                            title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+907  2001: A Space Odyssey (1968)  Adventure|Drama|Sci-Fi  superb soundtrack set design USA groundbreaking breakthroughs space FUTURE DYSTOPIAS genius slow Dull author:Arthur Clarke future art deco BENIGN ALIENS Futuristmovies.com Book philosophical aliens realistic pretentiousness cinematographer:Geoffrey Unsworth stanley kubrick video surveillance monkey dull music cult film symbolic silence story the film!! head movie dialogue AFI 100 COMPUTER PARANOIA overrated erlend's DVDs soundtrack Betamax polysemic evolution space travel incoherent Hall 9000 avante-garde AFI 100 (Thrills) DVD sparse mystery boring don't watch this sleepy from your bed HAL 9000 hal visionary Mindfuck Classic villain Arthur Clarke fast-forwarding overlong beginnings somber scifi chilly futuristic Ligeti see: sci revolutionary stars sci-fi Breathtaking kubrick ade geia pretentious imdb top 250 setting:space/space ship AFI 100 (Movie Quotes) breathtaking AFI 100 (Cheers) Hugo Award first contact atmospheric National Film Registry simple oppressive soundtrack spacecraft classic sci-fy insightful surreal seen more once SPACE TRAVEL Tumey's DVDs hard rate Great Art Direction cerebral AFI #22 artificial intelligence meditative supernatural Oscar (Best Effects Visual Effects) episodic adapted from:book baffling Hal enigmatic shallow plot deliberate adventure visual seen 2011 cosmic apes portrayed human-precursers Veja computer Stanley Kubrick great villain visually appealing based book camera ohsoso Cool but freaky tedious effects masterpiece slow paced spaceships Stoner Movie classic 70mm apes relaxing cinematography Super Panavision BD-Video DVD Collection scenic great special-fx future pretentious garbage about good things Amazing Cinematography robots related:2001 confusing ending annoying Richard Strauss Dawn Man pointless Kubrick

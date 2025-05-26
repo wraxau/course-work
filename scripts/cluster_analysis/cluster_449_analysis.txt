@@ -1,0 +1,23 @@
+Анализ кластера 449
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Michael       2
+Concierge     1
+Hotels        1
+Gabrielle     1
+Anwar         1
+Barry         1
+Sonnenfeld    1
+Tucker        1
+Fox           1
+
+Примеры фильмов:
+                        title          genres                                                                           tag
+449  For Love or Money (1993)  Comedy|Romance  Concierge Hotels Gabrielle Anwar Barry Sonnenfeld Michael Tucker Michael Fox

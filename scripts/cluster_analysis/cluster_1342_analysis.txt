@@ -1,0 +1,24 @@
+Анализ кластера 1342
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+space      3
+movie      2
+show       2
+science    1
+fiction    1
+cheap      1
+laughs     1
+aliens     1
+70mm       1
+Star       1
+
+Примеры фильмов:
+                                       title         genres                                                                                                                                                                                                                                                                                                                                                                              tag
+1342  Star Trek V: The Final Frontier (1989)  Action|Sci-Fi  odd-numbered movie seen the cinema James Doohan Deforrest Kelley Golden Raspberry (Worst Actor) space fighting intruders franchise Walter Koenig noise space really bad plot Anamorphic Blow-Up Based show science fiction cheap laughs aliens 70mm Star Trek BD-Video not goog movie George Takei space opera future Nichelle Nichols Leonard Nimoy William Shatner based show

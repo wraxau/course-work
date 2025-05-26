@@ -1,0 +1,29 @@
+Анализ подкластера 224 в кластере 3
+Размер подкластера: 13 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.68
+
+Топ-5 жанров:
+genres
+Drama          8
+Comedy         2
+Documentary    2
+Action         2
+Adventure      1
+
+Топ-5 тегов:
+tag
+seen         2
+farce        1
+from:play    1
+based        1
+play         1
+
+Примеры фильмов:
+                                                     title    rating                genres                                                                                                                 tag
+22164                                Beautiful Wave (2011)  2.500000       Adventure|Drama                                                                                                                 NaN
+22165  Things We Do For Love (Kaikella rakkaudella) (2013)  3.800000                 Drama                                                                                                           seen 2015
+22166                                    Last Vegas (2013)  3.204280  Comedy|Drama|Romance                                           Seen 2014 friendship nudity old age Oscar winners seen airplane Las Vegas
+22167                                 Muscle Shoals (2013)  3.682692           Documentary                                                                            reviewed musicians Alabama Greg Camalier
+22168                             Hollow Crown, The (2012)  3.928571                 Drama  Rupert Goold miniseries Thea Sharrock Richard Eyre adapted from:play based play playwright:Shakespeare Shakespeare

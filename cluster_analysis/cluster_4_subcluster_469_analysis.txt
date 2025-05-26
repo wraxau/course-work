@@ -1,0 +1,29 @@
+Анализ подкластера 469 в кластере 4
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.93
+
+Топ-5 жанров:
+genres
+Drama                 9
+Comedy                8
+(no genres listed)    4
+Thriller              3
+Sci-Fi                3
+
+Топ-5 тегов:
+tag
+reviewed    1
+feminism    1
+Jon         1
+robbery     1
+botched     1
+
+Примеры фильмов:
+                              title    rating                  genres                              tag
+30457          Echoes of War (2015)  3.000000  Drama|Thriller|Western                              NaN
+30458              Walk, The (2015)  3.717791                   Drama  reviewed Stupid, self-indulgent
+30460           French Women (2014)  3.000000                  Comedy                              NaN
+30492  The Last Man on Earth (2011)  1.750000            Drama|Sci-Fi                              NaN
+30503        Scattered Cloud (2011)  3.000000      (no genres listed)                              NaN

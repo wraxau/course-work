@@ -1,0 +1,24 @@
+Анализ кластера 2347
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+true           2
+doctor         2
+story          2
+comedy         1
+protagonist    1
+medical        1
+doctors        1
+Medicine       1
+Philip         1
+Seymour        1
+
+Примеры фильмов:
+                   title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+2347  Patch Adams (1998)  Comedy|Drama  comedy documentary robin williams Bob Gunton medschool medicien Red mouse sometimes not realistic enough love dont know true story Mental Hospital humanity medicine 15.02.06 good komediodramat underrated cheesy straw man insulting pediatrics Robin Williams drama unrealistic protagonist medical doctor doctors Medicine Philip Seymour Hoffman schmaltzy dramedy inspirational Monica Potter Paris Tom Shadyac doctor okay once DOCTORS AND PATIENTS unfunny bad based true story Daniel London overly sentimental psychiatry

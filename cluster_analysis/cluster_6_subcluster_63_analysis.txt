@@ -1,0 +1,29 @@
+Анализ подкластера 63 в кластере 6
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama       11
+Thriller     5
+Crime        4
+Comedy       3
+Horror       3
+
+Топ-5 тегов:
+tag
+Mike         3
+3-D          3
+Sydney       2
+animation    2
+franchise    2
+
+Примеры фильмов:
+                                                           title    rating                          genres                                                                    tag
+15419  Woman In Berlin, A (Anonyma - Eine Frau in Berlin) (2008)  3.576923                       Drama|War  nudity (topless) war cinematography complex characters post WWII rape
+15437                                              Aladin (2009)  3.277778  Comedy|Fantasy|Musical|Romance                                           magic Amitabh Bachchan genie
+15439                                           Tell-Tale (2009)  2.520000    Drama|Horror|Sci-Fi|Thriller                                                                    NaN
+15442                Don't Look Back (Ne te retourne pas) (2009)  3.000000   Drama|Horror|Mystery|Thriller                                                                    NaN
+15445                             Bad Girls (Biches, Les) (1968)  3.416667                   Drama|Mystery                             Claude Chabrol Les biches (titre original)

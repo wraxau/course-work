@@ -1,0 +1,29 @@
+Анализ подкластера 4 в кластере 3
+Размер подкластера: 132 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama       69
+Comedy      46
+Thriller    31
+Romance     23
+Horror      20
+
+Топ-5 тегов:
+tag
+Betamax    19
+book       14
+based      11
+action     10
+movie       9
+
+Примеры фильмов:
+                                                                     title    rating                  genres                                                                                                                                                                                                                                    tag
+5009                                                   Cows (Vacas) (1991)  3.555556                   Drama                                                                                                                                                                                                                     Julio Medem basque
+5024                              Saturday Night and Sunday Morning (1960)  3.889323                   Drama  Karel Reisz kitchen sink atmospheric biting matter-of-fact criterion british new wave CLASS DIFFERENCES downbeat Tumey's DVDs poignant SELF-DESTRUCTIVE ROMANCE tense Albert Finney TWENTYSOMETHING LIFE EXTRAMARITAL AFFAIRS austere
+5062                                       Church, The (Chiesa, La) (1989)  3.164384    Drama|Fantasy|Horror                                                                                                                                                                                                                     religion 80s video
+5065  Night of the Zombies (a.k.a. Hell of the Living Dead) (Virus) (1980)  2.163636  Action|Horror|Thriller                                                                                                                                                                                                                         zombies zombie
+5072                                           My Favorite Brunette (1947)  3.491667          Comedy|Mystery                                                                                                                                                                               mystery public domain Bob Hope parody innuendo film noir

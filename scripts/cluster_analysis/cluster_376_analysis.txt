@@ -1,0 +1,27 @@
+Анализ кластера 376
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Comedy       1
+Romance      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+seen            2
+Arnold          2
+ridiculous      2
+not             2
+comedy          1
+Funny           1
+explodeytime    1
+music           1
+enough          1
+hell            1
+
+Примеры фильмов:
+                title                                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+376  True Lies (1994)  Action|Adventure|Comedy|Romance|Thriller  comedy Want terrorism seen the cinema Super-35 Blow-Up Special effects James Cameron schwarzenegger double life Arnold Schwarzenegger action striptease thriller quirky reviewed seen more once Bill Paxton arnold mundane characters spies funny espionage secret agent Stereotyping Eliza Dushku 70mm ClearPlay Tia Carrere Jamie Lee Curtis foqam marriage Funny hell not ridiculous enough music ridiculous explodeytime buddy theme:lying racism shallow plot gadget car Téa Leoni does not star this movie decent thiller family thong Tom Arnold violence

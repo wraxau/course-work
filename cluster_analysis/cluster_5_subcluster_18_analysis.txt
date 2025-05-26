@@ -1,0 +1,29 @@
+Анализ подкластера 18 в кластере 5
+Размер подкластера: 161 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.83
+
+Топ-5 жанров:
+genres
+Drama          71
+Comedy         43
+Documentary    27
+Thriller       26
+Horror         25
+
+Топ-5 тегов:
+tag
+nudity       10
+bad           8
+based         8
+(topless)     8
+IMAX          8
+
+Примеры фильмов:
+                                                   title    rating             genres                                                                     tag
+21116  Four Seasons (Seasons, The) (Vremena goda) (1975)  3.750000        Documentary                                                      Artavazd Peleshian
+21121                       Bastards of the Party (2005)  3.500000        Documentary                                                       Cle Shaheed Sloan
+21125                 My Wrongs 8245-8249 and 117 (2002)  3.333333       Comedy|Drama                                                                     NaN
+21136                         Lords of Salem, The (2012)  2.770492    Horror|Thriller  nudity (topless) Satanism Witch Symbolism Rob Zombie inventive Surreal
+21141                          India: Matri Bhumi (1959)  3.500000  Documentary|Drama                                                      Roberto Rossellini

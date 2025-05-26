@@ -1,0 +1,29 @@
+Анализ подкластера 99 в кластере 6
+Размер подкластера: 59 фильмов
+Средний рейтинг: 2.55
+Медиана рейтинга: 2.68
+Дисперсия рейтинга: 0.92
+
+Топ-5 жанров:
+genres
+Drama        22
+Action       13
+Thriller     12
+Adventure    11
+Horror       11
+
+Топ-5 тегов:
+tag
+80s              2
+video            2
+intercultural    1
+Chinese          1
+title            1
+
+Примеры фильмов:
+                                      title    rating                           genres                                         tag
+26523                       Russkies (1987)  3.500000                   Children|Drama  intercultural understanding cold war youth
+26524  Hercules and the Lost Kingdom (1994)  2.681818  Action|Adventure|Fantasy|Sci-Fi                                         NaN
+26525               Rites of Passage (2012)  1.166667                         Thriller                                         NaN
+26526                    The Suspect (2013)  3.250000                         Thriller                                         NaN
+26527           Mongolian Death Worm (2010)  1.833333                    Horror|Sci-Fi                                         NaN

@@ -1,0 +1,23 @@
+Анализ кластера 1391
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy      2
+Michael     1
+Robert      1
+british     1
+Cleese      1
+John        1
+Schepisi    1
+Fred        1
+England     1
+Young       1
+
+Примеры фильмов:
+                        title  genres                                                                                                                                               tag
+1391  Fierce Creatures (1997)  Comedy  Michael Palin comedy management multiple roles scope humorous Jamie Lee Curtis Robert Young England Fred Schepisi John Cleese british comedy zoo

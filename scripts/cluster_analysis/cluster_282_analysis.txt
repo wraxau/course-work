@@ -1,0 +1,15 @@
+Анализ кластера 282
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama     1
+Horror    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                    title        genres  tag
+282  Beyond Bedlam (1993)  Drama|Horror  NaN

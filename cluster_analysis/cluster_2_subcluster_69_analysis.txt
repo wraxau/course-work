@@ -1,0 +1,29 @@
+Анализ подкластера 69 в кластере 2
+Размер подкластера: 195 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama          107
+Comedy          54
+Romance         29
+Thriller        28
+Documentary     24
+
+Топ-5 тегов:
+tag
+comedy    18
+not       12
+funny     11
+IMAX      10
+plot      10
+
+Примеры фильмов:
+                                 title    rating            genres                                                                                                                                                                                                          tag
+16440                Convict 13 (1920)  3.380952            Comedy                                                                                                                                                                                   Edward Cline Buster Keaton
+16448     Take the High Ground! (1953)  2.833333  Comedy|Drama|War                                                                                                                                                                                                          NaN
+16453  Klown: The Movie (Klovn) (2010)  3.544643            Comedy  relationships comedy Danish prostitution children road trip fatherhood canoeing recklessness 12/11 Based show father-son relationship Mikkel Nørgaard not available from Netflix Crazy hospital dark comedy
+16460             Primrose Path (1940)  2.833333             Drama                                                                                                                                                                                                 Gregory Cava
+16471     And Soon the Darkness (2010)  2.732143   Horror|Thriller                                                                                                                                                                                                  Amber Heard

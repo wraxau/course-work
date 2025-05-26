@@ -1,0 +1,29 @@
+Анализ подкластера 46 в кластере 4
+Размер подкластера: 143 фильмов
+Средний рейтинг: 3.31
+Медиана рейтинга: 3.41
+Дисперсия рейтинга: 0.90
+
+Топ-5 жанров:
+genres
+Drama                 49
+Comedy                36
+(no genres listed)    24
+Horror                22
+Thriller              15
+
+Топ-5 тегов:
+tag
+reviewed    3
+Drama       2
+bkk         2
+plot        2
+surgery     2
+
+Примеры фильмов:
+                                      title  rating                 genres                          tag
+30777                  A Woman Alone (1981)    2.75                  Drama                          NaN
+30778                         Legacy (2015)    3.25           Comedy|Drama                          NaN
+30786  Draquila - L'Italia che trema (2010)    4.00     (no genres listed)                          NaN
+30797                      The Cloth (2013)    0.50  Action|Fantasy|Horror  exorcism demonic possession
+30807                   Love My Life (2006)    1.00          Drama|Romance                      lesbian

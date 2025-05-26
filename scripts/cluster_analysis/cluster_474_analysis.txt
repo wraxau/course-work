@@ -1,0 +1,17 @@
+Анализ кластера 474
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+Barry       1
+Levinson    1
+
+Примеры фильмов:
+                      title              genres             tag
+474  Jimmy Hollywood (1994)  Comedy|Crime|Drama  Barry Levinson

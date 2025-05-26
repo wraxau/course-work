@@ -1,0 +1,29 @@
+Анализ подкластера 3 в кластере 8
+Размер подкластера: 267 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama       138
+Comedy       95
+Romance      56
+Thriller     44
+Crime        41
+
+Топ-5 тегов:
+tag
+movie     47
+nudity    35
+ending    34
+see       34
+Nudity    33
+
+Примеры фильмов:
+                                                               title    rating                 genres                                                                                                                                                                                                                                                                                                                              tag
+10652                                            Kid & I, The (2005)  2.166667                 Comedy                                                                                                                                                                                                                                                                                                                              NaN
+10661                                                   Havoc (2005)  2.796610    Crime|Drama|Romance                                                                                                                                           nudity (topless) Even seeing Pricess Diary Breasts can't save this movie nudity Nudity (Topless Notable) sex drugs and rnr Even Princesses Want Have Pig Sex Now Again...& Again drugs
+10672                                            Matador, The (2005)  3.437131  Comedy|Drama|Thriller  Dani2006 Greg Kinnear doesn't make the plot believable the ending the worst part Friendship Matt Damon quirky assassin Pierce Brosnan banal moral ummarti2006 midlife crisis Gfei own Black Comedy riot VHS great cinematography Brosnan Richard Shepard hitman not really black comedy assassination Offbeat Some good moments
+10681                                      Cinderella Liberty (1973)  3.400000          Drama|Romance                                                                                                                                                                                                                                                                                                                              NaN
+10683  Scene at the Sea, A (Ano natsu, ichiban shizukana umi) (1991)  3.632353         Comedy|Romance                                                                                                                                                                                                     01/11 drama takeshi kitano 04/11 surfing 11/11 deafness 05/11 10/10 06/11 03/11 12/10 12/11 01/12 11/10 Takeshi Kitano 02/11

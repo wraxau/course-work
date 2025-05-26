@@ -1,0 +1,29 @@
+Анализ подкластера 621 в кластере 4
+Размер подкластера: 42 фильмов
+Средний рейтинг: 3.31
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.59
+
+Топ-5 жанров:
+genres
+Drama       16
+Comedy      12
+Action      12
+Thriller     8
+Fantasy      6
+
+Топ-5 тегов:
+tag
+Julian         1
+Assange        1
+documentary    1
+political      1
+wikileaks      1
+
+Примеры фильмов:
+                         title  rating                    genres  tag
+32199     Little Dorrit (2008)  4.5000                     Drama  NaN
+32225        Ready? OK! (2008)  4.0000           Children|Comedy  NaN
+32229    All About Them (2015)  3.1250            Comedy|Romance  NaN
+32250   Catch That Girl (2002)  5.0000           Action|Children  NaN
+32256  Invisible Sister (2015)  2.1875  Adventure|Comedy|Fantasy  NaN

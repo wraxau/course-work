@@ -1,0 +1,17 @@
+Анализ кластера 512
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+military    1
+Penny       1
+Marshall    1
+
+Примеры фильмов:
+                      title        genres                      tag
+512  Renaissance Man (1994)  Comedy|Drama  military Penny Marshall

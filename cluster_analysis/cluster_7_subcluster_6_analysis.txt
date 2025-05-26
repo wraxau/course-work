@@ -1,0 +1,29 @@
+Анализ подкластера 6 в кластере 7
+Размер подкластера: 32 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.72
+
+Топ-5 жанров:
+genres
+Drama                 14
+Comedy                 9
+(no genres listed)     5
+Thriller               4
+Adventure              4
+
+Топ-5 тегов:
+tag
+time         2
+nudity       2
+(topless)    2
+Amin         1
+paradox      1
+
+Примеры фильмов:
+                              title  rating                       genres  tag
+27628         Madison Avenue (1962)     2.5                        Drama  NaN
+27640             The Plague (2006)     2.0  Documentary|Horror|Thriller  NaN
+27651  The Princess of Egypt (2013)     3.0                        Drama  NaN
+27669         The Last Round (1976)     3.0              Action|Thriller  NaN
+27673  The Iron Commissioner (1978)     3.0           (no genres listed)  NaN

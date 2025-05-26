@@ -1,0 +1,29 @@
+Анализ подкластера 119 в кластере 8
+Размер подкластера: 30 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama      14
+Romance    10
+Comedy      9
+Mystery     9
+Horror      7
+
+Топ-5 тегов:
+tag
+remake    6
+REDBOX    4
+comedy    4
+bad       4
+ending    4
+
+Примеры фильмов:
+                     title    rating                        genres                                                                                                                                                                                            tag
+15962         Patsy (2008)  1.500000  Comedy|Drama|Mystery|Romance                                                                                                                                            Christine Lakin Depression Schizophrenia Dark Humor
+15963  Tamara Drewe (2010)  3.067227          Comedy|Drama|Romance  fanatic fans misleading synopsis good acting small town Gemma Arterton countryside Dominic Cooper rock-star cheating husband comic book less 300 ratings England writers work romantic comedy
+15964     Tere Naam (2003)  3.400000                       Romance                                                                                                                                                                Emotional Salman Khan True Love
+15965     Every Day (2010)  3.361111                  Comedy|Drama                                                                                                                    New York City Ezra Miller Helen Hunt infidelity Liev Schreiber Carla Gugino
+15966    Red Canyon (2008)  3.000000        Action|Horror|Thriller                                                                                                                                                                                Christine Lakin

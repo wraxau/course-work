@@ -1,0 +1,26 @@
+Анализ кластера 640
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Mystery      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+good         3
+the          3
+Cruise       2
+storyline    2
+show         2
+confusing    2
+Palma        2
+less         2
+Tom          2
+more         2
+
+Примеры фильмов:
+                          title                             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+640  Mission: Impossible (1996)  Action|Adventure|Mystery|Thriller  Emmanuelle Beart mountain climbing good cast seen the cinema Guilty Pleasure Tom Cruise mole good guys Divx1 plot twists action gadgets thriller tom cruise reviewed Action spies Based show Classic Thriller less and more storyline please CIA suspense espionage more storyline Brian Palma confusing memorable sequence murder good performance predictable prequel far the best pick out the three Jean Reno Gfei own heist spying train dont like Tom Cruise song spy might hate Vanessa Redgrave John Voight adventure Best Palma military less confusing plot Henry Czerny big budget based show

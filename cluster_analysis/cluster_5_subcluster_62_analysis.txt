@@ -1,0 +1,29 @@
+Анализ подкластера 62 в кластере 5
+Размер подкластера: 19 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.04
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Drama       9
+Comedy      6
+Action      5
+Crime       4
+Thriller    3
+
+Топ-5 тегов:
+tag
+comedy        3
+Steven        3
+Seagal        3
+nudity        2
+soundtrack    2
+
+Примеры фильмов:
+                          title    rating        genres                            tag
+13492          Lost, The (2009)  2.687500      Thriller                            NaN
+13493   Still Waiting... (2009)  2.605769        Comedy        nudity (topless) comedy
+13494     Pistol Whipped (2008)  2.428571  Action|Drama  Steven Seagal Lance Henriksen
+13495     Flight of Fury (2007)  1.111111        Action                  Steven Seagal
+13496  Far Horizons, The (1955)  3.500000       Western                    VistaVision

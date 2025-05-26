@@ -1,0 +1,29 @@
+Анализ подкластера 219 в кластере 8
+Размер подкластера: 23 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.75
+
+Топ-5 жанров:
+genres
+Drama       18
+Crime        5
+Thriller     3
+Comedy       2
+Romance      2
+
+Топ-5 тегов:
+tag
+show      2
+good      2
+not       2
+based     2
+Walter    1
+
+Примеры фильмов:
+                          title    rating           genres                                                                                                      tag
+17477     Bright Victory (1951)  2.000000            Drama                                                                                                      NaN
+17478       Promise, The (1979)  3.500000            Drama                                                                                                      NaN
+17479     On the Riviera (1951)  2.333333   Comedy|Musical                                                                                   Walter Lang Danny Kaye
+17480     In Old Arizona (1928)  2.500000  Romance|Western                                                                                                      NaN
+17481  Between the Folds (2008)  3.782609      Documentary  androcentrism mind-bending informative visually appealing thought-provoking origami enthralling thought

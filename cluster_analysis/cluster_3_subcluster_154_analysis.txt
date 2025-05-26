@@ -1,0 +1,29 @@
+Анализ подкластера 154 в кластере 3
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.18
+
+Топ-5 жанров:
+genres
+Drama        4
+Comedy       2
+Musical      2
+Adventure    1
+Horror       1
+
+Топ-5 тегов:
+tag
+Shirley    3
+Temple     3
+William    2
+Seiter     2
+silly      2
+
+Примеры фильмов:
+                                       title    rating             genres                                        tag
+20219             Stand Up and Cheer! (1934)  2.833333     Comedy|Musical          Hamilton MacFadden Shirley Temple
+20220                        Stowaway (1936)  2.833333  Adventure|Musical              Shirley Temple William Seiter
+20221        Susannah of the Mounties (1939)  3.200000              Drama  Walter Lang Shirley Temple William Seiter
+20222              11 Flowers (Wo 11) (2011)  4.100000              Drama                                        NaN
+20223  Quatre garçons pleins d'avenir (1997)  3.000000             Comedy    academic failure comedy college student

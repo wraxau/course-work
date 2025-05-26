@@ -1,0 +1,24 @@
+Анализ кластера 2310
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Musical      1
+
+Топ-10 тегов:
+tag
+Martin      2
+based       2
+story       2
+slavery     1
+dvd         1
+Michelle    1
+Pfeiffer    1
+Patrick     1
+Stewart     1
+Steve       1
+
+Примеры фильмов:
+                            title             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+2310  Prince of Egypt, The (1998)  Animation|Musical  slavery Brenda Chapman protagonist royal animated soundtrack epic adventure seen the cinema Sandra Bullock Val Kilmer Bible characters Danny Glover forgiveness based book family bonds dreamworks Jeff Goldblum Biblical reviewed erlend's dvds Christianity egypt Michelle Pfeiffer Patrick Stewart Steve Martin Martin Short Moses religious music inspiring story dvd christian animation excellent Dreamworks Prince Owned Cartoon based true story Hans Zimmer religion Helen Mirren Ralph Fiennes

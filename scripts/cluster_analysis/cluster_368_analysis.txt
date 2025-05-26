@@ -1,0 +1,25 @@
+Анализ кластера 368
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Winona      2
+Garofalo    1
+1990s       1
+grunge      1
+ensemble    1
+cast        1
+okay        1
+real        1
+world       1
+Janeane     1
+
+Примеры фильмов:
+                    title                genres                                                                                                                                                                                                                                                                        tag
+368  Reality Bites (1994)  Comedy|Drama|Romance  Janeane Garofalo Ethan Hawke ethan hawke good soundtrack gen 90s Slick adventure Ben Stiller hello Steve Zahn slackers generation graduation 1990s grunge ensemble cast okay real world Winona Ryder Romance winona ryder post-college gen-x coming-of-age Winona Houston

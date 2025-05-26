@@ -1,0 +1,20 @@
+Анализ кластера 741
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+small    1
+town     1
+cave     1
+theft    1
+mine     1
+gold     1
+
+Примеры фильмов:
+                                                title              genres                              tag
+741  Gold Diggers: The Secret of Bear Mountain (1995)  Adventure|Children  small town cave theft mine gold

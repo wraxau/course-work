@@ -1,0 +1,25 @@
+Анализ кластера 22
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Richard      1
+Donner       1
+2.5          1
+kill         1
+Wachowski    1
+Brothers     1
+Sylvester    1
+Stallone     1
+Antonio      1
+Banderas     1
+
+Примеры фильмов:
+               title                 genres                                                                                                     tag
+22  Assassins (1995)  Action|Crime|Thriller  Richard Donner 2.5 kill Wachowski Brothers Sylvester Stallone Antonio Banderas afternoon section Divx1

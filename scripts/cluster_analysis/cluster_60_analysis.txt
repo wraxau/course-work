@@ -1,0 +1,17 @@
+Анализ кластера 60
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+vigilante      1
+John           1
+Schlesinger    1
+
+Примеры фильмов:
+                    title          genres                         tag
+60  Eye for an Eye (1996)  Drama|Thriller  vigilante John Schlesinger

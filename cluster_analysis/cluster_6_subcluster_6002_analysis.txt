@@ -1,0 +1,29 @@
+Анализ подкластера 6002 в кластере 6
+Размер подкластера: 962 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.88
+
+Топ-5 жанров:
+genres
+Drama       358
+Comedy      277
+Action      135
+Thriller    134
+Romance     106
+
+Топ-5 тегов:
+tag
+nudity    14
+story     13
+Award     12
+action    12
+based     12
+
+Примеры фильмов:
+                             title    rating                 genres                                                                                                             tag
+21362    Thanks for Sharing (2012)  3.292683           Comedy|Drama  sex Stuart Blumberg addiction support group heartfelt touching sex addiction engaging romance roleplaying game
+21370  Trilogy of Terror II (1996)  2.500000                 Horror                                                                                                             NaN
+21388              Topralli (1966)  0.500000                 Comedy                                                                                                             NaN
+21404   Zombies on Broadway (1945)  2.250000  Comedy|Fantasy|Horror                                                                                                         zombies
+21413                 Joker (2012)  3.250000                 Comedy                                                                                                             NaN

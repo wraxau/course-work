@@ -1,0 +1,29 @@
+Анализ подкластера 1 в кластере 5
+Размер подкластера: 273 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.70
+
+Топ-5 жанров:
+genres
+Drama          129
+Comedy          71
+Documentary     52
+Thriller        40
+Action          31
+
+Топ-5 тегов:
+tag
+based        11
+nudity       11
+(topless)     9
+comedy        8
+Criterion     8
+
+Примеры фильмов:
+                                              title    rating        genres                                                                                  tag
+19026  3rd World Hero (Bayaning Third World) (2000)  2.000000         Drama                                                                                  NaN
+19035                      Jumping the Broom (2011)  2.968750        Comedy                                                                                  NaN
+19042                                    Amu (2005)  3.000000         Drama                                                                                  NaN
+19060                             Clown, The (2011)  3.363636  Comedy|Drama                                                                          paulo josÃ©
+19083                       Mighty Macs, The (2009)  3.375000         Drama  underdog less 300 ratings women's sports 1970s college sports true story basketball

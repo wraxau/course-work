@@ -1,0 +1,29 @@
+Анализ подкластера 437 в кластере 3
+Размер подкластера: 103 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Drama       52
+Comedy      29
+Action      13
+Horror      12
+Thriller    11
+
+Топ-5 тегов:
+tag
+movie      16
+book       14
+Betamax    13
+Nudity     12
+the        11
+
+Примеры фильмов:
+                                              title    rating                   genres                                                                                                             tag
+5591                          Billy Bathgate (1991)  2.913333              Crime|Drama  Nicole Kidman bad acting Robert Benton bad script Bruce Willis Loren Dean Dustin Hoffman Nudity (Full Frontal)
+5607                                  Xanadu (1980)  2.444336  Fantasy|Musical|Romance  musical Robert Greenwald Greek Gods directorial debut Betamax bad it's good cinematographer:Victor Kemper 2016
+5608                      ...All the Marbles (1981)  2.342105             Comedy|Drama                                                                                                         Betamax
+5613  Marianne & Juliane (Die Bleierne Zeit) (1981)  3.222222                    Drama                                                                                                             dvr
+5639                        Faces of Death 4 (1990)  1.394595       Documentary|Horror                                                                                                             NaN

@@ -1,0 +1,24 @@
+Анализ кластера 1638
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+love             2
+Berlin           1
+War              1
+TEATRAL          1
+play             1
+based            1
+camp             1
+concentration    1
+story            1
+homophobia       1
+
+Примеры фильмов:
+            title     genres                                                                                                                                                                              tag
+1638  Bent (1997)  Drama|War  Berlin Nazis Sean Mathias Ian McKellen tragic LENTA desperately sad forbidden love World War AVORRIDA Holocaust homophobia love story concentration camp based play TEATRAL gay

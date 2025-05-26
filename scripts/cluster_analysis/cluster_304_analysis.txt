@@ -1,0 +1,23 @@
+Анализ кластера 304
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+trilogy        3
+death          2
+DEATH          2
+music          2
+Three          2
+atmospheric    1
+Colours        1
+HAUNTED        1
+THE            1
+PAST           1
+
+Примеры фильмов:
+                                                title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+304  Three Colors: Blue (Trois couleurs: Bleu) (1993)  Drama  atmospheric photography Best Rotten Tomatoes: All Time French Brian classical music Darrin CRISIS FAITH memasa's movies love See Bibliothek car accident 2.5 Krzysztof Kieslowski DEATH SPOUSE disambiguation:Blue trilogy Juliette Binoche somber composer meditative Death melancholy death music HAUNTED THE PAST Beauty lyrical relationships reflective dysku enigmatic Three Colours trilogy bluish Criterion DEATH CHILD family BFI modern classic STARTING OVER swimming pool death child existential grief Three Colors trilogy

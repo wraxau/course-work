@@ -1,0 +1,23 @@
+Анализ кластера 1460
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Tom            1
+Schulman       1
+reminiscent    1
+bad            1
+60's           1
+comedy         1
+Comedy         1
+way            1
+too            1
+obvious        1
+
+Примеры фильмов:
+                               title  genres                                                              tag
+1460  8 Heads in a Duffel Bag (1997)  Comedy  Tom Schulman reminiscent bad 60's comedy Comedy way too obvious

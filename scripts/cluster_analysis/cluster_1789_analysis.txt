@@ -1,0 +1,15 @@
+Анализ кластера 1789
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Michael         1
+Winterbottom    1
+
+Примеры фильмов:
+              title genres                   tag
+1789  Go Now (1995)  Drama  Michael Winterbottom

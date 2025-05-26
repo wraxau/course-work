@@ -1,0 +1,19 @@
+Анализ подкластера 13 в кластере 7
+Размер подкластера: 1 фильмов
+Средний рейтинг: 2.25
+Медиана рейтинга: 2.25
+Дисперсия рейтинга: nan
+
+Топ-5 жанров:
+genres
+Action    1
+Comedy    1
+Horror    1
+Sci-Fi    1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                title  rating                       genres  tag
+30406  Mammoth (2006)    2.25  Action|Comedy|Horror|Sci-Fi  NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 158 в кластере 3
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          6
+Documentary    3
+Crime          3
+Comedy         3
+Action         2
+
+Топ-5 тегов:
+tag
+made         3
+for          3
+America      2
+superhero    2
+Guin         2
+
+Примеры фильмов:
+                                                       title    rating               genres                                                                                        tag
+21115                                 Captain America (1979)  2.000000         Action|Drama  easily confused with other movie(s) (title) made for 1970s Captain America slow superhero
+21116      Four Seasons (Seasons, The) (Vremena goda) (1975)  3.750000          Documentary                                                                         Artavazd Peleshian
+21117        Tie Xi Qu: West of the Tracks (Tiexi qu) (2003)  4.166667          Documentary                                                                                  Bing Wang
+21118  Night at the Crossroads (La nuit du carrefour) (1932)  3.000000  Crime|Drama|Mystery                                                                                        NaN
+21119                                       Rink, The (1916)  3.153846               Comedy                                                                            Charles Chaplin

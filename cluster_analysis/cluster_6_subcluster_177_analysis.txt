@@ -1,0 +1,28 @@
+Анализ подкластера 177 в кластере 6
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.42
+Медиана рейтинга: 3.48
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama          5
+War            2
+Documentary    1
+Adventure      1
+
+Топ-5 тегов:
+tag
+drama       1
+loss        1
+prospect    1
+touching    1
+great       1
+
+Примеры фильмов:
+                                title    rating               genres                                                        tag
+24098                If I Stay (2014)  3.482143                Drama  drama loss prospect touching great soundtack romance love
+24099  Rise & Fall of ECW, The (2004)  3.000000          Documentary                                                 Kevin Dunn
+24100   Circle of Deception, A (1960)  4.000000            Drama|War                                                        NaN
+24101               Al-risâlah (1976)  3.100000  Adventure|Drama|War                                            Moustapha Akkad
+24102         All the Way Home (1963)       NaN                Drama                                                 Alex Segal

@@ -1,0 +1,14 @@
+Анализ кластера 1680
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                         title       genres  tag
+1680  Arguing the World (1998)  Documentary  NaN

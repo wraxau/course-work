@@ -1,0 +1,26 @@
+Анализ кластера 1009
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+Musical     1
+
+Топ-10 тегов:
+tag
+Disney                3
+Dick                  2
+live                  2
+action                2
+nanny                 2
+animation             2
+Dyke                  2
+should                1
+see--Entertainment    1
+movies                1
+
+Примеры фильмов:
+                    title                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1009  Mary Poppins (1964)  Children|Comedy|Fantasy|Musical  Dick Van Dyke musical multiple roles Best Rotten Tomatoes: All Time cute catchy score villain nonexistent not needed for good story Betamax supercalifragilisticexpialidocious notable soundtrack animation live action interact (scene) David Tomlinson based book Classic delights surreal reviewed Disney Bearable Disney Glynis Johns martial arts must like musicals Julie Andrews funny movies every kid should see--Entertainment Weekly Can't remember classic London witty children magical nanny comedy manners BD-Video childhood author:P.L. Travers live action adapted from:book nanny Robert Stevenson magic animation Based Book dvd family Dick van Dyke acting debut touching well done Oscar (Best Actress) dreamlike Disney studios

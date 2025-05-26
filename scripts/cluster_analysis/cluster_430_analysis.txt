@@ -1,0 +1,25 @@
+Анализ кластера 430
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+action         3
+Harlin         2
+mountain       1
+good           1
+Eastwood       1
+Clint          1
+wintry         1
+watch-fully    1
+Renny          1
+money          1
+
+Примеры фильмов:
+                  title                     genres                                                                                                                                                                                                                                                                tag
+430  Cliffhanger (1993)  Action|Adventure|Thriller  mountain climbing mountains Sylvester Stallone remember from childhood Harlin muista Thriller Action colorado Anamorphic Blow-Up kickass action flick 70mm Explosions John Lithgow money Renny Harlin watch-fully wintry Clint Eastwood good action action packed

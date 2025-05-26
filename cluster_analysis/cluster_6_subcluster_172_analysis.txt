@@ -1,0 +1,29 @@
+Анализ подкластера 172 в кластере 6
+Размер подкластера: 161 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama       80
+Comedy      48
+Romance     31
+Thriller    21
+Action      20
+
+Топ-5 тегов:
+tag
+not        22
+bad        19
+ending     18
+Netflix    16
+plot       14
+
+Примеры фильмов:
+                                                                       title    rating                       genres                                                                                                                                                                                                                                                                                                                   tag
+13596                                     Baader Meinhof Komplex, Der (2008)  3.647468  Action|Crime|Drama|Thriller  Oscar Nominee: Best Foreign Language Film terrorism History german based book netflix nothing happens Netflix Streaming Nudity (Topless Notable) 05/09 Radical Politics Moritz Bleibtreu Dramatized Documentary dificil situarse entens des tema Martina Gedeck library Nudity (Full Frontal Brief) Germany Uli Edel
+13622                                            Cheeky (Trasgredire) (2000)  2.964286                 Comedy|Drama                                                                                                                                                                                                   Insanely Hot Actress Nudity (Rear) Bootytastic nudity (full frontal) Yuliya Mayarchuk Nudity (Full Frontal Notable)
+13639                              Pekka ja Pätkä lumimiehen jäljillä (1954)  2.083333                       Comedy                                                                                                                                                                                                                                                                                                               finnish
+13648  Sanshiro Sugata Part Two (Judo Saga II) (Zoku Sugata Sanshirô) (1945)  3.166667             Action|Adventure                                                                                                                                                                                                                                                                                              Akira Kurosawa Criterion
+13650                            Superstar: The Karen Carpenter Story (1988)  3.459184                Drama|Musical                                                                                                                                                                                                          anorexia screenwriter:Cynthia Schneider director-screenwriter screenwriter:Todd Haynes illegal art cult film

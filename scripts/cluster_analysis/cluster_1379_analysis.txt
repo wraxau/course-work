@@ -1,0 +1,22 @@
+Анализ кластера 1379
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Aidan          1
+Gillen         1
+Terry          1
+George         1
+directorial    1
+debut          1
+Helen          1
+Mirren         1
+oppl           1
+
+Примеры фильмов:
+                         title genres                                                            tag
+1379  Some Mother's Son (1996)  Drama  Aidan Gillen Terry George directorial debut Helen Mirren oppl

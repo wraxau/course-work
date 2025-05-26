@@ -1,0 +1,21 @@
+Анализ кластера 2361
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Mira         1
+Sorvino      1
+blindness    1
+Val          1
+Kilmer       1
+Irwin        1
+Winkler      1
+romance      1
+
+Примеры фильмов:
+                      title genres                                                      tag
+2361  At First Sight (1999)  Drama  Mira Sorvino blindness Val Kilmer Irwin Winkler romance

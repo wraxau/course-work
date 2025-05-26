@@ -1,0 +1,29 @@
+Анализ подкластера 245 в кластере 8
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.35
+Медиана рейтинга: 3.60
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Documentary    3
+Action         3
+Drama          2
+Sci-Fi         2
+Comedy         2
+
+Топ-5 тегов:
+tag
+gay         7
+Brief)      2
+book        2
+Catwoman    2
+nuclear     2
+
+Примеры фильмов:
+                                                                 title    rating                                  genres                                                                                                                                                                                                                                                                                                                             tag
+18127                                      How to Die in Oregon (2011)  3.816667                       Documentary|Drama                                                                                                                                                                                                                                                            Peter Richardson doctors Sad hell disease suicide Oregon should like
+18128  Suddenly, Last Winter (Improvvisamente l'inverno scorso) (2008)  3.500000                             Documentary  politics queer interviews demonstration government rightism camera senators Equality Catholic Church kiss discrimination family issues politicians priest dvr homophobia Rome election gay marriage gay parade legislation Italy gay rights conservatism pope bigotry gay parenting gay couple Gay Interest media gay slur gay
+18129                                            Queen of Blood (1966)  2.250000                           Horror|Sci-Fi                                                                                                                                                                                                                                                                                                             roger corman aliens
+18130                                        Radioactive Dreams (1985)  3.000000  Action|Comedy|Film-Noir|Musical|Sci-Fi                                                                                                                                                                                                                              albert pyun nuclear war film noir post apocalyptic Post apocalyptic cult film mutants nuclear bomb
+18131                                 Headhunters (Hodejegerne) (2011)  3.827755                   Action|Crime|Thriller       perfect crime guns Nudity (Topless Brief) Nicolaj Coster-Waldau Morten Tyldum nordic crime car crash based book art man the run mystery Aksel Hennie special forces addition Beautiful Woman Nudity (Rear Brief) author:Jo NesbÃ¸ theft conspiracy mercenaries painting dogs ganes forgery headhunter bald intense btaege

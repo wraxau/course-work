@@ -1,0 +1,24 @@
+Анализ кластера 2234
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+comedy          3
+family          3
+sexual          3
+dark            3
+people          3
+want            2
+relationship    2
+abuse           2
+teacher         2
+ironic          2
+
+Примеры фильмов:
+                 title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+2234  Happiness (1998)  Comedy|Drama  salespeople normality neighbors Awkward sexual abuse Good but makes you want shower afterwards sad people therapist dark humor facades Lara Flynn Boyle wrongfully funny fantasies workplace self-satisfied people unsociable people Nudity (Topless) ironic Jane Adams dialogue closeted homosexual WRITER'S LIFE long sexuality self-esteem pitch-black comedy black comedy social commentary movies taxi driver sexual fantasy What Happiness? single woman relationships perverted mental illness secrets BREAKUPS AND DIVORCES singer teacher student relationship middle class aging dark comedy nudity (topless) 3.5 vomit-inducing disgusting Plot hedonist cognitive dissonance marriage doctors Phillip Seymour Hoffman ugly duckling orgasm dysfunctional family sexual deviant library vhs prospect puberty ironic title Dylan Baker hilarious father-son relationship masturbation immigrants teacher vomit siblings dark dissociation loneliness Todd Solondz Philip Seymour Hoffman grandparents child abuse rape story one family Cynthia Stevenson family want see again sisters pedophile

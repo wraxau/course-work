@@ -1,0 +1,23 @@
+Анализ кластера 2229
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+based         2
+DVDs          2
+top           2
+250           2
+story         2
+true          2
+disability    2
+lynch         2
+gentle        1
+Hopkins       1
+
+Примеры фильмов:
+                         title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+2229  Elephant Man, The (1980)  Drama  gentle erlend's DVDs atmospheric anthony hopkins Victorian era biography poignant freaks disability memasa's movies Atmospheric etaege based book David Lynch true story Wendy Hiller captivating Biography biographical biopic downbeat historical Tumey's DVDs good top 250 IMDB history disability depressing abjection John Hurt somber drama freak show London Elia Kazan Yahoo Top Pick melancholy sad deformity/disability 19th century Seen 2006 circus sideshow characters with great depth black and white lynch cruelty DOCTORS AND PATIENTS imdb top 250 Anthony Hopkins david lynch goodness mankind human spirit compassionate want see again based true story jus+san England melancholic terrifying deformity LIVING WITH DISABILITY personality over looks stylized DYING YOUNG Joseph Merrick

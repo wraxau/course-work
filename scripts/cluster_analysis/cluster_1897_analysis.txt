@@ -1,0 +1,23 @@
+Анализ кластера 1897
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+Vorhees        2
+killer         2
+nudity         1
+psychic        1
+telekinesis    1
+masked         1
+Hodder         1
+Kane           1
+murder         1
+franchise      1
+
+Примеры фильмов:
+                                               title  genres                                                                                                                                                                   tag
+1897  Friday the 13th Part VII: The New Blood (1988)  Horror  nudity (topless) Jason Vorhees subgenre:slasher slasher serial killer franchise Betamax psychic murder Kane Hodder masked killer telekinesis character:Jason Vorhees

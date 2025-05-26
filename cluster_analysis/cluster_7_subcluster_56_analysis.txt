@@ -1,0 +1,25 @@
+Анализ подкластера 56 в кластере 7
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.45
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Action                9
+Drama                 8
+Comedy                6
+(no genres listed)    5
+Documentary           4
+
+Топ-5 тегов:
+tag
+war    1
+
+Примеры фильмов:
+                                  title    rating                        genres  tag
+29629        The Antics Roadshow (2011)  3.500000                   Documentary  NaN
+29637                  Nanny Cam (2014)  4.000000        Drama|Mystery|Thriller  NaN
+29655  The Emperor's New Clothes (2015)  3.500000                   Documentary  NaN
+29656                White Tiger (2012)  2.800000  Action|Adventure|Fantasy|War  NaN
+29670              Rhythm is it! (2004)  3.833333                   Documentary  NaN

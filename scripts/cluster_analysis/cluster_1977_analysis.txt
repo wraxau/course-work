@@ -1,0 +1,23 @@
+Анализ кластера 1977
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+funny        2
+toilet       2
+comedy       1
+south        1
+amusing      1
+slightly     1
+dumb         1
+nostalgic    1
+Parker       1
+Trey         1
+
+Примеры фильмов:
+                   title  genres                                                                                                                                                                                                                                   tag
+1977  BASEketball (1998)  Comedy  comedy hilarious funny once USA product placement David Zucker Matt Stone sport comdey toilet humor Stephen McHattie south park funny Dian Bachar bad language competition Trey Parker nostalgic dumb slightly amusing toilet humour

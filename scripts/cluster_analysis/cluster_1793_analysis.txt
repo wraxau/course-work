@@ -1,0 +1,25 @@
+Анализ кластера 1793
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+seen          3
+world         2
+the           2
+disaster      2
+end           2
+first         1
+Sobieski      1
+threat        1
+underrated    1
+natural       1
+
+Примеры фильмов:
+                   title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1793  Deep Impact (1998)  Drama|Sci-Fi|Thriller  first contact Elijah Wood apocalypse Robert Duvall Saab Seen 2009 disaster space Bibliothek Futuristmovies.com catastrophe seen more once end the world TÃ©a Leoni astronomy Morgan Freeman catastrophy big budget Leelee Sobieski threat underrated natural disaster foqam world end BD-Video asteroid thought-provoking sci-fi Mimi Leder comet science plot beating around the bush 31.03.06 seen 2011 seen tea leoni

@@ -1,0 +1,29 @@
+Анализ подкластера 61 в кластере 5
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Documentary    2
+Crime          2
+Mystery        2
+Adventure      1
+Comedy         1
+
+Топ-5 тегов:
+tag
+musicians        1
+Brian            1
+author:Agatha    1
+Christie         1
+Bill             1
+
+Примеры фильмов:
+                                                                                   title    rating                                 genres                                                                                                           tag
+22910                                                Beyoncé: Life Is But a Dream (2013)  4.000000                            Documentary                                                                                                     musicians
+22917                                                        Knights of Badassdom (2013)  2.742188               Adventure|Comedy|Fantasy  Brian Posehn Joe Lynch hilarious Ryan Kwanten forest cast Doom Metal Peter Dinklage gore Summer Glau fantasy
+22919  Ten Little Indians (Ein Unbekannter rechnet ab) (And Then There Were None) (1974)  2.625000                    Crime|Drama|Mystery                                                                      adapted from:book author:Agatha Christie
+22923                                                 Trials of Muhammad Ali, The (2013)  3.000000                            Documentary                                                                                       Bill Siegel Vietnam War
+22929                                                                       Don 2 (2011)  3.325000  Action|Crime|Mystery|Romance|Thriller                                     Thriller Farhan Akhtar Shahrukh Khan Story Boman Irani Atmospheric action

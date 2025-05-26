@@ -1,0 +1,29 @@
+Анализ подкластера 18 в кластере 8
+Размер подкластера: 424 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama       247
+Comedy      139
+Romance      77
+Thriller     77
+Crime        63
+
+Топ-5 тегов:
+tag
+Nudity    75
+movie     63
+based     52
+nudity    50
+see       47
+
+Примеры фильмов:
+                                               title    rating                        genres                                                                                                                                                                                                                                                                                                                                                          tag
+11430        Charge of the Light Brigade, The (1936)  3.086957  Action|Adventure|Romance|War                                                                                                                                                                                                                                                                                                                                         06/11 Michael Curtiz
+11433                            Flushed Away (2006)  3.394704              Animation|Comedy  Aardman Below Kate Winslet Sam Fell romantic slapstick london David Bowers Wallace Gromit Tumey's DVDs bad plot DIVX parodies funny London Bill Nighy Andy Serkis movie see rich and poor singing slugs Jean Reno 31-3-2007 Animation talking animals rats animation Dreamworks Ian McKellen musical parodies Tom Jones England beautiful smart humor class
+11436  Santa Clause 3: The Escape Clause, The (2006)  2.447080                Comedy|Fantasy                                                                                                                                                                                                                                                        Christmas santa claus satire tim allen Martin Short Tim Allen Disney Santa Claus christmas Xmas theme
+11438                         Daddy Long Legs (1955)  3.323529               Musical|Romance                                                                                                                                                                                                                                                                                                                                         fred astaire musical
+11448     Boynton Beach Bereavement Club, The (2005)  2.800000                  Comedy|Drama                                                                                                                                                                                                                                                                                                                                                          NaN

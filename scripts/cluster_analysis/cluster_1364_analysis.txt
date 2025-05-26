@@ -1,0 +1,23 @@
+Анализ кластера 1364
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+relationships    1
+salespeople      1
+vendetta         1
+forgettable      1
+Barry            1
+Levinson         1
+period           1
+piece            1
+1960s            1
+
+Примеры фильмов:
+               title        genres                                                                               tag
+1364  Tin Men (1987)  Comedy|Drama  relationships salespeople vendetta forgettable Barry Levinson period piece 1960s

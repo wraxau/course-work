@@ -1,0 +1,25 @@
+Анализ кластера 1152
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+comedy         5
+dark           3
+DVDs           2
+humor          2
+Jeunet         2
+France         1
+picture        1
+cannibalism    1
+apartment      1
+ATTRACTION     1
+
+Примеры фильмов:
+                    title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1152  Delicatessen (1991)  Comedy|Drama|Romance  comedy unusual This Would Have Been Funnier Was Horror Film atmospheric erlend's DVDs photography French campy seen Toston Post apocalyptic janitor memasa's movies FUTURE DYSTOPIAS Bibliothek sewer much like gilliam's brasil Jeunet surreal quirky dark humor weird 15.02.06 directorial debut Tumey's DVDs post-apocalyptic colors Favorites clowns visually stunning dark witty side story claustrophobic french film fictional post-war France hallucinatory music DANGEROUS ATTRACTION apartment cannibalism picture svart humor water dystopia story-in-a-story CANNIBALS Black comedy food/cooking? strange Avorrida fun _jur Jean-Pierre Jeunet alternate reality postwar Marc Caro visual ddark comedy wry black comedy dreamlike stylized dark comedy

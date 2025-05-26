@@ -1,0 +1,29 @@
+Анализ подкластера 199 в кластере 6
+Размер подкластера: 16 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       7
+Thriller    6
+Action      4
+Crime       4
+Comedy      3
+
+Топ-5 тегов:
+tag
+Pratchett    2
+survival     2
+strong       1
+Sam          1
+reviewed     1
+
+Примеры фильмов:
+                                     title    rating                       genres                                                                tag
+23310                  In the Blood (2014)  3.023810        Action|Crime|Thriller  strong female character mma mixed martial arts gina carano action
+23311  Girl from the Naked Eye, The (2012)  2.375000      Action|Romance|Thriller                                                                NaN
+23312                        Möbius (2013)  2.750000               Drama|Thriller           finance plot twist love story financial crisis espionage
+23313                   Sheba, Baby (1975)  3.500000  Action|Crime|Drama|Thriller                                                                NaN
+23314           Forgetting the Girl (2012)  3.333333                        Drama                                                                NaN

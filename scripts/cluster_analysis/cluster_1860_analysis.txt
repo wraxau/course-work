@@ -1,0 +1,21 @@
+Анализ кластера 1860
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+circus      1
+Cecil       1
+DeMille     1
+Tumey's     1
+DVDs        1
+Oscar       1
+(Best       1
+Picture)    1
+
+Примеры фильмов:
+                                   title genres                                                     tag
+1860  Greatest Show on Earth, The (1952)  Drama  circus Cecil DeMille Tumey's DVDs Oscar (Best Picture)

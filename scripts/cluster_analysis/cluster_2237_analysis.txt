@@ -1,0 +1,25 @@
+Анализ кластера 2237
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Fantasy    1
+
+Топ-10 тегов:
+tag
+and             2
+white           2
+Tobey           2
+1950s           2
+black           2
+affectionate    1
+picture         1
+Witherspoon     1
+Reese           1
+criticism       1
+
+Примеры фильмов:
+                     title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+2237  Pleasantville (1998)  Comedy|Drama|Fantasy  biting Tobey MacGuire adultery political preachy great acting 1950s poignant thoughtful Satire utopia moral ambiguity coming age PG-13 surreal seen more once reviewed black and white characters interact with colour world directorial debut Saturn Award (Best Performance Younger Actor) William Macy marvelous Gary Ross whimsical satirical tobey maguire satire witty fantasy television 1950s housewives fanciful Jeff Daniels affectionate rate down social criticism Reese Witherspoon picture time travel black and white Don Knotts plot holes Joan Allen Tobey Maguire attachment alternate reality Gay Character sucks touching kupienia stylized heartwarming sucked horribley

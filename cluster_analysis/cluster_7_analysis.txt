@@ -1,0 +1,29 @@
+Анализ кластера 7
+Размер кластера: 3751 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.50
+
+Топ-5 жанров:
+genres
+Drama       1715
+Comedy      1106
+Thriller     586
+Romance      520
+Action       473
+
+Топ-5 тегов:
+tag
+nudity    221
+based     206
+comedy    202
+the       196
+movie     189
+
+Примеры фильмов:
+                                              title    rating           genres                                                                                                                                        tag
+25                                   Othello (1995)  3.623382            Drama  Shakespearean muista wow playwright:Shakespeare great shakespeare Oliver Parker adapted from:play based play Nudity (Topless) Shakespeare
+53                            Big Green, The (1995)  2.863917  Children|Comedy                                                                                                  sports soccer disney Holly Goldberg Sloan
+66                                  Two Bits (1995)  3.356322            Drama                                                                                                           Pacino perrot library coming age
+67               French Twist (Gazon maudit) (1995)  3.463386   Comedy|Romance                                                       nudity (full frontal) queer vhs bisexual love triangle Nudity (Full Frontal Notable)
+82  Once Upon a Time... When We Were Colored (1995)  3.653595    Drama|Romance                                                                               racism Mississippi biography Tim Reid based book segregation

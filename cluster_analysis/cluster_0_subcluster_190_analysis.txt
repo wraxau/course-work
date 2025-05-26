@@ -1,0 +1,29 @@
+Анализ подкластера 190 в кластере 0
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.34
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama          3
+Documentary    2
+Romance        2
+Comedy         2
+Adventure      1
+
+Топ-5 тегов:
+tag
+boring      2
+fantasy     2
+like        2
+might       2
+terrible    2
+
+Примеры фильмов:
+                                 title    rating         genres                                              tag
+11842                     21 Up (1977)  3.949546    Documentary         (series) The Series Michael Apted series
+11843             Kiss Me Again (2006)  2.833333  Drama|Romance  terrible acting boring absurd predictable silly
+11844  Hana (Hana yori mo naho) (2006)  3.375000   Comedy|Drama                                              NaN
+11845                Sharkwater (2006)  3.637255    Documentary   might like 03/10 05/10 08/10 06/10 Rob Stewart
+11846           West (Occident) (2002)  3.000000         Comedy                                              NaN

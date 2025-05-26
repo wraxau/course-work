@@ -1,0 +1,25 @@
+Анализ кластера 535
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+single         2
+predictable    2
+story          2
+romantic       2
+movies         2
+flick          2
+comedy         2
+chick          2
+ownable        1
+movie          1
+
+Примеры фильмов:
+                           title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+535  Sleepless in Seattle (1993)  Comedy|Drama|Romance  overrated almost never seeing each other New York City Want comedy dated Nora Ephron serendipity soundtrack Empire State Building absurd romantic father-son relationship single parents annoying kid single father romantic comedy boring destiny seen more once Good Romantic Comedies Rosie O'Donnell NO_FA_GANES journal writing Meg Ryan Tom Hanks owned radio story love story romance Can't remember cheesy meg ryan cringeworthy ownable intolerable chick flick Comedy girlie movie Seattle predictable reincarnation own this Romance Drama slow and predictable plot fate happy ending women movies men movies kitsch Bill Pullman chick flick watch sweet

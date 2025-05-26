@@ -1,0 +1,18 @@
+Анализ кластера 1483
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+less          1
+300           1
+ratings       1
+lesbian       1
+depression    1
+
+Примеры фильмов:
+                    title genres                                  tag
+1483  Losing Chase (1996)  Drama  less 300 ratings lesbian depression

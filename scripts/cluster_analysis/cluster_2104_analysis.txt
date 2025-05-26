@@ -1,0 +1,25 @@
+Анализ кластера 2104
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Mystery     1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+great         2
+DVDs          2
+erlend's      1
+Alastair      1
+Marlene       1
+underrated    1
+actors        1
+characters    1
+Hitchcock     1
+Alfred        1
+
+Примеры фильмов:
+                    title                    genres                                                                                                                                                                         tag
+2104  Stage Fright (1950)  Mystery|Romance|Thriller  erlend's DVDs great acting Tumey's DVDs Jane Wyman murder surprisingly good theater noir Alastair Sim Alfred Hitchcock great characters actors underrated Marlene Dietrich

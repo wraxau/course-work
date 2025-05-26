@@ -1,0 +1,23 @@
+Анализ кластера 1615
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+John        2
+Grisham     2
+Danny       2
+computer    1
+Francis     1
+n'hi        1
+millors     1
+judicis     1
+business    1
+law         1
+
+Примеры фильмов:
+                      title genres                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1615  Rainmaker, The (1997)  Drama  computer corruption Exceptional Acting typical John Grisham justice Andrew Shue Jon Voight Danny Glover Dean Stockwell lawyers based book attorney Matt Damon Claire Danes Danny DeVito topica courtroom acting insurance Virginia Madsen Law n'hi millors judicis business law judge John Grisham Mary Kay Place Good ending Francis Ford Coppola avorrida Mickey Rourke Teresa Wright Netflix queue Interesting watch company

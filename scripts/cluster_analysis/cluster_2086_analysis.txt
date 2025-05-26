@@ -1,0 +1,17 @@
+Анализ кластера 2086
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Jason    1
+Segel    1
+Alan     1
+Cohn     1
+
+Примеры фильмов:
+                          title  genres                    tag
+2086  Dead Man on Campus (1998)  Comedy  Jason Segel Alan Cohn

@@ -1,0 +1,25 @@
+Анализ кластера 732
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Comedy       1
+
+Топ-10 тегов:
+tag
+short         3
+Aardman       2
+comedy        2
+own           2
+and           2
+Gromit        2
+british       2
+Wallace       2
+motorcycle    1
+movie         1
+
+Примеры фильмов:
+                                      title                     genres                                                                                                                                                                                                                                                                                                                                                                                                            tag
+732  Wallace & Gromit: A Close Shave (1995)  Animation|Children|Comedy  motorcycle comedy hilarious Aardman animated short Great seen clay 3.5 aardman Bechdel Test:Fail Bob Baker muista short film Wallace Gromit harmony and honesty want own funny stop motion invention sheep Wallace and Gromit penguins Aardman studios witty Nick Park claymation not movie dogs story british comedy animals companions animation fun short films british own car chase small business happy

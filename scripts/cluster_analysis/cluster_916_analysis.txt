@@ -1,0 +1,26 @@
+Анализ кластера 916
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Mystery     1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+heist                   2
+Hitchcock               2
+burglar                 2
+scene:rendezvous        1
+anti-hero               1
+murder                  1
+adapted                 1
+from:book               1
+Oscar:Cinematography    1
+atmospheric             1
+
+Примеры фильмов:
+                       title                          genres                                                                                                                                                                                                                                                                                             tag
+916  To Catch a Thief (1955)  Crime|Mystery|Romance|Thriller  atmospheric Cary Grant chase cat burglar Grace Kelly heist film perrot library Monaco Alfred Hitchcock Monte Carlo classic subgenre:cat burglar anti-hero murder adapted from:book heist Oscar:Cinematography scene:rendezvous flower market VistaVision Hitchcock Oscar (Best Cinematography)

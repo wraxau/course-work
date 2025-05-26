@@ -1,0 +1,29 @@
+Анализ подкластера 452 в кластере 6
+Размер подкластера: 42 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Drama       27
+Comedy      14
+Thriller     6
+Romance      5
+Crime        5
+
+Топ-5 тегов:
+tag
+not          13
+DVD           6
+Netflix       4
+made          4
+available     4
+
+Примеры фильмов:
+                                                                title    rating                genres                                                                                                                                                                                                                                                                                                                                                                             tag
+13628                             Land of Happines (Onnen maa) (1993)  3.857143                 Drama                                                                                                                                                                                                                                                                                                                                                                             NaN
+13665                                                 17 Again (2009)  3.108689          Comedy|Drama  Hilarious Basketball PG-13:some sexual material Star Wars romantic comedy basketball Thomas Lennon geeks screen redemptive Teens spoon High School Matthew Perry geeks Leslie Mann redemption Reliving Past being kid again predictable Michelle Trachtenberg spoon montage Love story Zac Efron Burr Steers parent-children relationship high school parenthood Melora Hardin
+13672  Strategy of the Snail, The (Estrategia del Caracol, La) (1993)  3.687500          Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                  class conflict
+13696                                           Informers, The (2008)  2.413580  Crime|Drama|Thriller                                                                                                                                                                                                                                                                                           nudity (topless) Couldn't keep interest less 300 ratings weak ending Nudity (Topless)
+13697           Antique (Sayangkoldong yangkwajajeom aentikeu) (2008)  4.000000          Comedy|Drama                                                                                                                                                                                                                                                                                                                                 Korean lgbt goofy Kyu-Dong Min manga adaptation

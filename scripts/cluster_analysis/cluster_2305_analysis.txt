@@ -1,0 +1,25 @@
+Анализ кластера 2305
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+see            2
+also:Psycho    2
+(1960)         2
+Thriller       1
+(Topless       1
+Van            1
+Gus            1
+section        1
+afternoon      1
+Hitchcock      1
+
+Примеры фильмов:
+              title                 genres                                                                                                                                                                                                              tag
+2305  Psycho (1998)  Crime|Horror|Thriller  Thriller Remake dolent serial killer see also:Psycho (1998) remake Tumey's DVDs Anne Heche Nudity (Topless Brief) murder remakeOf:Psycho (1960) see also:Psycho (1960) Hitchcock afternoon section Gus Van Sant

@@ -1,0 +1,24 @@
+Анализ кластера 1914
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror     1
+Mystery    1
+
+Топ-10 тегов:
+tag
+evil         2
+DVDs         2
+movie        2
+Max          2
+von          2
+Sydow        2
+satan        1
+cult         1
+effective    1
+Gross        1
+
+Примеры фильмов:
+                     title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1914  Exorcist, The (1973)  Horror|Mystery  computer erlend's DVDs banned movie horror paranormal subtle don't want see evil The Exorcist posession AFI 100 (Thrills) evil spirits Jason Miller Classic based book poor effects franchise frightening Christianity Ellen Burstyn Tumey's DVDs taut exorcism must watch Can't remember creepy satanism 70mm controversial William Friedkin possession Linda Blair unscary priest Catholicism RENT Max von Sydow satan mkv devil child abuse Gross effective cult Eric's Dvds scary imdb top 250 Scariest movie ever made demons Spherical Blow-Up offensive BFI modern classic religion Max von Sydow good photography biblical sick

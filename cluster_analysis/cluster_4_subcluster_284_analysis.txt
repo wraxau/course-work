@@ -1,0 +1,29 @@
+Анализ подкластера 284 в кластере 4
+Размер подкластера: 24 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 1.22
+
+Топ-5 жанров:
+genres
+Drama                 11
+Comedy                10
+(no genres listed)     4
+Romance                4
+Fantasy                2
+
+Топ-5 тегов:
+tag
+science       1
+astronauts    1
+ending        1
+Christmas     1
+parody        1
+
+Примеры фильмов:
+                       title    rating                   genres                        tag
+32996   Entre Abelhas (2015)  4.000000             Comedy|Drama                        NaN
+33003       Condemned (2015)  2.458333                   Horror                        NaN
+33004   Entertainment (2015)  2.500000             Comedy|Drama                        NaN
+33007  Sharpe's Siege (1996)  3.333333       (no genres listed)                        NaN
+33013        400 Days (2015)  1.880952  Mystery|Sci-Fi|Thriller  science astronauts ending

@@ -1,0 +1,27 @@
+Анализ кластера 1726
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Crime       1
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+crime          3
+mafia          1
+Walken         1
+ending         1
+twist          1
+Comedy         1
+Dark           1
+comedy         1
+black          1
+Christopher    1
+
+Примеры фильмов:
+                     title                               genres                                                                                                                                         tag
+1726  Suicide Kings (1997)  Comedy|Crime|Drama|Mystery|Thriller  mafia USA Peter O'Fallon crime lord deceit crime kidnapping organized crime Christopher Walken black comedy Dark Comedy twist ending ganes

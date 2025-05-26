@@ -1,0 +1,24 @@
+Анализ кластера 2057
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+fantasy      5
+dark         2
+high         2
+world        2
+70mm         2
+dvd          1
+Frank        1
+otherness    1
+watched      1
+2007         1
+
+Примеры фильмов:
+                         title             genres                                                                                                                                                                                                                                                                                                                                                    tag
+2057  Dark Crystal, The (1982)  Adventure|Fantasy  quest erlend's DVDs high fantasy fantasy world good evil 80's high fantasy Betamax Puppets nihilism 70mm blowup alone the world Anamorphic Blow-Up muppets Jim Henson balance classic 70mm dark Frank otherness watched 2007 uncanny valley wizards dvd dark fantasy alternate universe technique:puppetry puppets jim henson prophecy btaege fantasy

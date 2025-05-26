@@ -1,0 +1,29 @@
+Анализ подкластера 145 в кластере 4
+Размер подкластера: 64 фильмов
+Средний рейтинг: 2.59
+Медиана рейтинга: 2.75
+Дисперсия рейтинга: 1.07
+
+Топ-5 жанров:
+genres
+Comedy                21
+(no genres listed)    17
+Drama                 14
+Thriller               9
+Action                 8
+
+Топ-5 тегов:
+tag
+murder      1
+insanity    1
+toxic       1
+waste       1
+cargo       1
+
+Примеры фильмов:
+                                             title  rating                   genres  tag
+32649                               La buca (2014)     2.0                   Comedy  NaN
+32650                        Soldier of God (2005)     3.0                    Drama  NaN
+32652                Teodora, Slave Empress (1954)     2.5  Adventure|Drama|Romance  NaN
+32665                       Cruel & Unusual (2014)     3.1          Sci-Fi|Thriller  NaN
+32666  Il ricco, il povero e il maggiordomo (2014)     3.5                   Comedy  NaN

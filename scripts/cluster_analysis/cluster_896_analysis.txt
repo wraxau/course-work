@@ -1,0 +1,24 @@
+Анализ кластера 896
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Film-Noir    1
+Mystery      1
+
+Топ-10 тегов:
+tag
+100            4
+AFI            4
+Oscar          3
+Nominee:       3
+Best           3
+USA            2
+book           2
+Hammett        2
+DVDs           2
+Greenstreet    2
+
+Примеры фильмов:
+                          title             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+896  Maltese Falcon, The (1941)  Film-Noir|Mystery  USA talky Seen 2015 fire The Maltese Falcon Gladys George noir thriller femme fatale Peter Lorre black and white gunsel Favorite AFI 100 see: classic John Huston overrated erlend's DVDs USA film registry cynical Bechdel Test:Fail AFI 100 (Thrills) mystery boring funny hamari movie author:Dashiell Hammett partnership Oscar Nominee: Supporting Actor murder Oscar Nominee: Best Picture Humphrey Bogart imdb top 250 animal title 100 Greatest Movies AFI 100 (Movie Quotes) private detective Mary Astor atmospheric Best Rotten Tomatoes: All Time National Film Registry Emerson must see Barton McLane gritty highly quotable Dashiell Hammett remake book Tumey's DVDs wise guy Elisha Cook Jr. liar espionage noir Directorial Debut literate adapted from:book Oscar Nominee: Screenwriting Film Theory Criticism AFI #23 drugged drink stylized Sidney Greenstreet Kate based book cine negro film-noir scam suspense statue classic BD-Video director-screenwriter Sydney Greenstreet betrayal san francisco Best Performance: Humphrey Bogart Sam Spade mistero del falco

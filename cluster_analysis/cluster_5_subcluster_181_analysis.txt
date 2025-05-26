@@ -1,0 +1,29 @@
+Анализ подкластера 181 в кластере 5
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.07
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama       5
+Thriller    3
+Horror      2
+Action      2
+Romance     2
+
+Топ-5 тегов:
+tag
+violence    3
+nudity      2
+dry         2
+reality     2
+virtual     2
+
+Примеры фильмов:
+                                         title    rating                                  genres                                                                                              tag
+14224                      Hillsborough (1996)  3.500000                                   Drama                                                                                              NaN
+14225  Brøken, The (a.k.a. Broken, The) (2008)  2.602273                   Drama|Horror|Thriller  nudity (topless) woman main character horror movie that doesn't rely sexualised violence unique
+14226                     Tall Men, The (1955)  3.071429  Action|Adventure|Drama|Romance|Western                                                                                              NaN
+14227                           Tension (1949)  3.500000           Crime|Drama|Film-Noir|Romance                                                                                       John Berry
+14228                           Amreeka (2009)  3.480769                                   Drama                                            small town immigrants Cherien Dabis netflix streaming

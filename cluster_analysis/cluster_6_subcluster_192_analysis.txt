@@ -1,0 +1,29 @@
+Анализ подкластера 192 в кластере 6
+Размер подкластера: 29 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Drama       18
+Comedy      10
+Romance      7
+Thriller     5
+Musical      3
+
+Топ-5 тегов:
+tag
+Oscar        5
+plot         5
+animation    4
+drama        3
+Gaspar       3
+
+Примеры фильмов:
+                                          title    rating                   genres                                                                                                                                                                                                                                                                         tag
+15263                    Good Heart, The (2009)  3.459459                    Drama                                                                                                                                                                                                                       library predictable Paul Dano Realism full characters
+15279  Disappearance of Alice Creed, The (2009)  3.354271                 Thriller  nudity (topless) gay romance twist violence unexpected drama for drama's sake Gemma Arterton shooting kidnapping good plot clever plot bondage Eddie Marsan thrilling Blakeson ransom Martin Compston weak female lead crying blakeson blood redbox shallow characters gay
+15287                    Little Fugitive (1953)  3.692308                    Drama                                                                                                                                                                                                                  might like Morris Engel Ruth Orkin coney island Ray Ashley
+15297                    In a Dark Place (2006)  2.000000  Horror|Mystery|Thriller                                                                                                                                                                                                                                         drama nudity (topless brief) horror
+15303                     Johnny Mad Dog (2008)  3.384615                Drama|War                                                                                                                                                                                                                        drama civil war war Africa child soldiers based book

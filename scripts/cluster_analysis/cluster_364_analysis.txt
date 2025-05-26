@@ -1,0 +1,25 @@
+Анализ кластера 364
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+Western      1
+
+Топ-10 тегов:
+tag
+Richard        1
+series         1
+men            1
+con            1
+watch-fully    1
+western        1
+poker          1
+show           1
+Based          1
+foster         1
+
+Примеры фильмов:
+               title                    genres                                                                                                                                                                                         tag
+364  Maverick (1994)  Adventure|Comedy|Western  Richard Donner James Garner comedy Mel Gibson riverboat Jodie Foster Graham Greene adapted from:TV series Alfred Molina jodie foster Based show poker western watch-fully con men gambling

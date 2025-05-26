@@ -1,0 +1,25 @@
+Анализ кластера 1852
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Musical    1
+Romance    1
+
+Топ-10 тегов:
+tag
+(Best        4
+Oscar        4
+Life         2
+Ford         2
+Wales        1
+Village      1
+Realistic    1
+Youth        1
+Black        1
+and          1
+
+Примеры фильмов:
+                               title                 genres                                                                                                                                                                                                                                                                                                                                                                        tag
+1852  How Green Was My Valley (1941)  Drama|Musical|Romance  Wales erlend's DVDs Touching coal miners National Film Registry Sentimental getdvd Family Life based book holes40s Oscar (Best Supporting Actor) Welsh Voice Over Oscar (Best Directing) John Ford Village Life Realistic Youth Black and White Emotional Rhondda Working Class Oscar (Best Picture) Drama Author:John Ford Oscar (Best Cinematography) Coming Age unions

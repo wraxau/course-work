@@ -1,0 +1,29 @@
+Анализ подкластера 115 в кластере 5
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Comedy     3
+Drama      3
+Romance    2
+Horror     1
+Sci-Fi     1
+
+Топ-5 тегов:
+tag
+twists    2
+for       2
+redbox    2
+sex       2
+love      2
+
+Примеры фильмов:
+                                                                   title    rating                  genres                                                                                                                                                                                                                                                                                                                                                  tag
+15380                                           Back-up Plan, The (2010)  2.750000          Comedy|Romance                                                                                                                                                                                                                                                                                   Could have been better redbox funny love romantic comedy pregnancy
+15381                                                      Splice (2009)  2.832847  Horror|Sci-Fi|Thriller  nudity (topless) unjustified twists USA overdone opening for sequel sexy Sarah Polley coming age Adrien Brody Unjustified twists Vincenzo Natali childhood issues interspecies sex gore sex scene beastiality original plot secrecy bad acting Smart predictable genetics rape monster plot redbox biology Daring experiments gone awry weak ending
+15382       Tales from the Golden Age (Amintiri din epoca de aur) (2009)  3.454545                  Comedy                                                                                                                                                                                                                                                                                                                                                  NaN
+15383                                    May Fools (Milou en mai) (1990)  3.687500          Comedy|Romance                                                                                                                                                                                                                                                                                        Louis Malle disintegration political revolution bourgeois may
+15384  Tale of Winter, A (a.k.a. A Winter's Tale) (Conte d'hiver) (1992)  3.576923                   Drama                                                                                                                    nudity (topless) Eric Rohmer den bliver lidt fantastisk til sidst, når hun faktisk endelig møder sin long lost love bus. men som helhed filmen lidt for langsommelig flad det synes jeg. hovedpersonen brænder igennem meget smuk

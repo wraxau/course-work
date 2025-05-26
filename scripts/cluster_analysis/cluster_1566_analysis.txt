@@ -1,0 +1,26 @@
+Анализ кластера 1566
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+book           2
+great          1
+based          1
+cliched        1
+Cross          1
+Alex           1
+predictable    1
+seat           1
+your           1
+Edge           1
+
+Примеры фильмов:
+                      title                        genres                                                                                                                                                                                               tag
+1566  Kiss the Girls (1997)  Crime|Drama|Mystery|Thriller  great book okay movie police investigation Gary Fleder twist ending Ashley Judd thriller unbelievable reviewed Morgan Freeman Edge your seat predictable Alex Cross cliched based book detective

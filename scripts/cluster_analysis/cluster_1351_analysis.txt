@@ -1,0 +1,22 @@
+Анализ кластера 1351
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+nudity             1
+(topless)          1
+Dwight             1
+Little             1
+Steven             1
+Seagal             1
+unintentionally    1
+funny              1
+
+Примеры фильмов:
+                        title        genres                                                                 tag
+1351  Marked for Death (1990)  Action|Drama  nudity (topless) Dwight Little Steven Seagal unintentionally funny

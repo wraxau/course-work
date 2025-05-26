@@ -1,0 +1,29 @@
+Анализ подкластера 122 в кластере 0
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.36
+Медиана рейтинга: 3.40
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Drama        4
+Comedy       4
+Romance      3
+Fantasy      3
+Adventure    2
+
+Топ-5 тегов:
+tag
+Oscar         4
+comedy        3
+visually      2
+unresolved    2
+teacher       2
+
+Примеры фильмов:
+                            title    rating                                             genres                                                                                                                                                                                                                                                                                                                                                          tag
+11226              Step Up (2006)  3.385267                                      Drama|Romance                                                                                                                                                                                                                                              Plot Dancing guilty pleasure Soundtrack Channing Tatum viegla jauka filmiÅ†a dance Romance jazz romance jonossa
+11227                 Zoom (2006)  2.566667                     Adventure|Comedy|Drama|Fantasy                                                                                                                                                                                                                                                                                                                                superheroes anoyng kids naive
+11228     Bon Cop, Bad Cop (2006)  3.542857                       Action|Comedy|Crime|Thriller                                                                                                                                                                             Action thriller too serious might like Erik Canuel serial killer sport:ice hockey bollywood situation comedy Ice Hockey clash cultures murder multilingual québécois quÃ©bÃ©cois
+11229  Tom, Dick and Harry (1941)  3.125000                             Comedy|Fantasy|Romance                                                                                                                                                                                                                                                                                                                                                          NaN
+11230            Mind Game (2004)  3.800000  Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi  comedy Dealing With Death Introspection visually appealing Righting the Wronged Siblings Relations not available from Netflix Mind and Soul meeting god surreal quirky weird Masaaki Yuasa Fantasy Self Discovery second chances Japan visually stunning Adventure Danger absoluty nothing Asia Based Comics anime yakuza 21st Century Offbeat loser comedy

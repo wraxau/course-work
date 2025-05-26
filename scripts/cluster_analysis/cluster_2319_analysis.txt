@@ -1,0 +1,26 @@
+Анализ кластера 2319
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Drama        1
+Thriller     1
+
+Топ-10 тегов:
+tag
+bad           2
+Stallone      2
+war           2
+action        2
+simple        1
+town          1
+commentary    1
+social        1
+acting        1
+guy           1
+
+Примеры фильмов:
+                                        title                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+2319  First Blood (Rambo: First Blood) (1982)  Action|Adventure|Drama|Thriller  simple plot bad cop Sylvester Stallone hiding Silvester Stallone script unexpected ending etaege action DVD Brian Dennehy special forces Ted Kotcheff Action america reason for what happening realistic action tense fish classic memories drama messed with the wrong guy small town bad acting social commentary BD-Video Filmed dog killing Vietnam war veteran post-traumatic stress disorder war hero forest Richard Crenna violence

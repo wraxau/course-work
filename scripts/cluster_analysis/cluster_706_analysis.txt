@@ -1,0 +1,25 @@
+Анализ кластера 706
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+Sci-Fi     1
+
+Топ-10 тегов:
+tag
+French       2
+comedy       1
+Christian    1
+travel       1
+time         1
+Ages         1
+Middle       1
+slapstick    1
+funny        1
+medieval     1
+
+Примеры фильмов:
+                                     title                 genres                                                                                                                                  tag
+706  Visitors, The (Visiteurs, Les) (1993)  Comedy|Fantasy|Sci-Fi  comedy French Film Jean-Marie Poiré French middle ages Jean Reno medieval funny slapstick Middle Ages time travel Christian Clavier

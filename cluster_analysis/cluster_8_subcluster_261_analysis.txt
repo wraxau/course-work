@@ -1,0 +1,26 @@
+Анализ подкластера 261 в кластере 8
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.63
+Медиана рейтинга: 2.72
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Comedy     4
+Romance    4
+Drama      3
+Musical    3
+War        2
+
+Топ-5 тегов:
+tag
+Philip     1
+Leacock    1
+
+Примеры фильмов:
+                                                        title    rating                          genres             tag
+17841  Two Cents Worth of Hope (Due soldi di speranza) (1952)  3.333333                  Comedy|Romance             NaN
+17842                         Commandos Strike at Dawn (1942)  2.500000                       Drama|War             NaN
+17843                            Pleasure Seekers, The (1964)  2.000000          Comedy|Musical|Romance             NaN
+17844                            The Little Kidnappers (1953)  3.000000               Drama|Romance|War  Philip Leacock
+17845                              That Lady in Ermine (1948)  2.000000  Comedy|Fantasy|Musical|Romance             NaN

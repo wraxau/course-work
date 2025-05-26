@@ -1,0 +1,16 @@
+Анализ кластера 1051
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Romance    1
+War        1
+
+Топ-10 тегов:
+tag
+Russell    1
+Crowe      1
+
+Примеры фильмов:
+                      title       genres            tag
+1051  For the Moment (1994)  Romance|War  Russell Crowe

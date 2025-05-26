@@ -1,0 +1,15 @@
+Анализ кластера 1514
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                        title           genres  tag
+1514  Head Above Water (1996)  Comedy|Thriller  NaN

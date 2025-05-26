@@ -1,0 +1,29 @@
+Анализ подкластера 562 в кластере 3
+Размер подкластера: 62 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama       32
+Comedy      20
+Horror      10
+Thriller     9
+Sci-Fi       7
+
+Топ-5 тегов:
+tag
+100      16
+DVDs     16
+based    13
+AFI      12
+the      12
+
+Примеры фильмов:
+                                             title    rating                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+2521                             Entrapment (1999)  3.153562             Crime|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Sean Connery Catherine Zeta-Jones robbery Jon Amiel Kuala Lumpur owned heist Malaysia
+2535                                Mascara (1999)  2.088235                      Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           nudity (topless)
+2537  Xiu Xiu: The Sent-Down Girl (Tian yu) (1998)  3.586009                      Drama                                                                                                                                                                                                                                                                                                                                                                                                                          communism drama corruption ugly wang xiaolu Down the Countryside Movement downbeat wenge China culture revolution Cultural Revolution rural Joan Chen patriotism Chinese Mandarin
+2547                       Frogs for Snakes (1998)  1.670732  Comedy|Film-Noir|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+2560                                Dracula (1931)  3.699932                     Horror  erlend's DVDs count atmospheric bats polygamy National Film Registry wolves Dwight Frye seems outdated Scary Movies See Halloween Tod Browning opossums etaege Van Helsing Classic based book AFI 100 (Thrills) mirrors vampire Bela Lugosi loyalty vs. betrayal trailblazing sexuality coffin literary adaptation vampires undead May classic pendant universal monsters castle dvr seafaring hypnosis sanitarium DANGEROUS ATTRACTION concert abrupt ending DOCTORS AND PATIENTS spiders Walpurgis Night AFI 100 (Movie Quotes) l'homme fatal gothic good versus evil bad ending very slowpaced dracula

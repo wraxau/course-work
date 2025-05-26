@@ -1,0 +1,18 @@
+Анализ кластера 94
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+theater     1
+prospect    1
+Kenneth     1
+Branagh     1
+
+Примеры фильмов:
+                            title        genres                               tag
+94  In the Bleak Midwinter (1995)  Comedy|Drama  theater prospect Kenneth Branagh

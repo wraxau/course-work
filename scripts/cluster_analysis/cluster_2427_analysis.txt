@@ -1,0 +1,24 @@
+Анализ кластера 2427
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Film-Noir    1
+
+Топ-10 тегов:
+tag
+private      3
+Chandler     2
+Altman       2
+Marlowe      2
+Sven's       1
+elliott      1
+gould        1
+adapted      1
+from:book    1
+Quirky       1
+
+Примеры фильмов:
+                         title           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+2427  Long Goodbye, The (1973)  Crime|Film-Noir  Los Angeles Robert Altman cynical FEMMES FATALES humorous private investigator STAR DETECTIVES author:Raymond Chandler character:Philip Marlowe Raymond Chandler FALTERING FRIENDSHIPS private eyes Elliott Gould satirical PRIVATE EYES deadpan Philip Marlowe murder elliott gould adapted from:book Quirky Bob*ola cinematographer:Vilmos Zsigmond irreverent Altman Sven's see list los angeles CONS AND SCAMS private detective wry sardonic

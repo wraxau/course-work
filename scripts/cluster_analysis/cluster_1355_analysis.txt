@@ -1,0 +1,14 @@
+Анализ кластера 1355
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Western    1
+
+Топ-10 тегов:
+tag
+harpoon    1
+
+Примеры фильмов:
+                              title   genres      tag
+1355  Terror in a Texas Town (1958)  Western  harpoon

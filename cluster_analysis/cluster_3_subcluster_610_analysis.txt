@@ -1,0 +1,29 @@
+Анализ подкластера 610 в кластере 3
+Размер подкластера: 57 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama      28
+Comedy     26
+Romance    17
+Horror      7
+Sci-Fi      6
+
+Топ-5 тегов:
+tag
+DVDs       10
+Betamax     9
+(Best       9
+seen        7
+comedy      7
+
+Примеры фильмов:
+                           title    rating                genres                                                                                                                                                   tag
+3956        Rancho Deluxe (1975)  3.327778        Comedy|Western                                                                                                                                                   NaN
+3961  Save the Last Dance (2001)  3.177401         Drama|Romance                                                                           Thomas Carter dance movie dance ballet Julia Stiles romance dancing hip hop
+3962                Panic (2000)  3.490323                 Drama  drama Tracey Ullman comedy hitman Donald Sutherland John Ritter William Macy father-son relationship Henry Bromell Neve Campbell psychology thriller
+3968  The Man in the Moon (1991)  3.524073         Drama|Romance                          Gail Strickland Sam Waterston first love Tess Harper Robert Mulligan Jason London BEAUTIFUL See Reese Witherspoon coming age
+3969         Mystic Pizza (1988)  3.308092  Comedy|Drama|Romance                        Joanna Merlin William Moses Annabeth Gish Julia Roberts Adam Storke chick flick Conchata Ferrell Lili Taylor Vincent D'Onofrio

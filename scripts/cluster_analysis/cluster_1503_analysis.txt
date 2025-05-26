@@ -1,0 +1,14 @@
+Анализ кластера 1503
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                     title  genres  tag
+1503  Late Bloomers (1996)  Comedy  NaN

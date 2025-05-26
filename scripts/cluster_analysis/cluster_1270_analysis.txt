@@ -1,0 +1,24 @@
+Анализ кластера 1270
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+(Best        2
+Vietnam      2
+war          2
+Oscar        2
+Joffé        1
+Cambodia     1
+John         1
+Malkovich    1
+dramatic     1
+Indochina    1
+
+Примеры фильмов:
+                           title     genres                                                                                                                                                                                                                                                                                                                                                 tag
+1270  Killing Fields, The (1984)  Drama|War  history photography political Betamax Vietnam Vietnam War true story pace war Oscar (Best Supporting Actor) civil war directorial debut Tumey's VHS grim journalism colonialism tear jerker music Cambodia John Malkovich dramatic Indochina Sam Watterston Roland Joffé tag genocide AFI 100 (Cheers) powerful ending Oscar (Best Cinematography)

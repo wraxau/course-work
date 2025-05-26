@@ -1,0 +1,29 @@
+Анализ подкластера 162 в кластере 8
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Horror      3
+Drama       3
+Thriller    2
+Comedy      2
+Fantasy     1
+
+Топ-5 тегов:
+tag
+bad         3
+good        2
+plot        2
+see:        1
+reviewed    1
+
+Примеры фильмов:
+                                        title    rating                  genres                                                                                                                                                                                                                                                                                   tag
+16068      30 Days of Night: Dark Days (2010)  2.568000         Horror|Thriller                                                                                                                                                    see: horror nudity bad acting annoying characters good special effects good cinematography bad plot bad script illogical sex scene
+16069     No Mercy (Yongseoneun Eupda) (2010)  3.972222                Thriller                                                                                                                                                                                                       Disturbing Korean Great plot revenge Dark Kim Hyeong-Joon twist ending thriller
+16070  Short Film About John Bolton, A (2003)  3.000000  Fantasy|Horror|Mystery                                                                                                                                                                                                                                                                                   NaN
+16071           Waiting for 'Superman' (2010)  3.664894             Documentary  01/11 documentary Motivation less 300 ratings Accountability education injustice questionable methodology Davis Guggenheim teacher reviewed teachers literacy depressing unions social commentary sad movie see schools american idiocy heartbreaking Education Bob*ola REDBOX 02/11
+16072            West Point Story, The (1950)  2.875000          Comedy|Musical                                                                                                                                                                                                                                                                  musical James Cagney

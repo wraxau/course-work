@@ -1,0 +1,29 @@
+Анализ подкластера 44 в кластере 8
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama       14
+Comedy       9
+Romance      7
+Sci-Fi       4
+Thriller     3
+
+Топ-5 тегов:
+tag
+love     6
+bad      5
+not      5
+book     5
+based    4
+
+Примеры фильмов:
+                                title    rating           genres                                                                                                                                                               tag
+15993                    Stone (2010)  2.670270   Drama|Thriller  nudity (topless) boring atmospheric soundtrack tits happy end missing prison Robert Niro Milla Jovovich rented REDBOX faith firestarter nudity (topless notable)
+15994                   Hunger (2009)  3.100000  Horror|Thriller                                        survival horror Papier Mache Cave Kidnapping Social Experiment Lori Heuring Cannabalism Scientist Joe Egender Imprisonment
+15995  Grimm Love (Rohtenburg) (2006)  2.333333     Drama|Horror                                                                                                                                                               NaN
+15996         Naughty Marietta (1935)  2.333333    Drama|Musical                                                                                                                                      Robert Leonard W.S. Van Dyke
+15997           Hawaiians, The (1970)  2.250000            Drama                                                                                                                                                               NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 3002 в кластере 3
+Размер подкластера: 723 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.35
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama       413
+Comedy      240
+Thriller    146
+Romance     139
+Action      114
+
+Топ-5 тегов:
+tag
+movie      70
+comedy     64
+the        63
+based      62
+ratings    58
+
+Примеры фильмов:
+                                                          title    rating           genres                                                                                                                                                                               tag
+8340     Golem, The (Golem, wie er in die Welt kam, Der) (1920)  3.344828   Fantasy|Horror                                                                                                                                              golem/automaton German Expressionism
+8341                           Last of the Mohicans, The (1920)  3.448529  Adventure|Drama                                                                                               black and white silent black white b&w Watch with kids library vhs Native Americans
+8344  Destiny (a.k.a. Between Two Worlds) (Der müde Tod) (1921)  3.500000          Fantasy                                                                                                                                                   Fritz Lang German Expressionism
+8351                                Marriage Circle, The (1924)  3.416667           Comedy                                                                                                                                                                    Ernst Lubitsch
+8354                                       Freshman, The (1925)  3.602679           Comedy  easily confused with other movie(s) (title) comedy Sam Taylor college National Film Registry silent movie Criterion less 300 ratings AFI 100 (Laughs) Fred Newmeyer Harold Lloyd

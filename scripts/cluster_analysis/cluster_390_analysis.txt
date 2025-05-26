@@ -1,0 +1,19 @@
+Анализ кластера 390
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+less          1
+300           1
+ratings       1
+Jason         1
+Priestley     1
+underrated    1
+
+Примеры фильмов:
+                  title  genres                                          tag
+390  Coldblooded (1995)  Comedy  less 300 ratings Jason Priestley underrated

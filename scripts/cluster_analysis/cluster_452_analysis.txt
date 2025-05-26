@@ -1,0 +1,25 @@
+Анализ кластера 452
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Best           1
+crime          1
+Boaz           1
+gangsters      1
+prospect       1
+ghetto         1
+drugs          1
+cursing        1
+Kids           1
+NO_FA_GANES    1
+
+Примеры фильмов:
+            title                genres                                                                                                                                                 tag
+452  Fresh (1994)  Crime|Drama|Thriller  Best the Genre chess board game directorial debut poverty Samuel Jackson crime NO_FA_GANES Kids cursing drugs ghetto prospect gangsters Boaz Yakin

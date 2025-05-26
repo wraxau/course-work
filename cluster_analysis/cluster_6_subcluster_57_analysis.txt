@@ -1,0 +1,29 @@
+Анализ подкластера 57 в кластере 6
+Размер подкластера: 58 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.36
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama      37
+Comedy     15
+Romance    14
+Horror      6
+Crime       6
+
+Топ-5 тегов:
+tag
+based    7
+book     6
+the      5
+seen     4
+for      4
+
+Примеры фильмов:
+                                                        title    rating                genres                                                                 tag
+14245                                     Love Happens (2009)  2.959016  Comedy|Drama|Romance                          Jennifer Aniston forgettable Wixom Library
+14247                  Blood Creek (a.k.a. Town Creek) (2009)  2.807692                Horror                                     low-budget Nazis horror revenge
+14249                                       A Good Man (2009)  4.000000           Crime|Drama                                                                 NaN
+14254                               Hellraiser: Deader (2005)  2.435897                Horror  nudity (topless) occult franchise hell relic temptation journalism
+14259  Eagle Has Two Heads, The (L'aigle à deux têtes) (1948)  3.750000                 Drama                                                                 NaN

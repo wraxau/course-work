@@ -1,0 +1,29 @@
+Анализ подкластера 641 в кластере 3
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama       21
+Comedy      10
+Romance      8
+Thriller     5
+Action       5
+
+Топ-5 тегов:
+tag
+Betamax    8
+Nudity     5
+top        4
+movies     4
+War        4
+
+Примеры фильмов:
+                                                       title    rating                             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+4724                            Go Figure (Va savoir) (2001)  3.239316               Comedy|Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                        sport:ice hockey Jacques Rivette Jordan Hinson Got nothing with figure skating sport:figure skating
+4786                        Man Who Wasn't There, The (2001)  3.765912                        Crime|Drama  erlend's DVDs unusual like-i-like top pick adultery Annemari looses alot momentum 2nd half James Gandolfini Scarlett Johansson neo-noir slow Beethoven teen relationships boring NO_FA_GANES fell sleep... barber narrated noir Frances McDormand Billy Bob Thornton small town noirish need own movies scarlett johansson What Happiness? coen bros black and white dvd great cinematography library barbershop slow and predictable plot library vhs cinematographer:Roger Deakins btaege Coen Brothers
+4800                                        Wash, The (2001)  2.528455                             Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Snoop Lion Dr. Dre Ludacris Pooh Eminem
+4807  Devil's Backbone, The (Espinazo del diablo, El) (2001)  3.740196  Drama|Fantasy|Horror|Thriller|War                                                             paired with:Pan's Labyrinth orphans memasa's movies civil war Guillermo del Toro Tumey's DVDs neither fish nor fowl excellent plot ghosts dark Spanish Civil War children excellent characters movies pseudo-artistic Purely horror movie this one stinks: even Casper the Friendly Ghost almost scary not scary gold scary paired with:Devil's Backbone Criterion villain evil beyond credibility Del Toro Spanish orphanage supernatural War
+4821                                           Midway (1976)  3.542286                          Drama|War                                                                                                                                                                                                                                                                                                                                                                                                                            millitary Toshirô Mifune Henry Fonda Jack Smight world war historical World War

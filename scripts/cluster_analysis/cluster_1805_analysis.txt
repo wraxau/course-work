@@ -1,0 +1,25 @@
+Анализ кластера 1805
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Sandra       1
+Bullock      1
+Forest       1
+Whitaker     1
+blindfold    1
+Harry        1
+Connick      1
+Jr.          1
+Can't        1
+remember     1
+
+Примеры фильмов:
+                   title                genres                                                                        tag
+1805  Hope Floats (1998)  Comedy|Drama|Romance  Sandra Bullock Forest Whitaker blindfold Harry Connick Jr. Can't remember

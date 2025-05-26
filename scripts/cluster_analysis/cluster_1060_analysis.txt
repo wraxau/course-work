@@ -1,0 +1,23 @@
+Анализ кластера 1060
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+politics      2
+corruption    1
+Robert        1
+Politics      1
+Ritchie       1
+Michael       1
+Betamax       1
+about         1
+best          1
+very          1
+
+Примеры фильмов:
+                      title genres                                                                                                                                                    tag
+1060  Candidate, The (1972)  Drama  corruption politics Peter Boyle not available from Netflix streaming one the very best about politics Betamax Michael Ritchie Politics Robert Redford

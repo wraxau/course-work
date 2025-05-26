@@ -1,0 +1,25 @@
+Анализ кластера 1528
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+aliens        2
+conspiracy    2
+seen          2
+twist         2
+will          1
+scifi         1
+Smith         1
+Will          1
+nothing       1
+Torn          1
+
+Примеры фильмов:
+                                 title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1528  Men in Black (a.k.a. MIB) (1997)  Action|Comedy|Sci-Fi  will smith comedy its fuuny Want Mel Gibson conspiracy theory cockroaches absurd seen the cinema plot twist humour enjoyable action twist ending very funny! buddy movie alien whacky weapons Saturn Award (Best Science Fiction Film) seen more once Cool but freaky weird Action Tumey's DVDs bad it's good Linda Fiorentino corny conspiracy gore acting secret gov't agency works with and hides aliens Tommy Lee Jones aliens adapted from:comic scifi parody foqam BD-Video Rip Torn nothing Will Smith bugs sci-fi David Cross subgenre:buddies Vincent D'Onofrio policial Good dialogues Humor! sequel adventure comic book Barry Sonnenfeld Oscar Winner quotable nonlinear Classic Comedy big budget

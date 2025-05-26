@@ -1,0 +1,29 @@
+Анализ подкластера 652 в кластере 3
+Размер подкластера: 26 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 2.99
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Comedy     14
+Drama       9
+Romance     5
+Action      4
+Crime       3
+
+Топ-5 тегов:
+tag
+Betamax     7
+funny       4
+comedy      4
+Cage        3
+Anderson    3
+
+Примеры фильмов:
+                       title    rating                 genres                                                                                                                                                          tag
+5274  Big Bad Mama II (1987)  1.633333          Action|Comedy                                                                                                                                     nudity (topless) Betamax
+5318      Bad Company (2002)  2.849890    Action|Comedy|Crime                                                                                   Kidnapping Mission Nuclear Weapon Joel Schumacher Impersonation Look Alike
+5320          Cherish (2002)  3.390152  Comedy|Drama|Thriller                                                                                                   Robin Tunney claustrophobic house arrest shallow liz phair
+5324      Windtalkers (2002)  2.893818       Action|Drama|War  John Woo DVD dull encryption WWII World War badly written Nicholas Cage languages Navajo Nicholar Cage Native Americans Nicolas Cage true story linguistics
+5331          Caveman (1981)  2.731395                 Comedy                                                                                                                                    Carl Gottlieb Prehistoric

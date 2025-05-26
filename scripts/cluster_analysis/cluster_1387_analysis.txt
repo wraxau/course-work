@@ -1,0 +1,17 @@
+Анализ кластера 1387
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+musicians    1
+rock         1
+and          1
+roll         1
+
+Примеры фильмов:
+                     title       genres                      tag
+1387  Grateful Dead (1995)  Documentary  musicians rock and roll

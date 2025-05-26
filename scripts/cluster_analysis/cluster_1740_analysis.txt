@@ -1,0 +1,24 @@
+Анализ кластера 1740
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+Musical        1
+
+Топ-10 тегов:
+tag
+01/11    1
+03/11    1
+11/10    1
+01/12    1
+12/11    1
+roll     1
+and      1
+rock     1
+06/11    1
+11/11    1
+
+Примеры фильмов:
+                            title               genres                                                                                                       tag
+1740  Storefront Hitchcock (1997)  Documentary|Musical  01/11 11/11 Robyn Hitchcock 05/11 Jonathan Demme 12/10 06/11 03/11 rock and roll 12/11 01/12 11/10 02/11

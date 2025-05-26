@@ -1,0 +1,25 @@
+Анализ кластера 2064
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+70mm           1
+cavemen        1
+based          1
+narrated       1
+prehistoric    1
+from:book      1
+adapted        1
+Remar          1
+James          1
+sexy           1
+
+Примеры фильмов:
+                                  title                   genres                                                                                                                                       tag
+2064  Clan of the Cave Bear, The (1986)  Adventure|Drama|Fantasy  70mm cavemen history Daryl Hannah dialogue Betamax Anamorphic Blow-Up sexy James Remar adapted from:book prehistoric narrated based book

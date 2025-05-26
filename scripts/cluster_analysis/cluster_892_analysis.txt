@@ -1,0 +1,25 @@
+Анализ кластера 892
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+comedy     3
+AFI        3
+100        2
+250        2
+romance    2
+Fred       2
+(Best      2
+Oscar      2
+suicide    2
+black      2
+
+Примеры фильмов:
+                     title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+892  Apartment, The (1960)  Comedy|Drama|Romance  comedy Gay Cowboy Jinni Top Pick BEST PICTURE adultery National Film Registry neighbors executive profound EXTRAMARITAL AFFAIRS easily confused with other movie(s) (title) Oscar (Best Directing) John Fred McMurray Tumey's DVDs AFI #93 Jack Lemmon shopping list top 250 IMDB romance classic Old school comedy Shirley MacLaine suicide attempt black comedy seen 2015 office romance dvr Billy Wilder DVD Collection AFI 100 (Laughs) elevator Oscar (Best Picture) Christmas black and white Fred MacMurray imdb top 250 AFI 100 corporations suicide

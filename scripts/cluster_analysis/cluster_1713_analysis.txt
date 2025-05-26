@@ -1,0 +1,25 @@
+Анализ кластера 1713
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Oscar            3
+comedy           2
+Nicholson        2
+romance          2
+seen             2
+great            2
+Nudity           2
+(Best            2
+grood            1
+psychological    1
+
+Примеры фильмов:
+                          title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1713  As Good as It Gets (1997)  Comedy|Drama|Romance  comedy unusual positive unconventional romance Quotable Greg Kinnear seen the cinema great acting dog need buy Nudity (Topless Brief) Obsessive Compulsive Disorder psychology COMEDY rated-PG-13 See slow long quirky watch-again seen more once obsessive compulsive disorder Helen Hunt DIVX romance funny Jack Nicholson sappy classic Comedy gay friend neurosis dvr predictable homophobia excellent script grood Nudity (Topless) Romance relationships warm-hearted psychological Drama conflicts and differences between people James Brooks Oscar (Best Actor) want see again Nicholson Cuba Gooding Jr. feel-good great intelligent comedy Oscar Winner Oscar (Best Actress)

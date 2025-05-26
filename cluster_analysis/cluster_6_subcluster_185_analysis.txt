@@ -1,0 +1,29 @@
+Анализ подкластера 185 в кластере 6
+Размер подкластера: 11 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 2.98
+Дисперсия рейтинга: 0.67
+
+Топ-5 жанров:
+genres
+Comedy      5
+Drama       5
+Thriller    2
+Fantasy     1
+Horror      1
+
+Топ-5 тегов:
+tag
+French     4
+Film       2
+France     2
+Daniel     2
+Auteuil    2
+
+Примеры фильмов:
+                                                          title    rating                   genres                                                  tag
+23273                        Bob Saget: That Ain't Right (2007)  2.166667                   Comedy                                                  NaN
+23274  Bobcat Goldthwait: You Don't Look the Same Either (2012)  3.409091                   Comedy                        Scott Montoya stand-up comedy
+23275           Me Two (Personne aux deux personnes, La) (2008)  3.125000           Comedy|Fantasy             French Film France Daniel Auteuil French
+23276                       Dinner Guest, The (L'invité) (2007)  2.833333                   Comedy  French Film French Daniel Auteuil France based play
+23277                        Do You Wanna Know a Secret? (2001)  1.000000  Horror|Mystery|Thriller                                                  NaN

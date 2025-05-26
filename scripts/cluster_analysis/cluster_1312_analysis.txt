@@ -1,0 +1,24 @@
+Анализ кластера 1312
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+setting     2
+horror      2
+Horror      2
+nudity      1
+Barker      1
+Rose        1
+gruesome    1
+cult        1
+film        1
+Clive       1
+
+Примеры фильмов:
+                title           genres                                                                                                                                                                                                                                                                                                   tag
+1312  Candyman (1992)  Horror|Thriller  nudity (topless) inconsistent plot horror Chicago Horror Romance mythology Classic Scary Bees Virginia Madsen clichÃ© horror ending slasher setting weak pacing disturbing Bernard Rose gruesome cult film Clive Barker Horror Nudity (Topless) strange performances Creepy KAF Grotty setting Grimy

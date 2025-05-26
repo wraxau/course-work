@@ -1,0 +1,25 @@
+Анализ кластера 651
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+perrot       1
+library      1
+Edgar        1
+Award        1
+(Best        1
+Foreign      1
+Film)        1
+Criterion    1
+Alain        1
+Delon        1
+
+Примеры фильмов:
+                                 title                genres                                                                                           tag
+651  Purple Noon (Plein soleil) (1960)  Crime|Drama|Thriller  perrot library Edgar Award (Best Foreign Film) Criterion Alain Delon Bibliothek René Clément

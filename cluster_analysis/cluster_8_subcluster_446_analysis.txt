@@ -1,0 +1,29 @@
+Анализ подкластера 446 в кластере 8
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.30
+Медиана рейтинга: 3.39
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama       28
+Comedy      13
+Romance      8
+Action       8
+Thriller     7
+
+Топ-5 тегов:
+tag
+Oscar     8
+nudity    6
+movie     6
+300       5
+might     5
+
+Примеры фильмов:
+                                                title    rating                     genres                                                                                                                                                                                       tag
+11136                              These Girls (2005)  3.071429                     Comedy                                                                                                                                                                          nudity (topless)
+11141                                Desperate (1947)  2.800000            Drama|Film-Noir                                                                                                                                                                                       NaN
+11155                              Three Times (2005)  3.433333              Drama|Romance                                                                                                                                                 Hsiao-Hsien Hou multiple roles bab cinema
+11158     Army of Shadows (L'armée des ombres) (1969)  3.960870  Action|Drama|Thriller|War  French New Wave erlend's DVDs Jean-Pierre Melville Tumey's DVDs Criterion French Resistance less 300 ratings World War FEWER 300 ratings France oppl france french action based book War
+11159  Orchestra Rehearsal (Prova d'orchestra) (1978)  3.468750                      Drama                                                                                                                                                                                       NaN

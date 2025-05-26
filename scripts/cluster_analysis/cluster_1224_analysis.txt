@@ -1,0 +1,26 @@
+Анализ кластера 1224
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Film-Noir    1
+Mystery      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+100          4
+AFI          4
+Nicholson    3
+noir         3
+Film         3
+DVDs         2
+Polanski     2
+Best         2
+private      2
+(Best        2
+
+Примеры фильмов:
+                 title                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1224  Chinatown (1974)  Crime|Film-Noir|Mystery|Thriller  Los Angeles complicated erlend's DVDs cynical atmospheric Exceptional Acting Best Rotten Tomatoes: All Time FEMMES FATALES overrated National Film Registry love this movie Nudity (Topless Brief) Incest Emerson must see twists turns AFI 100 (Thrills) Roman Polanski slow neo-noir menacing mystery but good moody incest Tumey's DVDs Great Screenplays Best Performance: Faye dunaway Evelyn Cross Mulwray Edgar Award (Best Motion Picture) masterpiece DIVX sequel to:Chinatown nicolson rape victim Jack Nicholson investigation 1930s bleak noir thriller classic somber dark noir Can't remember scope austere Netflix Streaming polanski PRIVATE EYES cameo:Roman Polanski Nicholson style social commentary perfect murder prequel to:The Two Jakes setting:LA jack nicholson witty dialogues Oedipus Oscar (Best Writing Screenplay Written Directly for the Screen) HAUNTED THE PAST water AFI #19 private eyes library imdb top 250 ending Film Theory Criticism Very chic 100 Greatest Movies AFI 100 (Movie Quotes) AFI 100 private detective Nicholson film noir wry Film Noir

@@ -1,0 +1,29 @@
+Анализ подкластера 173 в кластере 3
+Размер подкластера: 33 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.63
+
+Топ-5 жанров:
+genres
+Drama          14
+Comedy          8
+Thriller        7
+Documentary     7
+Horror          4
+
+Топ-5 тегов:
+tag
+subgenre:police    10
+detective           5
+procedural          5
+Criterion           3
+music               3
+
+Примеры фильмов:
+                                            title    rating           genres                                                                                                                             tag
+19471      Piranha 3DD (a.k.a. Piranha DD) (2012)  1.951087    Comedy|Horror  nudity (topless) genital mutilation horrible horror nudity (full frontal) tits child killing bad script naked Stereoscopic 3-D
+19472  Man Is Not a Bird (Covek nije tica) (1965)  3.500000    Drama|Romance                                                                                                       Dusan Makavejev Criterion
+19473                                  ATM (2012)  2.562500  Horror|Thriller                                                                                                            Main characters Plot
+19474                            Wave, The (1981)  3.300000            Drama                                                                                                                based true story
+19475                    Sleepwalk with Me (2012)  3.275735     Comedy|Drama                                          Sundance Winner: Audience Award boring Unique Tongue cheek Seth Barrish Mike Birbiglia

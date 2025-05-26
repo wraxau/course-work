@@ -1,0 +1,23 @@
+Анализ кластера 279
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+skinnydipping    1
+alone            1
+therapy          1
+sad              1
+language         1
+fear             1
+communication    1
+child            1
+after            1
+Foster           1
+
+Примеры фильмов:
+           title genres                                                                                                                                                                                                                                                                                      tag
+279  Nell (1994)  Drama  skinnydipping nudity (full frontal) twins Natasha Richardson disability Liam Neeson remote location NO_FA_GANES Can't remember flashbacks drama Jodie Foster speech therapy sad language fear communication child alone after parents died Nudity (Full Frontal) psychological touching

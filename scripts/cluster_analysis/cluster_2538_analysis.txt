@@ -1,0 +1,24 @@
+Анализ кластера 2538
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+
+Топ-10 тегов:
+tag
+based                     2
+Fantasy                   1
+own                       1
+Michelle                  1
+Pfeiffer                  1
+adapted                   1
+from:play                 1
+play                      1
+playwright:Shakespeare    1
+book                      1
+
+Примеры фильмов:
+                                                       title          genres                                                                                                       tag
+2538  William Shakespeare's A Midsummer Night's Dream (1999)  Comedy|Fantasy  Fantasy own Michelle Pfeiffer adapted from:play based play playwright:Shakespeare based book Shakespeare

@@ -1,0 +1,26 @@
+Анализ кластера 263
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+War        1
+Western    1
+
+Топ-10 тегов:
+tag
+long           2
+mountain       1
+emotional      1
+Zwick          1
+Brad           1
+Pitt           1
+Romance        1
+Dramatic       1
+Prohibition    1
+Anthony        1
+
+Примеры фильмов:
+                          title                     genres                                                                                                                                                                                                                                                                                                                                      tag
+263  Legends of the Fall (1994)  Drama|Romance|War|Western  mountain man Great Ensemble Cast Julia Ormond great acting Nudity (Topless Brief) epic Aidan Quinn western long war Favorites Can't remember prohibition emotional Edward Zwick Brad Pitt Romance Dramatic Prohibition Anthony Hopkins Amazing Cinematography intense long and boring World War bittersweet Oscar (Best Cinematography)

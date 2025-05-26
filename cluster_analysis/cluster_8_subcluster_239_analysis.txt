@@ -1,0 +1,29 @@
+Анализ подкластера 239 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.38
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Comedy         5
+Animation      2
+Children       2
+Horror         2
+Documentary    2
+
+Топ-5 тегов:
+tag
+animation    3
+made         2
+funny        2
+and          2
+America      2
+
+Примеры фильмов:
+                                       title    rating                            genres                                                                                                                                                                                                                tag
+17059       Daffy Duck's Quackbusters (1988)  3.200000  Animation|Children|Comedy|Horror                                                                                                                          VHS Friz Freleng Robert McKimson Terry Lennon Betamax Greg Ford Maurice Noble Chuck Jones
+17060   Day the Universe Changed, The (1985)  4.333333                       Documentary                                                                                                                                                                                           science history made for
+17061  American: The Bill Hicks Story (2009)  3.755411                Comedy|Documentary  computer animation the new standard for biopics using old stock footage Bill Hicks Matt Harlock 05/11 06/11 social commentary thought-provoking profound Paul Thomas realistic freedom expression american idiocy
+17062                          Arthur (2011)  2.978125                            Comedy                                                                                                                                                  russel brand Jennifer Garner Good plot funny Russell Brand stupid
+17063                        Scream 4 (2011)  2.897541    Comedy|Horror|Mystery|Thriller                                                                                              scary witty Wes Craven slasher Self-referential Bechdel Test:Pass genre spoof dragged and boring unpredictable ending

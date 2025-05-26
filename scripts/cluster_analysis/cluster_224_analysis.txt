@@ -1,0 +1,16 @@
+Анализ кластера 224
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Can't       1
+remember    1
+
+Примеры фильмов:
+                title           genres             tag
+224  Drop Zone (1994)  Action|Thriller  Can't remember

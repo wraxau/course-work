@@ -1,0 +1,29 @@
+Анализ подкластера 110 в кластере 8
+Размер подкластера: 25 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy       5
+Thriller     5
+Action       3
+Mystery      3
+
+Топ-5 тегов:
+tag
+nudity       3
+(topless)    3
+acting       3
+abuse        3
+reviewed     2
+
+Примеры фильмов:
+                                                                        title    rating                         genres                                                                                                                                                                                                                                                                                                                tag
+18102                                            Johnny English Reborn (2011)  3.072973      Adventure|Comedy|Thriller                                                                                                                                                                 secret service comedy spy thriller unrealistic Funny gadget car sequel Rowan Atkinson Rosamund Pike assassin predictable Oliver Parker gadgets spy
+18103                                                        Abduction (2011)  2.859649  Action|Drama|Mystery|Thriller                                                                                                     hiding place corruption unrealistic fighting chase product placement Taylor Lautner Lily Collins special agent kidnapping conspiracy Not sure ironic sexy protagonist CIA teenager espionage action cheesy bad
+18104  Beginning of the Great Revival (a.k.a. The Founding of a Party) (2011)  0.875000                     Drama|IMAX                                                                                                                                                                                                                                                                 communism history IMAX DMR China IMAX Digital only
+18105                                           This Must Be the Place (2011)  3.443709           Crime|Drama|Thriller                                                                                                                                                                                                                                                   road trip Nazis Holocaust boredom self discovery love depression
+18106                                                            Shame (2011)  3.631430                          Drama  nudity (topless) New York City frustration long takes classical music Michael Fassbender psychology human condition Netflix Finland reviewed addiction siblings acting bleak Steve McQueen shame self-destruction Carey Mulligan music growing erotic toplist11 Carey Mulligan's acting child abuse running scene

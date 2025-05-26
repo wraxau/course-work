@@ -1,0 +1,24 @@
+Анализ кластера 2401
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+movie     4
+teen      4
+comedy    2
+school    2
+high      2
+fun       2
+dumb.     1
+hngj      1
+lol       1
+Stupid    1
+
+Примеры фильмов:
+                      title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+2401  She's All That (1999)  Comedy|Romance  comedy rachel leigh cook's beautiful face cute Dule Hill Freddie Prinze Jr. excess shakespeare Kieran Culkin Rachael Leigh Cook Robert Iscove teen indulgence romantic comedy teenagers nostalgia Matthew Lillard remake teen dule romance hngj lol Stupid purpose teen movie girlie movie 1990s now it's little dumb. Slow parts okay Watched multiple times teenager fun Owned chick flick fun movie high school silly teen movie high school flic

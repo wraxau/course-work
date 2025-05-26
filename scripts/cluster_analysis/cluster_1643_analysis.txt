@@ -1,0 +1,25 @@
+Анализ кластера 1643
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+
+Топ-10 тегов:
+tag
+Les              1
+Mayfield         1
+Disney           1
+Nostalgia        1
+Critic           1
+inventor         1
+romance          1
+absent-minded    1
+professor        1
+Robin            1
+
+Примеры фильмов:
+               title                   genres                                                                                           tag
+1643  Flubber (1997)  Children|Comedy|Fantasy  Les Mayfield Disney Nostalgia Critic inventor romance absent-minded professor Robin Williams

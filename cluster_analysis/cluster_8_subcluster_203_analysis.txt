@@ -1,0 +1,29 @@
+Анализ подкластера 203 в кластере 8
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.02
+
+Топ-5 жанров:
+genres
+Drama       3
+Children    1
+Musical     1
+Romance     1
+War         1
+
+Топ-5 тегов:
+tag
+might      1
+like       1
+Shirley    1
+Temple     1
+Irving     1
+
+Примеры фильмов:
+                                                                                                    title    rating                    genres                                        tag
+17359                                                                                    Curly Top (1935)  3.187500  Children|Musical|Romance  might like Shirley Temple Irving Cummings
+17360                                                                             Envy (Kiskanmak) (2009)  3.000000                     Drama                                        NaN
+17361                                                                                      Private (2004)  2.833333                 Drama|War                                        NaN
+17362                                                                     Very British Gangster, A (2007)  2.937500         Crime|Documentary                                documentary
+17363  Working Class Goes to Heaven, The (a.k.a. Lulu the Tool) (La classe operaia va in paradiso) (1971)  3.000000                     Drama                                        NaN

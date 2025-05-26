@@ -1,0 +1,15 @@
+Анализ кластера 281
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                       title        genres  tag
+281  New York Cop (Nyû Yôku no koppu) (1993)  Action|Crime  NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 44 в кластере 2
+Размер подкластера: 74 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama       43
+Romance     16
+Comedy      14
+Thriller    13
+Crime        9
+
+Топ-5 тегов:
+tag
+story       7
+plot        6
+the         6
+acting      6
+original    5
+
+Примеры фильмов:
+                                                                  title    rating               genres                                                                          tag
+16643                                      Gravity (Schwerkraft) (2009)  3.444444  Crime|Drama|Romance                                       burnout banking JÃƒÂ¼rgen Vogel ending
+16656                                               Poetry (Shi) (2010)  3.873786                Drama                gentle Korean 06/11 deep beautiful Chang-dong Lee Dark Poetic
+16657  Birdwatchers (BirdWatchers - La terra degli uomini rossi) (2008)  3.625000                Drama                                                                          NaN
+16659                                   History Is Made at Night (1937)  3.653846        Drama|Romance                                                     Frank Borzage might like
+16670                          Happy People: A Year in the Taiga (2010)  3.735955          Documentary  1305 winter nature Siberia Werner Herzog dogs hunting Dmitry Vasyukov happy

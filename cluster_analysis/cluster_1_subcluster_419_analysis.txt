@@ -1,0 +1,29 @@
+Анализ подкластера 419 в кластере 1
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.66
+
+Топ-5 жанров:
+genres
+Drama       10
+Thriller     6
+Action       6
+Mystery      4
+Comedy       4
+
+Топ-5 тегов:
+tag
+Tony             1
+Richardson       1
+personalities    1
+multiple         1
+disorder         1
+
+Примеры фильмов:
+                                 title    rating                          genres                                         tag
+26512  The Phantom of the Opera (1990)  3.409091  Drama|Mystery|Romance|Thriller                             Tony Richardson
+26515         Springfield Rifle (1952)  2.500000              Action|War|Western                                         NaN
+26523                  Russkies (1987)  3.500000                  Children|Drama  intercultural understanding cold war youth
+26526               The Suspect (2013)  3.250000                        Thriller                                         NaN
+26531               Man on Fire (1987)  4.000000           Action|Drama|Thriller                                   80s video

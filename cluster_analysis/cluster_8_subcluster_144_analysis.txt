@@ -1,0 +1,29 @@
+Анализ подкластера 144 в кластере 8
+Размер подкластера: 16 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Comedy      7
+Drama       5
+Crime       3
+Thriller    3
+Musical     3
+
+Топ-5 тегов:
+tag
+funny          3
+protagonist    2
+bomb           2
+nudity         2
+writer         2
+
+Примеры фильмов:
+                                              title    rating                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+17699                         Change-Up, The (2011)  3.016667                    Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Olivia Wilde Leslie Mann funny nudity adultery swearing Nudity (Topless Brief) R:nudity R:language Ryan Reynolds switching places unoriginal David Dobkin
+17700                      Sins of My Father (2009)  3.400000               Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                drugs biography
+17701  Cut-Throats Nine (Condenados a vivir) (1972)  2.833333    Crime|Thriller|Western                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+17702                          Yearling, The (1994)  2.750000  Adventure|Children|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+17703                              Help, The (2011)  3.905449                     Drama  MOLT_CRITICADA Emma Stone setting:USA great acting Bechdel Test:Pass setting:Jacksonville (MI) Bryce Dallas Howard feminism maid paternalism based book oscar 2012 powerful sagregation Tate Taylor writers white people setting:1960s historical author:Kathryn Stockett unlikely friendships writer southern drama upstairs-downstairs protagonist writer BAs death/fatality Mississippi social commentary feel good movie dvr Oscar nom: toplist11 protagonist servant 1960s segregation racism strong female lead Viola Davis BSAr2 imdb top 250 Jessica Chastain Octavia Spencer Bob*ola american south american history Tearjerker touching bittersweet

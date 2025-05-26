@@ -1,0 +1,20 @@
+Анализ кластера 788
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+
+Топ-10 тегов:
+tag
+directorial     1
+debut           1
+wanting         1
+writer          1
+Michelle        1
+Trachtenberg    1
+
+Примеры фильмов:
+                      title           genres                                                     tag
+788  Harriet the Spy (1996)  Children|Comedy  directorial debut wanting writer Michelle Trachtenberg

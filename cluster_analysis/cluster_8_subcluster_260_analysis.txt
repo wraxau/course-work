@@ -1,0 +1,29 @@
+Анализ подкластера 260 в кластере 8
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 3.16
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama       4
+Thriller    2
+Action      1
+Romance     1
+Comedy      1
+
+Топ-5 тегов:
+tag
+martial      2
+arts         2
+father       2
+single       2
+Greenspan    1
+
+Примеры фильмов:
+                                      title    rating          genres                                                                                                                                    tag
+17832            Stranger's Heart, A (2007)  2.500000           Drama                                                                                                                                    NaN
+17833                      Restraint (2008)  3.428571  Drama|Thriller                                                                                                                       nudity (topless)
+17834                 Better Life, A (2011)  3.462500           Drama  Chris Weitz immigrants Oscar nom father son relationship Jose Julian single parents Demian Bichir BAr single father opportunity honor
+17835  Raging Phoenix (Deu suay doo) (2009)  3.500000  Action|Romance                                    contrived plot strong female lead playful dance thai martial arts martial arts JeeJa Yanin gimmicky
+17836                       Ceremony (2011)  2.900000          Comedy                                                                                                                romcom New York wedding

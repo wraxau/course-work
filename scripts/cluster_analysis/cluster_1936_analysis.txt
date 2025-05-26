@@ -1,0 +1,25 @@
+Анализ кластера 1936
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Drama        1
+
+Топ-10 тегов:
+tag
+top         3
+pick        2
+Oscar       2
+Nominee:    2
+test        2
+old         2
+Akira       2
+Kurosawa    2
+classic     2
+science     2
+
+Примеры фильмов:
+                                            title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1936  Seven Samurai (Shichinin no samurai) (1954)  Action|Adventure|Drama  erlend's DVDs CULTURE CLASH atmospheric Best Rotten Tomatoes: All Time mvlc Japanese humor Underdog Triumph sweeping epic remade FilmAffinity top pick test old man Bechdel Test:Fail cathartic practice western toshiro mifune Divx1 action Seen 2015 DVD HEROIC MISSION waterfall long too long Oscar Nominee: Costume Design Akira Kurosawa BFI classic science test Toshirô Mifune historical Tumey's DVDs Criticker top pick wuxia masterpiece DIVX shopping list Oscar Nominee: Set Decoration tense RIGHTING THE WRONGED Kurosawa kneeling Japan plot: Seven Samurai Toshiro Mifune classic drama old woman battle panic Fantastic Foreign Films feudal japan samurai influencial seven river black and white Takashi Shimura Akira Kurosawa!!!! kurosawa imdb top 250 forceful Amazing Cinematography chivalry science barricade Criterion lengthy 16th century Janus stylized violence

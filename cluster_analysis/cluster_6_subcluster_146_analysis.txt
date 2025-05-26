@@ -1,0 +1,29 @@
+Анализ подкластера 146 в кластере 6
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.45
+
+Топ-5 жанров:
+genres
+Drama          3
+Documentary    2
+Thriller       2
+Comedy         2
+Crime          1
+
+Топ-5 тегов:
+tag
+religion     2
+bad          2
+jihad        1
+Cage         1
+blindness    1
+
+Примеры фильмов:
+                                                                                          title    rating                          genres                                                                    tag
+24546                                                           My Brother the Terrorist (2014)  4.000000                     Documentary                                 jihad siblings religion brothers Islam
+24547                                                                 Brothers Rico, The (1957)  3.125000  Crime|Drama|Film-Noir|Thriller                                                                    NaN
+24548                                                                 El malvado Carabel (1956)  2.500000                          Comedy                               naive characters Madrid evil office aunt
+24549                                                                        Left Behind (2014)  2.008772          Action|Sci-Fi|Thriller  apocalypse bad it's bad Christianity religion Nicolas Cage based book
+24550  Presentation, or Charlotte and Her Steak (Présentation ou Charlotte et son steak) (1960)  3.333333                  Comedy|Romance                                                                    NaN

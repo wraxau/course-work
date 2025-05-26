@@ -1,0 +1,29 @@
+Анализ подкластера 35 в кластере 3
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Drama       18
+Comedy      16
+Action       4
+Thriller     4
+Romance      4
+
+Топ-5 тегов:
+tag
+book      6
+movie     5
+acting    5
+not       4
+great     4
+
+Примеры фильмов:
+                                                         title    rating                              genres                                                                                                                                                                    tag
+4932                                    Another 48 Hrs. (1990)  2.739992  Action|Comedy|Crime|Drama|Thriller                                                                  nudity (topless) comedy buddy movie prison crime will dislike Walter Hill buddy Can't remember action
+4949                                              Foxes (1980)  2.849398                               Drama                                                                                                                                                                Betamax
+4955  Farewell, The (Abschied - Brechts letzter Sommer) (2000)  1.333333                               Drama                                                                                                                                                                writers
+4962                                        4 for Texas (1963)  2.869565                      Comedy|Western                                                                                                                                                                    NaN
+4964                         Little Dieter Needs to Fly (1997)  3.905882                         Documentary  Incredible life story netflix instant watching werner herzog eccentricity Werner Herzog BD-Video Vietnam War military Survival survival story man vs. nature survival

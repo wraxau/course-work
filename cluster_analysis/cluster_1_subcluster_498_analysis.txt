@@ -1,0 +1,29 @@
+Анализ подкластера 498 в кластере 1
+Размер подкластера: 51 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.45
+
+Топ-5 жанров:
+genres
+Comedy         20
+Drama          18
+Documentary    11
+Crime           6
+Thriller        6
+
+Топ-5 тегов:
+tag
+sports      3
+comedy      3
+som         2
+thriller    2
+America     2
+
+Примеры фильмов:
+                                                              title    rating                  genres                                                                                                                                                                                                                                                                         tag
+23703                                         22 Jump Street (2014)  3.453673     Action|Comedy|Crime  hilarious USA product placement Jonah Hill gavmild rating college Christopher Miller undercover cop 2015 channing tatum meta ridiculous not too much funny police Phil Lord Self-referential sequel dramaet som altid tyndt som det overhovedet kommer prospect based show
+23717                             Blackout (Murder by Proxy) (1954)  3.000000    Crime|Drama|Thriller                                                                                                                                                                                                                                                                         NaN
+23726                                      Mrs. Pollifax-Spy (1971)  3.500000        Adventure|Comedy                                                                                                                                                                                                                                                                         NaN
+23730  Beginning of an Unknown Era (Nachalo nevedomogo veka) (1967)  4.000000                   Drama                                                                                                                                                                                                                                              Andrey Smirnov Larisa Shepitko
+23746                                               Thin Ice (1937)  2.500000  Comedy|Musical|Romance                                                                                                                                                                                                                                                                 ice skating

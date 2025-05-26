@@ -1,0 +1,25 @@
+Анализ кластера 2000
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Musical     1
+
+Топ-10 тегов:
+tag
+based        2
+Henson       2
+acting       2
+movie        2
+Dickens      2
+Victorian    1
+talking      1
+mummy        1
+Michael      1
+Caine        1
+
+Примеры фильмов:
+                                   title                   genres                                                                                                                                                                                                                                                                                                                             tag
+2000  Muppet Christmas Carol, The (1992)  Children|Comedy|Musical  Victorian era Change heart based book Dave Goelz lame acting franchise Charles Dickens author:Charles Dickens Brian Henson Steve Whitmire muppets Jim Henson redemption good acting Frank movie see mummy Michael Caine silly Xmas theme talking animals Christmas Jerry Nelson puppets fun movie adapted from:play based show

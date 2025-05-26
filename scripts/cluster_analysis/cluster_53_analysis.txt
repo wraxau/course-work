@@ -1,0 +1,20 @@
+Анализ кластера 53
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+
+Топ-10 тегов:
+tag
+sports      1
+soccer      1
+disney      1
+Holly       1
+Goldberg    1
+Sloan       1
+
+Примеры фильмов:
+                    title           genres                                        tag
+53  Big Green, The (1995)  Children|Comedy  sports soccer disney Holly Goldberg Sloan

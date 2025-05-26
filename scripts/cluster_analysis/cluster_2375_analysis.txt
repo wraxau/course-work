@@ -1,0 +1,23 @@
+Анализ кластера 2375
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+DVDs          2
+erlend's      1
+low           1
+budget        1
+Tumey's       1
+grindhouse    1
+tense         1
+too           1
+much          1
+screaming     1
+
+Примеры фильмов:
+                                    title  genres                                                                                                                                                                                                                                                                                                                                                         tag
+2375  Texas Chainsaw Massacre, The (1974)  Horror  erlend's DVDs atmospheric horror serial killer People Really Have Pay Bucks See How Cruel Are Each Other? Try Getting Married! Betamax remade brutal NIGHTMARE VACATIONS menacing low budget Tumey's DVDs grindhouse tense too much screaming grim dark slasher the humanity! disturbing gruesome Tobe Hooper cannibalism Leatherface dvd CANNIBALS gothic

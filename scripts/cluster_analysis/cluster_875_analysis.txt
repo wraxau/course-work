@@ -1,0 +1,25 @@
+Анализ кластера 875
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+dressing                  2
+women                     2
+cross                     2
+impostor                  1
+Trevor                    1
+playwright:Shakespeare    1
+play                      1
+based                     1
+from:play                 1
+adapted                   1
+
+Примеры фильмов:
+                    title                genres                                                                                                                                                                                                  tag
+875  Twelfth Night (1996)  Comedy|Drama|Romance  impostor cross dressing women twins mistaken identity cross dressing cross-dressing women siblings Helena Bonham Carter Trevor Nunn adapted from:play based play playwright:Shakespeare Shakespeare

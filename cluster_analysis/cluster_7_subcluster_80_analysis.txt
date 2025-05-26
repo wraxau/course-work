@@ -1,0 +1,29 @@
+Анализ подкластера 80 в кластере 7
+Размер подкластера: 51 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.79
+
+Топ-5 жанров:
+genres
+Horror      16
+Comedy      14
+Drama       14
+Thriller     8
+Children     6
+
+Топ-5 тегов:
+tag
+transgender    3
+lgbt           3
+Shark          2
+private        1
+Lab            1
+
+Примеры фильмов:
+                           title  rating                           genres  tag
+31702  The Missing Corpse (1945)   1.500               (no genres listed)  NaN
+31703   The Negro Soldier (1944)   3.000               (no genres listed)  NaN
+31704     Christmas Cupid (2010)   3.500  Children|Comedy|Fantasy|Romance  NaN
+31705              Vamp U (2013)   2.125             Action|Comedy|Horror  NaN
+31706      Mischief Night (2014)   3.500                           Horror  NaN

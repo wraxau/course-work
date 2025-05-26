@@ -1,0 +1,26 @@
+Анализ кластера 1965
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Animation    1
+Children     1
+Crime        1
+
+Топ-10 тегов:
+tag
+kids             2
+Holmes           2
+awesome          2
+animated         2
+feature          2
+Disney           2
+Sherlock         2
+overconfident    1
+genius           1
+and              1
+
+Примеры фильмов:
+                                  title                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1965  Great Mouse Detective, The (1986)  Action|Animation|Children|Crime  Animated unapologetically awesome characters Bechdel Test:Fail classic animated feature film mouse bar brawl Basil Rathbone Sherlock Holmes Barrie Ingham detective Disney directorial debut Great Screenplays awesome kids London Disney animated feature criminal mastermind Ron Clements overconfident genius kids and family CAV Vincent Price John Musker Burny Mattinson animation Sherlock Holmes battle wits robots Ratigan David Michener funny sidekick

@@ -1,0 +1,29 @@
+Анализ подкластера 416 в кластере 7
+Размер подкластера: 34 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.85
+
+Топ-5 жанров:
+genres
+Comedy       9
+Drama        9
+Thriller     8
+Animation    7
+Children     6
+
+Топ-5 тегов:
+tag
+dark          2
+Sea           2
+and           2
+war           2
+soundtrack    1
+
+Примеры фильмов:
+                                             title    rating                               genres                              tag
+29921                  Achmed Saves America (2014)  3.000000                     Animation|Comedy                              NaN
+29926                      The Brass Bottle (1964)  3.000000                   (no genres listed)                              NaN
+29943              Sharknado 3: Oh Hell No! (2015)  1.576087                        Horror|Sci-Fi  worst movie ever worstmovieever
+29956     Scooby-Doo Meets the Boo Brothers (1987)  3.357143  Adventure|Animation|Children|Comedy                              NaN
+29961  Scooby-Doo! Legend of the Phantosaur (2011)  3.333333           Animation|Children|Mystery                              NaN

@@ -1,0 +1,23 @@
+Анализ кластера 575
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+lesbian        1
+documentary    1
+factual        1
+book           1
+based          1
+intervius      1
+Award          1
+Teddy          1
+fascinating    1
+subtext        1
+
+Примеры фильмов:
+                            title       genres                                                                                                                                              tag
+575  Celluloid Closet, The (1995)  Documentary  lesbian documentary Jeffrey Friedman Hollywood Rob Epstein interviews analysis subtext fascinating Teddy Award intervius based book factual gay

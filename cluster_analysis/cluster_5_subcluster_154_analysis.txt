@@ -1,0 +1,29 @@
+Анализ подкластера 154 в кластере 5
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.72
+Медиана рейтинга: 2.88
+Дисперсия рейтинга: 0.84
+
+Топ-5 жанров:
+genres
+Action       3
+Adventure    3
+Sci-Fi       2
+Comedy       2
+Western      2
+
+Топ-5 тегов:
+tag
+the      2
+poor     2
+comic    2
+Chow     1
+KAF      1
+
+Примеры фильмов:
+                                         title    rating                           genres                                                                                                                                                                                                                                                                                                           tag
+13628      Land of Happines (Onnen maa) (1993)  3.857143                            Drama                                                                                                                                                                                                                                                                                                           NaN
+13629              Dragonball Evolution (2009)  1.809045  Action|Adventure|Fantasy|Sci-Fi  Chow Yun Fat poor fight choreography poor performance childish everything Dragon Ball bad costumes not faithful the book martial arts underestimate the audience lame kamamaha wave stereotypical portray for kids Jamie Chung Bob*ola KAF ridiculous characters James Wong inaccurate adaptation based show
+13630                      Flash Gordon (1936)  3.057692          Action|Adventure|Sci-Fi                                                                                                                                                                                                          comic strip Flash Gordon comic relief Frederick Stephani Buster Crabbe Ray Taylor Jean Rogers Serial
+13631                         Rest Stop (2006)  2.763889                  Horror|Thriller                                                                                                                                                                                                                                                                                                           NaN
+13632  Your Life in 65 (Tu vida en 65') (2006)  3.500000                   Comedy|Romance                                                                                                                                                                                                                                                                                                           NaN

@@ -1,0 +1,25 @@
+Анализ кластера 823
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Austen          3
+century         2
+jane            2
+book            2
+drama           2
+comedy          1
+18th            1
+adapted         1
+from:book       1
+aristocratic    1
+
+Примеры фильмов:
+           title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+823  Emma (1996)  Comedy|Drama|Romance  comedy Victorian era seen British girly Very well done! based book true love Douglas McGrath English Gwyneth Paltrow reviewed literature funny satire author:Jane Austen jane austin witty dialogue jane austen village gossip 19th century adapted from:book aristocratic viegla jauka filmiÃ…Â†a Romance book was better 18th century costume drama arranged romance Jane Austen period drama cottage chick flick btaege England 1800s country house Austen

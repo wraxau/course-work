@@ -1,0 +1,29 @@
+Анализ подкластера 108 в кластере 7
+Размер подкластера: 87 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.41
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama                 27
+Comedy                20
+Action                14
+Thriller              14
+(no genres listed)    12
+
+Топ-5 тегов:
+tag
+prospect      3
+Michalka      3
+Christmas     2
+subtitles     2
+kidnapping    2
+
+Примеры фильмов:
+                               title    rating               genres                                                        tag
+31779               High Rise (2015)  1.500000  Action|Drama|Sci-Fi                                                        NaN
+31780        The Night Before (2015)  3.191176               Comedy  Christmas New York feel good flick prospect Christmas Eve
+31781        Time Out of Mind (2015)  3.000000                Drama                                                   prospect
+31782  The Princess of France (2014)  3.500000   (no genres listed)                                                        NaN
+31783                Villegas (2012)  2.500000   (no genres listed)                                                        NaN

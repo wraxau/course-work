@@ -1,0 +1,25 @@
+Анализ кластера 2161
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Nudity      2
+nudity      1
+setting     1
+Weaver      1
+girlie      1
+movie       1
+(Topless    1
+Notable)    1
+80's        1
+business    1
+
+Примеры фильмов:
+                    title                genres                                                                                                                                                                                                                                                                                       tag
+2161  Working Girl (1988)  Comedy|Drama|Romance  nudity (topless) Seen 2014 Bechdel Test:Pass women the workplace women's lib seen more once want see subplot:ingenue aide antiheroine good Sigourney Weaver girlie movie Nudity (Topless Notable) 80's setting business Nudity (Topless) Harrison Ford 1980s AFI 100 (Cheers) infidelity

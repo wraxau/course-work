@@ -1,0 +1,23 @@
+Анализ кластера 536
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Thriller    1
+
+Топ-10 тегов:
+tag
+nudity       2
+Nudity       2
+(topless)    1
+William      1
+bad          1
+(Rear)       1
+Voyeurism    1
+(Topless)    1
+silly        1
+erotic       1
+
+Примеры фильмов:
+             title    genres                                                                                                                                                                                                                       tag
+536  Sliver (1993)  Thriller  nudity (topless) sexy thriller mystery sliver good nudity (rear) voyeurism Tom Berenger suspense Can't remember Sharon Stone Funny hell Erotic erotic silly Nudity (Topless) Voyeurism Nudity (Rear) bad William Baldwin

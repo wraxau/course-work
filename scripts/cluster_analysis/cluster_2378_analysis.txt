@@ -1,0 +1,17 @@
+Анализ кластера 2378
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+murder              1
+subgenre:slasher    1
+serial              1
+killer              1
+
+Примеры фильмов:
+                                                                                                       title  genres                                    tag
+2378  Texas Chainsaw Massacre: The Next Generation (a.k.a. The Return of the Texas Chainsaw Massacre) (1994)  Horror  murder subgenre:slasher serial killer

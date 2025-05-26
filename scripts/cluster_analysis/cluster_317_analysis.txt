@@ -1,0 +1,16 @@
+Анализ кластера 317
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Film-Noir    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+Underrated    1
+identity      1
+
+Примеры фильмов:
+             title              genres                  tag
+317  Suture (1993)  Film-Noir|Thriller  Underrated identity

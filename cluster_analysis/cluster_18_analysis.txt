@@ -1,0 +1,29 @@
+Анализ кластера 18
+Размер кластера: 1543 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Drama       641
+Comedy      426
+Thriller    263
+Romance     196
+Action      188
+
+Топ-5 тегов:
+tag
+comedy    50
+book      41
+nudity    36
+2015      36
+acting    35
+
+Примеры фильмов:
+                                  title    rating             genres                                                                       tag
+23812  Mystery on Monster Island (1981)  1.666667   Adventure|Comedy  bait-and-switch David Hatton island annoying characters seen Jules Verne
+23813             Killer Legends (2014)  2.800000  Crime|Documentary                         melodrama urban legends horror etaege documentary
+23814                 Black Moon (1934)  2.500000             Horror                                                                       NaN
+23815                       Blue (2003)  0.500000   Action|Drama|War                                                                       NaN
+23816                       Blue (2009)  3.098438              Drama                                                            Ryan Miningham

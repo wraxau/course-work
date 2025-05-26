@@ -1,0 +1,15 @@
+Анализ кластера 805
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Luis      1
+Buñuel    1
+
+Примеры фильмов:
+                                                  title genres          tag
+805  Death in the Garden (Mort en ce jardin, La) (1956)  Drama  Luis Buñuel

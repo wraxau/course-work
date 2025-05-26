@@ -1,0 +1,29 @@
+Анализ подкластера 633 в кластере 7
+Размер подкластера: 37 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.88
+
+Топ-5 жанров:
+genres
+Comedy                10
+Drama                  8
+(no genres listed)     8
+Thriller               7
+Animation              6
+
+Топ-5 тегов:
+tag
+fatale          2
+femme           2
+political       1
+civilization    1
+Cleopatra       1
+
+Примеры фильмов:
+                                          title  rating                     genres  tag
+29900                         Hooking Up (2009)   3.500               Comedy|Drama  NaN
+29903                Dracula III: Legacy (2005)   2.500                     Horror  NaN
+29932         Superman: Brainiac Attacks (2006)   2.625  Action|Animation|Children  NaN
+29938                       Il tassinaro (1983)   3.000         (no genres listed)  NaN
+29940  Mortal Kombat: The Journey Begins (1995)   3.750           Action|Animation  NaN

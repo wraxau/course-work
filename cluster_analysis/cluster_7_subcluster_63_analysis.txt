@@ -1,0 +1,29 @@
+Анализ подкластера 63 в кластере 7
+Размер подкластера: 49 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama                 23
+(no genres listed)     9
+Comedy                 7
+Romance                7
+Crime                  5
+
+Топ-5 тегов:
+tag
+Criterion    3
+cute         1
+Alfredo      1
+Soderguit    1
+BD-Video     1
+
+Примеры фильмов:
+                                title  rating              genres  tag
+26868  This Woman Is Dangerous (1952)     3.0         Crime|Drama  NaN
+26877                 Splendor (1989)     3.0  (no genres listed)  NaN
+26879           The Matchmaker (2010)     3.5               Drama  NaN
+26883    The Fuller Brush Girl (1950)     2.5              Comedy  NaN
+26885              White Cargo (1942)     NaN     Adventure|Drama  NaN

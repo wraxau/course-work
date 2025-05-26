@@ -1,0 +1,23 @@
+Анализ кластера 1412
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+Thandie      1
+Newton       1
+Tim          1
+Roth         1
+nude         1
+black        1
+women        1
+Tupac        1
+
+Примеры фильмов:
+                  title genres                                                                                      tag
+1412  Gridlock'd (1997)  Crime  nudity (topless) Thandie Newton Tim Roth nude black women Tupac Shakur Nudity (Topless)

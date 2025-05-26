@@ -1,0 +1,24 @@
+Анализ кластера 1459
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+nudity                   1
+(topless)                1
+sexuality:necrophilia    1
+necrophilia              1
+Course                   1
+It's                     1
+Rigid!                   1
+The                      1
+Dude's                   1
+Full                     1
+
+Примеры фильмов:
+              title         genres                                                                                                                 tag
+1459  Kissed (1996)  Drama|Romance  nudity (topless) sexuality:necrophilia necrophilia Course It's Rigid! The Dude's Full Rigor! Nudity (Full Frontal)

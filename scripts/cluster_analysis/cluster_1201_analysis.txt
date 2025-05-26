@@ -1,0 +1,24 @@
+Анализ кластера 1201
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+Nudity    3
+rape      2
+ever      2
+DVDs      2
+250       2
+top       2
+best      2
+the       2
+crime     2
+long      2
+
+Примеры фильмов:
+                                   title       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1201  Once Upon a Time in America (1984)  Crime|Drama  erlend's DVDs superb soundtrack atmospheric nudity (full frontal) Sergio Leone sweeping Betamax Robert Niro Nudity (Topless Brief) epic Ennio Morricone Annemari baroque Ã‰rase una vez AmÃ©rica slow morricone score too long long 2.5 Tumey's DVDs crime MASA LLARGA top 250 IMDB rape victim gangsters major recutting elegiac sergio leone meditative Yahoo Top Pick one the best movies ever the best movie ever made Nudity (Full Frontal) rape dvd LENTISIMA lyrical friendship Nudity (Rear) imdb top 250 Prohibition James Woods BFI modern classic organized crime gangster Jennifer Connelly Underrated violence

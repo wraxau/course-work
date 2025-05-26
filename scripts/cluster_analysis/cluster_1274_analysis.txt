@@ -1,0 +1,24 @@
+Анализ кластера 1274
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+
+Топ-10 тегов:
+tag
+based             2
+Kipling           2
+slow              2
+culture           1
+Rudyard           1
+author:Rudyard    1
+Michael           1
+Caine             1
+adapted           1
+from:book         1
+
+Примеры фильмов:
+                                  title           genres                                                                                                                                                                                                                                                                                                                                                           tag
+1274  Man Who Would Be King, The (1975)  Adventure|Drama  culture clash Afghanistan based book Christopher Plummer Sean Connery war reviewed Masons freemason slow paced soldiers journalist warlord slow start colonialism Masonic messages bad acting author:Rudyard Kipling Michael Caine adapted from:book natives Rudyard Kipling VHS exploration adventure based true story John Huston India esoteric plotlines

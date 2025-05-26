@@ -1,0 +1,18 @@
+Анализ кластера 63
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Sandra     1
+Bullock    1
+Bill       1
+Bennett    1
+
+Примеры фильмов:
+                   title          genres                          tag
+63  Two if by Sea (1996)  Comedy|Romance  Sandra Bullock Bill Bennett

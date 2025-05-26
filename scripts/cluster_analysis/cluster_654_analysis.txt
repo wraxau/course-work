@@ -1,0 +1,23 @@
+Анализ кластера 654
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Thriller    1
+
+Топ-10 тегов:
+tag
+Mark           2
+protective     1
+obsessive      1
+boyfriend      1
+controlling    1
+sexy           1
+Wahlberg       1
+Walberg        1
+steamy         1
+Reese          1
+
+Примеры фильмов:
+           title    genres                                                                                                  tag
+654  Fear (1996)  Thriller  protective obsessive boyfriend controlling sexy Mark Wahlberg Mark Walberg steamy Reese Witherspoon

@@ -1,0 +1,27 @@
+Анализ подкластера 677 в кластере 5
+Размер подкластера: 4 фильмов
+Средний рейтинг: 2.43
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 2.38
+
+Топ-5 жанров:
+genres
+Drama      2
+Comedy     1
+Western    1
+Sci-Fi     1
+
+Топ-5 тегов:
+tag
+future     2
+fiction    2
+William    1
+sci-fi     1
+social     1
+
+Примеры фильмов:
+                                 title    rating        genres                                                                                                                                                                                                                                                                                                                                                                                                           tag
+19007  Catechism Cataclysm, The (2011)  2.166667        Comedy                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+19012          First Texan, The (1956)  0.500000       Western                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+19013         Good-bye, My Lady (1956)  2.833333         Drama                                                                                                                                                                                                                                                                                                                                                                                               William Wellman
+19038              Black Mirror (2011)  4.217234  Drama|Sci-Fi  christopher nolan well constructed technophobic action intelligent miniseries innovation DIVX Brian Welsh science fiction Charlie Brooker Euros Lyn drama dark satire technology television added bad acting social commentary multiple storylines not movie thought-provoking pseudoscience new sci-fi twisted series dystopia paranoia future unnerving made for near future Science fiction Otto Bathurst

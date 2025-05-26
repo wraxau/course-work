@@ -1,0 +1,29 @@
+Анализ подкластера 138 в кластере 5
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama       5
+Thriller    3
+Comedy      2
+Horror      2
+Romance     1
+
+Топ-5 тегов:
+tag
+nudity       4
+Serling      2
+DVD          2
+not          2
+addiction    1
+
+Примеры фильмов:
+                             title    rating          genres                                                                tag
+13388          Soup to Nuts (1930)  3.250000  Comedy|Romance                                                                NaN
+13389        Chinese Coffee (2000)  3.812500           Drama                                                                NaN
+13390               Save Me (2007)  3.357143           Drama         addiction Christianity queer drugs homophobia religion gay
+13391  Lazarus Project, The (2008)  2.969231  Drama|Thriller                          emotional predictable plot twist exciting
+13392              Man, The (1972)  3.166667           Drama  not DVD screenwriter:Rod Serling Rod Serling President based book

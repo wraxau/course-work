@@ -1,0 +1,29 @@
+Анализ подкластера 95 в кластере 3
+Размер подкластера: 19 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama          11
+Comedy          5
+Documentary     3
+Horror          3
+Romance         3
+
+Топ-5 тегов:
+tag
+French    2
+nudity    1
+Luis      1
+white     1
+and       1
+
+Примеры фильмов:
+                                                            title    rating                 genres                                                                                                                                                                                                   tag
+20500  Big Picture, The (L'homme qui voulait vivre sa vie) (2010)  3.340909                  Drama                                                                                                          nudity (topless) French Film photography Eric Lartigau French photographer France based book
+20501                Woman's Face, A (En kvinnas ansikte) (1938)   3.750000                  Drama                                                                                                                                                                                       Gustaf Molander
+20502                                            East, The (2013)  3.447304                  Drama  terrorism Lenta Ellen Page revenge radical politics reviewed ecological loyalty Criticada anticapitalism anarchism music emotional cliched spying relationships friendship Avorrida anti-corporation
+20503                                         Pretty Sweet (2012)  3.500000            Documentary                                                                                                                                                                                         skateboarding
+20504                                                   Lo (2009)  3.100000  Comedy|Horror|Romance                                                                                                                                                                          demons magic love plot twist

@@ -1,0 +1,25 @@
+Анализ кластера 1633
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+Alien        3
+DVDs         3
+Space        2
+alien        2
+franchise    2
+sequel       2
+Jeunet       2
+Strong       1
+Female       1
+Presence     1
+
+Примеры фильмов:
+                           title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1633  Alien: Resurrection (1997)  Action|Horror|Sci-Fi  erlend's DVDs Evil Alien Sci-Fi guns horror Alien Bleak Future Gary Dourdan Ron Perlman memasa's movies space Bibliothek Not bad sequel boring Jeunet women franchise Action weird alien Tumey's DVDs slash Brad Dourif Alien Quadrilogy science fiction Survival aliens franchise killer Outer Space Sigourney Weaver Space Travel Danger Deadly Creature cool Strong Female Presence crappy who cares DVDs sci-fi alien series Horror Rough sci-fi. dark Winona Ryder dystopia dvd dystopic future Eric's Dvds Violent sequel Jean-Pierre Jeunet Androids and Robots related:Alien Resurrection (1997) Dominique Pinon

@@ -1,0 +1,29 @@
+Анализ подкластера 169 в кластере 3
+Размер подкластера: 24 фильмов
+Средний рейтинг: 3.40
+Медиана рейтинга: 3.49
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama       14
+Crime        7
+Thriller     6
+Romance      5
+Comedy       3
+
+Топ-5 тегов:
+tag
+story          5
+love           4
+Bob*ola        2
+like           2
+NO_FA_GANES    2
+
+Примеры фильмов:
+                                        title    rating                genres                                                                                                                                                                               tag
+19125  Rated X: A Journey Through Porn (1999)  3.125000           Documentary                                                                                                                                                                               NaN
+19126                    Just Friends? (2010)  4.000000               Romance                                                                                                                                                                               NaN
+19127                  Take This Waltz (2011)  3.488827         Drama|Romance                 boring nudity (full frontal) seth rogan Sarah Polley art house real plot love chemistry between actors canada bittersweet toplist12 Nudity (Full Frontal Notable)
+19128                        Berlin 36 (2011)  3.500000                 Drama                                                                                                                                                nazis jews based true story sports
+19129                   Sound of Noise (2010)  3.757812  Comedy|Crime|Musical  tone deafness blue man group Johannes Stjärne Nilsson addition weird drums Ola Simonsson police anarchism Annemari musicians music awesome brothers drummer metronome Underrated

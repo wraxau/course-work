@@ -1,0 +1,24 @@
+Анализ кластера 2522
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Horror    1
+
+Топ-10 тегов:
+tag
+nudity     1
+weed       1
+dark       1
+Alba       1
+Jessica    1
+stupid     1
+Sawa       1
+Devin      1
+funny      1
+Green      1
+
+Примеры фильмов:
+                  title         genres                                                                                                                          tag
+2522  Idle Hands (1999)  Comedy|Horror  nudity (topless) Nudity (Topless) Rodman Flender evil hand Seth Green weed funny Devin Sawa stupid Jessica Alba dark comedy

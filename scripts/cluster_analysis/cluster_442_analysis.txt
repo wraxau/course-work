@@ -1,0 +1,24 @@
+Анализ кластера 442
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Nominee:      2
+Oscar         2
+Foreign       2
+Gong          2
+China         2
+Culture       2
+Opera         1
+adapted       1
+R:language    1
+confusing     1
+
+Примеры фильмов:
+                                             title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+442  Farewell My Concubine (Ba wang bie ji) (1993)  Drama|Romance  finger cut off Foreign sweeping Best Performance: Gong Juxian epic vocalists Bechdel Test:Fail R:strong depiction thematic material Zhang Fengyi gong See love courtesan apology perrot library homosexuality China Culture author:Lillian Lee slow paced Movielens top pick Child abuse opera earnest Oscar Nominee: Foreign Language (Hong Kong) tea chen kaige flashbacks leslie cheung Peking Opera Golden Palm confusing China R:language adapted from:book male nudity rape communism Gong friendship Seen 2013 singing backstage Leslie Cheung revolution Culture passionate china compassionate Oscar Nominee: Cinematography lavish Chen Kaige gay

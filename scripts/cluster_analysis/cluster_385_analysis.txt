@@ -1,0 +1,24 @@
+Анализ кластера 385
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+War        1
+
+Топ-10 тегов:
+tag
+Depardieu    2
+Period       1
+piece        1
+Law          1
+court        1
+Yves         1
+Angelo       1
+Gérard       1
+Gerard       1
+
+Примеры фильмов:
+                          title             genres                                                                   tag
+385  Colonel Chabert, Le (1994)  Drama|Romance|War  Period piece Law court Yves Angelo Gérard Depardieu Gerard Depardieu

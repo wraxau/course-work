@@ -1,0 +1,29 @@
+Анализ подкластера 12 в кластере 8
+Размер подкластера: 39 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama       15
+Comedy      12
+Action       9
+Thriller     8
+Horror       6
+
+Топ-5 тегов:
+tag
+based     7
+Nudity    7
+the       6
+nudity    6
+show      5
+
+Примеры фильмов:
+                                          title    rating                       genres                                                                                                                                                                                                                                                                                                                                                                                             tag
+12600                    Superhero Movie (2008)  2.290722         Action|Comedy|Sci-Fi                                                                                                                                                                                                                                                                                                                                          Leslie Nielsen parody Below Craig Mazin fart superhero
+12606                        Speed Racer (2008)  3.049837  Action|Children|Sci-Fi|IMAX  vibrant colors poor fight choreography not for children unapologetically awesome characters Roger Allam Japanimation Christina Ricci colourful remake Wachowskis poor acting cars poor story visually stunning over the top Wachowski brothers CGI video game monkey IMAX DMR movie see future Excellent FXs fun Grand Prix Matthew Fox Racing Emile Hirsch Scott Porter big budget based show
+12621                    Are You Scared? (2006)  1.850000                       Horror                                                                                                                                                                                                                                                                                                                                                             TRAPPED CONFINED torture kidnapping
+12631                Tarzan Finds a Son! (1939)  2.973684             Action|Adventure                                                                                                                                                                                                                                                                                                                                                             Edgar Rice Burroughs Richard Thorpe
+12642  Expelled: No Intelligence Allowed (2008)  2.075188                  Documentary                                                                                                                                                                   bananas misinformation christianity bad science darwinism conspiracy theory Christianity science propaganda evolution religion movie see evangelical christian trash biology bullshit creationism intelligent design onesided

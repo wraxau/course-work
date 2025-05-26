@@ -1,0 +1,24 @@
+Анализ кластера 1626
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+James               2
+nudity              1
+Oscar-nomination    1
+adapted             1
+from:book           1
+Helena              1
+Bonham              1
+Carter              1
+role                1
+period              1
+
+Примеры фильмов:
+                              title         genres                                                                                                                                                                                                                                                                                                    tag
+1626  Wings of the Dove, The (1997)  Drama|Romance  nudity (topless) perrot library Iain Softley Nudity (Topless Notable) passionate author:Henry James Charlotte Rampling honest characterisations beautifully filmed period piece adapted from:book Helena Bonham Carter Oscar-nomination role Henry James love triangle Book adaptation Merchant Ivory

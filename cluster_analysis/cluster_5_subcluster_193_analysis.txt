@@ -1,0 +1,29 @@
+Анализ подкластера 193 в кластере 5
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama       4
+Action      1
+Sci-Fi      1
+Thriller    1
+War         1
+
+Топ-5 тегов:
+tag
+var        3
+ikke       2
+science    1
+sÃ¥        1
+flot       1
+
+Примеры фильмов:
+                                            title    rating                 genres                                                                                                                                                  tag
+14174                               Meteor (2009)  2.833333    Action|Drama|Sci-Fi                                                                                                                        bad science asteroid made for
+14175                 Five Graves to Cairo (1943)  3.454545           Thriller|War                                                              01/11 03/10 05/10 07/10 10/10 Billy Wilder 08/10 not available from Netflix 06/10 02/11
+14176                     Dark Corner, The (1946)  3.289474  Crime|Drama|Film-Noir                                                                                                                                       Henry Hathaway
+14177                    Full Body Massage (1995)  2.750000                  Drama                                                                                                                                                  NaN
+14178  Good Marriage, A (Beau mariage, Le) (1982)  3.769231   Comedy|Drama|Romance  Eric Rohmer den var slet ikke sÃ¥ flot som hans forrige film. dramaet var ikke helt oppe ringe men jeg mÃ¥ indrÃ¸mme var lidt fangende lille halle.

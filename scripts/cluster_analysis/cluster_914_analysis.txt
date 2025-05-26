@@ -1,0 +1,25 @@
+Анализ кластера 914
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Mystery     1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+thriller         2
+Hitchcock        2
+Annemari         1
+library          1
+relationship     1
+psychological    1
+amnesia          1
+Gregory          1
+Peck             1
+salvador         1
+
+Примеры фильмов:
+                 title                    genres                                                                                                                                                                                                                                                                                                               tag
+914  Spellbound (1945)  Mystery|Romance|Thriller  Annemari medical thriller psychoanalysis based book WORK ETHICS mystery 2.5 reviewed Alfred Hitchcock sexual harrassment mental hospital think the acting... doctor-patient relationship psychological thriller amnesia Gregory Peck library salvador dali Criterion overture Hitchcock Ingrid Bergman Film Noir

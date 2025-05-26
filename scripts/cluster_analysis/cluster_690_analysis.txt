@@ -1,0 +1,23 @@
+Анализ кластера 690
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+biting            1
+matter-of-fact    1
+energy            1
+intimate          1
+Criterion         1
+disturbing        1
+John              1
+Cassavetes        1
+talky             1
+stylized          1
+
+Примеры фильмов:
+            title genres                                                                                                      tag
+690  Faces (1968)  Drama  biting matter-of-fact energy intimate Criterion disturbing John Cassavetes talky stylized austere bleak

@@ -1,0 +1,29 @@
+Анализ подкластера 15 в кластере 6
+Размер подкластера: 243 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama       126
+Comedy       65
+Romance      41
+Thriller     35
+Action       31
+
+Топ-5 тегов:
+tag
+not        28
+nudity     25
+ending     24
+bad        21
+Netflix    19
+
+Примеры фильмов:
+                          title    rating                genres                                                                                                                    tag
+13329   Satan Met a Lady (1936)  3.050000  Comedy|Drama|Mystery  Maynard Holmes Warren William good dialogue Dashiell Hammett The Maltese Falcon Bette Davis funny not good the remake
+13353       Habana Blues (2005)  3.357143         Drama|Musical          Cuba friendship library husband-wife relationship addition Latin America musicians latin music rare Caribbean
+13374    Punk's Not Dead (2007)  3.142857           Documentary                                                                         documentary punk rock and roll music punk rock
+13379   Gun the Man Down (1956)  3.000000               Western                                                                                                                    NaN
+13383  Soviet Story, The (2008)  3.611111           Documentary                                                                    settling accounts with totalitarian regimes history

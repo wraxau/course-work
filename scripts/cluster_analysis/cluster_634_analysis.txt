@@ -1,0 +1,16 @@
+Анализ кластера 634
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Comedy       1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                                        title                     genres  tag
+634  Little Indian, Big City (Un indien dans la ville) (1994)  Adventure|Children|Comedy  NaN

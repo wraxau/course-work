@@ -1,0 +1,29 @@
+Анализ подкластера 186 в кластере 7
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.82
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.30
+
+Топ-5 жанров:
+genres
+Drama       4
+Comedy      3
+Action      3
+Romance     2
+Thriller    2
+
+Топ-5 тегов:
+tag
+Chinese        2
+food           2
+documentary    1
+history        1
+racism         1
+
+Примеры фильмов:
+                                   title    rating                         genres                                                                          tag
+30379                     Susie Q (1996)  3.750000  Children|Comedy|Drama|Mystery                                                                          NaN
+30380  The Search for General Tso (2014)  3.588235                    Documentary  documentary history racism cooking Chinese American Chinese food China food
+30382           Love Comes Lately (2008)  0.500000           Comedy|Drama|Romance                                                        romcom elderly jewish
+30396                      Embryo (1976)  2.750000  Action|Horror|Sci-Fi|Thriller                                                                          NaN
+30400        Vieni avanti cretino (1982)  2.000000                         Comedy                                                                          NaN

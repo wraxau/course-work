@@ -1,0 +1,29 @@
+Анализ подкластера 503 в кластере 2
+Размер подкластера: 58 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.05
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama       41
+Comedy      19
+Romance     13
+Thriller     5
+Action       4
+
+Топ-5 тегов:
+tag
+comedy            5
+lesbian           5
+humor             4
+cinematography    4
+animals           4
+
+Примеры фильмов:
+                                                    title    rating                             genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+17040                                Crisis (Kris) (1946)  3.136364                              Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Criterion Ingmar Bergman
+17045                                        Hanna (2011)  3.519085  Action|Adventure|Mystery|Thriller  Wonderland gender studies The Chemical Brothers Eric Bana political Bechdel Test:Pass character development Morocco great acting Finland plot suspense PG-13:some sexual material action pedophilic thriller fetishization two girls kissing assassin underworld CIA acting secret agent abandoned amusement park multiculturalism thought there sequel! good acting Cinematography cinematography surrealism not subtle Surprising plot holes strong female lead beautiful cinematography Cate Blanchett ending heavy-handed female lead Joe Wright great soundtrack Unlikely character plot Germany women's studies ending twist Saoirse Ronan lesbian fetish German Marissa character underdeveloped
+17049  Castle of Purity (El castillo de la pureza) (1973)  3.875000                              Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN
+17051                               New Kids Turbo (2010)  3.000000                      Action|Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           hilarious weird wrong plot sketch comedy characters stupid wtf
+17059                    Daffy Duck's Quackbusters (1988)  3.200000   Animation|Children|Comedy|Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                VHS Friz Freleng Robert McKimson Terry Lennon Betamax Greg Ford Maurice Noble Chuck Jones

@@ -1,0 +1,25 @@
+Анализ кластера 2238
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Sci-Fi    1
+War       1
+
+Топ-10 тегов:
+tag
+dystopia              1
+Futuristmovies.com    1
+sci-fi                1
+military              1
+corny                 1
+junkyard              1
+Northcutt             1
+Brett                 1
+Anderson              1
+W.S.                  1
+
+Примеры фильмов:
+               title             genres                                                                                                                                          tag
+2238  Soldier (1998)  Action|Sci-Fi|War  dystopia Futuristmovies.com Kurt Russell kurt russel Wooden acting Paul W.S. Anderson Brett Northcutt junkyard corny military sci-fi action

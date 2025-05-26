@@ -1,0 +1,23 @@
+Анализ кластера 102
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Sandler             2
+comedy              1
+Carl                1
+adam                1
+sandler             1
+foqam               1
+golf                1
+Filmed              1
+Sports              1
+Coordinator:Mark    1
+
+Примеры фильмов:
+                    title  genres                                                                                                                                                                                                                                                                                                                                                                 tag
+102  Happy Gilmore (1996)  Comedy  comedy hilarious Bob Barker Adam Sandler hockey Divx1 One the best Sandler movies. seen more once haha sport:golf recommendz top pick sports test tag NO_FA_GANES Underdog goofy funny Golf adam sandler foqam golf Filmed Sports Coordinator:Mark Ellis setting:golf course Carl Weathers Christopher McDonald Dennis Dugan you're gonna die clown Hayao Miyazaki

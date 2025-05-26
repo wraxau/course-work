@@ -1,0 +1,16 @@
+Анализ кластера 2461
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+lesbian      1
+
+Примеры фильмов:
+                              title  genres                       tag
+2461  Relax... It's Just Sex (1998)  Comedy  nudity (topless) lesbian

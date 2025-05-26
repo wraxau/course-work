@@ -1,0 +1,24 @@
+Анализ кластера 2023
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+Nazis         1
+swing         1
+dancing       1
+naive         1
+resistance    1
+movement      1
+youth         1
+good          1
+World         1
+War           1
+
+Примеры фильмов:
+                  title     genres                                                                                                 tag
+2023  Swing Kids (1993)  Drama|War  Nazis swing dancing naive resistance movement youth good World War germany inspiring Thomas Carter

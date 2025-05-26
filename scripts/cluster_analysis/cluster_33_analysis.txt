@@ -1,0 +1,24 @@
+Анализ кластера 33
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Drama       1
+
+Топ-10 тегов:
+tag
+animals       3
+overrated     2
+pig           2
+Animal        2
+farm          2
+Weaving       1
+Collection    1
+DVD           1
+dvr           1
+infantil      1
+
+Примеры фильмов:
+          title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+33  Babe (1995)  Children|Drama  overrated original Chris Noonan favorite cute animal:pig environmental pigs villain nonexistent not needed for good story pig based book easily confused with other movie(s) (title) Biography boring reviewed meaty animals movies every kid should see--Entertainment Weekly funny sheep Animal witty children that'll pig barnyard animals Hugo Weaving infantil dvr DVD Collection food way overrated talking animals rats farm tale Favorite farming adventure Animal movie farm family own AFI 100 (Cheers) fantasy heartwarming sweet

@@ -1,0 +1,24 @@
+Анализ кластера 227
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+book           2
+drama          1
+LRC            1
+based          1
+king           1
+stephen        1
+etaege         1
+remember       1
+Can't          1
+housekeeper    1
+
+Примеры фильмов:
+                        title          genres                                                                                                                                                                                                   tag
+227  Dolores Claiborne (1995)  Drama|Thriller  drama child abuse incest Stephen King book Taylor Hackford 100 Essential Female Performances BGAB LRC kathy bates adapted from:book housekeeper Can't remember etaege stephen king based book Horror

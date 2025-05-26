@@ -1,0 +1,25 @@
+Анализ кластера 1310
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama     1
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+sequel          2
+Movies          2
+erlend's        1
+blindness       1
+classic         1
+frankenstein    1
+multifaceted    1
+perfect         1
+oppression      1
+Isolation       1
+
+Примеры фильмов:
+                                                          title               genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1310  Bride of Frankenstein, The (Bride of Frankenstein) (1935)  Drama|Horror|Sci-Fi  erlend's DVDs what does mean human Best Rotten Tomatoes: All Time horror National Film Registry Boris Karloff Scary Movies See Halloween Frankenstein's monster memasa's movies Colin Clive good sequel James Whale Legenda PT-BR classic frankenstein multifaceted perfect oppression Isolation bride Black comedy religious symbolism blindness imdb top 250 sequel 100 Greatest Movies Universal monsters gothic Elsa Lanchester morality don't remember misunderstood character

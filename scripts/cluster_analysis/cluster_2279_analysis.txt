@@ -1,0 +1,25 @@
+Анализ кластера 2279
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama     1
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+Godzilla     2
+Akihiko      1
+Hirata       1
+Takarada     1
+Akira        1
+Universe     1
+Criterion    1
+monster      1
+giant        1
+Shimura      1
+
+Примеры фильмов:
+                         title               genres                                                                                                                                                                                                       tag
+2279  Godzilla (Gojira) (1954)  Drama|Horror|Sci-Fi  Akihiko Hirata nuclear Kaiju tokyo Ishirô Honda radiation Tokyo Japan Goldie Hawn score kickass allegory Godzilla Toho Takashi Shimura giant monster Criterion Godzilla Universe Akira Takarada anti-war

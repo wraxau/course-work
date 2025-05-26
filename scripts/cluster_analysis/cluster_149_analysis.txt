@@ -1,0 +1,26 @@
+Анализ кластера 149
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Drama      1
+Romance    1
+War        1
+
+Топ-10 тегов:
+tag
+sword          2
+atmospheric    1
+century        1
+fight          1
+earthy         1
+literate       1
+hulu           1
+rape           1
+18th           1
+passionate     1
+
+Примеры фильмов:
+              title                    genres                                                                                                                                                                                                                                                              tag
+149  Rob Roy (1995)  Action|Drama|Romance|War  atmospheric sweeping sword fighting Jessica Lange Liam Neeson Michael Caton-Jones Scotland reviewed rousing violent One favorites tense Can't remember sword fight earthy literate hulu rape 18th century passionate Tim Roth POT_ESTAR_BE Western watch tribal

@@ -1,0 +1,19 @@
+Анализ кластера 2156
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+reviewed    1
+Tony        1
+Bill        1
+Betamax     1
+high        1
+school      1
+
+Примеры фильмов:
+                    title genres                                     tag
+2156  My Bodyguard (1980)  Drama  reviewed Tony Bill Betamax high school

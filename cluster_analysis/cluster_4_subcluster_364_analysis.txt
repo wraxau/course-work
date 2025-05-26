@@ -1,0 +1,29 @@
+Анализ подкластера 364 в кластере 4
+Размер подкластера: 68 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.62
+
+Топ-5 жанров:
+genres
+Drama                 33
+Comedy                21
+(no genres listed)     9
+Thriller               9
+Romance                9
+
+Топ-5 тегов:
+tag
+Cheh         1
+based        1
+christian    1
+religious    1
+Tabu         1
+
+Примеры фильмов:
+                                title  rating              genres  tag
+31394            Flight Angels (1940)     2.0               Drama  NaN
+31395          Government Girl (1943)     2.5              Comedy  NaN
+31400  It's Tough to Be Famous (1932)     NaN        Comedy|Drama  NaN
+31405     Round Trip to Heaven (1992)     4.0  (no genres listed)  NaN
+31408            The 25th Hour (1967)     3.5           Drama|War  NaN

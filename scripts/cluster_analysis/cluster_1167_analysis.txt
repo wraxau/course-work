@@ -1,0 +1,24 @@
+Анализ кластера 1167
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+Musical        1
+
+Топ-10 тегов:
+tag
+concert        3
+nudity         1
+Tokyo          1
+Toronto        1
+Music          1
+Sandra         1
+Bernhard       1
+Catholicism    1
+Rome           1
+Paris          1
+
+Примеры фильмов:
+                              title               genres                                                                                                                                                                                                                                                                                      tag
+1167  Madonna: Truth or Dare (1991)  Documentary|Musical  nudity (topless) Los Angeles New York City Barcelona Madonna Warren Beatty rock concert footage Nice (France) Venice Detroit Tokyo celebrity Toronto Music Sandra Bernhard Catholicism Rome concert Paris Nudity (Topless) performers Documentary Madrid concert tour musicians Houston

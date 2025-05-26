@@ -1,0 +1,24 @@
+Анализ кластера 88
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+blackmail     1
+conspiracy    1
+time          1
+veteran       1
+war           1
+Vietnam       1
+Depp          1
+Johnny        1
+Badham        1
+John          1
+
+Примеры фильмов:
+                  title           genres                                                                                                                                                                                                    tag
+88  Nick of Time (1995)  Action|Thriller  blackmail child peril widows/widowers synchronic booring elevator kidnapping dvr suspense governor Christopher Walken conspiracy wrist watch John Badham Johnny Depp Vietnam war veteran time hostage

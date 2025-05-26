@@ -1,0 +1,29 @@
+Анализ подкластера 135 в кластере 3
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Drama       16
+Romance      6
+Action       4
+Comedy       4
+Thriller     3
+
+Топ-5 тегов:
+tag
+seen     8
+book     8
+based    7
+bad      6
+the      5
+
+Примеры фильмов:
+                                   title    rating                genres                                                                                                 tag
+1455        Inventing the Abbotts (1997)  3.204180         Drama|Romance  nudity (topless) American Golden Age Nudity (Topless Notable) period piece romance Joaquin Phoenix
+1476  Truth or Consequences, N.M. (1997)  2.867123  Action|Crime|Romance                                                                                          see: crime
+1477                 Turning, The (1992)  2.431818                 Drama                                                                                                 NaN
+1486                  Bonheur, Le (1965)  3.532967                 Drama                                                                               Agnès Varda Criterion
+1499                  Rough Magic (1995)  2.981203         Drama|Romance                                                                                       Russell Crowe

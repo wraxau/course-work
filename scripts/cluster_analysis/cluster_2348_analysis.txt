@@ -1,0 +1,23 @@
+Анализ кластера 2348
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+terminal    1
+illness     1
+there.      1
+disease     1
+cancer      1
+family      1
+Columbus    1
+Chris       1
+perfect     1
+not         1
+
+Примеры фильмов:
+               title genres                                                                                                                                                            tag
+2348  Stepmom (1998)  Drama  terminal illness Susan Sarandon Julia Roberts divorce Divorce Not cup tea. sad. Well the world not perfect Chris Columbus family cancer disease there. Harris

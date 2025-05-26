@@ -1,0 +1,25 @@
+Анализ кластера 1587
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+horror       2
+weak         2
+Sarah        1
+Phillippe    1
+Ryan         1
+Hewitt       1
+Love         1
+Jennifer     1
+teen         1
+Classic      1
+
+Примеры фильмов:
+                                       title                   genres                                                                                                                                                                                                                                               tag
+1587  I Know What You Did Last Summer (1997)  Horror|Mystery|Thriller  horror Jim Gillespie Funny how was this funny? Freddie Prinze Jr. HOT actress weak pacing suspense weak characters Sarah Michelle Gellar overshown Kevin Williamson predictable Classic teen horror Jennifer Love Hewitt Ryan Phillippe thriller

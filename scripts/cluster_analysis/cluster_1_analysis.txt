@@ -1,0 +1,25 @@
+Анализ кластера 1
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+game       3
+Award      2
+CGI        2
+time       2
+animals    2
+Saturn     2
+not        2
+kids       2
+(Best      2
+board      2
+
+Примеры фильмов:
+            title                      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+1  Jumanji (1995)  Adventure|Children|Fantasy  comedy magic board game childish Children game Dynamic CGI Action based book kid flick childhood recaptured Chris Van Allsburg For children Fantasy animals Joe Johnston Kirsten Dunst kids Robin Williams Lebbat jungle fantasy children board game monkey herds CGI animals Saturn Award (Best Supporting Actress) bad cgi Filmed adapted from:book Saturn Award (Best Special Effects) time travel see also:Zathura horrifying (but not Horror genre) not for kids scary time fiction adventure family thrill

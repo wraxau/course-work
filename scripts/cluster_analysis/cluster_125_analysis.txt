@@ -1,0 +1,14 @@
+Анализ кластера 125
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                                   title genres  tag
+125  Silences of the Palace, The (Saimt el Qusur) (1994)  Drama  NaN

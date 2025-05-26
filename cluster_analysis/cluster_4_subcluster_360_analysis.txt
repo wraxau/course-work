@@ -1,0 +1,29 @@
+Анализ подкластера 360 в кластере 4
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.97
+
+Топ-5 жанров:
+genres
+Drama                 20
+(no genres listed)     7
+Thriller               6
+Comedy                 6
+Romance                5
+
+Топ-5 тегов:
+tag
+dystopia     1
+drama        1
+LENTA        1
+Steven       1
+Spielberg    1
+
+Примеры фильмов:
+                      title    rating         genres  tag
+32020        Sunrise (2014)  3.166667          Drama  NaN
+32021      Wild Life (2014)  1.500000          Drama  NaN
+32025  Immoral Tales (1974)  3.500000  Drama|Romance  NaN
+32027         Inside (2002)  2.500000          Drama  NaN
+32038   Red Passport (2003)  2.000000    Crime|Drama  NaN

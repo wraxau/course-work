@@ -1,0 +1,25 @@
+Анализ кластера 1341
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action     1
+Mystery    1
+Sci-Fi     1
+
+Топ-10 тегов:
+tag
+space       3
+show        2
+70mm        2
+William     2
+(good)      1
+BD-Video    1
+aliens      1
+Old         1
+Nimble      1
+sci-fi      1
+
+Примеры фильмов:
+                                              title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1341  Star Trek VI: The Undiscovered Country (1991)  Action|Mystery|Sci-Fi  seen the cinema Super-35 Blow-Up even-numbered movie James Doohan Nicholas Meyer 'Oh Spock! Jim! Bones!' WTF!? Herr Doktor? Heil! space Christopher Plummer Friendship Industrial Light and Magic franchise Walter Koenig Confronting Xenophobia Teamwork 70mm blowup noise space Fond Farewell Based show William Shakespeare aliens cheesy (good) 70mm TOS Grand Themes open-matte transfer Star Trek BD-Video murder Klingons sci-fi Nimble Old Guys super35 space opera racism Kim Cattrall Nichelle Nichols far future Leonard Nimoy good score DeForest Kelley William Shatner Science Fiction based show

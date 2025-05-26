@@ -1,0 +1,25 @@
+Анализ кластера 1190
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Romance      1
+
+Топ-10 тегов:
+tag
+diving        3
+music         2
+soundtrack    1
+Jean          1
+Eric          1
+Serra         1
+sad           1
+free          1
+air           1
+greek         1
+
+Примеры фильмов:
+                                      title                   genres                                                                                                                                                                                                                                                                                                    tag
+1190  Big Blue, The (Grand bleu, Le) (1988)  Adventure|Drama|Romance  soundtrack scuba diving apnoe diving Nudity (Topless Brief) best music ever comedic parts competitive sport DVD dolphins Anamorphic Blow-Up Italian love story Rosanna Arquette 70mm Eric Serra sad free air diving greek islands Jean Reno water death wish music sucks beautiful scenery Luc Besson

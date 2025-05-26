@@ -1,0 +1,29 @@
+Анализ подкластера 184 в кластере 5
+Размер подкластера: 21 фильмов
+Средний рейтинг: 3.34
+Медиана рейтинга: 3.16
+Дисперсия рейтинга: 0.47
+
+Топ-5 жанров:
+genres
+Drama          12
+Romance         5
+Comedy          3
+Documentary     3
+Mystery         3
+
+Топ-5 тегов:
+tag
+new      2
+death    2
+Jon      2
+Paul     2
+life     2
+
+Примеры фильмов:
+                                                    title    rating                    genres                                                                 tag
+19009                             Think Like a Man (2012)  3.164557                    Comedy                               Meagan Good Michael Ealy Steve Harvey
+19010                               Lucky One, The (2012)  3.280347                     Drama  cliche Scenic Zac Efron Romance! Happy ending Sweet Simple romance
+19022  That Day, on the Beach (Hai tan de yi tian) (1983)  4.500000                     Drama                                                                Long
+19031                            Swell Season, The (2011)  3.500000       Documentary|Romance                                                                 NaN
+19044      Scorpion King 2: Rise of a Warrior, The (2008)  2.287500  Action|Adventure|Fantasy   fantasy bad acting prequel mythology bad effects sword and sandal

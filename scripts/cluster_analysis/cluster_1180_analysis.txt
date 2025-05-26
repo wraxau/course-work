@@ -1,0 +1,26 @@
+Анализ кластера 1180
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Oscar         4
+Nominee:      4
+violence      4
+music         3
+AFI           3
+soundtrack    3
+Best          2
+top           2
+Top           2
+kubrick       2
+
+Примеры фильмов:
+                           title                       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1180  Clockwork Orange, A (1971)  Crime|Drama|Sci-Fi|Thriller  Best Performance Malcolm Mcdowell Alex Delarge Experiment Gone Wrong Nudity (Topless Brief) Sexualized violence psychology behavior modification FUTURE DYSTOPIAS Futuristmovies.com widower EXPERIMENTS GONE AWRY narrated Social Engineering nadsat stanley kubrick Voice Over Narration bildungsroman music cult film Freedom dvd Oscar Nominee: Adapted Screenplay Anthony Burgess Direction AFI 100 dialogue Invented Language criminal reform overrated RAPE SEXUAL ABUSE soundtrack Betamax brutal Bechdel Test:Fail AFI 100 (Thrills) Bibliothek mindblowing quirky violent the book was better Brilliant Film 70s rape victim depressing drama satire Cruel chilly Nostalgia Critic's Top social commentary stars growing unique kubrick Oscar Nominee: Director Oscar Nominee: Best Picture great music scantily clad female pretentious Seen 2013 violence america imdb top 250 ultra-violence great soundtrack jus+san open ending Hugo Award MNM Dehumanization psychedelic Malcolm McDowell atmospheric banned movie shocking psychological torment Emerson must see short-term memory loss eye Beethoven mindfuck 2.5 surreal seen more once RateYourMusic Top Pick Tumey's DVDs literary adaptation Surrealism owned Beatles Can't remember controversial excessive violence adapted from:book AFI #46 pretentios Nudity (Full Frontal) Villain Played Lead Actor psychological ahead it's time Creepy good fisheye prison author:Anthony Burgess stylized violence computer photography Stanley Kubrick psychiatry good soundtrack Malcom McDowell societal criticism Tits doomsday based book use music ohsoso powerful Criticker top pick masterpiece eerie ludwig van beethoven Oscar Nominee: Editing hardcore Adaptation satirical classic dark anomie need own BD-Video director-screenwriter cinematographer:John Alcott disturbing without Martha rape dystopia irreverent future the lens want see again brainwashing Kubrick requisites

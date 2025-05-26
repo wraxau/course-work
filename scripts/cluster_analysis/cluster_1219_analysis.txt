@@ -1,0 +1,25 @@
+Анализ кластера 1219
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+100        5
+love       4
+AFI        4
+Simon      3
+comedy     2
+Ross       2
+classic    2
+top        2
+LOVE       2
+Your       2
+
+Примеры фильмов:
+                     title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1219  Graduate, The (1967)  Comedy|Drama|Romance  Los Angeles affair humorous adultery Mike Nichols notable soundtrack California slow coming age Oscar (Best Directing) graduate seduction runaway good acting music modern classic urbane AFI 100 FORBIDDEN LOVE Dustin Hoffman existential cynical SEXUAL AWAKENING hotel criterion Betamax Plastics dustin hoffman quirky university rebellion illicit love funny great ending drama erotic Rate Your Music top pick 1960s Katharine Ross imdb top 250 ending mature women will like 100 Greatest Movies Criterion AFI 100 (Movie Quotes) 100 Essential Female Performances over-rated suburbia May-December romance dark comedy comedy National Film Registry older woman younger man EXTRAMARITAL AFFAIRS seen more once vday wired greatest soundtracks SUBURBAN DYSFUNCTION Tumey's VHS Simon Garfunkel soundtrack meditative Paul Simon 'Wow Mrs. Robinson Your Porridge Just Right!' parent-children relationship GENERATION GAP LOVE TRIANGLES wedding watch Veja AFI AGE DISPARITY ROMANCE delights Anne Bancroft love triangles See also:Rumour Has Simon and Garfunkel love triangle satirical classic psychos deadpan need own undressing AFI 100 (Laughs) Katherine Ross Unauthorized love afi100 racy want see again

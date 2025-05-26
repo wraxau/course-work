@@ -1,0 +1,29 @@
+Анализ подкластера 28 в кластере 6
+Размер подкластера: 51 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama        28
+Romance      15
+Comedy       10
+Adventure     8
+Thriller      6
+
+Топ-5 тегов:
+tag
+ending     11
+not         8
+bad         6
+based       6
+romance     5
+
+Примеры фильмов:
+                               title    rating                          genres                                                                                      tag
+14119            Matador, The (2008)  3.393939                     Documentary                                                                                      NaN
+14122                 If Only (2004)  3.590476  Drama|Fantasy|Romance|Thriller  touching drama unpredictability Gil Junger heartfelt Time Travel time loop fantasy loop
+14125               Great Guy (1936)  3.250000             Crime|Drama|Mystery                                                                             James Cagney
+14154            Goodbye Solo (2008)  3.422078                           Drama                                                 Red West Souleymane Savane Ramin Bahrani
+14162  Paris 36 (Faubourg 36) (2008)  3.211538           Drama|Musical|Romance                                                              drama paris musical theatre

@@ -1,0 +1,29 @@
+Анализ подкластера 207 в кластере 3
+Размер подкластера: 150 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama      66
+Comedy     58
+Romance    27
+Action     23
+Crime      20
+
+Топ-5 тегов:
+tag
+based      20
+Betamax    15
+nudity     14
+Nudity     13
+comedy     13
+
+Примеры фильмов:
+                                                     title    rating                           genres                                                                                                                                                                                                                                                                                          tag
+5373                               Grand Theft Auto (1977)  2.648438                    Action|Comedy                                                                                                                                                                                                                                                                 car chases directorial debut
+5377  Fox and His Friends (Faustrecht der Freiheit) (1975)  3.541667                            Drama                                                                                                                                                                                                                                              Rainer Werner Fassbinder Tumey's DVDs favourite
+5379                                              Z (1969)  4.009956           Drama|Mystery|Thriller  politics Yves Montand Greek thriller screenwriter:Jorge SemprÃºn merde Oscar (Best Foreign Language Film) Edgar Award (Best Motion Picture) tense investigation political thriller disturbing confrontational matter-of-fact forceful Criterion based true story Netflix queue Costa-Gavras
+5382                            Eight Legged Freaks (2002)  2.513642      Action|Comedy|Horror|Sci-Fi                                                                                                                                                                monster Bob*ola spiders monster:giant spider creature feature Ellory Elkayem Scarlett Johansson mocking it's own genre action
+5383                           K-19: The Widowmaker (2002)  3.245989  Action|Adventure|Drama|Thriller                                                                                                                                                                                                                           history Liam Neeson Russia Harrison Ford submarine Kathryn Bigelow

@@ -1,0 +1,29 @@
+Анализ подкластера 14 в кластере 6
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama      22
+Comedy     13
+Romance    11
+Action      7
+Fantasy     4
+
+Топ-5 тегов:
+tag
+movie     10
+story      9
+book       8
+not        8
+acting     7
+
+Примеры фильмов:
+                                                   title    rating                  genres                                                                                                                                                                                                                                                                                                                            tag
+13006  Shadows in Paradise (Varjoja paratiisissa) (1986)  3.723684          Comedy|Romance                                                                                                                                                                   erlend's DVDs rare garbage man library cashier Aki Kaurismäki addition Criterion library vhs dvr shopping list seen 2011 proletariat trilogy Aki KaurismÃ¤ki
+13007                                  Ghost Town (2008)  3.461632  Comedy|Fantasy|Romance  airconditioner falls Greg Kinnear sees ghosts interesting story widow remarry doesn't like people died for seven minutes See hit bus grumpy surreal TÃ©a Leoni misanthrope ghosts funny David Koepp dentists dentist movie see unique story Ricky Gervais convince her not too MIsanthrope mummy dental analysis TÃƒÂ©a Leoni
+13009                          Accused (Anklaget) (2005)  3.055556                   Drama                                                                                                                                                                                                                                                                                                                            NaN
+13026                     So Normal (Normais, Os) (2003)  3.656250                  Comedy                                                                                                                                                                                                                                            Brazil comedy hilarious fun brazil marriage Based show good pace stylized slapstick
+13029                      Tears of April (Käsky) (2008)  3.285714       Drama|Romance|War                                                                                                                                                                                                                                                                                                               Finnish See rare

@@ -1,0 +1,24 @@
+Анализ кластера 1707
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+80's         4
+Adam         2
+comedy       1
+Jon          1
+Lovitz       1
+Drew         1
+Barrymore    1
+buscemi      1
+jilted       1
+awesome      1
+
+Примеры фильмов:
+                           title          genres                                                                                                                                                                                                                                                                                                                                                  tag
+1707  Wedding Singer, The (1998)  Comedy|Romance  comedy Want Cute! vocalists Adam Sandler bitter Allen Covert Brian Posehn homosexuality 80's fashion seen more once 80's Soundtrack funny Can't remember cheesy Billy Idol Drew/Adam chemistry 80's Jon Lovitz Drew Barrymore buscemi jilted awesome soundtrack love stinks Frank Coraci Adam Sandler's best 80's music feel-good chick flick 1980s

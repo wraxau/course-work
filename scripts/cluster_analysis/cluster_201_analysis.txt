@@ -1,0 +1,23 @@
+Анализ кластера 201
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+cross            2
+dressing         2
+John             1
+Hugo             1
+Wesley           1
+heartwarming     1
+diversity        1
+appreciating     1
+Crossdressing    1
+homophobia       1
+
+Примеры фильмов:
+                                                       title  genres                                                                                                                                                                                                                                      tag
+201  To Wong Foo, Thanks for Everything! Julie Newmar (1995)  Comedy  John Leguizamo road trip Stockard Channing Patrick Swayze small town fantastic cross dressing men queer cross dressing Hugo Weaving transsexuals drag queens homophobia Crossdressing appreciating diversity heartwarming Wesley Snipes

@@ -1,0 +1,29 @@
+Анализ подкластера 362 в кластере 7
+Размер подкластера: 38 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.97
+
+Топ-5 жанров:
+genres
+Comedy       14
+Animation     9
+Drama         8
+Children      6
+Action        5
+
+Топ-5 тегов:
+tag
+comedy          2
+anthology       2
+cyberpunk       1
+cheerleading    1
+camp            1
+
+Примеры фильмов:
+                               title  rating                   genres        tag
+29972  The Executioner's Song (1982)   2.900              Crime|Drama        NaN
+29977            Samurai Wolf (1966)   3.000   Action|Adventure|Drama        NaN
+29979   Bill Maher: I'm Swiss (2005)   4.000                   Comedy        NaN
+29982               Dinotasia (2012)   2.500    Animation|Documentary        NaN
+29987  Ghost in the Shell 2.0 (2008)   4.052  Action|Animation|Sci-Fi  cyberpunk

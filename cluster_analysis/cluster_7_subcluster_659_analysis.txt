@@ -1,0 +1,29 @@
+Анализ подкластера 659 в кластере 7
+Размер подкластера: 62 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.47
+Дисперсия рейтинга: 0.59
+
+Топ-5 жанров:
+genres
+Drama                 21
+Horror                10
+Comedy                10
+(no genres listed)    10
+Action                 6
+
+Топ-5 тегов:
+tag
+book        3
+movie       3
+based       3
+reviewed    3
+acting      3
+
+Примеры фильмов:
+                                         title  rating                         genres         tag
+28066                           Playing (2007)     4.0                    Documentary         NaN
+28090  One Man Against the Organization (1975)     2.0             (no genres listed)         NaN
+28091                       Lodger, The (1944)     3.5  Crime|Horror|Mystery|Thriller  John Brahm
+28125                         Heat Wave (2011)     2.0                          Drama         NaN
+28137                          Standoff (1998)     1.0             (no genres listed)         NaN

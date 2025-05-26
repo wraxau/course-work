@@ -1,0 +1,25 @@
+Анализ кластера 2184
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Sorkin       3
+great        3
+drama        2
+courtroom    2
+Kevin        2
+Corps        2
+court        2
+military     2
+AFI          2
+Cruise       2
+
+Примеры фильмов:
+                       title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+2184  Few Good Men, A (1992)  Crime|Drama|Thriller  Demi Moore great performances corruption MILITARY LIFE Quotable USA conspriacy fdbdshgfhv screenwriter:Aaron Sorkin Tom Cruise talky lawyer military court lawyers muista slick seen more once army tom cruise courtroom drama Aaron Sorkin 'That's All Inmate Wants...Simple Pleasures' Cruise crime Rob Reiner great director NO_FA_GANES playwright:Aaron Sorkin Tumey's VHS JAG Corps conspiracy AFI (courtroom drama) courtroom great script tense Jack Nicholson based play Oscar Nominee earnest classic drama trial COURT MARTIAL foqam BD-Video Marine Corps law murder dvr adapted from:play ensemble cast excellent script cover Kevin Bacon You can't handle the truth Theater Kiefer Sutherland Christopher Guest Kevin Pollak fear airplanes stage secrets forceful AFI 100 (Movie Quotes) want see again military chick flick POLITICAL CORRUPTION morality watch adapted from: play own court

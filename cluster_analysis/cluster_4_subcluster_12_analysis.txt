@@ -1,0 +1,29 @@
+Анализ подкластера 12 в кластере 4
+Размер подкластера: 298 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.02
+
+Топ-5 жанров:
+genres
+Drama                 106
+Comedy                 80
+(no genres listed)     50
+Action                 41
+Thriller               36
+
+Топ-5 тегов:
+tag
+gay             3
+Relationship    2
+Story           2
+love            2
+drugs           2
+
+Примеры фильмов:
+                                     title  rating              genres                               tag
+30432                    The Border (2007)   4.000               Drama  finnish Lauri Törhönen Seen 2015
+30464        East Wind (Vent d'Est) (1993)   4.125               Drama                               NaN
+30486  The Father and the Foreigner (2010)   3.000  (no genres listed)                               NaN
+30488             Il primo incarico (2011)   3.000               Drama                               NaN
+30493              La bella società (2009)   1.000               Drama                               NaN

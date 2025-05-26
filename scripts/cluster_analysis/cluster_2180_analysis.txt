@@ -1,0 +1,24 @@
+Анализ кластера 2180
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Demi        1
+Neil        1
+FROM        1
+ESCAPE      1
+cheating    1
+Mamet       1
+David       1
+Jordan      1
+crime       1
+Moore       1
+
+Примеры фильмов:
+                       title        genres                                                                                                       tag
+2180  We're No Angels (1989)  Comedy|Crime  Demi Moore comedy remake Sean Penn Robert Niro crime Neil Jordan David Mamet cheating ESCAPE FROM PRISON

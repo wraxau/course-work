@@ -1,0 +1,18 @@
+Анализ кластера 2509
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Roberto      1
+Benigni      1
+Michel       1
+Filippi      1
+sexuality    1
+
+Примеры фильмов:
+                                 title  genres                                       tag
+2509  Monster, The (Mostro, Il) (1994)  Comedy  Roberto Benigni Michel Filippi sexuality

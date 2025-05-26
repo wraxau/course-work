@@ -1,0 +1,29 @@
+Анализ подкластера 2 в кластере 5
+Размер подкластера: 420 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Drama          186
+Comedy         110
+Documentary     71
+Action          63
+Romance         60
+
+Топ-5 тегов:
+tag
+nudity    21
+based     21
+story     15
+IMAX      12
+French    12
+
+Примеры фильмов:
+                                                                       title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+19049                                                 Columbus Circle (2012)  2.978261  Crime|Mystery|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+19073                                                          Thrive (2011)  3.388889             Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+19089  Safrana or Freedom of Speech (Safrana ou le droit à la parole) (1978)  4.000000                   Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+19091                                                         Galileo (1975)  3.375000                   Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         history Brecht science biography astronomy historical adapted from:play based play
+19093                                     Snow White and the Huntsman (2012)  2.936195  Action|Adventure|Drama  band little people Thor animal:bird Kristen Stewart Bechdel Test:Pass fairy tale notable:beautiful forest (scene) epic stale plot visuals Watched evil queen weak plot setting:forest chris hemsworth tale:Snow White (A-T #709) based book Chris Hemsworth animal:horse too long boring charlize theron subgenre:fairy tale directorial debut sword battle visually stunning purity setting:castle BD-Video Snow White Charlize Theron main character boring bow arrow murder bugs adapted from:book dwarves unlikeable characters magic might like drab beautiful cinematography casting twist classic story theme:female power fantasy

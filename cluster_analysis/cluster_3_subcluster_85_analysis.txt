@@ -1,0 +1,29 @@
+Анализ подкластера 85 в кластере 3
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Drama          9
+Action         8
+Adventure      8
+Animation      7
+Documentary    4
+
+Топ-5 тегов:
+tag
+3-D          3
+nudity       3
+(topless)    3
+the          3
+franchise    2
+
+Примеры фильмов:
+                                                                                                   title    rating                      genres                   tag
+19237  Dragon Ball Z: The Return of Cooler (Doragon bôru Z 6: Gekitotsu! Hyakuoku pawâ no senshi) (1992)  3.285714  Action|Adventure|Animation                   NaN
+19238          Dragon Ball Z: Cooler's Revenge (Doragon bôru Z 5: Tobikkiri no saikyô tai saikyô) (1991)  3.307692  Action|Adventure|Animation                   NaN
+19239                                                                        Blood of the Vampire (1958)  3.000000               Horror|Sci-Fi                   NaN
+19240                                                                            Disneyland Dream (1956)  3.500000                 Documentary                   NaN
+19241                                                      Disney Sing Along Songs: Under the Sea (1990)  2.950000  Animation|Children|Musical  songs disney singing

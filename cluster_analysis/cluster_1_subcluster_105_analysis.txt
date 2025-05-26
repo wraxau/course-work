@@ -1,0 +1,29 @@
+Анализ подкластера 105 в кластере 1
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Comedy      4
+Drama       3
+Thriller    3
+Mystery     2
+Fantasy     1
+
+Топ-5 тегов:
+tag
+comedy       4
+quotable     2
+Stand-up     2
+stand-up     2
+hilarious    2
+
+Примеры фильмов:
+                                       title    rating                          genres                                                                                               tag
+27852                  Up in the Wind (2013)  3.000000                          Comedy                                                                                               NaN
+27853         Lovestruck: The Musical (2013)  3.400000  Comedy|Fantasy|Musical|Romance                                                                                               NaN
+27854  Getting Go, the Go Doc Project (2013)  4.250000                           Drama                                                   documentary self discovery Cory Krueckeberg gay
+27855          Eddie Izzard: Glorious (1997)  3.703704                          Comedy  insightful Peter Richardson highly quotable hilarious irreverent stand-up comedy Stand-up comedy
+27856            Eddie Izzard: Circle (2002)  3.236842                          Comedy                  hilarious stand-up comedy Anastasia Pappas Stand-up comedy quotable Eddie Izzard

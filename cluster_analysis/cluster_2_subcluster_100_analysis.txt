@@ -1,0 +1,29 @@
+Анализ подкластера 100 в кластере 2
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.04
+Дисперсия рейтинга: 0.53
+
+Топ-5 жанров:
+genres
+Drama       24
+Comedy       8
+Crime        5
+Horror       4
+Thriller     4
+
+Топ-5 тегов:
+tag
+based       2
+Nudity      2
+Aleichem    2
+comedy      2
+David       2
+
+Примеры фильмов:
+                                                                                         title    rating       genres                   tag
+17581  Goalie's Anxiety at the Penalty Kick, The (Die Angst des Tormanns beim Elfmeter) (1972)  3.500000        Drama                   NaN
+17583                                             Electra, My Love (Szerelmem, Elektra) (1974)  3.833333        Drama         Miklós Jancsó
+17584                   Indian Summer (a.k.a. The Professor) (La prima notte di quiete) (1972)  2.375000        Drama                   NaN
+17585                                                                 Married Couple, A (1969)  3.333333  Documentary  Allan King Criterion
+17588                                                                         Madeleine (1950)  3.500000  Crime|Drama            David Lean

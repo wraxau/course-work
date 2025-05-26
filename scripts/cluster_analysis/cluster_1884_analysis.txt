@@ -1,0 +1,25 @@
+Анализ кластера 1884
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Fantasy      1
+Musical      1
+
+Топ-10 тегов:
+tag
+fantasy      3
+DVDs         2
+quest        1
+maze         1
+Froud        1
+fairy        1
+tales        1
+music        1
+gnomos       1
+Nostalgia    1
+
+Примеры фильмов:
+                 title                     genres                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1884  Labyrinth (1986)  Adventure|Fantasy|Musical  quest erlend's DVDs musical fantasy world 80's high fantasy childish David Bowie Betamax crude humor lame surreal seen more once Fantasy laberinto Tumey's DVDs siblings muppets Jim Henson Adventure classic!! Brian Froud fairy tales music gnomos Nostalgia musica strong female lead maze duendes puppets jim henson Coming-of-Age Jennifer Connelly good versus evil dreamlike fantasy Muppets

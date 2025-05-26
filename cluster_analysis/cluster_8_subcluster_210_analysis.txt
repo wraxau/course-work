@@ -1,0 +1,29 @@
+Анализ подкластера 210 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 2.92
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Action       2
+Thriller     2
+Drama        2
+Animation    1
+Children     1
+
+Топ-5 тегов:
+tag
+nudity       2
+(topless)    2
+silly        2
+tale         2
+magic        2
+
+Примеры фильмов:
+                              title    rating                       genres                                                                                                                                                                                                                                                                                                                                                                                   tag
+18944  Ballad of Nessie, The (2011)  3.055556           Animation|Children                                                                                                                                                                                                                                                                                                                                                                                   NaN
+18945          Big Bang, The (2011)  2.625000              Action|Thriller                                                                                                                                                                                                                                                                                                                                                                      nudity (topless)
+18946          Mirror Mirror (2012)  2.924842     Adventure|Comedy|Fantasy                                                                   Bechdel Test:Pass (barely) fairy tale Cute tale:Snow White (A-T #709) Satire awful ending subgenre:fairy tale masculine power vs. feminine power remake whimsical eyebrows death/fatality Comedy light Lily Collins Snow White adapted from:book black magic dwarves magic Julia Roberts beautiful good versus evil
+18947             Battleship (2012)  2.779282  Action|Sci-Fi|Thriller|IMAX  Good Guy Aliens Brett Northcutt product placement childish irony alien invasion Alexander Skarsgard Liam Neeson Rihanna bad science heroism big budget militaristic visually stunning cheesy aliens Taylor Kitsch navy better expected BD-Video Poor Plot Hawaii Tadanobu Asano silly sci-fi special effects silly but fun implausible Navy military anti-war ship IMAX Digital only
+18948     Notre jour viendra (2010)  3.566667                        Drama                                                                                                                                                                                                                                                                                                                                                                      nudity (topless)

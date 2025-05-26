@@ -1,0 +1,23 @@
+Анализ кластера 1874
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+running          2
+Vangelis         2
+history          1
+70mm             1
+anti-Semitism    1
+overlong         1
+inspirational    1
+holes80s         1
+Oscar            1
+(Best            1
+
+Примеры фильмов:
+                        title genres                                                                                                                                                                                                                                                                                                                                                  tag
+1874  Chariots of Fire (1981)  Drama  history Betamax athletics athletic apex notable soundtrack Olympics biographical 1920s historical Vangelis Tumey's DVDs sports track and field Hugh Hudson 1930s 70mm sport:track running anti-Semitism overlong inspirational holes80s Oscar (Best Picture) running music Vangelis religious convictions religion seen AFI 100 (Cheers) compelling

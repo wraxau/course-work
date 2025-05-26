@@ -1,0 +1,29 @@
+Анализ подкластера 83 в кластере 5
+Размер подкластера: 54 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama          25
+Horror         10
+Thriller       10
+Documentary     9
+Comedy          9
+
+Топ-5 тегов:
+tag
+Entertainment    3
+Moon             3
+Full             3
+nudity           2
+horror           2
+
+Примеры фильмов:
+                                                       title    rating             genres                                                tag
+21579                        Souper, Le (Supper, The) (1992)  4.000000              Drama                                   Edouard Molinaro
+21580                             Moving the Mountain (1994)  3.500000        Documentary               China Tiananmen Square Michael Apted
+21582                               Hitler's Children (2011)  3.187500        Documentary                  documentary history Chanoch Zeevi
+21583        Flight of the Conchords: A Texan Odyssey (2006)  3.916667             Comedy                         Jess Feast Jemaine Clement
+21588  Vassilisa the Beautiful (Vasilisa prekrasnaya) (1939)  2.875000  Adventure|Fantasy  Baba Yaga Russian dragon Aleksandr Rou fairy tale

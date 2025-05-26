@@ -1,0 +1,29 @@
+Анализ подкластера 17 в кластере 7
+Размер подкластера: 115 фильмов
+Средний рейтинг: 2.89
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.88
+
+Топ-5 жанров:
+genres
+Comedy                36
+Drama                 35
+Thriller              17
+(no genres listed)    16
+Horror                13
+
+Топ-5 тегов:
+tag
+past      2
+the       2
+comedy    2
+murder    2
+Pan       2
+
+Примеры фильмов:
+                                            title  rating                   genres  tag
+27600  Light the Fuse... Sartana Is Coming (1970)     NaN                  Western  NaN
+27604       Kathleen Madigan: Gone Madigan (2010)    0.50                   Comedy  NaN
+27606                  Jim Jefferies: BARE (2014)    3.75                   Comedy  NaN
+27607              When Good Ghouls Go Bad (2001)    2.50  Children|Comedy|Fantasy  NaN
+27612         Scooby-Doo in Arabian Nights (1994)    2.80       Animation|Children  NaN

@@ -1,0 +1,24 @@
+Анализ кластера 324
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+Gilbert      1
+Adler        1
+Ernest       1
+Dickerson    1
+Billy        1
+Zane         1
+nostalgic    1
+Nudity       1
+
+Примеры фильмов:
+                                                  title           genres                                                                                    tag
+324  Tales from the Crypt Presents: Demon Knight (1995)  Horror|Thriller  nudity (topless) Gilbert Adler Ernest Dickerson Billy Zane nostalgic Nudity (Topless)

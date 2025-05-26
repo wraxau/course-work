@@ -1,0 +1,25 @@
+Анализ кластера 75
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+horror              2
+artificial          1
+Nudity              1
+sci-fi              1
+b-grade             1
+see:                1
+Dick                1
+Philip              1
+planet              1
+post-apocalyptic    1
+
+Примеры фильмов:
+               title                  genres                                                                                                                                                   tag
+75  Screamers (1995)  Action|Sci-Fi|Thriller  horror artificial intelligence post apocalyptic bad it's good robots post-apocalyptic planet Philip Dick see: b-grade horror sci-fi Nudity (Topless)

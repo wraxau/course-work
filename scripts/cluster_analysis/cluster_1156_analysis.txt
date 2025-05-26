@@ -1,0 +1,25 @@
+Анализ кластера 1156
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Drama        1
+Film-Noir    1
+
+Топ-10 тегов:
+tag
+Huston        2
+con           2
+Angelica      2
+Frontal)      1
+adapted       1
+from:book     1
+new           1
+nior          1
+Clever        1
+con-gaming    1
+
+Примеры фильмов:
+                     title                 genres                                                                                                                                                                                                                                                                                                                                                                                              tag
+1156  Grifters, The (1990)  Crime|Drama|Film-Noir  John Cusack nudity (full frontal) scams mother caper neo-noir con men based book crime Edgar Award (Best Motion Picture) scam Annette Bening girl friend Crime dark loved Angelica Huston adapted from:book new nior Clever con-gaming Stephen Frears Nudity (Full Frontal) Drama Best Performance: Angelica Huston Lilly Dillon Dramatic 100 Essential Female Performances mobster con artists

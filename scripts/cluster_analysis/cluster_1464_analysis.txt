@@ -1,0 +1,23 @@
+Анализ кластера 1464
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+lesbian       1
+New           1
+coming        1
+Award         1
+Teddy         1
+homophobia    1
+drugs         1
+LGBT          1
+ratings       1
+300           1
+
+Примеры фильмов:
+                   title genres                                                                                                                                    tag
+1464  All Over Me (1997)  Drama  lesbian New York City trials youth Alex Sichel Leisha Hailey queer blah less 300 ratings LGBT drugs homophobia Teddy Award coming age

@@ -1,0 +1,29 @@
+Анализ подкластера 177 в кластере 1
+Размер подкластера: 100 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.73
+
+Топ-5 жанров:
+genres
+Drama      41
+Comedy     32
+Romance    17
+Action     14
+Crime      14
+
+Топ-5 тегов:
+tag
+animation    3
+comedy       2
+sports       2
+racist       2
+David        1
+
+Примеры фильмов:
+                               title  rating               genres          tag
+25662  12 Wishes of Christmas (2011)   3.500       Comedy|Fantasy          NaN
+25674     Esther and the King (1960)   3.500        Drama|Romance          NaN
+25675   Even Angels Eat Beans (1973)   4.125  Action|Comedy|Crime          NaN
+25707       Chasing Christmas (2005)   3.000       Comedy|Fantasy          NaN
+25711                  Common (2014)   2.625          Crime|Drama  David Blair

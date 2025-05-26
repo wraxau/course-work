@@ -1,0 +1,29 @@
+Анализ подкластера 369 в кластере 3
+Размер подкластера: 53 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Comedy      22
+Drama       21
+Thriller     8
+Action       8
+Romance      7
+
+Топ-5 тегов:
+tag
+less       6
+ratings    6
+based      6
+300        6
+book       4
+
+Примеры фильмов:
+                                    title    rating                  genres                                                                                                                 tag
+7896                    Comandante (2003)  3.500000             Documentary                                                                                       less 300 ratings Oliver Stone
+7906     Mayor of the Sunset Strip (2003)  3.115385             Documentary                                                            celebrity Documentary Music Hollywood rock and roll Rock
+7909  Philadelphia Experiment, The (1984)  3.195329  Adventure|Drama|Sci-Fi  1940s radar Special Effects experimental Betamax World War Navy romance 1980s cheesy action USN time travel sci-fi
+7927               Our Hospitality (1923)  3.808756                  Comedy                     erlend's DVDs Buster Keaton silent Comedy Netflix queue John Blystone Historically accurate See
+7929        Farmer's Daughter, The (1947)  3.477273                  Comedy                           04/11 11/11 reviewed 05/11 06/11 03/11 12/11 Grace Kelly Oscar (Best Actress) H.C. Potter

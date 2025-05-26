@@ -1,0 +1,23 @@
+Анализ кластера 1878
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Oscar      5
+(Best      4
+acting     3
+true       2
+movie      2
+story      2
+road       2
+100        1
+Valeria    1
+top        1
+
+Примеры фильмов:
+                title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1878  Rain Man (1988)  Drama  road trip Exceptional Acting great acting need buy Nudity (Topless Brief) 1.5 Tom Cruise psychology disability genius true story dustin hoffman tom cruise Oscar (Best Directing) get good siblings DIVX owned acting funny emotion! road movie dustinhoffman Can't remember Bonnie Hunt drama autism cinematography 7.4-FilmAffinity Jack Murdock exceptional acting brothers Oscar (Best Writing Screenplay Written Directly for the Screen) classical Gerald Molen Nostaglic Theater Oscar (Best Picture) rape VHS mental illness library imdb top 250 Valeria Golino Barry Levinson Oscar (Best Actor) Great movie based true story overcoming obstacles Hans Zimmer Oscar Winner touching Dustin Hoffman watch AFI 100 (Cheers) heartwarming psychiatry dark comedy

@@ -1,0 +1,25 @@
+Анализ кластера 1072
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+cross         2
+dressing      2
+twist         2
+(Best         1
+for           1
+Directly      1
+Written       1
+Screenplay    1
+Writing       1
+Best          1
+
+Примеры фильмов:
+                        title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1072  Crying Game, The (1992)  Drama|Romance|Thriller  Best Rotten Tomatoes: All Time transgendered lgbt Ireland penis queer twist Emerson must see Bechdel Test:Fail very good slow hostage twist ending IRA soldier violent puzzling cross dressing Transgendered NO_FA_GANES Neil Jordan genitalia Stephen Rea Jaye Davidson cross dressing men transgender dvr Oscar (Best Writing Screenplay Written Directly for the Screen) male nudity sexual orientation library Forest Whitaker based true story prospect England hairdresser Miranda Richardson

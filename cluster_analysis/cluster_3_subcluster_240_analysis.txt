@@ -1,0 +1,29 @@
+Анализ подкластера 240 в кластере 3
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama       6
+Comedy      5
+Action      5
+Sci-Fi      4
+Thriller    3
+
+Топ-5 тегов:
+tag
+plot           4
+bad            4
+good           3
+predictable    3
+crime          3
+
+Примеры фильмов:
+                               title    rating                genres                                                                                                                                                                                                                                                                                                             tag
+19512            La dama boba (2006)  3.250000                Comedy                                                                                                                                                                                                                                 smart woman sword fight silly woman Lope Vega Siglo Oro adapted from:play verse
+19513           Pitch Perfect (2012)  3.610747        Comedy|Musical  Anna Kendrick comedy musical HOT actress vocalists screwball comedy toplist12 coming age Funny college too predictable acapella funny and interesting characters choir music predictable Jason Moore musical numbers not for emetophobes dialogue cleavage musicians Rebel Wilson quotable future cult classic
+19514  Cold Light of Day, The (2012)  2.608696       Action|Thriller                                                                                                                                                                                                                                                                                                             NaN
+19515   Hello I Must Be Going (2012)  3.103448  Comedy|Drama|Romance                                                                                                                                                                                                                                                                                romance coming-of-age depression
+19516      Flowing (Nagareru) (1956)  4.166667                 Drama                                                                                                                                                                                                                                                                                                    Mikio Naruse

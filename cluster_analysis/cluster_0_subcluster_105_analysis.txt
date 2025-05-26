@@ -1,0 +1,29 @@
+Анализ подкластера 105 в кластере 0
+Размер подкластера: 15 фильмов
+Средний рейтинг: 2.88
+Медиана рейтинга: 3.01
+Дисперсия рейтинга: 0.67
+
+Топ-5 жанров:
+genres
+Drama       10
+Romance      5
+Comedy       4
+Thriller     3
+Crime        2
+
+Топ-5 тегов:
+tag
+based    5
+true     3
+book     3
+story    3
+see      2
+
+Примеры фильмов:
+                                        title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+12562                        Joysticks (1983)  0.500000                        Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+12563                      Spirit Trap (2005)  2.666667               Horror|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+12564  Promised Land (Ziemia Obiecana) (1975)  3.300000                         Drama                                                                                                                                                                                                                                                                                                                                                                                                                            history Jews Andrzej Wajda 19th century based book
+12565              Youth Without Youth (2007)  3.005747          Drama|Romance|Sci-Fi                                                                                                                                                                                                                                                                                                                                                               nudity (topless) ClearPlay cinematography Francis Ford Coppola dialogue Tim Roth schizophrenia Nudity (Topless)
+12566                               21 (2008)  3.499621  Crime|Drama|Romance|Thriller  Laurence Fishburne title sequence con artist smart characters Below cards genius counting cards true story based book embellished Black Jack Jim Sturgess Matt Damon strong start weak finish netflix young Massachusetts Institute Technology Kate Bosworth nonfiction Las Vegas Robert Luketic loosely based true story mathematics book adaptation con artists predictable movie see poker Kevin Spacey casinos ending fiction based true story gambling casino blackjack

@@ -1,0 +1,17 @@
+Анализ кластера 1302
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+cinematographer:Victor    1
+Kemper                    1
+not                       1
+horror                    1
+
+Примеры фильмов:
+                   title  genres                                       tag
+1302  Audrey Rose (1977)  Horror  cinematographer:Victor Kemper not horror

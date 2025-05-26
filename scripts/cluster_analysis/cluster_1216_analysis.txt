@@ -1,0 +1,25 @@
+Анализ кластера 1216
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+new           3
+New           2
+Allen         2
+Woody         2
+york          2
+seen          2
+classic       2
+DVDs          2
+York          2
+soundtrack    1
+
+Примеры фильмов:
+                 title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+1216  Manhattan (1979)  Comedy|Drama|Romance  comedy New York City erlend's DVDs photography humorous seen National Film Registry Betamax Lolita-fetish 18.01.06 god lille-slÃ¥et historieudvikling talky love Bibliothek Woody Allen classic delights cinematographer:Gordon Willis writers Tumey's DVDs Gershwin setting:NYC classic satire humor need own Seen 2008 New York new york city perfect Manhattan literate wistful AFI 100 (Laughs) never seen lyrical awesome soundtrack black and white relationships impossible relationship imdb top 250 urbane new york americana neurotic new yorkers Meryl Streep moving inspire intellecutal Woody Allen beautiful woody allen terrible person godt boheme-new yorker-intellektuelt miljÃ¸ bittersweet May-December romance Diane Keaton

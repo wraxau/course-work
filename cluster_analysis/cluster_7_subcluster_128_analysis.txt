@@ -1,0 +1,29 @@
+Анализ подкластера 128 в кластере 7
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.65
+
+Топ-5 жанров:
+genres
+Drama                 13
+Thriller               9
+Comedy                 7
+Crime                  7
+(no genres listed)     5
+
+Топ-5 тегов:
+tag
+suitcase      1
+greed         1
+sub-titled    1
+revenge       1
+Argentina     1
+
+Примеры фильмов:
+                                  title    rating                 genres             tag
+31659                      Oscar (1967)  3.750000                 Comedy  suitcase greed
+31660    La sedia della felicità (2013)  3.500000                 Comedy             NaN
+31661                        Zid (2014)  2.500000       Romance|Thriller             NaN
+31662  The Transporter Refuelled (2015)  3.059524  Action|Crime|Thriller             NaN
+31663                       Stan (2006)  3.000000     (no genres listed)             NaN

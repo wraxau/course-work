@@ -1,0 +1,26 @@
+Анализ кластера 1969
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+Horror      1
+
+Топ-10 тегов:
+tag
+witch        1
+Sarah        1
+curse        1
+funny        1
+campy        1
+Najimy       1
+Kathy        1
+Birch        1
+Thora        1
+childhood    1
+
+Примеры фильмов:
+                   title                          genres                                                                                                                                                       tag
+1969  Hocus Pocus (1993)  Children|Comedy|Fantasy|Horror  witch Sarah Jessica Parker halloween Bette Midler Kenny Ortega Disney talking cat witches childhood Thora Birch Kathy Najimy campy funny curse Halloween

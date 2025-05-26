@@ -1,0 +1,24 @@
+Анализ кластера 1267
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+period        2
+Forster       2
+gentle        1
+summery       1
+drama         1
+british       1
+accents       1
+OTHERWISE     1
+ENGAGED       1
+passionate    1
+
+Примеры фильмов:
+                           title         genres                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1267  Room with a View, A (1986)  Drama|Romance  gentle Betamax OPPOSITES ATTRACT Bibliothek Netflix Finland Forster Helena Bonham Carter James Ivory Daniel Day-Lewis elegant social satire witty wistful literate adapted from:book period romace scenic pretentious Italy costume drama british accents OTHERWISE ENGAGED passionate author:E. Forster Criterion period piece summery chick flick England VACATION ROMANCES beautiful scenery LOOKING FOR LOVE Seen 2008

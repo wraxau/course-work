@@ -1,0 +1,22 @@
+Анализ кластера 833
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+hermit     1
+grill      1
+small      1
+town       1
+prison     1
+maine      1
+Lee        1
+David      1
+Zlotoff    1
+
+Примеры фильмов:
+                          title genres                                                     tag
+833  Spitfire Grill, The (1996)  Drama  hermit grill small town prison maine Lee David Zlotoff

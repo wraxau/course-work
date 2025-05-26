@@ -1,0 +1,29 @@
+Анализ подкластера 258 в кластере 3
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama     15
+Comedy    12
+Horror     8
+Sci-Fi     7
+Action     7
+
+Топ-5 тегов:
+tag
+good      8
+comedy    6
+ending    6
+family    5
+and       5
+
+Примеры фильмов:
+                      title    rating                                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+3732      Wonderland (1999)  3.597024                                  Drama                                                                                                                                                                                                                                                                                                                                                                      working class easily confused with other movie(s) (title) London Whoopi Goldberg Michael Winterbottom family
+3735      Hollow Man (2000)  2.538441                 Horror|Sci-Fi|Thriller  nudity (topless) awful thriller politics horror waste time and money see this invisibility Elisabeth Shue B-movie Sexualized violence fight club Dynamic CGI Action action DVD boring good movie from Depp B-Movie turd illogical invisible technology unrealistic Josh Brolin Nudity (Topless Notable) creepo oddly moving nothing special kevin bacon sci-fi Horror Kevin Bacon Nudity (Topless) rape tightg Paul Verhoeven invisible man not good all monsters elizabeth shue
+3740    Saving Grace (2000)  3.660891                                 Comedy                                                                                                      dt: GrasgeflÃ¼ster comedy plot:Bildungsroman but with middle-aged character setting:Cornwall township (UK) british comedy adultery setting:Portabello Rd/Notting Hill (scene) unbelievable accents drugs jus+san related:Whisky Galore England protagonist recently widowed Craig Ferguson notable:pollywog plot:small British community comes together marijuana Nigel Cole
+3745  Kelly's Heroes (1970)  3.793034                      Action|Comedy|War                                                                                                                                                                                                                                                                                                              70mm perrot library Donald Sutherland Clint Eastwood Tumey's DVDs anti-hero wartime World War wwii caper Telly Savalas Brian Hutton Don Rickles Seen more once Humor
+3746     Phantasm II (1988)  2.750000  Action|Fantasy|Horror|Sci-Fi|Thriller                                                                                                                                                                                                                                                                                                                                          nudity (topless) lovecraft slave trade Lovecraftian mythology zombies lovecraftian cult film dead sci-fi aliens Nudity (Topless) horrorr

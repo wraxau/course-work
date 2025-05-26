@@ -1,0 +1,24 @@
+Анализ кластера 1193
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime     1
+Horror    1
+
+Топ-10 тегов:
+tag
+AFI               4
+see               4
+100               3
+Hitchcock         3
+DVDs              2
+also:Psycho       2
+Anthony           2
+Film              2
+cinematography    2
+suspense          2
+
+Примеры фильмов:
+              title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1193  Psycho (1960)  Crime|Horror  serial killer USA psychology Scary Movies See Halloween Phoenix, Arizona cross dressing Edgar Award (Best Motion Picture) tense Alfred Hitchcock hitchcock shower scene music black and white suspense cut AFI 100 erlend's DVDs horror Betamax AFI 100 (Thrills) mystery motel Anthony Perkins chilly cross dressing men Bernard Herrmann murder dvr stars money mental illness see also:Psycho (1998) imdb top 250 scary hell AFI 100 (Movie Quotes) multiple personality Hitchcock don't want see National Film Registry macabre remakeOf:Psycho (1960) 3.5 AFI #18 Emerson must see menacing domineering mother see: cult classic book Tumey's DVDs owned Norman Bates creepy almost favorite cellar Frightening mother-son relationship bathroom great cinematography deliberate library vhs gothic favourite Film Noir amazing photography Hitchcock meant Psycho comedy! remade memasa's movies Anthony Harvey based book thriller best villains Janet Leigh suspense classic cinematography BD-Video disturbing suspenseful see also:Psycho (1960)

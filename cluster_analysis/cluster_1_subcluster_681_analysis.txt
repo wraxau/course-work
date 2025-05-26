@@ -1,0 +1,29 @@
+Анализ подкластера 681 в кластере 1
+Размер подкластера: 50 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama          24
+Comedy          9
+Documentary     9
+Action          7
+Thriller        6
+
+Топ-5 тегов:
+tag
+IMAX           4
+sequel         4
+predictable    3
+3-D            3
+action         3
+
+Примеры фильмов:
+                                             title    rating                      genres                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+23670                              Occupant (2011)  2.875000                    Thriller                                                                                                                                                                                                                                                                                                                                                                                                                      Paranoia
+23674  Princess Tam-Tam (Princesse Tam-Tam) (1935)  2.666667                Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+23677                    Tangled Ever After (2012)  3.665525   Action|Animation|Children                                                                                                                                                                                                                                                                                                                                                                       animated short sequel princess adventure love Animation
+23700                       Back in the Day (2014)  2.600000                      Comedy                                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+23708            How to Train Your Dragon 2 (2014)  3.783826  Action|Adventure|Animation  btaegekids animated cute childish Jonah Hill good sequel Dean DeBlois predictable ending reviewed life shocks btaegepriority Jay Baruchel predictable plot dragons Adventure vikings Gerard Butler mother-son relationship IMAX DMR 3-D cat Craig Ferguson good story animation Bob*ola imdb top 250 sequel DreamWorks authentic Academy Award Nominee 2015 Academy Award Nomination ANIMATED FEATURE FILM IMAX Digital only

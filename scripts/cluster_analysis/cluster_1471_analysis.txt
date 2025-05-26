@@ -1,0 +1,25 @@
+Анализ кластера 1471
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Comedy       1
+
+Топ-10 тегов:
+tag
+Bond         4
+James        3
+spoof        2
+the          2
+hilarious    2
+spy          2
+Powers       2
+Austin       1
+Elizabeth    1
+BD-Video     1
+
+Примеры фильмов:
+                                                   title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+1471  Austin Powers: International Man of Mystery (1997)  Action|Adventure|Comedy  comedy multiple roles hilarious silly fun James Bond hilarious spy spoof Australia related:007 (series) boring kohtuu hyvÃ¤ spoof seen more once screwball watch the credits spies goofy Mike Myers funny Danger middle name Las Vegas crude Heather Graham satire London Compare:Austin Powers parody Austin Powers Will Ferrell BD-Video Elizabeth Hurley Jay Roach spying time travel spy cheezy the max! hillarious spoof: James Bond Bond James Bond Compare:The Silencers don't remember Underrated

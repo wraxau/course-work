@@ -1,0 +1,29 @@
+Анализ подкластера 42 в кластере 7
+Размер подкластера: 38 фильмов
+Средний рейтинг: 2.95
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.75
+
+Топ-5 жанров:
+genres
+Comedy                9
+Drama                 8
+(no genres listed)    7
+Documentary           5
+Horror                4
+
+Топ-5 тегов:
+tag
+the        2
+story      2
+running    2
+horror     2
+Romance    2
+
+Примеры фильмов:
+                                  title    rating              genres                                                                                                                                                                                     tag
+27991  The Third Reich: The Rise & Fall  3.000000  (no genres listed)                                                                                                                                                                                     NaN
+27993                    Tracers (2015)  2.528302              Action                                                                                                                                        great awesone story parkour cycling free running
+27994             McFarland, USA (2015)  3.686747               Drama  Los Angeles overcoming adversity Niki Caro running small town heavy-handed reviewed product placement advertising sports cross country McFarland female director not subtle true story
+28002                     Arnold (1973)  1.500000       Comedy|Horror                                                                                                                                                                                     NaN
+28005                        My Own Man  3.000000  (no genres listed)                                                                                                                                                                                     NaN

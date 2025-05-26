@@ -1,0 +1,29 @@
+Анализ подкластера 146 в кластере 4
+Размер подкластера: 120 фильмов
+Средний рейтинг: 2.87
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.33
+
+Топ-5 жанров:
+genres
+Drama                 42
+Comedy                22
+(no genres listed)    16
+Thriller              15
+Action                13
+
+Топ-5 тегов:
+tag
+history      3
+Christmas    3
+black        2
+Great        2
+Drama        1
+
+Примеры фильмов:
+                         title    rating                  genres                                                                                  tag
+33284          Antigang (2015)  4.125000                  Action                                                                                  NaN
+33292        Bedfellows (2008)  4.000000                  Horror                                                                                  NaN
+33293  Adieu Philippine (1962)  3.500000                   Drama                                                                                  NaN
+33295           Tamasha (2015)  3.136364      (no genres listed)  Drama Social Commentary Imtiaz Ali Ranbir Kapoor Deepika Padukone Thought Provoking
+33297   Dressed to Kill (1941)  1.500000  Drama|Mystery|Thriller                                                                                  NaN

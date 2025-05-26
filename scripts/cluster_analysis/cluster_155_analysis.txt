@@ -1,0 +1,19 @@
+Анализ кластера 155
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+War       1
+
+Топ-10 тегов:
+tag
+Michael       1
+Moore         1
+sarcasm       1
+politics      1
+conspiracy    1
+
+Примеры фильмов:
+                     title      genres                                        tag
+155  Canadian Bacon (1995)  Comedy|War  Michael Moore sarcasm politics conspiracy

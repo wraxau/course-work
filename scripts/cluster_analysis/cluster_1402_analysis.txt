@@ -1,0 +1,23 @@
+Анализ кластера 1402
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Ian              1
+McEwan           1
+Charlotte        1
+Gainsbourg       1
+controversial    1
+incest           1
+Nudity           1
+(Topless         1
+Notable)         1
+based            1
+
+Примеры фильмов:
+                          title genres                                                                                                                tag
+1402  Cement Garden, The (1993)  Drama  Ian McEwan Charlotte Gainsbourg controversial incest Nudity (Topless Notable) based book Andrew Birkin coming age

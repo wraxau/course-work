@@ -1,0 +1,24 @@
+Анализ кластера 1591
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+mental        2
+comedy        2
+dark          2
+might         1
+Parker        1
+based         1
+black         1
+from:book     1
+adapted       1
+King-Smith    1
+
+Примеры фильмов:
+                         title        genres                                                                                                                                                                                tag
+1591  House of Yes, The (1997)  Comedy|Drama  might like mental illness incest perrot library Mark Waters dark humor mental imbalance Parker Posey author:Dick King-Smith adapted from:book black comedy based play dark comedy

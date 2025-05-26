@@ -1,0 +1,23 @@
+Анализ кластера 1268
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+the           2
+college       2
+smart         2
+scientific    1
+comedy        1
+witty         1
+cal           1
+tech          1
+80s           1
+plot          1
+
+Примеры фильмов:
+                   title  genres                                                                                                                                                                                                                                                                                                         tag
+1268  Real Genius (1985)  Comedy  Martha Coolidge engineering Quotable Val Kilmer Betamax revenge smart one the most underated comedies Popcorn genius Geeks college college students noHun the gravy stain came out smart comedy witty cal tech 80s plot point:sudden scientific insight nerds science lasers military popcorn own quotable

@@ -1,0 +1,25 @@
+Анализ кластера 2516
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+plot         2
+sci-fi       2
+video        2
+the          2
+own          2
+reality      2
+bad          1
+decent       1
+Reality      1
+Alternate    1
+
+Примеры фильмов:
+                title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+2516  eXistenZ (1999)  Action|Sci-Fi|Thriller  MOLT_CRITICADA biomorph video games Sci-Fi the dialouge just doesn't sound right videodrome did better techno-evolution jennifer jason leigh Sarah Polley matrix cronenberg muista Thriller Futuristmovies.com mindfuck geeks screen multiple realities surreal willem dafoe Action Good Romantic Comedies lame plot twists mts.vod acting want own the plot video game interesting gaming wtf?! unique sci-fi rate down Alternate Reality decent bad ending strange prosthetics Jude Law virtual reality Different ontoleptic alternate reality 90s sci-fi Jennifer Jason Leigh 6,2-filmaffinity own exciting visuals David Cronenberg dreamlike

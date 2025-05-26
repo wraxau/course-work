@@ -1,0 +1,24 @@
+Анализ кластера 1229
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+suicide       2
+John          1
+silly         1
+geeks         1
+attempt       1
+paperboy      1
+Nostalgic     1
+light         1
+UNREQUITED    1
+LOVE          1
+
+Примеры фильмов:
+                          title          genres                                                                                                                                                                                                                                                                                                                                    tag
+1229  Better Off Dead... (1985)  Comedy|Romance  John Cusack HIGH SCHOOL LIFE disc imagination suicide Betamax movie love exchange student skiing Savage Steve Holland surreal quirky upbeat directorial debut teen goofy Underdog geeks suicide attempt paperboy Nostalgic light UNREQUITED LOVE cult film silly depression gets better goes black comedy easygoing high school sweet

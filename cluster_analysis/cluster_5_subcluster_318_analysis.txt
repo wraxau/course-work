@@ -1,0 +1,29 @@
+Анализ подкластера 318 в кластере 5
+Размер подкластера: 46 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Drama          18
+Documentary    13
+Comedy         12
+Action          6
+Thriller        5
+
+Топ-5 тегов:
+tag
+animation    3
+based        3
+science      3
+Criterion    3
+3-D          3
+
+Примеры фильмов:
+                                                                                  title    rating                           genres                                                                                                                                                                                                                                                                                                             tag
+19527  Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard) (2009)  2.681818       Animation|Children|Fantasy                                                                                                                                                                               animation world inside another world predictable ending nature story line visually appealing filler between two movies Luc Besson
+19529                                                            Deathstalker II (1987)  2.750000  Action|Adventure|Comedy|Fantasy                                                                                                                                                                                                                                                                                                nudity (topless)
+19533                                     Nobody's Children (I figli di nessuno) (1952)  3.500000                    Drama|Romance                                                                                                                                                                                                                                                                                   Raffaello Matarazzo Criterion
+19537                                                              Robot & Frank (2012)  3.681778              Comedy|Drama|Sci-Fi  gentle robbery rediscovery Fantastic Getaway!!! human condition life nostalgia Fantastic Getaway rob from the insurance companies crime science fiction memory humor MTSKAF sickness soft crime friendship future Alfred Sloan Feature Film Prize near future robots family prospect growing old Jake Schreier
+19542                                                         Hollywood Sex Wars (2011)  2.666667                           Comedy                                                                                                                                                                                                                                                                                                    Paul Sapiano

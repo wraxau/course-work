@@ -1,0 +1,29 @@
+Анализ подкластера 114 в кластере 3
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.30
+Медиана рейтинга: 3.59
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Comedy       9
+Drama        8
+Adventure    4
+Fantasy      4
+Romance      3
+
+Топ-5 тегов:
+tag
+(Best        10
+Oscar         9
+Betamax       7
+Criterion     5
+Gilliam       5
+
+Примеры фильмов:
+                       title    rating                           genres                                                                                                                                                                                                                                                                                                                                                                                                        tag
+2860    Mike's Murder (1984)  2.795302                          Mystery                                                                                                                                                                                                                                                                                                                                                                                                    Betamax
+2877      Fever Pitch (1997)  3.305000                   Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                soccer sports Nick Hornby based book Soccer
+2880  Omega Code, The (1999)  2.025172                           Action                                                                                                                                                                                                                                                                                                                                                    christian christianity Robert Marcarelli vhs based book
+2883     Time Bandits (1981)  3.576072  Adventure|Comedy|Fantasy|Sci-Fi  band little people history fantasy world imagination Betamax see: kites for kiddos treasure Bechdel Test:Fail Terry Gilliam Trilogy the Imagination John Cleese See action Gilliam Netflix Finland Sean Connery perrot library surreal Fantasy terry gilliam funny fantasy Shelley Duvall Ralph Richardson time travel don't touch it's evil VHS Criterion Time travel good versus evil seen time midgets
+2886    All That Jazz (1979)  3.753115            Drama|Fantasy|Musical                                      nudity (topless) musical biography Betamax National Film Registry Annemari Jessica Lange breakthroughs etaege art true story Roy Scheider Biography biographical addiction Golden Palm show business autobiographical view jazz SeeAlso:All That Jazz (1979) Nudity (Topless) mortality passionate jazz music death personified dance Criterion Bob Fosse drugs Dance

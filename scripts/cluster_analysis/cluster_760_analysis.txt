@@ -1,0 +1,17 @@
+Анализ кластера 760
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Djibril      1
+Diop         1
+Mambéty      1
+Criterion    1
+
+Примеры фильмов:
+                  title genres                             tag
+760  Touki Bouki (1973)  Drama  Djibril Diop Mambéty Criterion

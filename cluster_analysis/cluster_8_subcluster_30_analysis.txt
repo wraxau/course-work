@@ -1,0 +1,29 @@
+Анализ подкластера 30 в кластере 8
+Размер подкластера: 70 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama        34
+Comedy       24
+Romance      11
+Action       11
+Adventure    11
+
+Топ-5 тегов:
+tag
+movie    12
+the      11
+based    10
+good      9
+see       8
+
+Примеры фильмов:
+                                                                              title    rating          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+11529                                                        Freedom Writers (2007)  3.700838           Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            prejudice Below problematic based book hilary swank long PG-13 perrot library ghetto; slums; teaching; holocaust; hope teacher music predictable movie see netflix queue cliche pretentious Richard LaGravenese ending based true story Holocaust teacher changing lives feel good high school
+11539                               Children Shouldn't Play with Dead Things (1973)  3.125000          Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    zombies cult film gore
+11549                                                  Letters from Iwo Jima (2006)  3.821529       Drama|War  erlend's DVDs looks interesting plot 5-8-2007 truth MoviePig Top Pick immolation japanese War the eye enemy general weak plot Bechdel Test:Fail Got screenwriter:Iris Yamashita cannon Oscar Nom 2007 Potential Oscar Nom war honest It's Biased When Watanabe Uses And Kills Himself boring understated shooting world war Tumey's DVDs Tokyo Ken Watanabe earnest holes00s drama Seen 2011 meditative claustrophobic intimate R:graphic war violence katana dvr movie see emotional AFI Movie the Year Oscar Nominee: Director Oscar Nominee: Best Picture bloody 1940s dysku japan Deep Bob*ola imdb top 250 library Oscar (Best Sound Editing) letters baker brutality Clint Eastwood deep ex-imdb top 250 Oscar Nominee: Original Screenplay World War Navy BGAB LRC Character study btaege whiskey
+11560  American Pie Presents The Naked Mile (American Pie 5: The Naked Mile) (2006)  2.574026  Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        comedy nudity (full frontal) franchise teen movie made for blindfold Nudity (Full Frontal Notable)
+11572                                        The Little World of Don Camillo (1952)  3.406250          Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               01/11 11/11 05/11 Julien Duvivier 06/11 03/11 12/10 12/11 01/12 11/10 02/11

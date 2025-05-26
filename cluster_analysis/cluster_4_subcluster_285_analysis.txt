@@ -1,0 +1,26 @@
+Анализ подкластера 285 в кластере 4
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.87
+
+Топ-5 жанров:
+genres
+Drama                 13
+Comedy                12
+(no genres listed)    10
+Romance                6
+Adventure              6
+
+Топ-5 тегов:
+tag
+Marc      1
+Silver    1
+
+Примеры фильмов:
+                                                        title    rating              genres  tag
+33072                                    Famous Nathan (2015)  3.250000  (no genres listed)  NaN
+33074  BMF: The Rise and Fall of a Hip-Hop Drug Empire (2012)  3.500000  (no genres listed)  NaN
+33076                   Ralphie May: Imperfectly Yours (2013)  3.000000  (no genres listed)  NaN
+33084                           Le bal des casse-pieds (1992)  1.500000              Comedy  NaN
+33089                                         Hachi-ko (1987)  3.833333  (no genres listed)  NaN

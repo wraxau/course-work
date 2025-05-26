@@ -1,0 +1,29 @@
+Анализ подкластера 471 в кластере 3
+Размер подкластера: 21 фильмов
+Средний рейтинг: 3.38
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.12
+
+Топ-5 жанров:
+genres
+Drama       13
+Comedy       6
+Crime        4
+Thriller     4
+Romance      4
+
+Топ-5 тегов:
+tag
+DVDs      5
+the       4
+John      4
+nudity    3
+Nudity    3
+
+Примеры фильмов:
+                                title    rating                genres                                                                                                                                                                                                                                                                                                                            tag
+3186            Bad Lieutenant (1992)  3.308966           Crime|Drama  nudity (topless) Gambling prostitution cynical visceral Dark Netflix Finland gritty blasphemic Christianity downbeat lurid grim depressing Unflinching Harvey Keitel controversial Catholicism heroin Drug Addiction disturbing confrontational Nudity (Topless) Police police police corruption KAF drugs religion pointless
+3188       Single White Female (1992)  3.066226        Drama|Thriller                                                                                            lesbian subtext rent control thriller twins housing psychologic cast good action Bridget Fonda Jennifer Jason Leigh identity theft software developers romance suspense room-mate from hell thrilling Nudity (Full Frontal Notable)
+3192               Gendernauts (1999)  3.100000           Documentary                                                                                                                                                                                                                                                                                                        Bechdel Test:Pass queer
+3195  Brandon Teena Story, The (1998)  3.659155           Documentary                                                                                                                                                                          homosexuality sexuality small town cross dressing women queer Nebraska cross dressing homophobia Teddy Award Gréta Olafsdóttir true story Susan Muska
+3212               Boiler Room (2000)  3.496328  Crime|Drama|Thriller                                                                                                                                                     secrets White Collar Crime reviewed Investment Scam directorial debut Ben Younger father-son relationship callcenter scam stock market sales underrated Social Engineering

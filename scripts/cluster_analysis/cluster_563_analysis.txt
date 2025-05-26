@@ -1,0 +1,16 @@
+Анализ кластера 563
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+directorial    1
+debut          1
+
+Примеры фильмов:
+                         title        genres                tag
+563  Bhaji on the Beach (1993)  Comedy|Drama  directorial debut

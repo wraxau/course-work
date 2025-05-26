@@ -1,0 +1,26 @@
+Анализ кластера 1298
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+house         2
+nudity        1
+remade        1
+Nudity        1
+haunted       1
+singing       1
+creepy        1
+character     1
+dwelling      1
+possession    1
+
+Примеры фильмов:
+                              title                         genres                                                                                                                                                       tag
+1298  Amityville Horror, The (1979)  Drama|Horror|Mystery|Thriller  nudity (topless) subgenre:haunted house James Brolin Stuart Rosenberg possession remade dwelling character creepy singing haunted house Nudity (Topless)

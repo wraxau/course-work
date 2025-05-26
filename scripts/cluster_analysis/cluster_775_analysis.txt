@@ -1,0 +1,26 @@
+Анализ кластера 775
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+Romance    1
+Sci-Fi     1
+
+Топ-10 тегов:
+tag
+much         2
+And          2
+don't        2
+remember     2
+SHERMAN      2
+the          2
+rest.        2
+fatphobia    1
+John         1
+ego          1
+
+Примеры фильмов:
+                           title                         genres                                                                                                                                                                                                                                                                                                                                                                                                                tag
+775  Nutty Professor, The (1996)  Comedy|Fantasy|Romance|Sci-Fi  comedy multiple roles HuhcÃƒÂ¼lees! HuhcÃƒÂ¼lees!... And don't remember much the rest. Crappy Remake double life Walked out/didn't finish remake Jada Pinkett Smith SHERMAN SHERMAN SHERMAN! goofy Dave Chappelle Larry Miller silly Tom Shadyac Eddie Murphy fatphobia alter ego John Ales Nudity (Full Frontal Brief) HuhcÃ¼lees! HuhcÃ¼lees!... And don't remember much the rest. stupid James Coburn fat suit

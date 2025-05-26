@@ -1,0 +1,29 @@
+Анализ подкластера 646 в кластере 3
+Размер подкластера: 65 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Comedy      26
+Drama       25
+Crime       13
+Action      10
+Thriller     9
+
+Топ-5 тегов:
+tag
+(Best      18
+Oscar      14
+comedy     13
+Betamax    11
+DVDs       11
+
+Примеры фильмов:
+                                    title    rating                             genres                            tag
+1686                      Star Kid (1997)  2.236188  Adventure|Children|Fantasy|Sci-Fi                     Manny Coto
+1687                     Hard Rain (1998)  2.765812              Action|Crime|Thriller  Mikael Salomon Morgan Freeman
+1697      Letter From Death Row, A (1998)  2.564516                        Crime|Drama               less 300 ratings
+1704        Tokyo Fist (Tokyo ken) (1995)  3.250000                       Action|Drama             library vhs boxing
+1722  Callejón de los milagros, El (1995)  3.111940                              Drama  Nex Mexican cinema Jorfe Fons

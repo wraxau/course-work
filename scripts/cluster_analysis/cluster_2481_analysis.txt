@@ -1,0 +1,25 @@
+Анализ кластера 2481
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Musical    1
+Romance    1
+
+Топ-10 тегов:
+tag
+character      2
+Yul            1
+Broadway       1
+CinemaScope    1
+70mm           1
+high           1
+brow           1
+music          1
+emotional      1
+story          1
+
+Примеры фильмов:
+                       title                 genres                                                                                                                                                                                                                                                                                           tag
+2481  King and I, The (1956)  Drama|Musical|Romance  Yul Brynner musical Rita Moreno character development characters *Good* Musicals character dies Siam Walter Lang See also:The King and (1956) reviewed vhs acting CinemaScope 70mm high brow music emotional story Broadway royalty Oscar (Best Actor) adapted from B'way entertaining Dance

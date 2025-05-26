@@ -1,0 +1,17 @@
+Анализ кластера 1366
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Anjelica    1
+Huston      1
+BGAB        1
+LRC         1
+
+Примеры фильмов:
+                               title genres                       tag
+1366  Bastard Out of Carolina (1996)  Drama  Anjelica Huston BGAB LRC

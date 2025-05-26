@@ -1,0 +1,22 @@
+Анализ кластера 2369
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Fantasy    1
+
+Топ-10 тегов:
+tag
+inspiration      1
+for              1
+life             1
+Betamax          1
+family           1
+inspirational    1
+Nick             1
+Castle           1
+
+Примеры фильмов:
+                              title         genres                                                            tag
+2369  Boy Who Could Fly, The (1986)  Drama|Fantasy  inspiration for life Betamax family inspirational Nick Castle

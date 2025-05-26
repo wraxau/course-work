@@ -1,0 +1,24 @@
+Анализ кластера 1250
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+
+Топ-10 тегов:
+tag
+movie      2
+Gene       2
+Wilder     2
+Mel        2
+Brooks     2
+comedy     1
+and        1
+black      1
+monster    1
+2006       1
+
+Примеры фильмов:
+                          title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1250  Young Frankenstein (1974)  Comedy|Fantasy  comedy erlend's DVDs Quotable hilarious Great Ensemble Cast Cloris Leachman National Film Registry Betamax Playlist young kids Madeline Kahn farce silly but good Too old. showing its age delights spoof Mel Brooks movie movies every kid should see--Entertainment Weekly Can't remember Transylvania satire witty Peter Boyle parody BD-Video frankenstein Marty Feldman marty feldman AFI 100 (Laughs) Seen 2006 monster black and white Mel Brooks imdb top 250 Gene Wilder Teri Garr current breasts horror/comedy gothic Friday night movie gene wilder Incorrectly rated Horror Best Performance: Gene Wilder Dr. Frederick Frankenstein

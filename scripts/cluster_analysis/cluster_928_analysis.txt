@@ -1,0 +1,25 @@
+Анализ кластера 928
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Musical    1
+Romance    1
+
+Топ-10 тегов:
+tag
+Rogers      2
+Astaire     2
+tap         1
+Blore       1
+Mark        1
+and         1
+dancing     1
+ballroom    1
+Ginger      1
+Registry    1
+
+Примеры фильмов:
+              title                  genres                                                                                                                                                                        tag
+928  Top Hat (1935)  Comedy|Musical|Romance  tap dance Best Rotten Tomatoes: All Time Hollywood Classic Fred Astaire Eric Blore National Film Registry Ginger Rogers ballroom dancing Astaire and Rogers Mark Sandrich

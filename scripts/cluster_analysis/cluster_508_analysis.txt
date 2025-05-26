@@ -1,0 +1,24 @@
+Анализ кластера 508
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+Heinlein     2
+book         2
+andy         1
+robinson     1
+Robert       1
+massacred    1
+the          1
+adapted      1
+from:book    1
+aliens       1
+
+Примеры фильмов:
+                          title         genres                                                                                                          tag
+508  Puppet Masters, The (1994)  Horror|Sci-Fi  andy robinson Robert Heinlein massacred the book adapted from:book aliens based book author:Robert Heinlein

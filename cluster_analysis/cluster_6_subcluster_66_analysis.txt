@@ -1,0 +1,29 @@
+Анализ подкластера 66 в кластере 6
+Размер подкластера: 69 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama       31
+Comedy      26
+Romance     10
+Thriller     9
+Crime        8
+
+Топ-5 тегов:
+tag
+comedy     10
+ending     10
+Netflix     7
+death       6
+library     6
+
+Примеры фильмов:
+                                                         title    rating                   genres                                                                                                    tag
+13278               Dirty Dozen, The: The Fatal Mission (1988)  3.350000     Action|Adventure|War                                                                                                    NaN
+13290                               Constantine's Sword (2007)  3.380952              Documentary                                                                                               BGAB LRC
+13295                                       Girls Rock! (2007)  2.642857              Documentary                                                                                                    NaN
+13297                                     Alien Raiders (2008)  2.863636  Mystery|Sci-Fi|Thriller  horrible supermarket scifi low budget illogical ambiguous ending christmas aliens stupid twist ending
+13298  American Loser (Trainwreck: My Life as an Idiot) (2007)  2.916667             Comedy|Drama                                                                                                    NaN

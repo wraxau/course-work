@@ -1,0 +1,29 @@
+Анализ подкластера 643 в кластере 3
+Размер подкластера: 37 фильмов
+Средний рейтинг: 3.35
+Медиана рейтинга: 3.37
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama       18
+Comedy      11
+Romance      8
+Action       7
+Thriller     6
+
+Топ-5 тегов:
+tag
+AFI        10
+classic     9
+100         9
+based       9
+comedy      7
+
+Примеры фильмов:
+                        title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+484       M. Butterfly (1993)  3.417710           Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                  nudity (topless) alter ego sexuality adultery cross dressing men cross dressing China Japan 1960s based play Broadway
+509  Radioland Murders (1994)  2.943299  Comedy|Mystery|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          George Lucas period piece radio show business
+513         Rising Sun (1993)  3.132194    Action|Drama|Mystery                                                                                                                                                                                                                                                                                                                   nudity (topless) Seen 2014 seen the cinema Bibliothek based book Thriller excellent plot Japan Can't remember Crime intrigue Murder xenophobic? murder Nudity (Topless) Detective Nudity (Rear) Nudity (Full Frontal Brief) Michael Crichton author:Michael Crichton
+531         Short Cuts (1993)  3.774070                   Drama  Los Angeles overrated Robert Altman biting like-i-like top pick Tom Waits nudity (full frontal) humorous sweeping Super-35 Blow-Up Robert Downey See Bibliothek long too long human fallibility FALTERING FRIENDSHIPS 70mm melancholy multiple storylines Julianne Moore RENT literate Tim Robbins ensemble cast Lili Taylor large cast Nudity (Full Frontal) Nudity (Full Frontal Notable) unlikeable characters MOTHERS AND DAUGHTERS racy REDEMPTION Altman INTERSECTING LIVES Robert Downey Jr. FATHERS AND SONS Criterion CRUMBLING MARRIAGES Raymond Carver stories dark comedy
+540  Striking Distance (1993)  2.927972            Action|Crime                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Bruce Willis seen 2010

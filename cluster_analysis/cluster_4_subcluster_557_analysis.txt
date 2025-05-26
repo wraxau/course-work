@@ -1,0 +1,25 @@
+Анализ подкластера 557 в кластере 4
+Размер подкластера: 29 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.02
+
+Топ-5 жанров:
+genres
+Drama                 10
+Comedy                 8
+(no genres listed)     5
+Adventure              5
+Action                 4
+
+Топ-5 тегов:
+tag
+Comedy    1
+
+Примеры фильмов:
+                             title    rating              genres  tag
+32994    A Second Childhood (2010)  0.500000  (no genres listed)  NaN
+33002                 Heist (2015)  3.228571     Action|Thriller  NaN
+33025  The Passionate Thief (1960)  1.000000              Comedy  NaN
+33032     Inspector Blunder (1980)  2.750000              Comedy  NaN
+33035                Banzai (1983)  3.000000              Comedy  NaN

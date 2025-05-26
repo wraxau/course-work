@@ -1,0 +1,29 @@
+Анализ подкластера 1004 в кластере 1
+Размер подкластера: 911 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama       433
+Comedy      328
+Thriller    169
+Romance     160
+Action      121
+
+Топ-5 тегов:
+tag
+the       142
+movie     133
+(Best     119
+comedy    112
+Oscar     111
+
+Примеры фильмов:
+                                    title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+1                          Jumanji (1995)  3.198752    Adventure|Children|Fantasy  comedy magic board game childish Children game Dynamic CGI Action based book kid flick childhood recaptured Chris Van Allsburg For children Fantasy animals Joe Johnston Kirsten Dunst kids Robin Williams Lebbat jungle fantasy children board game monkey herds CGI animals Saturn Award (Best Supporting Actress) bad cgi Filmed adapted from:book Saturn Award (Best Special Effects) time travel see also:Zathura horrifying (but not Horror genre) not for kids scary time fiction adventure family thrill
+2                 Grumpier Old Men (1995)  3.169251                Comedy|Romance                                                                                                                                                                                                                                                                                             comedy sequel comedinha velhinhos engraÃ§ada comedinha velhinhos engraÃƒÂ§ada old people that actually funny Walter Matthau NO_FA_GANES grun running Jack Lemmon moldy Howard Deutch sequel fever old Funniest Movies
+10         American President, The (1995)  3.653809          Comedy|Drama|Romance                                                                                                                                                        great performances politics Martin Sheen cute screenwriter:Aaron Sorkin single parents President Bibliothek great story seen more once Aaron Sorkin Rob Reiner NO_FA_GANES Annette Bening president 23.03.06 Amazing kung White House clever dialogue girlie movie DVD Collection decent flick great cast Romance morals Drama Michael Douglas ethics seen
+12                           Balto (1995)  3.293797  Adventure|Animation|Children                                                                                                                                                                                                                                                                                                                                                                                                                             muista animated dogsled wolves sort boring dogs Simon Wells talking animals sled dogs
+18  Ace Ventura: When Nature Calls (1995)  2.612583                        Comedy                                                                                                                                                                                                                       comedy hilarious silly fun detective goofy awesome Gross-out Africa wacky comedy very funny over the top Simon Callow Jim Carrey One the worst movies all time Not kind comedy childhood fav dumb Steve Oedekerk crazy Stupid Hell hehehe sequel private detective Rhino action stupid spit

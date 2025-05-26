@@ -1,0 +1,29 @@
+Анализ подкластера 6 в кластере 2
+Размер подкластера: 36 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.36
+Дисперсия рейтинга: 0.38
+
+Топ-5 жанров:
+genres
+Drama     16
+Comedy     8
+Sci-Fi     8
+Action     6
+Horror     5
+
+Топ-5 тегов:
+tag
+DVDs         5
+Criterion    4
+(Best        4
+with         4
+Tumey's      4
+
+Примеры фильмов:
+                                                               title    rating                         genres                                                                                                                                                      tag
+7650          In China They Eat Dogs (I Kina spiser de hunde) (1999)  3.658955                  Action|Comedy  brother-brother relationship Denmark mafia product placement Lasse Spang Olsen anti-hero less 300 ratings black comedy heist HEROIC MISSION dark comedy
+7651  Delta Force 2 (Delta Force 2: The Colombian Connection) (1990)  2.231183  Action|Adventure|Thriller|War                                                                                                                               Menahem Golan Chuck Norris
+7652                                               Crossroads (1986)  3.176955                          Drama                                                                                                 Betamax Walter Hill real blues DEAL WITH THE DEVIL blues
+7653                                              29th Street (1991)  3.181818                   Comedy|Drama                                                                           01/11 11/11 05/11 10/10 06/11 03/11 12/10 12/11 01/12 11/10 George Gallo 02/11
+7654             Seducing Doctor Lewis (Grande séduction, La) (2003)  3.743534                         Comedy                                           disk protagonist medical doctor to-rent Quebec TOO SEE seen 2011 town vs. country Canada Jean-François Pouliot

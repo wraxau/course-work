@@ -1,0 +1,24 @@
+Анализ кластера 1742
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+friends       1
+Rudd          1
+story         1
+unusual       1
+Bibliothek    1
+Character     1
+Lead          1
+Gay           1
+love          1
+Paul          1
+
+Примеры фильмов:
+                                   title          genres                                                                                                                                                     tag
+1742  Object of My Affection, The (1998)  Comedy|Romance  friends jennifer aniston homosexuality Jennifer Aniston interesting characters annoying Paul Rudd love Gay Lead Character Bibliothek unusual story gay

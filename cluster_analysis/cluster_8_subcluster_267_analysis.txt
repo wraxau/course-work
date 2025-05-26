@@ -1,0 +1,29 @@
+Анализ подкластера 267 в кластере 8
+Размер подкластера: 15 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.15
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Drama          8
+Comedy         4
+Documentary    3
+Romance        3
+Action         3
+
+Топ-5 тегов:
+tag
+book      3
+based     2
+better    2
+great     2
+music     2
+
+Примеры фильмов:
+                                                                    title    rating                    genres                                                         tag
+18655                                          Kino-Eye (Kinoglaz) (1924)  3.250000               Documentary                                                         NaN
+18657                                     For a Good Time, Call... (2012)  3.192857      Comedy|Drama|Romance                                                         NaN
+18658  Jodorowsky Constellation, The (La constellation Jodorowsky) (1994)  2.900000               Documentary                                                         NaN
+18659                                                  Casey Jones (2011)  3.250000  Action|Adventure|Fantasy                                                         NaN
+18660                                                  Janie Jones (2010)  3.150000             Drama|Musical  Abigail Breslin FANTASTIC! great story good music reviewed

@@ -1,0 +1,17 @@
+Анализ кластера 337
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+might    1
+like     1
+Mina     1
+Shum     1
+
+Примеры фильмов:
+                       title genres                   tag
+337  Double Happiness (1994)  Drama  might like Mina Shum

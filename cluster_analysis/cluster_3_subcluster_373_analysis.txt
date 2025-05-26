@@ -1,0 +1,29 @@
+Анализ подкластера 373 в кластере 3
+Размер подкластера: 34 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy      14
+Crime        7
+Action       5
+Thriller     4
+
+Топ-5 тегов:
+tag
+300        6
+ratings    6
+based      6
+less       6
+book       5
+
+Примеры фильмов:
+                             title    rating                  genres                                                                                                                                                                                                                                                                                                                                      tag
+7052               Paycheck (2003)  3.216036  Action|Sci-Fi|Thriller  MOLT_CRITICADA high-tech firms Ben Affleck soundtrack Hollywood Bibliothek based book Uma Thurman Aaron Eckhart bad science Philip Dick Revenge memory JOHN WOO simplified computer ace business adapted from:book sci-fi hush-hush projects payne memory erased Kathryn Morris security author:Philip Dick predict future Michael Hall
+7056         Japanese Story (2003)  3.269337                   Drama                                                                                                                                                                                                                                      Australia drama less 300 ratings culture clash Toni Collette Australian Sue Brooks Nudity (Topless)
+7059        My Baby's Daddy (2004)  2.147727                  Comedy                                                                                                                                                                                                                                                                                                   Mystery Eddie Griffin Anthony Anderson
+7064                 Torque (2004)  2.041796            Action|Crime                                                                                                                                                                                                                                                                          motorcycle slick cinematography product placement contrived cgi
+7069  Odds Against Tomorrow (1959)  3.413793    Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                             less 300 ratings Robert Wise

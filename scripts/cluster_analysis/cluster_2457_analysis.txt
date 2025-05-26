@@ -1,0 +1,23 @@
+Анализ кластера 2457
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+soundtrack      2
+school          2
+manipulation    1
+Kumble          1
+Games           1
+Seduction       1
+Reese           1
+Witherspoon     1
+Betrayal        1
+Roger           1
+
+Примеры фильмов:
+                        title genres                                                                                                                                                                                                                                                                              tag
+2457  Cruel Intentions (1999)  Drama  manipulation awful soundtrack HOT actress Nudity (Topless Brief) Selma Blair Ryan Philippe based book Femme Fatale get Lebbat baby ClearPlay Mind Games Seduction Reese Witherspoon Betrayal Roger Kumble great soundtrack private school KAF Sarah Michelle Gellar high school

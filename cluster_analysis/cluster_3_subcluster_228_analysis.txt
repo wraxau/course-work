@@ -1,0 +1,29 @@
+Анализ подкластера 228 в кластере 3
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.00
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama        7
+Adventure    3
+Animation    3
+War          3
+Comedy       2
+
+Топ-5 тегов:
+tag
+Badass       2
+Gainax       2
+Hiroyuki     2
+Imaishi      2
+willpower    2
+
+Примеры фильмов:
+                                                        title    rating                      genres                   tag
+22429  American Raspberry (Prime Time) (Funny America) (1977)       NaN                      Comedy                   NaN
+22430                                   Last Ride, The (2012)  3.250000                       Drama                   NaN
+22431                           Hava Nagila: The Movie (2012)  2.833333  Comedy|Documentary|Musical                   NaN
+22432                                  Bling Ring, The (2011)  3.000000                       Drama            true story
+22433                                   Perfect Man, A (2013)  1.916667                       Drama  Amsterdam infidelity

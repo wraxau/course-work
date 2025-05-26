@@ -1,0 +1,29 @@
+Анализ подкластера 91 в кластере 7
+Размер подкластера: 48 фильмов
+Средний рейтинг: 2.63
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.72
+
+Топ-5 жанров:
+genres
+Drama                 18
+Comedy                11
+(no genres listed)     9
+Romance                8
+Action                 5
+
+Топ-5 тегов:
+tag
+book         2
+nudity       2
+(topless)    2
+Duvivier     2
+Julien       2
+
+Примеры фильмов:
+                     title  rating             genres                tag
+27040      Awaydays (2009)    2.50              Drama                NaN
+27041   Double Game (1977)    2.00    Action|Thriller                NaN
+27043  Burning Blue (2013)    4.25  Drama|Romance|War  Gay Military DADT
+27055    Red Salute (1935)    2.50     Comedy|Romance                NaN
+27062   Seven Alone (1974)    4.00     Children|Drama                NaN

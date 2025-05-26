@@ -1,0 +1,29 @@
+Анализ подкластера 170 в кластере 1
+Размер подкластера: 23 фильмов
+Средний рейтинг: 2.56
+Медиана рейтинга: 2.75
+Дисперсия рейтинга: 0.90
+
+Топ-5 жанров:
+genres
+Drama                 10
+Thriller               5
+(no genres listed)     4
+Action                 2
+Crime                  2
+
+Топ-5 тегов:
+tag
+Greek      2
+theater    1
+robots     1
+Hugh       1
+Laurie     1
+
+Примеры фильмов:
+                              title    rating              genres                                                                                                                                                                                                                                              tag
+28599             Copperhead (2013)  4.000000               Drama                                                                                                                                                                                                                                              NaN
+28600             Borderline (1980)  3.000000  Action|Crime|Drama                                                                                                                                                                                                                                              NaN
+28601  The Clown at Midnight (1999)  1.500000     Horror|Thriller                                                                                                                                                                                                                        theater slasher teenagers
+28602           Tomorrowland (2015)  3.199319    Adventure|Sci-Fi  Britt Robertson Brett Northcutt George Clooney Future visually appealing inventor ineffective Disney For children george clooney Cheesy funny worlds fair Adventure Uplifting futuristic sci-fi alternate reality robots Hugh Laurie bad ending
+28603             Dead Girls (2014)  1.750000              Horror                                                                                                                                                                                                                          vengeful spirit revenge

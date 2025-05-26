@@ -1,0 +1,25 @@
+Анализ кластера 1617
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Nudity          2
+police          2
+nudity          1
+awful...just    1
+(Topless        1
+Notable)        1
+murder          1
+Amish           1
+Guess           1
+Repression      1
+
+Примеры фильмов:
+               title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+1617  Witness (1985)  Drama|Romance|Thriller  nudity (topless) romance. intercultural relationship Pennsylvania Betamax Seen many times! visually appealing Peter Weir good casting thriller amish Tumey's DVDs crime Edgar Award (Best Motion Picture) engaging romance suspense realistic undercover cop drama Nudity (Topless Notable) murder Amish Guess Repression Does Have It's Moments After All' awful...just awful ethical music Nudity (Topless) police investigation Harrison Ford police compassionate Character study religion beautiful culture shock

@@ -1,0 +1,29 @@
+Анализ подкластера 143 в кластере 3
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Drama        11
+Comedy       10
+Adventure     6
+Thriller      5
+Romance       5
+
+Топ-5 тегов:
+tag
+Nudity    10
+nudity     8
+movie      6
+comedy     6
+book       5
+
+Примеры фильмов:
+                              title    rating                      genres                                                                                                                                                                                                          tag
+4731        Big Red One, The (1980)  3.543261  Action|Adventure|Drama|War                                                                                                     erlend's DVDs gritty History forceful bleak rousing World War disturbing tense Samuel Fuller Classic War
+4734          Lady in a Cage (1964)  3.092593              Drama|Thriller                                                                                                                                                                                                          NaN
+4741        Competition, The (1980)  3.437838               Drama|Romance                                                                                                                                                                                                          NaN
+4750            Corky Romano (2001)  2.109220                Comedy|Crime                                                                                                                       Rob Pritts Worst movie ever Zach Galifianakis Comedy Need See seen stupid Chris Kattan
+4752  Fat Girl (À ma soeur!) (2001)  3.230769                       Drama  biting cynical nudity (full frontal) moody downbeat tense bleak AnaÃ¯s Reboux intimate Catherine Breillat male nudity Coming age matter-of-fact forceful Criterion library vhs child rape sexual bad ending

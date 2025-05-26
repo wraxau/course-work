@@ -1,0 +1,29 @@
+Анализ подкластера 150 в кластере 5
+Размер подкластера: 10 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.43
+
+Топ-5 жанров:
+genres
+Thriller    6
+Drama       4
+Horror      4
+Comedy      3
+Mystery     3
+
+Топ-5 тегов:
+tag
+comedy           4
+good             3
+ass              2
+psychological    2
+acting           2
+
+Примеры фильмов:
+                                                  title    rating                          genres                                                                                                                                                                                                                                          tag
+14949  Gentlemen of Fortune (Dzhentlmeny udachi) (1972)  4.045752      Comedy|Crime|Drama|Mystery  01/11 comedy 04/11 06/11 Aleksandr Seryj criminal comedy 11/10 11/11 12/10 crime 08/10 01/12 undercover cop classic drama kindergarten prison escape 09/10 10/10 Soviet Union Evgeni Leonov Russian 05/11 03/11 prison 12/11 quotable 02/11
+14950                                   Eden Log (2007)  3.023810  Horror|Mystery|Sci-Fi|Thriller                                                                                                                                                                                                            dystopia dystopian future amnesia
+14951                         Trap, The (Klopka) (2007)  3.725000            Crime|Drama|Thriller                                                                                                                                                                               blackmail atmospheric social commentary murder emotional story
+14952                                  Isolation (2005)  2.625000                 Horror|Thriller                                                                                                                                                                                                                farm atmosphere Ireland scary
+14953    Fermat's Room (La habitación de Fermat) (2007)  3.378788                Mystery|Thriller                                                                                                              maths psychological Walls closing over claustrophobic puzzling mathematics let out dialogue driven reflection suspense thriller

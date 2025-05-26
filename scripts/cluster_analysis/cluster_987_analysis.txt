@@ -1,0 +1,23 @@
+Анализ кластера 987
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Grisham        2
+courtroom      2
+Gene           1
+murder         1
+Klux           1
+remember       1
+Can't          1
+author:John    1
+John           1
+from:book      1
+
+Примеры фильмов:
+                   title genres                                                                                                                                                                                  tag
+987  Chamber, The (1996)  Drama  Gene Hackman racism anti-Semitism Mississippi death penalty courtroom drama based book murder adapted from:book courtroom John Grisham author:John Grisham Can't remember Klux Klan

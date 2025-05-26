@@ -1,0 +1,26 @@
+Анализ кластера 1940
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+movies     2
+Coppola    2
+drama      2
+Ford       2
+Francis    2
+bad        2
+crime      2
+Andy       1
+evil       1
+versus     1
+
+Примеры фильмов:
+                                title                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1940  Godfather: Part III, The (1990)  Crime|Drama|Mystery|Thriller  overrated New York City corruption politics Christ. disc Super-35 Blow-Up need buy Nudity (Topless Brief) unsatisfying Sophia Coppola disappointing Pacino memasa's movies slow action italian Classic Netflix Finland DVD cinematographer:Gordon Willis pacino reviewed amazing! Tumey's DVDs DIVX derivative gangsters underrated 70mm drama BD-Video movies bad acting 1970s Andy Garcia Good versus evil what say about god? Mafia dvd crime maffia family drama mafia sequel Francis Ford Coppola organized crime jus+san own bad ending Francis Ford Copolla stylized

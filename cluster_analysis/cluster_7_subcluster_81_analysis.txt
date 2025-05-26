@@ -1,0 +1,29 @@
+Анализ подкластера 81 в кластере 7
+Размер подкластера: 65 фильмов
+Средний рейтинг: 2.78
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.38
+
+Топ-5 жанров:
+genres
+(no genres listed)    27
+Drama                 19
+Romance               13
+Comedy                 8
+Documentary            8
+
+Топ-5 тегов:
+tag
+luck        1
+Buddhism    1
+ship        1
+rape        1
+travel      1
+
+Примеры фильмов:
+                                 title    rating                                                  genres                                         tag
+32852              Apenas o Fim (2008)  3.928571                                          Comedy|Romance                                         NaN
+32853  Jinxy Jenkins, Lucky Lou (2014)  3.500000                                      (no genres listed)  luck jinx couple Golden Gate San Francisco
+32854    Princes and Princesses (2000)  2.750000  Animation|Children|Comedy|Drama|Fantasy|Romance|Sci-Fi                                         NaN
+32855                The Hallow (2015)  2.687500                                                  Horror                                         NaN
+32856     The Boy and the Beast (2015)  3.500000                              Action|Adventure|Animation                                         NaN

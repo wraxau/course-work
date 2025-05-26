@@ -1,0 +1,25 @@
+Анализ кластера 1378
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime      1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+erlend's     1
+Critic's     1
+play         1
+kenneth      1
+branagh      1
+70mm         1
+drama        1
+Nostalgia    1
+Top          1
+DVDs         1
+
+Примеры фильмов:
+              title               genres                                                                                                                                                                                                                                                                  tag
+1378  Hamlet (1996)  Crime|Drama|Romance  erlend's DVDs Brian adultery Darrin Shakespeare Panavision Super reviewed Jack Lemmon Tumey's VHS Derek Jacobi want own romance based play kenneth branagh 70mm drama Nostalgia Critic's Top murder Kenneth Branagh Hamlet adapted from:play playwright:Shakespeare

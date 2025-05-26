@@ -1,0 +1,15 @@
+Анализ кластера 1111
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                            title        genres  tag
+1111  Johnny 100 Pesos (Johnny cien pesos) (1993)  Action|Drama  NaN

@@ -1,0 +1,24 @@
+Анализ кластера 851
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Cary         1
+Grant        1
+Tom          1
+Arnold       1
+Arthur       1
+Hiller       1
+Golden       1
+Raspberry    1
+(Worst       1
+Actor)       1
+
+Примеры фильмов:
+              title        genres                                                                 tag
+851  Carpool (1996)  Comedy|Crime  Cary Grant Tom Arnold Arthur Hiller Golden Raspberry (Worst Actor)

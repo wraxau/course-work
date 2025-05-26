@@ -1,0 +1,26 @@
+Анализ кластера 290
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Professional    4
+love            3
+girl            3
+dark            3
+with            3
+acting          3
+police          2
+unlikely        2
+French          2
+friendship      2
+
+Примеры фильмов:
+                                                              title                       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+290  Léon: The Professional (a.k.a. The Professional) (Léon) (1994)  Action|Crime|Drama|Thriller  humorous Bechdel Test:Pass visceral Alpha male women children pedophilic doesn't cross the line with their relationship forbidden love tense acting gary oldman Classical sniper humane predictable dirty cops luc besson Eric's Dvds dark romance Gary Oldman organized crime acting debut touching revenge motive corruption guns young girl soundtrack harsh luc beson need buy director's cut better dark hero quirky estrangeinro shooting Oscar unlikely friendships could have been better major recutting drama scope awkward romance holes90s murder brave Jean Reno unique emotional compare:Silas Marner (book) naive characters hitman imdb top 250 intense police corruption mental illnesses vs. sanity unlikely disambiguation:Leon/The Professional The Professional (1981) great acting rating very dependent version easily confused with other movie(s) (title) gritty muista jean reno seen more once Sniper Portman crime assassin owned killer-as-protagonist creepy over the top pedophile Redemption assassin-in-training Natalie Portman friendship police French director strong girl blossomi plot beautiful Luc Besson kupienia disambiguation:Leon/The Professional (1994) The Professional (1981) stylized French natalie portman with bob haircut really cool idea Guns dark protagonist complex relationship thriller Tumey's See Again slick sad ending wonderful love Action atmosphere love story pedo Lolita theme BD-Video girl disturbing hit men Lame ending ElLeon unconventional friendship assassination assassins Classic Crime somewhat awkward milk uncut version

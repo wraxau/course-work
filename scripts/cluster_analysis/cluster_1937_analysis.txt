@@ -1,0 +1,24 @@
+Анализ кластера 1937
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+adapted      3
+Hampton      2
+book         2
+cast         2
+Laclos       2
+based        2
+period       2
+Malkovich    2
+fatale       1
+femme        1
+
+Примеры фильмов:
+                          title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1937  Dangerous Liaisons (1988)  Drama|Romance  nudity (topless) corrupt protagonist There were several remakes liaisons adultery death scenes adapted from book costumes are impecable Keanu Reeves Betamax remade American accents well-crafted dialog social maneuvering Choderlos Laclos Bibliothek based book Uma Thurman author:Choderlos Laclos fashion Malkovich Michelle Pfeiffer glenn close emotion! based play witty playwright:Christopher Hampton Nudity (Topless Notable) bad acting "underaged sex"=child porn dvr movie see flawless art direction aristocracy adapted from:book John Malkovich Paris femme fatale aristocratic france Stephen Frears cast all-star cast costume drama 18th century Bob*ola intricate plot intrigues john malkovich period piece time period remake french film adapted from:play screenwriter:Christopher Hampton Veja

@@ -1,0 +1,23 @@
+Анализ кластера 1088
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+documentary    1
+beauty         1
+beautifully    1
+docventures    1
+France         1
+bugs           1
+Nuridsany      1
+Claude         1
+insects        1
+score          1
+
+Примеры фильмов:
+                                                       title       genres                                                                                                                                                                                                     tag
+1088  Microcosmos (Microcosmos: Le peuple de l'herbe) (1996)  Documentary  documentary beauty Good Documentary French nature DVD Marie Pérennou microworld cdon animals animal life shopping list Great score insects Claude Nuridsany bugs France docventures beautifully filmed

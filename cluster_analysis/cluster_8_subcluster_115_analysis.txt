@@ -1,0 +1,29 @@
+Анализ подкластера 115 в кластере 8
+Размер подкластера: 16 фильмов
+Средний рейтинг: 2.85
+Медиана рейтинга: 2.81
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama                 10
+Comedy                 3
+Documentary            3
+Romance                1
+(no genres listed)     1
+
+Топ-5 тегов:
+tag
+Criterion    2
+story        2
+mini         2
+series       2
+happen       1
+
+Примеры фильмов:
+                                                                       title    rating          genres                                                                                                                                                                                   tag
+17108                          Good Lawyer's Wife, A (Baramnan gajok) (2003)  2.750000           Drama                                                                                                                                                                                   NaN
+17110                            Rabbit Without Ears 2 (Zweiohrküken) (2009)  2.420000  Comedy|Romance                                                                                                                                             Til Schweiger Nora Tschirner story sequel
+17111                                                  Mildred Pierce (2011)  3.739583           Drama  Los Angeles Depression-era mini series (not movie) Based the book Evan Rachel Wood Kate Winslet Guy Pearce oppl stays with you Todd Haynes twist ending excellent acting mini series
+17112                          Nothing About Robert (Rien sur Robert) (1999)  3.200000    Comedy|Drama                                                                                                                                                                                   NaN
+17113  Stranded: I've Come from a Plane That Crashed on the Mountains (2007)  3.272727     Documentary                                                                                                                                                                                   NaN

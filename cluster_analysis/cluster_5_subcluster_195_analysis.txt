@@ -1,0 +1,29 @@
+Анализ подкластера 195 в кластере 5
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.94
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama      4
+War        1
+Romance    1
+Western    1
+Comedy     1
+
+Топ-5 тегов:
+tag
+war       2
+drama     1
+civil     1
+Africa    1
+child     1
+
+Примеры фильмов:
+                                                  title    rating         genres                                                   tag
+15303                             Johnny Mad Dog (2008)  3.384615      Drama|War  drama civil war war Africa child soldiers based book
+15304  Sparrow (a.k.a. Cultured Bird) (Man jeuk) (2008)  3.363636  Drama|Romance                      Simon Yam Berlinale 2008 Johnnie
+15305                           Rancho Notorious (1952)  3.117647  Drama|Western                                            Fritz Lang
+15306               Father and Son (Otets i syn) (2003)  2.500000          Drama                                                   NaN
+15307                             Scavenger Hunt (1979)  2.333333         Comedy                                                   NaN

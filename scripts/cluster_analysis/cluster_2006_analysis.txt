@@ -1,0 +1,25 @@
+Анализ кластера 2006
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+
+Топ-10 тегов:
+tag
+Disney      2
+Candy       1
+talking     1
+remember    1
+Can't       1
+Rogers      1
+Tristan     1
+seen        1
+Newhart     1
+Bob         1
+
+Примеры фильмов:
+                                title                        genres                                                                                                                                                 tag
+2006  Rescuers Down Under, The (1990)  Adventure|Animation|Children  Disney animated feature George Scott Adam Ryen Eva Gabor Disney BD-Video John Candy Bob Newhart seen Tristan Rogers Can't remember talking animals

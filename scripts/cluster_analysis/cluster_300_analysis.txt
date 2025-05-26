@@ -1,0 +1,25 @@
+Анализ кластера 300
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+Western     1
+
+Топ-10 тегов:
+tag
+Gene       1
+Hackman    1
+Russell    1
+western    1
+revenge    1
+Western    1
+owned      1
+heroine    1
+female     1
+Brief)     1
+
+Примеры фильмов:
+                              title                   genres                                                                                                                                                                                                   tag
+300  Quick and the Dead, The (1995)  Action|Thriller|Western  Gene Hackman redemption guns boring Leonardo DiCaprio small town Sharon Stone Betamax Sam Raimi Old Tucson Studios Nudity (Topless Brief) female heroine owned Western revenge western Russell Crowe

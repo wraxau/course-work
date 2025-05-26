@@ -1,0 +1,29 @@
+Анализ подкластера 108 в кластере 8
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Drama        11
+Thriller      4
+Adventure     3
+Crime         3
+Romance       2
+
+Топ-5 тегов:
+tag
+plot       3
+bad        3
+story      2
+editing    2
+Renner     2
+
+Примеры фильмов:
+                                                               title    rating                                genres                                                                                                                                                                                                                                                                                                                                                                                           tag
+18356                 Hovering Over the Water (À Flor do Mar) (1986)  3.500000                         Drama|Romance                                                                                                                                                                                                                                                                                                                                                                           João César Monteiro
+18357                                                   Dacii (1967)  3.500000                             Drama|War                                                                                                                                                                                                                                                                                                                                               Romans history Romania Sergiu Nicolaescu peplum
+18358                                      Bourne Legacy, The (2012)  3.484419  Action|Adventure|Drama|Thriller|IMAX  Rehash Sequel fast paced chase Tony Gilroy living fictional life Rachel Weisz Edward Norton franchise reviewed agent/assassin with false memories/amnesia Action weak story spies bad script Jeremy Renner Matt Damon Jeremy Renner BD-Video bad acting motorcycle chase Shaky cam mention Bourne often enough and it's Bourne movie editing shaky cam genetic engineering IMAX Digital only
+18359  Don't Worry, I'm Fine (Je vais bien, ne t'en fais pas) (2006)  3.500000                                 Drama                                                                                                                                                                                                                                                                                                                                                                              nudity (topless)
+18360                                         I Melt with You (2011)  3.250000                                 Drama                                                                                                                                                                                                                                                                                                                                                                              nudity (topless)

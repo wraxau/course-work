@@ -1,0 +1,26 @@
+Анализ кластера 2321
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Comedy       1
+Romance      1
+
+Топ-10 тегов:
+tag
+okay      2
+movie     1
+Gets      1
+Going     1
+the       1
+When      1
+river     1
+action    1
+know      1
+dont      1
+
+Примеры фильмов:
+                              title                           genres                                                                                                                                                                                  tag
+2321  Jewel of the Nile, The (1985)  Action|Adventure|Comedy|Romance  okay once comedy sequel Betamax adventure Kathleen Turner Michael Douglas treasure Lewis Teague fun movie sweet and romantic okay dont know action river When the Going Gets Tough!

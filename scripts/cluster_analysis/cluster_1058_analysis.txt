@@ -1,0 +1,23 @@
+Анализ кластера 1058
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy     3
+nudity     3
+Gilliam    2
+Tumey's    2
+british    2
+Jesus      2
+based      2
+Terry      2
+hero       1
+Bible      1
+
+Примеры фильмов:
+                                    title  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+1058  Monty Python's Life of Brian (1979)  Comedy  religion:Xian humorous absurd Watched worn-out Terry Gilliam mockumentary Biblical Studied Latin? Jesus Christ Graham Chapman middle east humor parody RENT Terry Jones male nudity ironic british sexual nudity (full frontal) jesus Betamax Monty Python DVD irreligion katsomattomat Jesus One the best comedies i've ever seen extemelly and historically rich monty python funny Middle East sacrilege whimsical Roman empire satire based myth british comedy imdb top 250 Criterion religion sarcasm own over-rated comedy multiple roles banned movie Bible Gilliam 2.5 madcap Christianity Tumey's DVDs Quoter goofy controversial man..... sandals Nudity (Full Frontal) VHS quotable john cleese Quotable hilarious Sandals British John Cleese based book montyPython Tumey's See Again historical satirical classic Funny hell very clever reluctant hero ridiculous silly nudity irreverent black comedy

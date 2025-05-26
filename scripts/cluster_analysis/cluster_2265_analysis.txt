@@ -1,0 +1,20 @@
+Анализ кластера 2265
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+prostitution    1
+Betamax         1
+Criterion       1
+Neil            1
+Jordan          1
+prospect        1
+
+Примеры фильмов:
+                 title           genres                                                  tag
+2265  Mona Lisa (1986)  Comedy|Thriller  prostitution Betamax Criterion Neil Jordan prospect

@@ -1,0 +1,20 @@
+Анализ кластера 908
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Romance      1
+War          1
+
+Топ-10 тегов:
+tag
+gypsy       1
+Ray         1
+Milland     1
+Marlene     1
+Dietrich    1
+
+Примеры фильмов:
+                      title                 genres                                 tag
+908  Golden Earrings (1947)  Adventure|Romance|War  gypsy Ray Milland Marlene Dietrich

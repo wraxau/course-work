@@ -1,0 +1,20 @@
+Анализ кластера 1371
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+reviewed    1
+Sidney      1
+Lumet       1
+must        1
+see         1
+again       1
+
+Примеры фильмов:
+                                title       genres                                   tag
+1371  Night Falls on Manhattan (1996)  Crime|Drama  reviewed Sidney Lumet must see again

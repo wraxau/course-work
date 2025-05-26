@@ -1,0 +1,29 @@
+Анализ подкластера 30 в кластере 2
+Размер подкластера: 53 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama       34
+Comedy      15
+Thriller     9
+Action       8
+Crime        6
+
+Топ-5 тегов:
+tag
+silent            7
+slow              6
+cinematography    5
+John              5
+Oscar             5
+
+Примеры фильмов:
+                                             title    rating                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+17849                             Contagion (2011)  3.500945  Sci-Fi|Thriller|IMAX  Steven Soderbergh Laurence Fishburne Macau Marion Cotillard apocalypse ark soundtrack Kate Winslet plausible epidemic docufiction disappointing lame slow thriller Matt Damon medicine Gwyneth Paltrow boring lacks contemplative depth bad science wasted characters MOLT_AVORRIDA kidnapping Realistic disease Cast suspense realistic Virus procedural SOPORIFERA Minnesota unrealistic cinematography all-star cast not sensationalist doctors Demetri Martin ensemble cast toplist11 virus not much story bland characters Jude Law hollywood ending great soundtrack Hong Kong btaege IMAX Digital only
+17853                       Sleeping Beauty (2011)  2.887417                 Drama                                                                                                                                                                                                                                                                                                                                                                                                         pretentious controversial character relations nudity (full frontal) sexuality cold Rachael Blake directorial debut disturbing sexual scenes character development Emily Browning Nudity (Full Frontal)
+17864        House of the Seven Gables, The (1940)  3.000000        Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Joe May
+17871                              Restless (2011)  3.493333                 Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     dealing with loss Gus Van Sant love cancer
+17886  Sachs' Disease (La maladie de Sachs) (1999)  3.500000                 Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Michel Deville

@@ -1,0 +1,22 @@
+Анализ кластера 1500
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Jeff        1
+Daniels     1
+Michael     1
+Richards    1
+Jessica     1
+Steen       1
+Charlize    1
+Theron      1
+
+Примеры фильмов:
+                       title          genres                                                          tag
+1500  Trial and Error (1997)  Comedy|Romance  Jeff Daniels Michael Richards Jessica Steen Charlize Theron

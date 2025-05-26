@@ -1,0 +1,18 @@
+Анализ кластера 627
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Nostalgia    1
+Critic       1
+dinosaur     1
+Whoopi       1
+Goldberg     1
+
+Примеры фильмов:
+                   title  genres                                        tag
+627  Theodore Rex (1995)  Comedy  Nostalgia Critic dinosaur Whoopi Goldberg

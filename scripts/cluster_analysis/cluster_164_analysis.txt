@@ -1,0 +1,25 @@
+Анализ кластера 164
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+surreal      1
+violent      1
+shock        1
+and          1
+truth        1
+Art          1
+Film         1
+cult         1
+
+Примеры фильмов:
+                           title              genres                                                                                             tag
+164  Doom Generation, The (1995)  Comedy|Crime|Drama  nudity (topless) surreal violent shock and truth Art Film cult film phashion campy dark comedy

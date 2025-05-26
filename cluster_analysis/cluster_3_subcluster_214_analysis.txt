@@ -1,0 +1,29 @@
+Анализ подкластера 214 в кластере 3
+Размер подкластера: 25 фильмов
+Средний рейтинг: 3.53
+Медиана рейтинга: 3.60
+Дисперсия рейтинга: 0.11
+
+Топ-5 жанров:
+genres
+Drama        12
+Comedy        9
+Horror        5
+Action        3
+Adventure     3
+
+Топ-5 тегов:
+tag
+DVDs         8
+Bergman      6
+Criterion    6
+erlend's     5
+Ingmar       5
+
+Примеры фильмов:
+                                                            title    rating               genres                                                                                                                                                                                                                                                             tag
+7525                                      Getting It Right (1989)  3.444444         Comedy|Drama                                                                                                                                                                                                                     nudity (topless) virginity less 300 ratings
+7528                          Friday Night (Vendredi Soir) (2002)  3.283333                Drama                                                                                                                                                                                                                                                             NaN
+7530                             The Plague of the Zombies (1966)  3.182927               Horror                                                                                                                                                                                                                                         see: zombie zombies vhs
+7534                                      Countess Dracula (1972)  2.914894               Horror                                                                                                                                                                                                                    gothic Ingrid Pitt Hammer production vampire
+7539  Last Man on Earth, The (Ultimo uomo della Terra, L') (1964)  3.510504  Drama|Horror|Sci-Fi  author:Richard Matheson public domain Legend zombies remade based book vampire Tumey's DVDs vhs post-apocalyptic Richard Matheson Vincent Price adapted from:book another adaptation Legend_ Ubaldo Ragona Matheson Sidney Salkow last man earth free download

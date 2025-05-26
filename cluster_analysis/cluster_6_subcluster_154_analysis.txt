@@ -1,0 +1,29 @@
+Анализ подкластера 154 в кластере 6
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama          3
+Comedy         2
+Documentary    2
+Mystery        1
+Fantasy        1
+
+Топ-5 тегов:
+tag
+story        3
+magic        1
+scifi        1
+reviewed     1
+telepathy    1
+
+Примеры фильмов:
+                                                  title    rating                 genres                                                                                                                                                         tag
+23388                            Honest Liar, An (2014)  3.773585     Comedy|Documentary                             magic documentary Magic Psychic fake psychics Homosexuality deception James Randi Magicians Uri Gellar Johnny Carson Skepticism
+23389  Cutlet for Three (Ein Schnitzel für drei) (2009)  2.750000                 Comedy                                                                                                                                                  cast story
+23390          Echoes from the Dead (Skumtimmen) (2013)  3.250000          Drama|Mystery                                                                                                                                                         NaN
+23391                               In Your Eyes (2014)  3.551282  Drama|Fantasy|Romance  drama mystery scifi paranormal reviewed telepathy simple romantic weak characters love story metaphysics unique psychology romance Brin Hill story fantasy
+23392                                      Bears (2014)  3.500000            Documentary                                                                                                                                         nature bears Alaska

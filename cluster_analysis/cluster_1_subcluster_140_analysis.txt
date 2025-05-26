@@ -1,0 +1,29 @@
+Анализ подкластера 140 в кластере 1
+Размер подкластера: 12 фильмов
+Средний рейтинг: 2.61
+Медиана рейтинга: 2.87
+Дисперсия рейтинга: 0.35
+
+Топ-5 жанров:
+genres
+Horror      6
+Thriller    5
+Action      3
+Drama       3
+Crime       2
+
+Топ-5 тегов:
+tag
+predictable    2
+Passages       1
+creepy         1
+Insanity       1
+Ghosts         1
+
+Примеры фильмов:
+                                 title    rating                        genres                                                                                                              tag
+28455        Rise of the Legend (2014)  3.041667                  Action|Drama                                                                                                              NaN
+28456                    Kristy (2014)  3.125000               Horror|Thriller                          useless post-credit scene subverts genre brilliant pacing excellent writing dog killing
+28457           Gangster Payday (2014)  3.000000  Crime|Drama|Romance|Thriller                                                                                                              NaN
+28458  The Houses October Built (2014)  2.886364                        Horror  jump-cuts for scares halloween found footage documentary format moralizing cool title payoff predictable creepy
+28459       In Darkness We Fall (2014)  1.642857                        Horror                                                                                                              NaN

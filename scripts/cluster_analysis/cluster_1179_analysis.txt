@@ -1,0 +1,25 @@
+Анализ кластера 1179
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+War          1
+
+Топ-10 тегов:
+tag
+100               4
+AFI               4
+story             4
+cinematography    3
+(Best             3
+Oscar             3
+good              2
+Alec              2
+War               2
+Omar              2
+
+Примеры фильмов:
+                          title               genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+1179  Lawrence of Arabia (1962)  Adventure|Drama|War  biography Best Performance: Peter o'Toole T.E. Lawrence See amazing cinematography Oscar (Best Directing) biographical Claude Rains John Omar Sharif good acting dvd AFI 100 gripping story Arabic honor Alec Guinness War erlend's DVDs History soundtrack test Anthony Quayle Bechdel Test:Fail AFI 100 (Thrills) Fake History Don't Believe Thing long BFI classic violent Middle East stunning Slashy amazing Oscar (Best Picture) imdb top 250 Culture passionate 100 Greatest Movies breathtaking AFI 100 (Cheers) history atmospheric BEST PICTURE National Film Registry sweeping epic spectacular cinematography women rousing Anthony Quinn Tumey's DVDs cavalry charge colonialism David Lean Omar Sharif was great Alec Guiness weird! rape (implied) World War desert lavish Oscar (Best Cinematography) AFI culture clash not bad best movie all time true story Netflix Finland Biography extraordinary!!! war historical love story cult masculinity very slow classic 70mm camels good music cinematography Super Panavision BD-Video Peter O'Toole deliberate pace really long Biopic afi100 awesome soundtrack scenic based true story exciting venture

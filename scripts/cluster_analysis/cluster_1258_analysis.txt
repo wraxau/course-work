@@ -1,0 +1,24 @@
+Анализ кластера 1258
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Matheson            2
+Location:Macinac    1
+Richard             1
+Travel              1
+Time                1
+(s)vcd              1
+ending              1
+travel              1
+time                1
+soudtrack           1
+
+Примеры фильмов:
+                         title         genres                                                                                                                                                                                                                        tag
+1258  Somewhere in Time (1980)  Drama|Romance  Location:Macinac Island author:Richard Matheson hotel Jeannot Szwarc love based book reviewed Jane Seymour romance Richard Matheson buy movie see playwright soudtrack time travel ending (s)vcd Time Travel heartwarming

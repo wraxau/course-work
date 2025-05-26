@@ -1,0 +1,26 @@
+Анализ кластера 1006
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Fantasy      1
+Musical      1
+
+Топ-10 тегов:
+tag
+animated      2
+Disney        2
+witch         1
+library       1
+magic         1
+animation     1
+Wolfgang      1
+Reitherman    1
+jousting      1
+royalty       1
+
+Примеры фильмов:
+                               title                              genres                                                                                                                                                                                                                                                                                                            tag
+1006  Sword in the Stone, The (1963)  Animation|Children|Fantasy|Musical  witch musical animated cute Betamax characters Merlin Disney historical medieval funny Can't remember classic Disney animated feature children dull King Arthur music Animation magic animation Wolfgang Reitherman jousting royalty library ENJOYABLE (s)vcd ytutyki Cartoon Arthurian legend swords fantasy

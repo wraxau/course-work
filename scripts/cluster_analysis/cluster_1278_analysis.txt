@@ -1,0 +1,24 @@
+Анализ кластера 1278
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+romantic      3
+friends       2
+again         2
+meg           2
+Romantic      2
+100           2
+friendship    2
+AFI           2
+love          2
+the           2
+
+Примеры фильмов:
+                               title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1278  When Harry Met Sally... (1989)  Comedy|Romance  friendship love Quotable Nora Ephron Chicago soundtrack cute Character development Carrie Fisher sunny watched 2006 romance. romantic Bechdel Test:Fail talking phone smart traveling meg fake orgasm nora ephron romantic comedy rob reiner Netflix Finland meeting again and again seeAlso:When Harry met Sally (1989) Romantic Speech seen more once carrie fisher rom-com Good Romantic Comedies Rob Reiner unlikely friendships NO_FA_GANES Meg Ryan the quintessential romantic comedy! Billy Crystal romance funny Oscar Nominee cheesy friends lovers classic meg ryan ownable youtube girlie movie New York BD-Video new year eve know every word heart Bruno Kirby AFI 100 (Laughs) jazz weihnachtsfilm billy crystal One the funniest movies ever. own this relationships friendship best friends fall love famous scene fun ripped off Annie Hall dialogue AFI 100 (Movie Quotes) chick flick 1980s friendzone Veja

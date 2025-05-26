@@ -1,0 +1,29 @@
+Анализ подкластера 3004 в кластере 3
+Размер подкластера: 1715 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.89
+
+Топ-5 жанров:
+genres
+Drama                 604
+Comedy                436
+(no genres listed)    235
+Thriller              232
+Action                196
+
+Топ-5 тегов:
+tag
+comedy         18
+documentary    18
+based          14
+bad            13
+drama          12
+
+Примеры фильмов:
+                       title    rating                      genres                             tag
+27229   The Encounter (2010)  4.666667              Children|Drama                             NaN
+27234  Face of Terror (2005)  3.000000       Action|Drama|Thriller                             NaN
+27242       Miraculum (2014)  1.750000                       Drama                             NaN
+27245     The Pacific (2010)  3.942424  Action|Adventure|Drama|War  World War history marines wwii
+27248  Cosmic Journey (1935)  3.000000                      Sci-Fi                             NaN

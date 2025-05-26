@@ -1,0 +1,18 @@
+Анализ кластера 2030
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+stephen      1
+king         1
+Ralph        1
+Singleton    1
+
+Примеры фильмов:
+                                                        title           genres                           tag
+2030  Graveyard Shift (Stephen King's Graveyard Shift) (1990)  Horror|Thriller  stephen king Ralph Singleton

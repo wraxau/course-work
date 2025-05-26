@@ -1,0 +1,29 @@
+Анализ подкластера 51 в кластере 5
+Размер подкластера: 135 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.45
+
+Топ-5 жанров:
+genres
+Drama          54
+Comedy         41
+Documentary    26
+Romance        19
+Action         16
+
+Топ-5 тегов:
+tag
+nudity       10
+(topless)     8
+Nudity        7
+comedy        6
+funny         5
+
+Примеры фильмов:
+                                                    title    rating                    genres                                                                                                                                                                                                               tag
+19022  That Day, on the Beach (Hai tan de yi tian) (1983)  4.500000                     Drama                                                                                                                                                                                                              Long
+19031                            Swell Season, The (2011)  3.500000       Documentary|Romance                                                                                                                                                                                                               NaN
+19044      Scorpion King 2: Rise of a Warrior, The (2008)  2.287500  Action|Adventure|Fantasy                                                                                                                                                 fantasy bad acting prequel mythology bad effects sword and sandal
+19057                     Beyond the Black Rainbow (2010)  2.892308            Mystery|Sci-Fi  new age visually appealing new idea slow christopher hated long boring plotless Beautiful philosophical imprisonment escape 80s amazing sci-fi what the hell was that? experimental drugs beautiful supernatural
+19058                       Last Play at Shea, The (2010)  3.000000       Documentary|Musical                                                                                                                                                                                            Jon Small Paul Crowder

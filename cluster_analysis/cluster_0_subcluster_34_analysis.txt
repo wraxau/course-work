@@ -1,0 +1,29 @@
+Анализ подкластера 34 в кластере 0
+Размер подкластера: 183 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama       104
+Comedy       64
+Romance      37
+Action       28
+Thriller     27
+
+Топ-5 тегов:
+tag
+based     23
+movie     19
+not       18
+nudity    15
+Nudity    15
+
+Примеры фильмов:
+                                               title    rating                           genres                                                                                                                                                                                                                                                                tag
+8349                               Why Worry? (1923)  3.300000         Adventure|Comedy|Romance                                                                                                                                                                                Sam Taylor tropical revolution silent movie Fred Newmeyer hypochondria Harold Lloyd
+8361  Pandora's Box (Büchse der Pandora, Die) (1929)  3.880319                            Drama  Georg Wilhelm Pabst German Expressionism sexy See easily confused with other movie(s) (title) grim lesbian subtext sensual G.W. Pabst supremely sexy Sven's see list silent movie Criterion facebook rec Louise Brooks Golden twenties sexual seen Janus stylized
+8396                           Black Cat, The (1934)  3.214286  Adventure|Crime|Horror|Thriller                                                                                                                                                                                                               Boris Karloff atmospheric based book Edgar Allan Poe
+8404                            Informer, The (1935)  3.605769                      Crime|Drama                                                                                                                           Oscar (Best Directing) 1920s cinematography John Ford Heather Angel Oscar (Best Actor) less 300 ratings Oscar (Best Screenplay) betrayal
+8406                               Raven, The (1935)  3.000000                           Horror                                                                                                             blackmail Bela Lugosi lust evil murder Boris Karloff torture insanity Edgar Allan Poe based poem revenge plastic surgery surgeon Lew Landers Universal

@@ -1,0 +1,24 @@
+Анализ кластера 35
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+death          4
+book           2
+moral          1
+rape           1
+Ari            1
+social         1
+commentary     1
+sad            1
+Catholicism    1
+law            1
+
+Примеры фильмов:
+                      title       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+35  Dead Man Walking (1995)  Crime|Drama  moral dilemma USA Pena muerte Annemari Bible rated-R watch Couldn't finish Abe based book true story capital punishment deaf death penalty Christianity book crime institutions Knoll courtroom emotion! Can't remember death sentence pompadour drama redemption Ari social commentary sad Catholicism death law buy murder Tim Robbins death row Nun rape nun Susan Sarandon strong intense Sean Penn prison ethics religion dialogues Oscar (Best Actress)

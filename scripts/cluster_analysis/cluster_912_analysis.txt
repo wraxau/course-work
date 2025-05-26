@@ -1,0 +1,25 @@
+Анализ кластера 912
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama        1
+Film-Noir    1
+Mystery      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+erlend's      1
+DVDs          1
+war           1
+Betamax       1
+Criterion     1
+Europe        1
+journalism    1
+Alfred        1
+Hitchcock     1
+
+Примеры фильмов:
+                            title                            genres                                                                     tag
+912  Foreign Correspondent (1940)  Drama|Film-Noir|Mystery|Thriller  erlend's DVDs war Betamax Criterion Europe journalism Alfred Hitchcock

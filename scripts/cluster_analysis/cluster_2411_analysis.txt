@@ -1,0 +1,24 @@
+Анализ кластера 2411
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+Laloux           2
+psychedelic      1
+planète          1
+Dreamlike        1
+Garde            1
+Avant            1
+Surreal          1
+Hallucination    1
+Visual           1
+Trippy           1
+
+Примеры фильмов:
+                                                   title            genres                                                                                                                                                                                                   tag
+2411  Fantastic Planet, The (Planète sauvage, La) (1973)  Animation|Sci-Fi  psychedelic VHS Cold War allegory atmospheric René Laloux Social Commentary RenÃ© Laloux Adult Animation planète sauvage surrealism Trippy Visual Hallucination Surreal Avant Garde Dreamlike sci-fi

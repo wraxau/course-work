@@ -1,0 +1,20 @@
+Анализ кластера 2502
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+femme     1
+fatale    1
+blonde    1
+Erotic    1
+thong     1
+
+Примеры фильмов:
+                     title                 genres                               tag
+2502  Goodbye Lover (1999)  Comedy|Crime|Thriller  femme fatale blonde Erotic thong

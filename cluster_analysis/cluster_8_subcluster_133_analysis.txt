@@ -1,0 +1,29 @@
+Анализ подкластера 133 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 2.57
+Медиана рейтинга: 2.77
+Дисперсия рейтинга: 0.40
+
+Топ-5 жанров:
+genres
+Drama          3
+Comedy         2
+Adventure      2
+Romance        2
+Documentary    1
+
+Топ-5 тегов:
+tag
+finnish     1
+William     1
+Faulkner    1
+REDBOX      1
+samurai     1
+
+Примеры фильмов:
+                                            title    rating           genres               tag
+16757                            44500 Max (2009)  3.125000      Documentary               NaN
+16758        Pekka ja Pätkä salapoliiseina (1957)  2.416667           Comedy           finnish
+16759                           Slave Ship (1937)  3.000000  Adventure|Drama  William Faulkner
+16760                   From Prada to Nada (2011)  2.773810   Comedy|Romance            REDBOX
+16761  Young Aphrodites (Mikres Afrodites) (1963)  3.166667    Drama|Romance               NaN

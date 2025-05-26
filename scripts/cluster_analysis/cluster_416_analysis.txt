@@ -1,0 +1,26 @@
+Анализ кластера 416
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Comedy      1
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+sequel     2
+the        2
+comedy     1
+second.    1
+John       1
+Murphy     1
+Eddie      1
+fever      1
+funny      1
+Sadly      1
+
+Примеры фильмов:
+                            title                        genres                                                                                                                                                                   tag
+416  Beverly Hills Cop III (1994)  Action|Comedy|Crime|Thriller  comedy police sequel let the other two Beverly Hills Cops down even worse the second. Stephen McHattie NO_FA_GANES Sadly funny sequel fever Eddie Murphy John Landis

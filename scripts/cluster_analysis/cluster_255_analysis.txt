@@ -1,0 +1,27 @@
+Анализ кластера 255
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Comedy       1
+Fantasy      1
+Romance      1
+
+Топ-10 тегов:
+tag
+arthurian    1
+legend       1
+baseball     1
+merlin       1
+Michael      1
+Gottlieb     1
+Joss         1
+Acklund      1
+King         1
+Arthur       1
+
+Примеры фильмов:
+                                    title                                     genres                                                                                                            tag
+255  Kid in King Arthur's Court, A (1995)  Adventure|Children|Comedy|Fantasy|Romance  arthurian legend baseball merlin Michael Gottlieb Joss Acklund King Arthur medieval little league time travel

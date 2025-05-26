@@ -1,0 +1,24 @@
+Анализ кластера 250
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama     1
+Horror    1
+
+Топ-10 тегов:
+tag
+book           3
+pitt           2
+tom            2
+cruise         2
+fantasy        2
+author:Anne    2
+Rice           2
+brad           2
+rice           2
+urban          1
+
+Примеры фильмов:
+                                                         title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+250  Interview with the Vampire: The Vampire Chronicles (1994)  Drama|Horror  urban fantasy history Want atmospheric horror nudity (full frontal) USA interviews Tom Cruise existentialism author:anne rice 7.2-FilmAffinity See based book Anne Rice Netflix Finland mediocre plot vampire boring debased tom cruise book costumes vampires literature Neil Jordan brad pitt Kirsten Dunst kirsten dunst want own MarinaVista historic Can't remember anne rice San Francisco lots blood drama journalism antonio banderas Stephen Rea movies dvr 6ir6 adapted from:book Brilliant spooky DVDs Paris author:Anne Rice Brad Pitt author:Anne Price Nudity (Full Frontal) whiney protagonist Vampires homoerotic subtext homosexual undertones book was better cult classic pretentious terror Antonio Banderas gothic brad pitt and tom cruise New Orleans fantasy dracula

@@ -1,0 +1,23 @@
+Анализ кластера 415
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+show           3
+Predictable    1
+and            1
+unoriginal.    1
+oil            1
+slick          1
+television     1
+Penelope       1
+Spheeris       1
+sophmoric      1
+
+Примеры фильмов:
+                               title  genres                                                                                                                                       tag
+415  Beverly Hillbillies, The (1993)  Comedy  Predictable and unoriginal. oil slick television show Penelope Spheeris sophmoric humor Based show hillbillies classic remake based show

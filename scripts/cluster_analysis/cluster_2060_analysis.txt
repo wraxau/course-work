@@ -1,0 +1,25 @@
+Анализ кластера 2060
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Fantasy      1
+Romance      1
+
+Топ-10 тегов:
+tag
+fantasy     3
+dark        2
+high        1
+film        1
+Ridley      1
+Scott       1
+BD-Video    1
+unicorns    1
+cult        1
+devil       1
+
+Примеры фильмов:
+              title                     genres                                                                                                                                                                                                                                                    tag
+2060  Legend (1985)  Adventure|Fantasy|Romance  high fantasy fairy tale Betamax Mia Sara stylized Tom Cruise director's cut better tim curry Tim Curry romance underrated dark Ridley Scott BD-Video unicorns cult film devil dragon forest dark fantasy puppets adventure Friday night movie fantasy

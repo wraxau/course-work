@@ -1,0 +1,29 @@
+Анализ подкластера 68 в кластере 1
+Размер подкластера: 25 фильмов
+Средний рейтинг: 2.78
+Медиана рейтинга: 2.76
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Drama       10
+Thriller     8
+Comedy       7
+Action       6
+Mystery      5
+
+Топ-5 тегов:
+tag
+comedy    3
+social    2
+Tom       2
+Clegg     2
+nudity    1
+
+Примеры фильмов:
+                             title  rating                               genres                                              tag
+25678          Exit to Hell (2013)  0.5000               Action|Horror|Thriller                                 nudity (topless)
+25680  Eye of the Hurricane (2012)  3.5000                                Drama  seminole indian florida everglades refugee camp
+25685    Lemon Tree Passage (2013)  2.6875              Horror|Mystery|Thriller                                              NaN
+25693   Kiss Me in the Rain (1999)  2.0000                       Drama|Thriller                                              NaN
+25703          The Evictors (1979)  2.5000  Crime|Drama|Horror|Mystery|Thriller                                              NaN

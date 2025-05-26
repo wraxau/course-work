@@ -1,0 +1,29 @@
+Анализ подкластера 23 в кластере 6
+Размер подкластера: 69 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.53
+
+Топ-5 жанров:
+genres
+Drama        31
+Comedy       17
+Action       13
+Thriller     12
+Animation     9
+
+Топ-5 тегов:
+tag
+short     5
+nudity    5
+comedy    4
+sword     3
+and       3
+
+Примеры фильмов:
+                                                                    title    rating                        genres  tag
+23047                                               Apartment 1303 (2007)  2.625000                        Horror  NaN
+23048                                            Apartment 1303 3D (2012)  1.722222                        Horror  NaN
+23049  Armageddon (Tin dei hung sam) (Heaven Earth Great Ambition) (1997)  2.500000  Action|Comedy|Fantasy|Horror  NaN
+23050                                      Armageddon (Armaguedon) (1977)  2.750000                Crime|Thriller  NaN
+23051              B.U.S.T.E.D (Everybody Loves Sunshine) (Busted) (1999)  2.500000                   Crime|Drama  NaN

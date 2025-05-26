@@ -1,0 +1,29 @@
+Анализ подкластера 161 в кластере 5
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.31
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama       5
+Comedy      4
+War         1
+Action      1
+Children    1
+
+Топ-5 тегов:
+tag
+black         2
+infidelity    1
+(topless)     1
+Jackie        1
+Chan          1
+
+Примеры фильмов:
+                                       title    rating                  genres                                                                                                                                                           tag
+14918               Vicious Kind, The (2009)  3.736264            Comedy|Drama  infidelity sex funny soundtrack misogynistic siblings love triangles adam scott Brittany Snow black comedy bad ending Lee Toland Krieger brittany snow bleak
+14919   Secret of Santa Vittoria, The (1969)  3.281250        Comedy|Drama|War                                                                                                                                World War Stanley Kramer Italy
+14920              Spy Next Door, The (2010)  2.714660  Action|Children|Comedy                                        relationships Russians children fun Jackie Chan plot babysitting spies characters special effects light-hearted action
+14921  I Hope They Serve Beer in Hell (2009)  2.705357                  Comedy                                                                                                     nudity (topless) nerd wins mean-spirited snark based book
+14922                           Caged (1950)  3.750000             Crime|Drama                                                                                                               black and white might like prison John Cromwell

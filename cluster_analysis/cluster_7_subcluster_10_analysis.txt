@@ -1,0 +1,29 @@
+Анализ подкластера 10 в кластере 7
+Размер подкластера: 376 фильмов
+Средний рейтинг: 2.94
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.82
+
+Топ-5 жанров:
+genres
+Drama       138
+Comedy       87
+Thriller     50
+Action       50
+Romance      46
+
+Топ-5 тегов:
+tag
+reviewed       9
+documentary    6
+video          5
+bond           4
+romance        4
+
+Примеры фильмов:
+                      title  rating               genres                                                                                tag
+26675           Cake (2014)     3.4                Drama  Los Angeles reviewed post-traumatic stress disorder Jennifer anisten grief trauma
+26683   Speak Easily (1932)     1.5               Comedy                                                                                NaN
+26695       Honolulu (1939)     NaN       Comedy|Romance                                                                                NaN
+26696  Way Back Home (2013)     4.0                Drama                                                                                NaN
+26703  No Man's Land (2013)     3.5  Crime|Drama|Western                                                                                NaN

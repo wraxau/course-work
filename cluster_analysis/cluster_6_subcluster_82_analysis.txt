@@ -1,0 +1,29 @@
+Анализ подкластера 82 в кластере 6
+Размер подкластера: 28 фильмов
+Средний рейтинг: 2.81
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.99
+
+Топ-5 жанров:
+genres
+Drama       15
+Comedy       7
+Thriller     6
+Children     4
+Romance      3
+
+Топ-5 тегов:
+tag
+Greg     1
+east     1
+Chick    1
+Flick    1
+Emmy     1
+
+Примеры фильмов:
+                                   title    rating                     genres                tag
+24802                    Cool Dog (2011)  2.500000                   Children                NaN
+24803  IMAX: Coral Reef Adventure (2003)       NaN  Children|Documentary|IMAX  Greg MacGillivray
+24804                 Cougar Club (2007)  1.400000                     Comedy                NaN
+24805           Courage of Lassie (1946)  2.500000   Adventure|Children|Drama                NaN
+24806           Wuthering Heights (2009)  3.392857                      Drama      Coky Giedroyc

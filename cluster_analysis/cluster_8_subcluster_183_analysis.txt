@@ -1,0 +1,29 @@
+Анализ подкластера 183 в кластере 8
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.34
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama          7
+Comedy         1
+War            1
+Documentary    1
+Crime          1
+
+Топ-5 тегов:
+tag
+Andrzej     1
+Wajda       1
+inventor    1
+murder      1
+writer      1
+
+Примеры фильмов:
+                                                                          title    rating        genres            tag
+18048  Pilate and Others (Pilatus und andere - Ein Film für Karfreitag) (1972)   3.500000         Drama  Andrzej Wajda
+18049            Smiling Madame Beudet, The (La souriante Madame Beudet) (1923)  3.583333         Drama            NaN
+18050                                                      Snow (Snijeg) (2008)  2.500000         Drama            NaN
+18051                                                Father of Invention (2010)  3.121622  Comedy|Drama       inventor
+18052                                   Quiet Flows the Don (Tikhiy Don) (1957)  3.250000     Drama|War            NaN

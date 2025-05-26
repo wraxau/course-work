@@ -1,0 +1,15 @@
+Анализ кластера 1123
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                      title        genres  tag
+1123  Curtis's Charm (1995)  Comedy|Drama  NaN

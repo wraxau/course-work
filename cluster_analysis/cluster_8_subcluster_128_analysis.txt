@@ -1,0 +1,29 @@
+Анализ подкластера 128 в кластере 8
+Размер подкластера: 18 фильмов
+Средний рейтинг: 3.55
+Медиана рейтинга: 3.57
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama      12
+Comedy      3
+Crime       3
+Romance     2
+Western     1
+
+Топ-5 тегов:
+tag
+Criterion    2
+Budd         1
+impotence    1
+Tourneur     1
+Claude       1
+
+Примеры фильмов:
+                                              title    rating         genres                                                    tag
+16329                   Buchanan Rides Alone (1958)  3.333333        Western                                        Budd Boetticher
+16330                 Cotton Comes to Harlem (1970)  3.312500  Action|Comedy                        Harlem New York City based book
+16331  Dillinger Is Dead (Dillinger è morto) (1969)  3.472222    Crime|Drama  11/11 Marco Ferreri 05/11 06/11 Criterion 12/11 01/12
+16332                    Mirror, The (Ayneh) (1997)  3.785714          Drama                                                    NaN
+16333  Student Prince in Old Heidelberg, The (1927)  3.800000  Drama|Romance                              John Stahl Ernst Lubitsch

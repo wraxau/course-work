@@ -1,0 +1,29 @@
+Анализ подкластера 604 в кластере 1
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.15
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Drama       17
+Thriller    11
+Comedy      11
+Mystery      6
+Horror       5
+
+Топ-5 тегов:
+tag
+very             2
+philosophical    2
+Maxine           1
+future           1
+imitating        1
+
+Примеры фильмов:
+                       title  rating                       genres                                 tag
+25055        Alucarda (1977)   3.500              Horror|Thriller                                 NaN
+25068       Musicwood (2012)     NaN  Adventure|Documentary|Drama                        Maxine Trump
+25069     Liar's Dice (2014)     NaN     Adventure|Children|Drama                      Geetu Mohandas
+25074     Amira & Sam (2014)   3.000         Comedy|Drama|Romance                         Sean Mullin
+25081  Dolphin Tale 2 (2014)   3.125               Children|Drama  family feel-good sea world animals

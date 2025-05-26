@@ -1,0 +1,25 @@
+Анализ кластера 358
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Romance      1
+
+Топ-10 тегов:
+tag
+Kipling      2
+classic      1
+book         1
+based        1
+Rudyard      1
+from:book    1
+adapted      1
+see          1
+movie        1
+adventure    1
+
+Примеры фильмов:
+                       title                      genres                                                                                                                                                          tag
+358  Jungle Book, The (1994)  Adventure|Children|Romance  animated classic Jude Law animals Bad Remake Stephen Sommers author:Rudyard Kipling adventure movie see adapted from:book Rudyard Kipling based book Jungle

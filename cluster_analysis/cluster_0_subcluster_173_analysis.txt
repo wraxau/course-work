@@ -1,0 +1,29 @@
+Анализ подкластера 173 в кластере 0
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama       7
+Comedy      7
+Thriller    5
+Romance     4
+Crime       3
+
+Топ-5 тегов:
+tag
+police        4
+movie         4
+corruption    4
+LRC           3
+seen          3
+
+Примеры фильмов:
+                                     title    rating                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+11644                       Unknown (2006)  3.362816   Drama|Mystery|Thriller                                                                                                                                                                                                                                                                                                                                                Joe Pantoliano psychological memory loss easily confused with other movie(s) (title) paranoia Greg Kinnear good concept 'It's Just Hostel With Better Actors' Simon Brand less 300 ratings plot twist Jeremy Sisto Jim Caviezel amnesia survival
+11646     Ringers: Lord of the Fans (2005)  3.833333       Comedy|Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             NaN
+11648  Trailer Park Boys: The Movie (2006)  3.507042             Comedy|Crime                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            nudity (topless) comedy Mike Clattenburg humor adapted from:TV series tits drugs characters rickyism
+11649                   Ghost Rider (2007)  2.524911  Action|Fantasy|Thriller                                                                                                                                                                                                                                                                             motorcycle Marvel deal with the devil Comic Book useless Nicholas Cage Nikolaus Kage Eva Mendes based comic not true the book adapted from:comic Mark Steven Johnson unrealistic sip Peter Fonda movie see devil plain storyline superhero see: superhero excellent torrential downpour bad comic book Nicolas Cage
+11650                        Breach (2007)  3.598719           Drama|Thriller  corruption screenwriter:Adam Mazer guns Bechdel Test:Fail government slow covert true story TRAITOROUS SPIES/DOUBLE AGENTS PG-13 FBI Christianity Chris Cooper crime PG-13:violence owned conspiracy tense Washington ominous screenwriter:William Rotko espionage trust unrealistic Laura Linney Seen 2011 PG-13:language cellphone scene Catholicism prayer PG-13:sexual content predictable spying traitor Billy Ray matter-of-fact lying police corruption target shooting screenwriter:Billy Ray family relationships BGAB LRC religion POLITICAL CORRUPTION paranoid Ryan Phillippe PG13

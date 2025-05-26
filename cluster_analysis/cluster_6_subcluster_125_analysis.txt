@@ -1,0 +1,29 @@
+Анализ подкластера 125 в кластере 6
+Размер подкластера: 14 фильмов
+Средний рейтинг: 2.75
+Медиана рейтинга: 2.88
+Дисперсия рейтинга: 0.61
+
+Топ-5 жанров:
+genres
+Crime       5
+Action      5
+Thriller    4
+Drama       4
+Romance     2
+
+Топ-5 тегов:
+tag
+fight      3
+Red        2
+scene      2
+police     1
+Jakarta    1
+
+Примеры фильмов:
+                                                             title    rating                               genres  tag
+23326                                            Borderline (2002)  1.000000                       Crime|Thriller  NaN
+23327                                          Scary or Die (2012)  1.583333                               Horror  NaN
+23328                                  When Jews Were Funny (2013)  2.850000                          Documentary  NaN
+23329                                        Big Jim McLain (1952)  2.700000  Action|Crime|Drama|Romance|Thriller  NaN
+23330  Borrowed Hearts (Borrowed Hearts: A Holiday Romance) (1997)  2.916667                Drama|Fantasy|Romance  NaN

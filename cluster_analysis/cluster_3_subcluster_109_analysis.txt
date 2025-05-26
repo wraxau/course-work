@@ -1,0 +1,29 @@
+Анализ подкластера 109 в кластере 3
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.27
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama        4
+Comedy       3
+Children     3
+Adventure    2
+Fantasy      2
+
+Топ-5 тегов:
+tag
+short        2
+Christmas    2
+Dickens      2
+Pixar        2
+theme        2
+
+Примеры фильмов:
+                                      title    rating           genres                                          tag
+19327            Pete Smalls Is Dead (2010)  2.400000           Comedy  cast Steve Buscemi Peter Dinklage film noir
+19329                          Drums (1938)  2.666667    Adventure|War           drums India Zoltan Korda Criterion
+19330                   Elephant Boy (1937)  3.000000  Adventure|Drama       Zoltan Korda Robert Flaherty Criterion
+19331                    Forger, The (2012)  2.117647            Drama                                          NaN
+19332  Child's Christmas in Wales, A (1987)  4.625000   Children|Drama                         Christmas Xmas theme

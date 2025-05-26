@@ -1,0 +1,29 @@
+Анализ подкластера 251 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.09
+
+Топ-5 жанров:
+genres
+Drama          4
+Comedy         2
+Western        2
+Documentary    1
+Horror         1
+
+Топ-5 тегов:
+tag
+CIA          1
+Guatemala    1
+Latin        1
+America      1
+Simon        1
+
+Примеры фильмов:
+                         title    rating         genres                          tag
+17599         Reparando (2010)  3.250000    Documentary  CIA Guatemala Latin America
+17600       Concursante (2007)  3.333333   Comedy|Drama                          NaN
+17601  Arrangement, The (1969)  2.700000          Drama                          NaN
+17602     Comanche Moon (2008)  3.055556  Drama|Western                 Simon Wincer
+17603   Dead Man's Walk (1996)  2.750000        Western                          NaN

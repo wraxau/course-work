@@ -1,0 +1,23 @@
+Анализ кластера 917
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Steve         1
+Martin        1
+sweet         1
+Bibliothek    1
+funny         1
+wedding       1
+(Laughs)      1
+100           1
+AFI           1
+remade        1
+
+Примеры фильмов:
+                          title  genres                                                                                                                                                       tag
+917  Father of the Bride (1950)  Comedy  Steve Martin Spencer Tracy reviewed good comedy realistic relationships Vincente Minnelli remade AFI 100 (Laughs) wedding funny Bibliothek sweet classic

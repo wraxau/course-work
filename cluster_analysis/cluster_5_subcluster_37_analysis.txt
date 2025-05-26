@@ -1,0 +1,29 @@
+Анализ подкластера 37 в кластере 5
+Размер подкластера: 158 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 0.59
+
+Топ-5 жанров:
+genres
+Drama          69
+Comedy         38
+Documentary    28
+Thriller       24
+Romance        22
+
+Топ-5 тегов:
+tag
+gay       10
+plot       9
+bad        7
+IMAX       7
+nudity     7
+
+Примеры фильмов:
+                                                        title    rating                   genres                                                                  tag
+20338                                            Leave (2011)  2.333333           Drama|Thriller                                                                  NaN
+20339                                Texas Chainsaw 3D (2013)  2.390000  Horror|Mystery|Thriller  serial killer evil hillbillies remake Stereoscopic 3-D family bonds
+20372  Pokémon the Movie: Black - Victini and Reshiram (2011)  1.714286                Animation                                flashback overload seen Pokemon anime
+20380   Everything or Nothing: The Untold Story of 007 (2012)  3.407407              Documentary                                                                  007
+20396                  Morgan Pålsson - världsreporter (2008)  2.000000            Action|Comedy                                                                  NaN

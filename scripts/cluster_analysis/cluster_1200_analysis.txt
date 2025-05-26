@@ -1,0 +1,24 @@
+Анализ кластера 1200
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Oscar              2
+John               2
+(Best              2
+Cinematography)    1
+Mildred            1
+Bibliothek         1
+McLaglen           1
+Victor             1
+pick               1
+Ward               1
+
+Примеры фильмов:
+                      title         genres                                                                                                                                                                                                                                                            tag
+1200  Quiet Man, The (1952)  Drama|Romance  Oscar (Best Directing) cinematography John Ford seen 2015 Tumey's DVDs Barry Fitzgerald Maureen O'Hara John Wayne FilmAffinity top pick good watch St. Paddy's Day beautiful Ward Bond Victor McLaglen Bibliothek Oscar (Best Cinematography) Mildred Natwick

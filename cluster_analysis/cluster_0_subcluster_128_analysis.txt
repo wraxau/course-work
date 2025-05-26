@@ -1,0 +1,29 @@
+Анализ подкластера 128 в кластере 0
+Размер подкластера: 13 фильмов
+Средний рейтинг: 3.36
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama        9
+Comedy       4
+Action       3
+Adventure    3
+Animation    3
+
+Топ-5 тегов:
+tag
+based     3
+movies    3
+Nudity    3
+show      3
+book      2
+
+Примеры фильмов:
+                                                    title    rating                            genres                                                                                                                                                                                                                                                                                                                                           tag
+11796        Ulysses' Gaze (To Vlemma tou Odyssea) (1995)  3.634146                         Drama|War                                                                                                                                                                                                                                                                                                    Harvey Keitel Lenin Theodoros Angelopoulos
+11797        Sky Fighters (Les Chevaliers Du Ciel) (2005)  3.428571                  Action|Adventure                                                                                                                                                                                                                                                                                                                                           NaN
+11798          Scent of a Woman (Profumo di donna) (1974)  3.690476                      Comedy|Drama                                                                                                                                                                                                                                                                                                                               Dino Risi 03/10
+11799  Welcome Back, Mr. McDonald (Rajio no jikan) (1997)  3.863636                            Comedy                                                                                                                                                                                                                                     show business radio Koki Mitani surprisingly good hectic Toho Kyoka Suzuki funny writer Toshiaki Karasawa
+11800              How the Grinch Stole Christmas! (1966)  3.776109  Animation|Comedy|Fantasy|Musical  fantasy world short Betamax moral Animated Boris Karloff remade Classic based book author:Dr. Seuss Dr. Seuss nostalgia Max The Dog Cindy Lou Who movies every kid should see--Entertainment Weekly funny narrated classic chuck jones humor BD-Video adapted from:book Xmas theme Christmas animation greed Ben Washam made for Chuck Jones

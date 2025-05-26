@@ -1,0 +1,29 @@
+Анализ подкластера 85 в кластере 7
+Размер подкластера: 68 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama                 21
+Comedy                13
+Thriller              12
+(no genres listed)    11
+Action                11
+
+Топ-5 тегов:
+tag
+Michalka     3
+prospect     2
+love         2
+movie        2
+subtitles    2
+
+Примеры фильмов:
+                                 title  rating                genres       tag
+31781          Time Out of Mind (2015)   3.000                 Drama  prospect
+31782    The Princess of France (2014)   3.500    (no genres listed)       NaN
+31783                  Villegas (2012)   2.500    (no genres listed)       NaN
+31784  First Spaceship on Venus (1960)   2.500  Drama|Mystery|Sci-Fi       NaN
+31785          Chain of Command (2015)   2.875             Adventure       NaN

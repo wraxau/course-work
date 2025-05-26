@@ -1,0 +1,15 @@
+Анализ кластера 756
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Chris    1
+Hunt     1
+
+Примеры фильмов:
+                                         title       genres         tag
+756  Marlene Dietrich: Shadow and Light (1996)  Documentary  Chris Hunt

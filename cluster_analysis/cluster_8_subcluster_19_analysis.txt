@@ -1,0 +1,29 @@
+Анализ подкластера 19 в кластере 8
+Размер подкластера: 99 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama       61
+Comedy      32
+Thriller    20
+Action      13
+Horror      12
+
+Топ-5 тегов:
+tag
+movie        12
+Nudity       10
+based         9
+good          9
+ClearPlay     8
+
+Примеры фильмов:
+                                             title    rating                       genres                                                                                                                                                                                                                                                                                                                                                                      tag
+10808                              Bandidas (2006)  2.750746  Action|Comedy|Crime|Western  Gun Latino/Latina heroine Penelope Cruz revenge father daughter relationship Beautiful Woman Explosion mexico kiss bank robbery Kick-Butt Women railroad repetitive safe (for valuables) fiancÃ©e priest 19th century heist Mexico male nudity gold knives foreclosure train friendship police CLASS DIFFERENCES Alarm science Salma Hayek good versus evil imperialism
+10825                  Here Comes the Groom (1951)  4.000000       Comedy|Musical|Romance                                                                                                                                                                                                                                                                                                                                                                      NaN
+10832                        Honey Pot, The (1967)  3.500000                 Comedy|Crime                                                                                                                                                                                                                                                                                                                                                        Joseph Mankiewicz
+10846                          Broken Lance (1954)  3.500000        Drama|Romance|Western                                                                                                                                                                                                                                                                                                                                               Edward Dmytryk should like
+10847  Four Horsemen of the Apocalypse, The (1921)  3.214286            Drama|Romance|War                                                                                                                                                                                                                                                                                                                               Vicente Blasco Ibáñez World War Rex Ingram

@@ -1,0 +1,29 @@
+Анализ подкластера 118 в кластере 5
+Размер подкластера: 70 фильмов
+Средний рейтинг: 2.98
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.61
+
+Топ-5 жанров:
+genres
+Drama        31
+Comedy       15
+Action       14
+Adventure    13
+Thriller     13
+
+Топ-5 тегов:
+tag
+ending       6
+nudity       5
+police       4
+New          4
+(topless)    4
+
+Примеры фильмов:
+                                               title    rating                      genres                                                                                                           tag
+19236             Revenge of the Electric Car (2011)  3.708333                 Documentary                                                                                              Chris Paine cars
+19241  Disney Sing Along Songs: Under the Sea (1990)  2.950000  Animation|Children|Musical                                                                                          songs disney singing
+19242                               Pulgasari (1985)  2.000000        Action|Drama|Fantasy                                                                                                           NaN
+19243          Toughest Man in the World, The (1984)  1.500000                Comedy|Drama                                                                                                           NaN
+19245                                  Norman (2010)  3.633333                Comedy|Drama  Dan Byrd family death isolation loneliness romance score:Wolf Parade high school score:Andrew Bird Sountrack

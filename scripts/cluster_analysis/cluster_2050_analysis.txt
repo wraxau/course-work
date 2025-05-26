@@ -1,0 +1,24 @@
+Анализ кластера 2050
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+
+Топ-10 тегов:
+tag
+comedy         1
+movie          1
+shue           1
+elizabeth      1
+1980s          1
+section        1
+afternoon      1
+babysitting    1
+adventure      1
+soundtrack     1
+
+Примеры фильмов:
+                                 title            genres                                                                                                                                                                                                                      tag
+2050  Adventures in Babysitting (1987)  Adventure|Comedy  comedy Chicago Elisabeth Shue Betamax Classic worth watching teen funny 70mm Chris Columbus 80s best movie ever Spherical Blow-Up great soundtrack adventure babysitting afternoon section 1980s elizabeth shue mishaps

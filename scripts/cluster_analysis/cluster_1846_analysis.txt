@@ -1,0 +1,24 @@
+Анализ кластера 1846
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Barrymore    2
+John         1
+(Movie       1
+(Best        1
+Oscar        1
+Crawford     1
+Joan         1
+burglary     1
+Lionel       1
+murder       1
+
+Примеры фильмов:
+                   title         genres                                                                                                                                                                                           tag
+1846  Grand Hotel (1932)  Drama|Romance  John Barrymore Edmund Goulding Greta Garbo National Film Registry Tumey's DVDs AFI 100 (Movie Quotes) pre-code Hollywood murder Lionel Barrymore burglary Joan Crawford Oscar (Best Picture)

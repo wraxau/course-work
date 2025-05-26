@@ -1,0 +1,29 @@
+Анализ подкластера 150 в кластере 8
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.35
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Drama        13
+Comedy        6
+Action        5
+Thriller      4
+Adventure     4
+
+Топ-5 тегов:
+tag
+the        3
+John       3
+See        3
+based      3
+history    3
+
+Примеры фильмов:
+                                       title    rating                 genres                                                                                                                                                                        tag
+12767                      Angel Face (1952)  3.536585  Crime|Drama|Film-Noir                                                                                                          01/11 04/11 05/11 06/11 03/11 prospect Otto Preminger 11/10 02/11
+12770                  Turn the River (2007)  3.400000                  Drama                                                                                                                                                   poker Famke Janssen pool
+12775             Rape of Europa, The (2006)  3.679688            Documentary  bab cinema documentary Nicole Newnham perrot library cultural history value art objects see Bonni Cohen Richard Berge World War 08/09 See ======================= netflix
+12777                    Penalty, The (1920)  3.500000     Crime|Drama|Horror                                                                                                                                                            Wallace Worsley
+12787  David Cross: Let America Laugh (2003)  3.619048     Comedy|Documentary                                                                                                                                                                david cross

@@ -1,0 +1,23 @@
+Анализ кластера 1981
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+documentary    2
+propaganda     2
+dead           1
+queue          1
+Netflix        1
+liberal        1
+layoffs        1
+industry       1
+critique       1
+auto           1
+
+Примеры фильмов:
+                  title       genres                                                                                                                                                                                                                                                                                                 tag
+1981  Roger & Me (1989)  Documentary  documentary politics corporate America michael moore directorial debut propaganda cars capitalism Flint General Motors workers business workplace Michigan documentary critique american idiocy Michael Moore might like alone auto industry layoffs liberal propaganda Netflix queue dead bunnies

@@ -1,0 +1,25 @@
+Анализ кластера 1588
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+the          2
+ending       2
+Nudity       2
+(Full        2
+devil        2
+courtroom    2
+favorites    1
+watched      1
+(1997)       1
+sappy        1
+
+Примеры фильмов:
+                             title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+1588  Devil's Advocate, The (1997)  Drama|Mystery|Thriller  greatest movie ever keanu reeves homo nudity (full frontal) seen the cinema Keanu Reeves psychology memasa's movies Pacino impressive Atmospheric deal with the devil lawyers twist ending Mystery DVD Thriller Netflix Finland occult surreal antichrist courtroom drama Christianity Tumey's DVDs Taylor Hackford One favorites courtroom watched (1997) sappy ending cheating husband Charlize Theron satan thought-provoking Religion devil Seduction fallen angel Nudity (Full Frontal) Nudity (Full Frontal Notable) psychological sin demons temptation religion btaege blaspheme lawyer protagonist lucifer supernatural

@@ -1,0 +1,29 @@
+Анализ подкластера 122 в кластере 1
+Размер подкластера: 46 фильмов
+Средний рейтинг: 2.80
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.02
+
+Топ-5 жанров:
+genres
+Drama       17
+Thriller    13
+Comedy      13
+Romance     10
+Action       8
+
+Топ-5 тегов:
+tag
+Edward           1
+cold             1
+personalities    1
+multiple         1
+disorder         1
+
+Примеры фильмов:
+                                title  rating                   genres             tag
+26256              The Hunters (2011)    0.75    Crime|Horror|Thriller             NaN
+26258                  Incubus (2006)    1.00  Horror|Mystery|Thriller             NaN
+26274       Paradise for Three (1938)    3.00           Comedy|Romance  Edward Buzzell
+26289             In Name Only (1939)    3.75            Drama|Romance   John Cromwell
+26292  The Diary of Anne Frank (2009)    3.90                Drama|War       Jon Jones

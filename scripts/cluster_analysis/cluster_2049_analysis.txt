@@ -1,0 +1,23 @@
+Анализ кластера 2049
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Oscar            3
+(Best            3
+Actress)         2
+relationships    1
+real-life        1
+married          1
+couple           1
+twisted          1
+infertility      1
+great            1
+
+Примеры фильмов:
+                                       title genres                                                                                                                                                                                                                                                                                                                                            tag
+2049  Who's Afraid of Virginia Woolf? (1966)  Drama  great performances Mike Nichols superb acting TV-MA professor directorial debut dialogue driven based play Richard Burton Elizabeth Taylor drinking real-life married couple twisted infertility relationships psychological Oscar (Best Supporting Actress) stage husband-wife relationship Oscar (Best Actress) Oscar (Best Cinematography)

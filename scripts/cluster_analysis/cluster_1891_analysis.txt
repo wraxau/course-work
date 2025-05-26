@@ -1,0 +1,25 @@
+Анализ кластера 1891
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+killer              2
+effects             2
+scary               2
+horror              1
+torrential          1
+Vorhees             1
+subgenre:slasher    1
+slasher             1
+ummarti2006         1
+murder              1
+
+Примеры фильмов:
+                       title                   genres                                                                                                                                                                                                                                                                                          tag
+1891  Friday the 13th (1980)  Horror|Mystery|Thriller  horror serial killer Nudity (Topless Brief) sound effects slow low budget boring franchise revenge motive effects killer acting cheesy classic camp character:Jason Vorhees subgenre:slasher slasher ummarti2006 murder scary torrential downpour not scary enough btaege campy Summer Camp

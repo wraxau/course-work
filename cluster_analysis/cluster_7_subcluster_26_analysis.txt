@@ -1,0 +1,29 @@
+Анализ подкластера 26 в кластере 7
+Размер подкластера: 73 фильмов
+Средний рейтинг: 2.59
+Медиана рейтинга: 2.81
+Дисперсия рейтинга: 1.01
+
+Топ-5 жанров:
+genres
+Drama                 26
+Comedy                21
+(no genres listed)    14
+Thriller              10
+Romance                9
+
+Топ-5 тегов:
+tag
+01/15       1
+04/15       1
+medieval    1
+tale        1
+fairy       1
+
+Примеры фильмов:
+                                 title  rating                 genres  tag
+26665  Astro-Zombies M3: Cloned (2010)    1.50     (no genres listed)  NaN
+26678                   Groupie (2010)    2.50        Horror|Thriller  NaN
+26685   Thoroughbreds Don't Cry (1937)    2.50           Comedy|Drama  NaN
+26698                  Man Bait (1952)    2.75            Crime|Drama  NaN
+26705                   Southie (1999)    3.00  Action|Drama|Thriller  NaN

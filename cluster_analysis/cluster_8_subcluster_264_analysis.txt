@@ -1,0 +1,29 @@
+Анализ подкластера 264 в кластере 8
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.39
+Медиана рейтинга: 3.62
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Drama     5
+Action    2
+War       2
+Crime     2
+Comedy    2
+
+Топ-5 тегов:
+tag
+horror       2
+Raymond      2
+Bernard      2
+Criterion    2
+ATF          1
+
+Примеры фильмов:
+                                                                  title    rating                        genres                                                                                                                                                                                                                                                                                        tag
+17824                                          Interrupters, The (2011)  3.812500                   Documentary                                                                                                                                                                                                                                                                                Steve James
+17825                        Night Ambush (Ill Met by Moonlight) (1957)  2.000000    Action|Adventure|Drama|War                                                                                                                                                                                                                                                                                VistaVision
+17826                                                  Red State (2011)  3.143322  Action|Crime|Horror|Thriller  MOLT_CRITICADA guns Kerry BishÃ© backwoods horror Annemari michael parks RELIGIOUS ZEALOTRY folk horror netflix John Goodman independent film FBI Kevin Smith gory 10/11 social commentary kyle gallner religious cult Religion Non-dramatic Parts fundamentalists shoot out religion ATF
+17827  Dark Side of the Heart, The (Lado oscuro del corazón, El) (1992)  3.666667          Comedy|Drama|Romance                                                                                                                                                                                                                               nudity (topless) Eliseo Subiela surreal poetry magic realism
+17828                                            Misérables, Les (1934)  3.583333                         Drama                                                                                                                                                                                                                                                                  Raymond Bernard Criterion

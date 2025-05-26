@@ -1,0 +1,29 @@
+Анализ подкластера 185 в кластере 7
+Размер подкластера: 179 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.76
+
+Топ-5 жанров:
+genres
+Drama                 65
+Comedy                49
+(no genres listed)    27
+Thriller              27
+Action                21
+
+Топ-5 тегов:
+tag
+comedy    4
+good      4
+clever    3
+drama     3
+not       3
+
+Примеры фильмов:
+                                             title    rating                 genres                                                               tag
+28842                  The Daring Dobermans (1973)  2.500000     (no genres listed)                                                               NaN
+28849                         Welcome to Me (2014)  3.066667           Comedy|Drama  mental illness nudity (full frontal) television quirky toplist15
+28863  Comedy Central Roast of James Franco (2013)  3.763158                 Comedy                                                          made for
+28882                         Night Monster (1942)  3.000000  Children|Drama|Horror                                                               NaN
+28884                          Doli Saja Ke Rakhna  3.750000     (no genres listed)                                                               NaN

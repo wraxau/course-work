@@ -1,0 +1,29 @@
+Анализ подкластера 527 в кластере 2
+Размер подкластера: 45 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.05
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Drama          18
+Comedy         13
+Thriller        9
+Romance         8
+Documentary     6
+
+Топ-5 тегов:
+tag
+ending         5
+predictable    4
+characters     4
+nudity         3
+art            3
+
+Примеры фильмов:
+                                 title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+16903             Trapped Ashes (2006)  1.875000                        Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  NaN
+16912            Herb & Dorothy (2008)  3.300000                   Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  NaN
+16917                      Emma (1932)  4.000000          Comedy|Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Clarence Brown
+16922  Cave of Forgotten Dreams (2010)  3.698819                   Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      anthropology Dual-HD Video documentary boring archeology human nature Werner Herzog cave 06/11 art history Good use 3-D music France toplist11 prehistoric Stereoscopic 3-D art ernst reijsiger
+16938              Sucker Punch (2011)  2.975608  Action|Fantasy|Thriller|IMAX  video games soundtrack Bechdel Test:Pass costume design setting:brothel nightclub insanity characters Watched abuse Oscar Isaac Surreal setting:asylum mindfuck misogyny disguised empowerment Misandry war predictable ending asylum abbie cornish mind control Jena Malone martial arts Misogyny bad physics anime cliches visually stunning audience intelligence underestimated Special Effects CGI mental health thin story Cinematography men shown monsters BD-Video lame ending murder IMAX DMR 3-D predictable women sexual objects ridiculous reality imagination? Emily Browning story bad accents Jena Malone' cult see: fantasy ending lowest common denominator Rape Culture KAF physics fail objectifying women Zack Snyder stylized stupid lobotomy

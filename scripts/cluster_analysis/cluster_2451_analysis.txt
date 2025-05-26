@@ -1,0 +1,23 @@
+Анализ кластера 2451
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+disaster       3
+70mm           1
+film           1
+Charlton       1
+Heston         1
+Betamax        1
+Sensurround    1
+natural        1
+
+Примеры фильмов:
+                  title                 genres                                                                               tag
+2451  Earthquake (1974)  Action|Drama|Thriller  70mm disaster film Charlton Heston Betamax disaster Sensurround natural disaster

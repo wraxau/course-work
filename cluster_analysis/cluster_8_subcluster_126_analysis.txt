@@ -1,0 +1,29 @@
+Анализ подкластера 126 в кластере 8
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.85
+
+Топ-5 жанров:
+genres
+Drama          9
+Comedy         4
+Fantasy        4
+Documentary    2
+Romance        1
+
+Топ-5 тегов:
+tag
+plot         1
+MacFadyen    1
+(Topless)    1
+Eddie        1
+Redmayne     1
+
+Примеры фильмов:
+                                                            title    rating                  genres                                                                                                                                                                                                                           tag
+16193  How I Ended This Summer (Kak ya provyol etim letom) (2010)  3.418605                   Drama                                                                                                                                                     plot holes cinematography family death setting: arctic hot lead character
+16194                      Thieves by Law (Ganavim Ba Hok) (2010)  3.200000             Documentary                                                                                                                                                                                                                           NaN
+16195                            Pillars of the Earth, The (2010)  3.820946  Drama|Romance|Thriller  nudity (topless) Sergio Mimica-Gezzan Rufus Sewell Added Architecture Hayley Atwell made for Historical Fiction not movie Ian McShane England medieval Matthew MacFadyen Nudity (Topless) Eddie Redmayne 12th century series
+16196                                         Ménilmontant (1926)  4.045455            Comedy|Drama                                                                                                                                                                                                                           NaN
+16197                                      Hamlet (Gamlet) (1964)  3.925000                   Drama                                                                                                                                                                                                             Grigori Kozintsev

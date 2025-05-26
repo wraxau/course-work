@@ -1,0 +1,29 @@
+Анализ подкластера 228 в кластере 2
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.05
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama      21
+Comedy     11
+Musical     5
+Horror      5
+Romance     4
+
+Топ-5 тегов:
+tag
+story     3
+true      3
+05/11     2
+based     2
+Edward    2
+
+Примеры фильмов:
+                                                                title    rating                     genres                                                                                                                      tag
+16472                                          North Star, The (1943)  3.000000  Drama|Musical|Romance|War                                                                                                                      NaN
+16483                                                Yogi Bear (2010)  2.167476            Children|Comedy  Dual-HD Video animated Bears REDBOX bear Based cartoon adapted from:cartoon Stereoscopic 3-D talking animals based show
+16485                          Funky Forest: The First Contact (2005)  3.500000                     Comedy                                             surreal Katsuhito Ishii Tadanobu Asano Shunichiro Miki skits Hajime Ishimine
+16486                                   Breathless (Ddongpari) (2009)  3.750000                Crime|Drama                                                       too long gritty Korean South Korea characters dark ending violence
+16487  Django, Kill... If You Live, Shoot! (Se sei vivo spara) (1967)  3.000000             Horror|Western                                                                             Tomas Milian unpredictable spaghetti western

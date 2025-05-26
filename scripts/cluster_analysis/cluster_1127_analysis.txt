@@ -1,0 +1,23 @@
+Анализ кластера 1127
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Depardieu    2
+History      1
+identity     1
+courtroom    1
+drama        1
+Betamax      1
+Gérard       1
+medieval     1
+Daniel       1
+Vigne        1
+
+Примеры фильмов:
+                                                                  title genres                                                                                                                         tag
+1127  Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)  Drama  History identity courtroom drama Betamax Gérard Depardieu medieval Daniel Vigne Can't remember Gerard Depardieu based book

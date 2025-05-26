@@ -1,0 +1,29 @@
+Анализ подкластера 240 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.11
+
+Топ-5 жанров:
+genres
+Comedy     4
+Drama      3
+Musical    1
+Romance    1
+Sci-Fi     1
+
+Топ-5 тегов:
+tag
+beautiful    3
+music        3
+the          2
+Charlotte    2
+Dunst        2
+
+Примеры фильмов:
+                               title    rating                  genres                tag
+17066              Dear Heart (1964)  2.875000                  Comedy       Delbert Mann
+17067            Mudlark, The (1950)  3.000000                   Drama     Jean Negulesco
+17068  Mouse on the Moon, The (1963)  3.166667                  Comedy                NaN
+17069         Happy Time, The (1952)       NaN                  Comedy  Richard Fleischer
+17070    Gold Diggers of 1937 (1936)  3.100000  Comedy|Musical|Romance                NaN

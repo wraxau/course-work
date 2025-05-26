@@ -1,0 +1,24 @@
+Анализ кластера 226
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nudity           1
+(topless)        1
+psychological    1
+Nudity           1
+(Topless         1
+Notable)         1
+dialogue         1
+driven           1
+revenge          1
+Roman            1
+
+Примеры фильмов:
+                           title          genres                                                                                             tag
+226  Death and the Maiden (1994)  Drama|Thriller  nudity (topless) psychological Nudity (Topless Notable) dialogue driven revenge Roman Polanski

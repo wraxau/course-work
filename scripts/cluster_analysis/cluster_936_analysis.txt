@@ -1,0 +1,25 @@
+Анализ кластера 936
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Fantasy    1
+Romance    1
+
+Топ-10 тегов:
+tag
+AFI        3
+100        3
+Stewart    3
+library    2
+DVDs       2
+movie      2
+top        2
+250        2
+family     2
+Xmas       2
+
+Примеры фильмов:
+                            title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+936  It's a Wonderful Life (1946)  Drama|Fantasy|Romance  Want angelic intervention James Stewart USA Classic family bonds made cry christmas best holocaust movie ever anti-capitalism inspirational Jimmy Stewart story Christmas black and white alternate universe Favorite AFI 100 bank totalmente excelente heartwarming erlend's DVDs public domain x-mas movie hearing impairment patriotic Hope FIRST LOVE Old Dark House utopia google video long angel Financial Panic funny Heartwarming drama holiday brothers money imdb top 250 alternate reality 100 Greatest Movies Xmas Hitchcock AFI 100 (Cheers) zuzu's petals National Film Registry sentimental Emerson must see angels seen more once Tumey's DVDs movies every kid should see--Entertainment Weekly romance AFI #11 leaves you smiling tediously sacchrine nostalgic Rainstorm Xmas theme VHS library vhs World War uplifting soppy fantasy Frank Capra favourite idealism love propaganda awesome top 250 IMDB sappy classic small town BD-Video Contraction Title Inexperienced Praying Best Performance: James Stewart George Bailey library Owned family corporations

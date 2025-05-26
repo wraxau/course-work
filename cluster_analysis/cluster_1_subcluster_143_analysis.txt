@@ -1,0 +1,29 @@
+Анализ подкластера 143 в кластере 1
+Размер подкластера: 44 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.40
+
+Топ-5 жанров:
+genres
+Drama       22
+Comedy      10
+Romance      9
+Thriller     8
+Action       7
+
+Топ-5 тегов:
+tag
+nudity          5
+short           4
+drama           3
+Jason           3
+relationship    2
+
+Примеры фильмов:
+                                                             title    rating          genres                                                 tag
+23074                                         One Mile Away (2012)  3.500000     Documentary                                                 NaN
+23075                                     Fire in the Blood (2013)  4.000000     Documentary   aids Dylan Mohan Gray AIDS hiv big pharmaceutical
+23079                                            Breathe In (2013)  3.260000   Drama|Romance  incestuous disturbing dreamlike add prospects list
+23081                                     Pandora's Promise (2013)  3.583333     Documentary                                            reviewed
+23083  I Don't Want to Be a Man (Ich möchte kein Mann sein) (1918)  3.250000  Comedy|Romance                                      Ernst Lubitsch

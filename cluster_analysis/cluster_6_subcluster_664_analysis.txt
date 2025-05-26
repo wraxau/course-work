@@ -1,0 +1,29 @@
+Анализ подкластера 664 в кластере 6
+Размер подкластера: 19 фильмов
+Средний рейтинг: 2.83
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama       11
+Comedy       8
+Thriller     4
+Action       2
+Crime        2
+
+Топ-5 тегов:
+tag
+redbox       3
+adapted      3
+based        3
+Test:Pass    2
+mother       2
+
+Примеры фильмов:
+                                                                            title    rating              genres                                                                                                                    tag
+15164                                                 Diary of a Wimpy Kid (2010)  3.053385     Children|Comedy  brother-brother relationship Zachary Gordon redbox slapstick humor growing adapted from:book kid looser stupid comedy
+15170                                                        Hotel Reserve (1944)  2.600000            Thriller                                   black and white James Mason mistaken identity Herbert Lom France whodunnit espionage
+15212                                                     This Is the Army (1943)  2.500000  Comedy|Musical|War                                                                                                                    NaN
+15227  Stray Cat Rock: Delinquent Girl Boss (Nora-neko rokku: Onna banchô) (1970)  3.000000        Action|Crime                              gangs japan Akiko Wada female delinquents Bechdel Test:Pass girl delinquents groovy gangs
+15236                                                            Marmaduke (2010)  2.255556              Comedy                                comic strip creepy talking animals redbox dogs based comics based comic talking animals

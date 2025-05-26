@@ -1,0 +1,23 @@
+Анализ кластера 2431
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+ending           3
+bad              3
+escape           2
+fake             1
+relationships    1
+close            1
+interesting      1
+predictable      1
+silly            1
+music            1
+
+Примеры фильмов:
+                                                    title  genres                                                                                                                                                                                                                                                                                                                                                                 tag
+2431  Children of the Corn II: The Final Sacrifice (1993)  Horror  fake paranormal father-son relationship lame disappointing boring ending hollywood escape failed genre fire weird bad special effects preaching gore funny investigation illogical journalism voodoo close escape interesting predictable silly bad music cult relationships racism ethnicity happy ending ritual killing religion sarcasm slang bad ending stupid

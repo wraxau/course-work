@@ -1,0 +1,29 @@
+Анализ подкластера 146 в кластере 0
+Размер подкластера: 16 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Drama     9
+Comedy    5
+Action    3
+Horror    3
+Sci-Fi    2
+
+Топ-5 тегов:
+tag
+3-D     3
+see     2
+easy    2
+this    2
+can     2
+
+Примеры фильмов:
+                                                     title    rating                   genres                                                        tag
+12449                                    Crime Zone (1989)  3.000000  Action|Film-Noir|Sci-Fi                                                        NaN
+12450                                Visiting Hours (1982)  2.750000                   Horror                                 hospital 80s video Betamax
+12451  Big Bang Love, Juvenile A (46-okunen no koi) (2006)  2.884615                    Drama                                              Takashi Miike
+12452   Noriko's Dinner Table (Noriko no shokutaku) (2005)  3.764706             Drama|Horror                                                        NaN
+12453                  Welcome Home, Roscoe Jenkins (2008)  2.613636                   Comedy  family Martin Lawrence predictable Cedric the Entertainer

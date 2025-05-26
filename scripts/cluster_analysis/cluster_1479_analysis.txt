@@ -1,0 +1,20 @@
+Анализ кластера 1479
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Bibliothek    1
+Ivan          1
+Reitman       1
+Billy         1
+Crystal       1
+Robin         1
+Williams      1
+
+Примеры фильмов:
+                    title  genres                                                   tag
+1479  Fathers' Day (1997)  Comedy  Bibliothek Ivan Reitman Billy Crystal Robin Williams

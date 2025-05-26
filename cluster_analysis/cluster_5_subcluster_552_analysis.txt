@@ -1,0 +1,29 @@
+Анализ подкластера 552 в кластере 5
+Размер подкластера: 38 фильмов
+Средний рейтинг: 2.96
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.46
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy      10
+Thriller    10
+Action       8
+Crime        7
+
+Топ-5 тегов:
+tag
+cast          3
+unlikeable    2
+World         2
+Disney        2
+death         2
+
+Примеры фильмов:
+                                                   title    rating                                    genres                                                                                                   tag
+21846                      Adventures in Zambezia (2012)  2.944444       Adventure|Animation|Children|Comedy                                                                                                   NaN
+21862                  Machete Maidens Unleashed! (2010)  3.642857                               Documentary                                                                           movie business Mark Hartley
+21873                                      Thampu (1978)  3.000000                                     Drama                                                                                                   NaN
+21877  Once Upon a Warrior (Anaganaga O Dheerudu) (2011)  1.833333  Action|Adventure|Fantasy|Musical|Romance  snakes magic blind badass fun Disney sword fight Siddharth prehensile hair India Disney World Cinema
+21879           Every Other Week (Varannan vecka) (2006)  2.500000                      Comedy|Drama|Romance                                                                                     divorce Stockholm

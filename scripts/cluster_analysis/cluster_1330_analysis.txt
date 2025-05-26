@@ -1,0 +1,19 @@
+Анализ кластера 1330
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Michelangelo    1
+Antonioni       1
+Criterion       1
+nudity          1
+(full           1
+frontal)        1
+
+Примеры фильмов:
+                                                                title genres                                                     tag
+1330  Identification of a Woman (Identificazione di una donna) (1982)  Drama  Michelangelo Antonioni Criterion nudity (full frontal)

@@ -1,0 +1,29 @@
+Анализ подкластера 98 в кластере 3
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.27
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 0.65
+
+Топ-5 жанров:
+genres
+Drama        22
+Comedy       10
+Action        9
+Adventure     8
+Fantasy       7
+
+Топ-5 тегов:
+tag
+book       9
+based      8
+fantasy    7
+adapted    6
+the        6
+
+Примеры фильмов:
+                                           title  rating                genres                                        tag
+22193                    Absent (Ausente) (2011)  3.4375        Drama|Thriller  male nudity gay romance Gay Character gay
+22195                          Dreamworld (2012)  2.5000  Comedy|Drama|Romance                                 Ryan Darst
+22196  Chasing Ghosts: Beyond the Arcade (2007)   3.6250           Documentary                 video games Lincoln Ruchti
+22197                            Chillers (1987)  0.5000                Horror                                        NaN
+22198                  For Those in Peril (2013)  2.7500                 Drama                                        NaN

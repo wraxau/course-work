@@ -1,0 +1,24 @@
+Анализ кластера 968
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+environmental       1
+inventor            1
+Canada              1
+environmentalist    1
+movie               1
+Animal              1
+Zealand             1
+New                 1
+divorce             1
+flashy              1
+
+Примеры фильмов:
+                    title              genres                                                                                                                                                                                                                                                                 tag
+968  Fly Away Home (1996)  Adventure|Children  environmental inventor Carroll Ballard showering car crash ultralight artist teen Anna Paquin Netflix Streaming death Jeff Daniels inspirational orphan flying Geese sculpture separation flashy divorce New Zealand Animal movie environmentalist Canada hospital

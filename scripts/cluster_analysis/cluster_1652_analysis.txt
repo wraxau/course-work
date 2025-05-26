@@ -1,0 +1,25 @@
+Анализ кластера 1652
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime      1
+Drama      1
+Mystery    1
+
+Топ-10 тегов:
+tag
+book        3
+Southern    2
+murder      2
+trial       2
+man         2
+John        1
+Law         1
+cast        1
+Kevin       1
+Spacey      1
+
+Примеры фильмов:
+                                               title               genres                                                                                                                                                                                                                                                                                                                                                                                        tag
+1652  Midnight in the Garden of Good and Evil (1997)  Crime|Drama|Mystery  John Cusack graveyard bulldog Voodoo murder trial based book mystery Jack Thompson georgia high society book DIVX want own Irma Hall true crime trial voodoo Southern theme homosexual murder adapted from:book great cast Kevin Spacey older man younger man relationship Savannah Jude Law reporter Clint Eastwood 1980s good adaptation the book antique dealer Southern United States

@@ -1,0 +1,24 @@
+Анализ кластера 15
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+Robert    3
+DeNiro    2
+nudity    2
+Nudity    2
+Pesci     2
+Vegas     2
+DVDs      2
+niro      2
+Stone     1
+gamble    1
+
+Примеры фильмов:
+            title       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+15  Casino (1995)  Crime|Drama  indulgent great performances corruption erlend's DVDs Great Ensemble Cast soundtrack character development long movie Robert Niro Nudity (Topless Brief) watch memasa's movies excellent cast muddled motivations etaege slow based book Divx1 Bibliothek cinematographer:Robert Richardson Joe Pesci Robert Deniro violent reviewed mob Tumey's DVDs NO_FA_GANES masterpiece nudity (rear) robert niro scorcese niro pink Robert DeNiro narrated gangsters Pesci Sharon Stone gamble las vegas need own 20060407 dvr cult film joe pesci cannibalism Mafia complex Vegas stylish DeNiro Nudity (Rear) dysku imdb top 250 mafia Eric's Dvds non-fiction Goodfellas nudity Martin Scorsese organized crime gangster Las Vegas hysterical wife casino violence

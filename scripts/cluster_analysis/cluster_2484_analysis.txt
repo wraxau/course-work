@@ -1,0 +1,15 @@
+Анализ кластера 2484
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                      title        genres  tag
+2484  Mod Squad, The (1999)  Action|Crime  NaN

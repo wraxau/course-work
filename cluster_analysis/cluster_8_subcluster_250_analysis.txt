@@ -1,0 +1,29 @@
+Анализ подкластера 250 в кластере 8
+Размер подкластера: 17 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.22
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Comedy         7
+Drama          7
+Thriller       5
+Horror         2
+Documentary    2
+
+Топ-5 тегов:
+tag
+comedy    8
+and       3
+Cinema    3
+nudity    3
+funny     3
+
+Примеры фильмов:
+                                                        title    rating                            genres                                                                                                                                                                                                                                      tag
+12947                     13 Beloved (13 game sayawng) (2006)  3.243243           Horror|Mystery|Thriller                                                                                                                                                                                                                                    03/11
+12951                                       Death Race (2008)  3.119442  Action|Adventure|Sci-Fi|Thriller                               car racing good stunts Joan Allen Jason Statham ClearPlay remake Paul W.S. Anderson cars with weapons Natalie Martinez bad plot video game like good action cars explosions car chase Tyrese Gibson action
+12952                                 House Bunny, The (2008)  2.853741                            Comedy  comedy Emma Stone female friendship Anna Faris tricked leave playboy non bunny geek sorority playboy girl dumb blonde Dana Goodman nudity (rear) funny Own movie see Kat Dennings friendship Nudity (Rear) Bob*ola KAF Katharine McPhee
+12957  Girl Cut in Two, The (Fille coupée en deux, La) (2007)  3.053571                    Drama|Thriller                                                                                                                                                                                                                           Claude Chabrol
+12959                                           Trumbo (2007)  3.250000                       Documentary                                                                                                                                                                                                     freedom blacklist netflix censorship

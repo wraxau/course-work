@@ -1,0 +1,29 @@
+Анализ подкластера 87 в кластере 5
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Drama      6
+Action     4
+Fantasy    3
+War        3
+Romance    3
+
+Топ-5 тегов:
+tag
+based     4
+made      3
+for       3
+Barrie    2
+like      2
+
+Примеры фильмов:
+                                 title    rating                           genres                                                                                             tag
+14824                  Forgiven (2007)  3.250000                            Drama                                                             made for not available from Netflix
+14825                 Peter Pan (1960)  3.594771         Children|Fantasy|Musical  author:J.M. Barrie made for J.M. Barrie Peter Pan adapted from:book based play Vincent Donehue
+14826  Wicked City (Yôjû toshi) (1987)  3.262712  Animation|Fantasy|Horror|Sci-Fi                                                    monster dark sex anime violence demonic rape
+14827                   Cabiria (1914)  3.100000              Adventure|Drama|War                                                                                             NaN
+14828             Virginia City (1940)  3.500000     Action|Drama|Romance|Western                                                                       might like Michael Curtiz

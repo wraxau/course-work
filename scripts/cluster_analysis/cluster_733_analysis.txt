@@ -1,0 +1,21 @@
+Анализ кластера 733
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Film-Noir    1
+
+Топ-10 тегов:
+tag
+dialogue      2
+antagonist    1
+Abraham       1
+Polonsky      1
+National      1
+Film          1
+Registry      1
+entirely      1
+
+Примеры фильмов:
+                    title     genres                                                                            tag
+733  Force of Evil (1948)  Film-Noir  antagonist Abraham Polonsky National Film Registry dialogue entirely dialogue

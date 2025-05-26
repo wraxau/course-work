@@ -1,0 +1,29 @@
+Анализ подкластера 95 в кластере 1
+Размер подкластера: 113 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.67
+
+Топ-5 жанров:
+genres
+Drama          46
+Comedy         26
+Action         21
+Documentary    16
+Thriller       16
+
+Топ-5 тегов:
+tag
+the         7
+acting      6
+movie       6
+business    6
+good        6
+
+Примеры фильмов:
+                                                                                                  title    rating              genres                                                                                                    tag
+23484                Fragile Trust: Plagiarism, Power, and Jayson Blair at the New York Times, A (2013)  3.100000         Documentary                                                                                             journalism
+23485  Henry Kissinger: Secrets of a Superpower (Henry Kissinger - Geheimnisse einer Supermacht) (2008)  3.500000         Documentary                                                                                                    NaN
+23487                                                                          Jodorowsky's Dune (2013)  3.804762  Documentary|Sci-Fi             documentary movie business Documentary Frank Pavich dune Dune visuals meta touching sci-fi
+23491                                                                                      Belle (2013)  3.644231               Drama  slavery racism history biracial character getdvd based true story England romance interracial romance
+23498                                                                             Wild Life, The (1984)  3.000000        Comedy|Drama                                                                                                    NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 8 в кластере 5
+Размер подкластера: 421 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          198
+Comedy         122
+Documentary     67
+Action          55
+Romance         45
+
+Топ-5 тегов:
+tag
+nudity       21
+bad          20
+ending       19
+Criterion    17
+(topless)    17
+
+Примеры фильмов:
+                                                               title    rating        genres                                                                                                                                                                     tag
+19018                                     Scarlet Letter, The (1979)  3.555556         Drama                                                                                                                                          Nathaniel Hawthorne based book
+19019  If a Tree Falls: A Story of the Earth Liberation Front (2011)  3.661290   Documentary  anticapitalism they fight for revolutionary politics radical criminals domestic terrorism unfair ending radical activism WTO protests ELF justified arrests terrorists
+19029                                           Kept Husbands (1931)  2.500000  Comedy|Drama                                                                                                                                                                     NaN
+19033                                            Guilty Hands (1931)  2.750000   Crime|Drama                                                                                                                                          Lionel Barrymore W.S. Van Dyke
+19056                                       Citizen Gangster (2011)   2.818182   Crime|Drama                                                                                                                                                                     NaN

@@ -1,0 +1,17 @@
+Анализ кластера 2531
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+80s          1
+nostalgia    1
+Leong        1
+
+Примеры фильмов:
+                          title            genres                  tag
+2531  My Science Project (1985)  Adventure|Sci-Fi  80s nostalgia Leong

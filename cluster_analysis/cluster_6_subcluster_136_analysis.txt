@@ -1,0 +1,29 @@
+Анализ подкластера 136 в кластере 6
+Размер подкластера: 14 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.49
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          10
+Documentary     4
+Crime           3
+Comedy          3
+Thriller        2
+
+Топ-5 тегов:
+tag
+roll           2
+and            2
+rock           2
+Today          1
+Archambault    1
+
+Примеры фильмов:
+                                                             title    rating          genres                                                      tag
+23232                                    Man Called Adam, A (1966)       NaN           Drama                                                      NaN
+23233                                         April Showers (2009)  3.666667           Drama                                                      NaN
+23234                                           Aujourd'hui (2012)  4.000000           Drama                          Today death Dakar dying Senegal
+23235  Judge and the Assassin, The (Juge et l'assassin, Le) (1976)  4.125000     Crime|Drama  Bertrand Tavernier poiret galabru psychological torment
+23236                                          Les Lyonnais (2011)  3.541667  Drama|Thriller                                          Olivier Marchal

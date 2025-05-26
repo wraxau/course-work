@@ -1,0 +1,25 @@
+Анализ кластера 1205
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Mystery    1
+Sci-Fi     1
+
+Топ-10 тегов:
+tag
+top           3
+Strugatsky    2
+Tarkovsky     2
+and           2
+long          2
+book          2
+slow          2
+250           2
+the           2
+gloomy        1
+
+Примеры фильмов:
+               title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1205  Stalker (1979)  Drama|Mystery|Sci-Fi  gloomy nature russian black and white and color ruins incomprehensible sightsound visually appealing Seen 2007 author:Arkadi Strugatsky existentialism Author:Boris Strugatsky slow art based book long boring Andrei Tarkovsky downbeat contemplative the book was better dialogue driven Tumey's DVDs masterpiece slow paced belief science fiction sepia philosophical intellectualness austere Totalitarianism breaks the fourth wall mysticism god wikilens top pick dark meditative cinematography post apocalyptic bad dub psychic adapted from:book sci-fi despair hope water dystopia psychological reflective strange Roadside Picnic imdb top 250 Russian very long deliberate mistery Sven's see list ex-imdb top 250 beautifully filmed mosfilm Tarkovsky handcar dreamlike artsy

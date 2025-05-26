@@ -1,0 +1,29 @@
+Анализ подкластера 36 в кластере 5
+Размер подкластера: 55 фильмов
+Средний рейтинг: 2.84
+Медиана рейтинга: 3.05
+Дисперсия рейтинга: 0.85
+
+Топ-5 жанров:
+genres
+Drama        25
+Comedy       18
+Horror       11
+Action        9
+Adventure     7
+
+Топ-5 тегов:
+tag
+book       6
+plot       6
+fantasy    5
+based      5
+too        4
+
+Примеры фильмов:
+                                                title    rating                                     genres                                                                      tag
+22197                                 Chillers (1987)  0.500000                                     Horror                                                                      NaN
+22201                    Best Man Holiday, The (2013)  3.312500                               Comedy|Drama                                               holidays dramedy christmas
+22205  Tiger from Tjampa, The (Harimau Tjampa) (1953)  4.500000                                      Drama                                                                      NaN
+22208                                 Aningaaq (2013)  3.125000                                      Drama                                                  short film Jonás Cuarón
+22210             One Piece Film: Strong World (2009)  3.159091  Action|Adventure|Animation|Comedy|Fantasy  monster pirates fantasy world anime evolution Munehisa Sakai based show

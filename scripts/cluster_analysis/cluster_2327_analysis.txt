@@ -1,0 +1,24 @@
+Анализ кластера 2327
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Boxing          1
+Russia          1
+once            1
+Talia           1
+Shire           1
+sports          1
+Tony            1
+Burton          1
+audience        1
+intelligence    1
+
+Примеры фильмов:
+                title        genres                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+2327  Rocky IV (1985)  Action|Drama  Boxing Russia soundtrack Dolph Lundgren boxing Betamax Sylvester Stallone Brigitte Nielsen nationalism Golden Raspberry (Worst Actor) action competitive sport character dies training montage franchise unintentionally funny seen more once Talia Shire sports Tony Burton audience intelligence underestimated 70mm music sport:boxing Carl Weathers fighting Spherical Blow-Up Burt Young campy bad technology James Brown

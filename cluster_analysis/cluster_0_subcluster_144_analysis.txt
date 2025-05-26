@@ -1,0 +1,29 @@
+Анализ подкластера 144 в кластере 0
+Размер подкластера: 5 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama       4
+Action      1
+War         1
+Thriller    1
+Crime       1
+
+Топ-5 тегов:
+tag
+view            2
+instant         2
+prostitution    1
+Jay             1
+Bledel          1
+
+Примеры фильмов:
+                          title    rating                genres                                                              tag
+12174           Beaufort (2007)  3.360656      Action|Drama|War                 hebrew war joseph cedar israeli military lebanon
+12175         Civic Duty (2006)  2.571429        Drama|Thriller                                                              NaN
+12176  The Killing Floor (2007)  2.833333  Crime|Horror|Mystery                                             murder stalker crime
+12177         Irina Palm (2007)  3.513699                 Drama     might like instant view prostitution Sam Garbarski seen 2011
+12178      I'm Reed Fish (2006)  3.167910  Comedy|Drama|Romance  instant view A.J. Cook alexis bledel Alexis Bledel Jay Baruchel

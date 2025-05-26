@@ -1,0 +1,20 @@
+Анализ кластера 1335
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Miller           2
+satire           1
+Arthur           1
+author:Arthur    1
+allegory         1
+adapted          1
+from:play        1
+
+Примеры фильмов:
+                     title genres                                                                   tag
+1335  Crucible, The (1996)  Drama  satire Arthur Miller author:Arthur Miller allegory adapted from:play

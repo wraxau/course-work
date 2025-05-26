@@ -1,0 +1,14 @@
+Анализ кластера 1084
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                        title       genres  tag
+1084  Leopard Son, The (1996)  Documentary  NaN

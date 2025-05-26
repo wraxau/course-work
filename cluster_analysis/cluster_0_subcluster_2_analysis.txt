@@ -1,0 +1,29 @@
+Анализ подкластера 2 в кластере 0
+Размер подкластера: 395 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama       217
+Comedy      106
+Romance      70
+Thriller     55
+Crime        44
+
+Топ-5 тегов:
+tag
+nudity    26
+book      23
+funny     22
+based     22
+bad       22
+
+Примеры фильмов:
+                                                      title    rating                    genres                                                                                                                                                                                                                                   tag
+12383  In the Name of the King: A Dungeon Siege Tale (2008)  2.060688  Action|Adventure|Fantasy  Bollocks Jason Statham Matthew Lillard Uwe Boll Sucks John Rhys-Davies Ray Liotta sucks Uwe Boll video game adaptation plot Ray Liotta sword and sorcery masterpiece less 300 ratings Like LOTR Ron Perlman medieval Kristanna Loken
+12394                                Blonde Ambition (2007)  1.750000            Comedy|Romance                                                                                                                                                                                                                                   NaN
+12414                                    Untraceable (2008)  3.022193            Crime|Thriller                                                                                         hacking Gregory Hoblit perrot library serial killer computer crimes ClearPlay Colin Hanks seen 2012 FBI Joseph Cross police Tedious movie see
+12426                                   Ira and Abby (2006)  3.295918                    Comedy                                                                                                                                                                                                                              BGAB LRC
+12431                                   À nos amours (1983)  3.479167             Drama|Romance                                                                                                                                                                                     nudity (topless) Maurice Pialat Betamax Criterion

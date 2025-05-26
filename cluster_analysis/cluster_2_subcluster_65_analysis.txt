@@ -1,0 +1,29 @@
+Анализ подкластера 65 в кластере 2
+Размер подкластера: 87 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.40
+
+Топ-5 жанров:
+genres
+Drama          46
+Thriller       18
+Comedy         14
+Romance        13
+Documentary    13
+
+Топ-5 тегов:
+tag
+nudity       13
+(topless)     8
+story         7
+based         7
+animation     6
+
+Примеры фильмов:
+                                        title    rating                  genres                                                                                                    tag
+15505  Big Hand for the Little Lady, A (1966)  3.691176    Comedy|Drama|Western                                  01/11 04/11 Fielder Cook reviewed 05/11 12/10 06/11 03/11 11/10 02/11
+15506   State of Siege (État de siège) (1972)  3.772727          Drama|Thriller                                                                                 Criterion Costa-Gavras
+15510                     Grande école (2004)  3.115385                   Drama  nudity (topless) male full frontal nudity shower scene gay male nudity Nudity (Full Frontal) gay love
+15513                            Yella (2007)  3.285714  Drama|Romance|Thriller                                                                                                    NaN
+15544          We Stand Alone Together (2001)  2.800000             Documentary                                                                                             Mark Cowen

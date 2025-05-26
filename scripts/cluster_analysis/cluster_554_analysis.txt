@@ -1,0 +1,17 @@
+Анализ кластера 554
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+NC-17       1
+nudity      1
+(full       1
+frontal)    1
+
+Примеры фильмов:
+                    title  genres                          tag
+554  Paris, France (1993)  Comedy  NC-17 nudity (full frontal)

@@ -1,0 +1,17 @@
+Анализ кластера 1128
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Comedy       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+Jan           1
+Svankmajer    1
+
+Примеры фильмов:
+             title                     genres             tag
+1128  Faust (1994)  Animation|Comedy|Thriller  Jan Svankmajer

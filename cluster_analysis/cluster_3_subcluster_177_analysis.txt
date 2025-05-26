@@ -1,0 +1,28 @@
+Анализ подкластера 177 в кластере 3
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 2.93
+Дисперсия рейтинга: 0.12
+
+Топ-5 жанров:
+genres
+Drama          5
+Comedy         3
+Thriller       1
+Documentary    1
+Crime          1
+
+Топ-5 тегов:
+tag
+kitsch    1
+drugs     1
+money     1
+dealer    1
+
+Примеры фильмов:
+                                          title    rating          genres                 tag
+20329         Dark Truth, A (Truth, The) (2012)  2.450000  Drama|Thriller                 NaN
+20330  Conversation with Gregory Peck, A (1999)  3.500000     Documentary                 NaN
+20331                  Odette Toulemonde (2006)  2.857143    Comedy|Drama              kitsch
+20332                         Mein Kampf (2009)  2.750000    Comedy|Drama                 NaN
+20333                             Pusher (2012)  3.031250     Crime|Drama  drugs money dealer

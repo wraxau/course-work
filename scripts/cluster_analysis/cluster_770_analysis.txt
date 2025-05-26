@@ -1,0 +1,27 @@
+Анализ кластера 770
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Drama        1
+Musical      1
+Romance      1
+
+Топ-10 тегов:
+tag
+Disney        4
+Hugo          2
+soundtrack    1
+adapted       1
+feature       1
+Victor        1
+lust          1
+awful         1
+score         1
+nostalgic     1
+
+Примеры фильмов:
+                                   title                                    genres                                                                                                                                                                                                                                                                                                                                                                             tag
+770  Hunchback of Notre Dame, The (1996)  Animation|Children|Drama|Musical|Romance  soundtrack negative depiction disability sentimental Bechdel Test:Fail author:Victor Hugo based book disney was really reaching for material Disney Bearable Disney perversion hugo's novel seduction 70mm Disney animated feature Victor Hugo lust awful score nostalgic avi adapted from:book France Paris Disney Renaissance deep notre dame bombast deformity heartwarming

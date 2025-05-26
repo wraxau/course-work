@@ -1,0 +1,25 @@
+Анализ кластера 1212
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+great         4
+(Best         3
+time          3
+Award         3
+Saturn        3
+best          3
+classic       3
+soundtrack    2
+ever          2
+movie         2
+
+Примеры фильмов:
+                       title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+1212  Terminator, The (1984)  Action|Sci-Fi|Thriller  motorcycle Sci-Fi terrorism android(s)/cyborg(s) visceral Arnold Schwarzenegger Futuristmovies.com Thriller tech-noir Paradox franchise Atmosphere tense stop motion he's the bad guy darkness 80s story Nudity (Topless) dvd Eric's Dvds Michael Biehn dystopic future best movie ever fighting dialogue sci Saturn Award (Best Makeup) soundtrack evil Schwarzenegger character script Divx1 AFI 100 (Thrills) Hahaha! Saturn Award (Best Science Fiction Film) violent stunts arnold Governator Classic Thriller drama best low budget ever made futuristic Time paradox murder sci-fi action-packed time travel The Nucleus imdb top 250 AFI 100 (Movie Quotes) great soundtrack old movie cyborgs nudity (topless) Best Rotten Tomatoes: All Time androids Linda Hamilton action highly quotable the best Terminator! watch-again seen more once assassin romance Characters with great depth artificial intelligence vehicle Lance Henriksen heterosexuality excellent Saturn Award (Best Writing) time-travel deterministic adventure special effects top100 well-done time travel James Cameron man versus machine memasa's movies great start for terminator series~ Netflix Finland Action cyberpunk great dialog ominous grim bleak classic BD-Video suspenseful time machine future extremely tense robots BFI modern classic sci-fi classic

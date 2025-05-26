@@ -1,0 +1,25 @@
+Анализ кластера 1237
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+Romance    1
+
+Топ-10 тегов:
+tag
+time         3
+love         3
+great        3
+Murray       3
+Bill         3
+movie        3
+feel         2
+loop         2
+alternate    2
+own          2
+
+Примеры фильмов:
+                     title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+1237  Groundhog Day (1993)  Comedy|Fantasy|Romance  Want humorous seen the cinema character development great meaning thoughtful cathartic sad people See Classic coming age hypertextual Bill Murray philosophical ice sculpting death/fatality interesting Saturn Award (Best Actress) fanciful cool rate down PUA weather reporter protagonist alternate universe Favorite Best Performance: Bill Murray Phil Connors easygoing time loop cute romantic sexual inuendo Bechdel Test:Fail great movie! cards utopia true love DVD boring sexuality groundhogs trapped clarivoyance want own funny self-esteem time loop old satire original plot witty foqam mostly about single day twee feel good movie lust turns into love Andie MacDowell always terrible time travel Michael Shannon imdb top 250 fun weatherman alternate reality Great movie creative own comedy National Film Registry wacky clever insightful surreal seen more once madcap Fantasy animals romance Harold Ramis great actors one day winter television Bill Murray movie with frozen dead person Chris Elliott metaphysics cosmic comedy life changing feel-good feel good self discovery Andie MacDowell sweet hilarious sexualilty Pennsylvania existentialism love Netflix Finland deja ohsoso watch again before hating sappy cheesy classic Comedy small town deadpan super interesting AFI 100 (Laughs) silly library inane irreverent ontoleptic Owned BFI modern classic Stephen Tobolowsky

@@ -1,0 +1,29 @@
+Анализ подкластера 626 в кластере 2
+Размер подкластера: 57 фильмов
+Средний рейтинг: 2.91
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.54
+
+Топ-5 жанров:
+genres
+Drama          27
+Comedy         12
+Action         11
+Documentary    10
+Thriller        5
+
+Топ-5 тегов:
+tag
+(topless)    3
+nudity       3
+adapted      2
+remake       2
+Henry        2
+
+Примеры фильмов:
+                                                                                    title    rating       genres                            tag
+18020                                                           Living Desert, The (1953)  3.700000  Documentary            James Algar Betamax
+18028                                                                Antonio Gaudí (1985)  3.538462  Documentary  Hiroshi Teshigahara Criterion
+18031                                         Devil Times Five (a.k.a. Peopletoys) (1974)  2.000000       Horror                            NaN
+18045  I Am My Films - A Portrait of Werner Herzog (Was ich bin, sind meine Filme) (1979)  4.500000  Documentary                 movie business
+18050                                                                Snow (Snijeg) (2008)  2.500000        Drama                            NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 257 в кластере 8
+Размер подкластера: 10 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama          4
+Comedy         3
+Documentary    2
+Crime          1
+Thriller       1
+
+Топ-5 тегов:
+tag
+Victor           1
+Fleming          1
+cheesy           1
+Kristofferson    1
+Kris             1
+
+Примеры фильмов:
+                                                title    rating        genres             tag
+18449           Métamorphose des cloportes, La (1965)  3.000000  Comedy|Crime             NaN
+18450                                  Mantrap (1926)  2.666667        Comedy  Victor Fleming
+18451           Last Ferry, The (Ostatni prom) (1989)  3.000000         Drama             NaN
+18452                          Cow, The (Gaav) (1969)  3.000000         Drama             NaN
+18453  Way South, The (De weg naar het zuiden) (1981)  3.250000   Documentary             NaN

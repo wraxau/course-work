@@ -1,0 +1,28 @@
+Анализ подкластера 143 в кластере 8
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 2.98
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Thriller    2
+Drama       2
+Romance     2
+Musical     2
+Comedy      1
+
+Топ-5 тегов:
+tag
+lesbian        1
+queer          1
+Two-color      1
+Technicolor    1
+
+Примеры фильмов:
+                                                             title  rating                 genres                    tag
+17407                                              Kalamity (2010)    2.50               Thriller                    NaN
+17408                                  Four-Faced Liar, The (2010)    2.95   Comedy|Drama|Romance          lesbian queer
+17409  Lamp in the Dark; The Untold History of the Bible, A (2009)    4.00            Documentary                    NaN
+17410                                          King of Jazz (1930)    3.00      Animation|Musical  Two-color Technicolor
+17411                                    Dolly Sisters, The (1945)    3.00  Drama|Musical|Romance                    NaN

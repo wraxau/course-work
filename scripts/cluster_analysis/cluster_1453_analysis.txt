@@ -1,0 +1,24 @@
+Анализ кластера 1453
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Tolstoy       3
+Russia        1
+Sean          1
+Bean          1
+lives         1
+author:Leo    1
+Leo           1
+tragedy       1
+adapted       1
+from:book     1
+
+Примеры фильмов:
+                     title         genres                                                                                                                tag
+1453  Anna Karenina (1997)  Drama|Romance  Russia Sean Bean lives Tolstoy author:Leo Tolstoy Leo Tolstoy tragedy adapted from:book based book Sophie Marceau

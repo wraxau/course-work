@@ -1,0 +1,24 @@
+Анализ кластера 1061
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Musical    1
+
+Топ-10 тегов:
+tag
+long          2
+70mm          1
+too           1
+comedy        1
+Blake         1
+Edwards       1
+really        1
+Betamax       1
+Anamorphic    1
+Blow-Up       1
+
+Примеры фильмов:
+                       title          genres                                                                                                   tag
+1061  Great Race, The (1965)  Comedy|Musical  70mm too long comedy Blake Edwards really long Betamax Anamorphic Blow-Up Jack Lemmon Epic pie fight

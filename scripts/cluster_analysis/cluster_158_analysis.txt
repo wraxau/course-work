@@ -1,0 +1,26 @@
+Анализ кластера 158
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Mystery      1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+Crichton          2
+author:Michael    2
+Frank             1
+based             1
+action            1
+Africa            1
+gorillas          1
+from:book         1
+?adapted          1
+Marshall          1
+
+Примеры фильмов:
+            title                           genres                                                                                                                                                                                      tag
+158  Congo (1995)  Action|Adventure|Mystery|Sci-Fi  monster jungle nostalgia gorilla author:Michael Chricton? Nostalgia Critic Michael Crichton Frank Marshall ?adapted from:book gorillas Africa action based book author:Michael Crichton

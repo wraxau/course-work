@@ -1,0 +1,25 @@
+Анализ кластера 2444
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+Michael       2
+aging         2
+nudity        1
+Peter         1
+BD-Video      1
+futuristic    1
+avi           1
+70's          1
+sci-fi        1
+Nudity        1
+
+Примеры фильмов:
+                   title                   genres                                                                                                                                                                                                                                                                                                  tag
+2444  Logan's Run (1976)  Action|Adventure|Sci-Fi  nudity (topless) Michael York Betamax Farrah Fawcett utopia etaege Futuristmovies.com Anamorphic Blow-Up post-apocalyptic science fiction Michael Anderson classic 70mm Jenny Agutter BD-Video futuristic avi 70's sci-fi Peter Ustinov Nudity (Topless) dystopia scifi aging iconic aging violence

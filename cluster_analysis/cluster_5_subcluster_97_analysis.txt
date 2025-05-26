@@ -1,0 +1,29 @@
+Анализ подкластера 97 в кластере 5
+Размер подкластера: 161 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          69
+Comedy         35
+Documentary    28
+Action         28
+Thriller       20
+
+Топ-5 тегов:
+tag
+ending          9
+the             9
+relationship    9
+based           8
+action          8
+
+Примеры фильмов:
+                              title    rating                 genres                                                           tag
+19061               Creature (2011)  1.562500                 Horror                                              nudity (topless)
+19066            Vicky Donor (2012)  3.696429         Comedy|Romance  comedy Annu Kapoor Drama good theme bollywood Coming the age
+19075          Bombay Talkie (1970)       NaN  Drama|Musical|Romance                                         James Ivory Criterion
+19079  Walking with Monsters (2005)  3.578947            Documentary                                           not good the others
+19084         My Blue Heaven (1950)  2.166667          Drama|Musical                                             adapted from:book

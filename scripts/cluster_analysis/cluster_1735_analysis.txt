@@ -1,0 +1,25 @@
+Анализ кластера 1735
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Drama       1
+
+Топ-10 тегов:
+tag
+god            2
+kid            1
+Rosie          1
+cheesy         1
+Shyamalan      1
+Night          1
+for            1
+searching      1
+grandfather    1
+O'Donnell      1
+
+Примеры фильмов:
+                  title                 genres                                                                                                                                                   tag
+1735  Wide Awake (1998)  Children|Comedy|Drama  kid flick epilepsy child acting god ending Joseph Cross realization Rosie O'Donnell grandfather searching for god Night Shyamalan cheesy bereavement

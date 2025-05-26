@@ -1,0 +1,27 @@
+Анализ кластера 28
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Fantasy      1
+Mystery      1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+dark         3
+children     2
+fantasy      2
+visually     2
+Jeunet       2
+deer         2
+computer     1
+Nudity       1
+Christmas    1
+dystopia     1
+
+Примеры фильмов:
+                                                              title                                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+28  City of Lost Children, The (Cité des enfants perdus, La) (1995)  Adventure|Drama|Fantasy|Mystery|Sci-Fi  computer erlend's DVDs atmospheric Dark fantasy visually appealing Santa Claus Ron Perlman deer memasa's movies Jeunet 2.5 surreal Legenda PT-BR weird Rich setting kidnapping deer shit visually stunning whimsical bleak dark abused children children awkward romance need own mechanized fanciful hallucinatory sci-fi skinut Nudity (Topless) dystopia Christmas strange dark fantasy Jean-Pierre Jeunet clowny clones Marc Caro visual btaege steampunk beautiful dark fairytale dreamlike stylized Dominique Pinon

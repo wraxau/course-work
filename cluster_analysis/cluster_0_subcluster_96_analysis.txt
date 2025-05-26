@@ -1,0 +1,29 @@
+Анализ подкластера 96 в кластере 0
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama      4
+Comedy     4
+Fantasy    3
+Romance    2
+Crime      1
+
+Топ-5 тегов:
+tag
+sequel    7
+funny     4
+comedy    4
+Comedy    3
+bad       3
+
+Примеры фильмов:
+                                                   title    rating                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+11062                                Edvard Munch (1974)  4.000000                     Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Peter Watkins painter long
+11063                          Ace of Hearts, The (1921)  3.428571       Crime|Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Lon Chaney Wallace Worsley
+11064                      Devil Wears Prada, The (2006)  3.417426              Comedy|Drama                                                                                                                                                                                                                                                       comedy New York City hilarious Below meryl streep career Bechdel Test:Pass Bit overrated Emily Blunt chickflick alliances setting:Fashion magazine based book seen 2010 Oscar Nom 2007 jonossa fabulous Potential Oscar Nom fashion perrot library Stanley Tucci Streep strong funny Tumey's DVDs subplot:ingenue aide antiheroine magazines setting:NYC funny Anne Hathaway terrible social satire girlie movie New York BD-Video Chick flick new york city perfect Seen 2006 adapted from:book silly David Frankel Paris Twentieth Century-Fox alone Meryl Streep Encouragement
+11065  Pirates of the Caribbean: Dead Man's Chest (2006)  3.464549  Action|Adventure|Fantasy  erlend's DVDs comedy pirates definitley not good first sequels soundtrack keira knightley waste time watched 2006 Brett Northcutt ghosts/afterlife ocean cliffhanger need buy nyong romantic better original treasure Johnny Depp Gore Verbinski Jack Sparrow Orlando Bloom action thriller sequels filmed simultaneously seen more once Stellan Skarsgard Disney Tom Hollander want swashbuckler ready for sequel legendary figures 3-12-2006 Sequel funny AMAZING!!!!! Keira Knightley Adventure johnny depp Bill Nighy unnecessary sequel Comedy sword fight shipwrecks Davey Jones anti-hero seafaring lackluster plot monster:giant cephalopod demonic themes cinematographer:Dariusz Wolski excellent Bob*ola sea sequel torrential downpour adventure Jack Davenport Action/Comedy swords Naomie Harris fantasy ship big budget
+11066                          You, Me and Dupree (2006)  2.789933                    Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Kate Hudson Anthony Russo PG-13 Kate Hudson looking hot dream scene friendship relations Michael Douglas Seth Rogen adult Seen 2009 Matt Dillon watched 2007 attempts comedy and drama and fails both Joe Russo Owen Wilson jonossa

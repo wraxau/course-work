@@ -1,0 +1,29 @@
+Анализ подкластера 103 в кластере 7
+Размер подкластера: 89 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.80
+
+Топ-5 жанров:
+genres
+Drama       28
+Comedy      27
+Action      19
+Horror      14
+Thriller    13
+
+Топ-5 тегов:
+tag
+Story       2
+sex         2
+effects     2
+horror      2
+military    1
+
+Примеры фильмов:
+                                     title    rating                    genres           tag
+29553                   Mercenaries (2014)  3.250000          Action|Adventure           NaN
+29555                           Max (2015)  3.045455  Adventure|Children|Drama  military dog
+29559                       Forever (2014)  3.750000                     Drama           NaN
+29561            Letter to Brezhnev (1985)  3.500000            Comedy|Romance           NaN
+29571  Daddy and the Muscle Academy (1991)  3.166667               Documentary           NaN

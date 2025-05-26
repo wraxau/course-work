@@ -1,0 +1,23 @@
+Анализ кластера 1181
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+AFI       4
+book      4
+drama     2
+single    2
+Lee       2
+100       2
+250       2
+top       2
+Robert    2
+trial     2
+
+Примеры фильмов:
+                             title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+1181  To Kill a Mockingbird (1962)  Drama  politics wrongly accused USA SIBLING RELATIONSHIPS poignant Classic from the view children Robert Mulligan AFI (courtroom drama) acting courtroom actors Harper Lee ethical meaning lost adaptation black and white Gregory Peck Favorite AFI 100 Oscar (Best Actor) required high school 1997 faithful book heartwarming Memorable Characters History Betamax good name lawyer DVD drama trial Southern theme Nostalgia Critic's Top social commentary murder actresses imdb top 250 compassionate single parent own morality AFI 100 (Cheers) bittersweet history atmospheric netflix streaming great movie excellent and worth while National Film Registry compassion single parents SOCIAL INJUSTICE Tag seen more once book Tumey's DVDs great screenplay racial tension owned movies every kid should see--Entertainment Weekly southern Alabama nostalgic literate adapted from:book book was better SINGLE PARENTS Brock Peters Robert Duvall oscar for best actor stolen from o'toole AFI #34 based book lawyers Great Depression RACE RELATIONS courtroom drama disobedience top 250 IMDB earnest classic small town author:Harper Lee smart kids movie see jury trial race issues racism want see again Great Adaptations

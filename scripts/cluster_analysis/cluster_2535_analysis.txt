@@ -1,0 +1,15 @@
+Анализ кластера 2535
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+
+Примеры фильмов:
+               title genres               tag
+2535  Mascara (1999)  Drama  nudity (topless)

@@ -1,0 +1,26 @@
+Анализ кластера 1545
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Mystery     1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+murder         2
+Gibson         2
+conspiracy     2
+was            2
+mystery        2
+secret         1
+enervating     1
+NO_FA_GANES    1
+assassin       1
+Patrick        1
+
+Примеры фильмов:
+                         title                          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1545  Conspiracy Theory (1997)  Drama|Mystery|Romance|Thriller  secret agency Mel Gibson conspiracy theory only Gibson was depressed enough just little smarter this... 14.01.06 think there was one really good joke two Contrived. Bibliothek thriller Richard Donner mystery suprisingly enervating NO_FA_GANES assassin conspiracy Patrick Stewart drama mental hospital ClearPlay murder thought-provoking freak amnesia Julia Roberts murder mystery prospect seen afternoon section brainwashing thiller gay

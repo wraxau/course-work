@@ -1,0 +1,19 @@
+Анализ кластера 310
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+
+Топ-10 тегов:
+tag
+animation    1
+swan         1
+lake         1
+musical      1
+animated     1
+
+Примеры фильмов:
+                         title              genres                                   tag
+310  Swan Princess, The (1994)  Animation|Children  animation swan lake musical animated

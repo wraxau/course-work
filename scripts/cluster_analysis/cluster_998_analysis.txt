@@ -1,0 +1,24 @@
+Анализ кластера 998
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+island       2
+Disney       2
+places       1
+book         1
+based        1
+shipwreck    1
+deserted     1
+classic      1
+studios      1
+MacArthur    1
+
+Примеры фильмов:
+                            title              genres                                                                                                                                                                                      tag
+998  Swiss Family Robinson (1960)  Adventure|Children  island childhood memories favorite tree house Disney Ken Annakin nostalgic family switching places James MacArthur Disney studios classic deserted island shipwreck based book stranded

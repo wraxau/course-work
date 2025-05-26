@@ -1,0 +1,26 @@
+Анализ кластера 1444
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Mystery    1
+Romance    1
+
+Топ-10 тегов:
+tag
+relationships    1
+Greg             1
+Mottola          1
+misadventures    1
+sexuality        1
+lively           1
+directorial      1
+debut            1
+snarky           1
+smart            1
+
+Примеры фильмов:
+                        title                        genres                                                                                                tag
+1444  Daytrippers, The (1996)  Comedy|Drama|Mystery|Romance  relationships Greg Mottola misadventures sexuality lively directorial debut snarky smart betrayal

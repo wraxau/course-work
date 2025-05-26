@@ -1,0 +1,29 @@
+Анализ подкластера 191 в кластере 3
+Размер подкластера: 41 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.46
+
+Топ-5 жанров:
+genres
+Drama       21
+Comedy      11
+Thriller    10
+Action       9
+Horror       6
+
+Топ-5 тегов:
+tag
+story           3
+relationship    3
+comedy          3
+America         2
+long            2
+
+Примеры фильмов:
+                                                                         title    rating                        genres                          tag
+21862                                        Machete Maidens Unleashed! (2010)  3.642857                   Documentary  movie business Mark Hartley
+21863                     Gathering of Old Men, A (Murder on the Bayou) (1987)  3.000000                         Drama                    Louisiana
+21864                                   I Will Follow You Into the Dark (2012)  2.500000          Drama|Horror|Romance                          NaN
+21865             Adventures of Kitty O'Day (Kitty O'Day Comes Through) (1945)       NaN  Comedy|Crime|Mystery|Romance                          NaN
+21866  Innocent Affair, An (Don't Trust Your Husband) (Under Suspicion) (1948)  3.000000                        Comedy                          NaN

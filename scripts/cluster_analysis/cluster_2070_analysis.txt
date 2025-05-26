@@ -1,0 +1,24 @@
+Анализ кластера 2070
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+
+Топ-10 тегов:
+tag
+show             2
+Fiona            1
+Ralph            1
+Thurman          1
+Uma              1
+Izzard           1
+Eddie            1
+Based            1
+(1998)/(2012)    1
+Avengers         1
+
+Примеры фильмов:
+                     title            genres                                                                                                                                                                                      tag
+2070  Avengers, The (1998)  Action|Adventure  Fiona Shaw not for kids easily confused with other movie(s) (title) Sean Connery Ralph Fiennes disambiguation:The Avengers (1998)/(2012) Based show Eddie Izzard Uma Thurman based show

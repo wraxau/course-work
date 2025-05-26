@@ -1,0 +1,29 @@
+Анализ подкластера 119 в кластере 6
+Размер подкластера: 13 фильмов
+Средний рейтинг: 2.55
+Медиана рейтинга: 2.62
+Дисперсия рейтинга: 0.47
+
+Топ-5 жанров:
+genres
+Comedy      6
+Drama       4
+Action      3
+Crime       3
+Thriller    3
+
+Топ-5 тегов:
+tag
+artists    1
+comic      1
+books      1
+graphic    1
+novels     1
+
+Примеры фильмов:
+                                     title    rating                       genres                                 tag
+25426          The Great Kidnapping (1973)  3.500000        Action|Crime|Thriller                                 NaN
+25427  Bring It On: In It To Win It (2007)  2.958333                       Comedy                                 NaN
+25428                  Independents (2007)       NaN                  Documentary  artists comic books graphic novels
+25429              Between Miracles (1972)       NaN                       Comedy                       Nino Manfredi
+25430                     The Rebel (1980)  2.000000  Action|Crime|Drama|Thriller                                 NaN

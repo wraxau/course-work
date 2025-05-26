@@ -1,0 +1,26 @@
+Анализ кластера 311
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Drama       1
+Fantasy     1
+Mystery     1
+
+Топ-10 тегов:
+tag
+movie        2
+Irish        2
+about        2
+wisdom       2
+John         1
+movies       1
+messed       1
+up.          1
+ancestors    1
+child's      1
+
+Примеры фильмов:
+                                title                          genres                                                                                                                                                                                                                                                                                                      tag
+311  Secret of Roan Inish, The (1994)  Children|Drama|Fantasy|Mystery  simple living magic Irish legends heritage All remember about this movie that Jamie was seal. And something about the mother being unicorn... unless have Irish movies messed up. ancestors child's wisdom wisdom family John Sayles Enchanting Family movie mythology seals Great Storytelling selkies

@@ -1,0 +1,29 @@
+Анализ подкластера 29 в кластере 2
+Размер подкластера: 122 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.15
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama          68
+Comedy         30
+Romance        22
+Documentary    18
+Thriller       17
+
+Топ-5 тегов:
+tag
+comedy     14
+ending      8
+not         8
+plot        6
+romance     6
+
+Примеры фильмов:
+                                                             title    rating  genres                                         tag
+17003                                       Artois the Goat (2009)  2.900000  Comedy  obsession romantic comedy independent film
+17017  Question of Silence, A (De stilte rond Christine M.) (1982)  3.000000   Drama                                         NaN
+17018                                                 Delta (2008)  2.700000   Drama                                         NaN
+17021    And Along Come Tourists (Am Ende kommen Touristen) (2007)  3.222222   Drama                                         NaN
+17023                                  Conflagration (Enjô) (1958)  3.333333   Drama                                         NaN

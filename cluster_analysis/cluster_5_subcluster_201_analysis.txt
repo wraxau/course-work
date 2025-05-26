@@ -1,0 +1,29 @@
+Анализ подкластера 201 в кластере 5
+Размер подкластера: 16 фильмов
+Средний рейтинг: 3.45
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.56
+
+Топ-5 жанров:
+genres
+Drama          8
+Thriller       6
+Comedy         5
+Romance        5
+Documentary    3
+
+Топ-5 тегов:
+tag
+Zooey               1
+Deschanel           1
+New                 1
+Mexico              1
+post-apocalyptic    1
+
+Примеры фильмов:
+                                       title    rating                 genres                   tag
+14646  Not Your Typical Bigfoot Movie (2008)  3.928571            Documentary                   NaN
+14647                  Good Life, The (2007)  3.538462           Comedy|Drama       Zooey Deschanel
+14648               Variety (Varieté) (1925)  3.666667    Crime|Drama|Romance                   NaN
+14649                  Out 1: Spectre (1974)  4.750000  Comedy|Drama|Thriller  Jacques Rivette long
+14650                           Moana (1926)  5.000000            Documentary                   NaN

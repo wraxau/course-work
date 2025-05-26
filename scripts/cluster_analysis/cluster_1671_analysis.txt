@@ -1,0 +1,23 @@
+Анализ кластера 1671
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Stanley      1
+Tong         1
+Disney       1
+Leslie       1
+Neilsen      1
+Based        1
+show         1
+animation    1
+remade       1
+live         1
+
+Примеры фильмов:
+                 title  genres                                                                         tag
+1671  Mr. Magoo (1997)  Comedy  Stanley Tong Disney Leslie Neilsen Based show animation remade live action

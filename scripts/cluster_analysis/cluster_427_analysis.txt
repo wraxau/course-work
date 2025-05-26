@@ -1,0 +1,24 @@
+Анализ кластера 427
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+crime         2
+Brian         2
+sad           1
+dvr           1
+21.03.06      1
+hysterical    1
+Nudity        1
+(Topless)     1
+Eric's        1
+Dvds          1
+
+Примеры фильмов:
+                    title       genres                                                                                                                                                                                                                                                                                                                                                         tag
+427  Carlito's Way (1993)  Crime|Drama  nudity (topless) Jinni Top Pick guns chase seen Pacino Bibliothek perrot library crime NO_FA_GANES Tumey's VHS Penelope Ann Miller Viggo Mortensen romance gangsters redemption Brian Palma sad dvr 21.03.06 hysterical Nudity (Topless) Eric's Dvds suspense cut mafia Sean Penn dialogue organized crime gangster btaege Brian DePalma trains bad ending

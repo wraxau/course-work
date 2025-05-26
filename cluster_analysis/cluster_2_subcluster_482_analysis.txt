@@ -1,0 +1,29 @@
+Анализ подкластера 482 в кластере 2
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.31
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama          16
+Comedy          9
+Documentary     4
+War             4
+Thriller        3
+
+Топ-5 тегов:
+tag
+Wolf         2
+12/11        2
+netflix      2
+Stanley      2
+sexuality    2
+
+Примеры фильмов:
+                                              title  rating          genres                                                                                                                                                                                              tag
+15779                        Blood into Wine (2010)    3.50     Documentary                                                                                                                                                                                              NaN
+15797  Children of Hiroshima (Gembaku no ko) (1952)    3.75       Drama|War                                                                                                                                                                                              NaN
+15813                         8th Wonderland (2008)    3.10  Drama|Thriller                                                                                                                                                                                              NaN
+15814                                GasLand (2010)    3.75     Documentary  road trip documentary energy industry travelogue energy mining business the antagonist 03/11 business natural gas arsenic poisoning geology petroleum fracking Marcellus Shale Josh Fox netflix
+15815                         Dark Wind, The (1991)    2.30  Action|Mystery                                                                                                                                                                                              NaN

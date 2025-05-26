@@ -1,0 +1,24 @@
+Анализ кластера 1542
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Amorality      1
+Engineering    1
+fÃ¦rdig        1
+set            1
+ikke           1
+predictable    1
+amorality      1
+LaBute         1
+Neil           1
+Social         1
+
+Примеры фильмов:
+                             title        genres                                                                                                                                                      tag
+1542  In the Company of Men (1997)  Comedy|Drama  Amorality social satire Aaron Eckhart psychological 90s cynicisim sexism Social Engineering Neil LaBute amorality predictable ikke set fÃ¦rdig misogyny

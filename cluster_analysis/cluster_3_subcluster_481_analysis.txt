@@ -1,0 +1,29 @@
+Анализ подкластера 481 в кластере 3
+Размер подкластера: 48 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.19
+
+Топ-5 жанров:
+genres
+Comedy       16
+Drama        16
+Children     15
+Adventure    14
+Horror        7
+
+Топ-5 тегов:
+tag
+fantasy    14
+(Best      12
+movie      11
+book       11
+based      11
+
+Примеры фильмов:
+                                                                           title    rating                    genres                                                                                                                                                                                                                                                                                     tag
+1811                                                Six Days Seven Nights (1998)  2.861206  Adventure|Comedy|Romance                                      island vbnbvn Anne Heche David Schwimmer bad the extreme boring romance Ivan Reitman stranded Adventure Comedy Odd pairing Anne Heche and Harrison Ford. Romance Harrison Ford adventure crap chick flick Chick flic mediocre leading man too old.
+1816                                                Passion in the Desert (1998)  2.964286           Adventure|Drama                                                                                                                                                                                                                                                                                artistic
+1832  Voyage to the Beginning of the World (Viagem ao Princípio do Mundo) (1997)  2.709302                     Drama                                                                                                                                                                                                                                           11/11 05/11 06/11 03/11 12/11 Manoel Oliveira
+1839                                                             Whatever (1998)  3.266949                     Drama                                                                                                                                                                                                                                                                                     NaN
+1841                                              Plan 9 from Outer Space (1959)  2.634123             Horror|Sci-Fi  horror zombies bad it's not good anymore it's realy bad Bela Lugosi Tumey's DVDs bad it's good cheesy aliens camp humor cult film who cares DVDs bad it's funny ironic worst movie ever cult classic after minutes it's unwatchable Edward Wood Jr. campy best worst movie Wood zombie

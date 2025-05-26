@@ -1,0 +1,14 @@
+Анализ кластера 1906
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                     title  genres  tag
+1906  Prom Night III: The Last Kiss (1989)  Horror  NaN

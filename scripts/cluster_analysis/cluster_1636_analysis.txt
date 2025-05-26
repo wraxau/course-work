@@ -1,0 +1,23 @@
+Анализ кластера 1636
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Duvall         2
+Drama          1
+superb         1
+hulu           1
+Pentecostal    1
+study          1
+character      1
+Religion       1
+story          1
+interesting    1
+
+Примеры фильмов:
+                    title genres                                                                                                                                                                                tag
+1636  Apostle, The (1997)  Drama  Drama Robert Duvall fugitive Boring jesus Christianity absolutely awsome! Great actor! Duvall superb religion interesting story Religion character study Pentecostal hulu revival

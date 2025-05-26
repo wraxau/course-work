@@ -1,0 +1,25 @@
+Анализ кластера 1448
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+its         1
+Irish       1
+Brad        1
+remember    1
+Can't       1
+own         1
+Gfei        1
+Pakula      1
+Alan        1
+story       1
+
+Примеры фильмов:
+                        title                 genres                                                                                                         tag
+1448  Devil's Own, The (1997)  Action|Drama|Thriller  its Irish one." Harrison Ford irish "It's not American story Alan Pakula Gfei own Can't remember Brad Pitt

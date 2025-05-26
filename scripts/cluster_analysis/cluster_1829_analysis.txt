@@ -1,0 +1,27 @@
+Анализ кластера 1829
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Crime       1
+Drama       1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+seen           3
+DVDs           2
+bank           2
+prison         2
+love           2
+Steven         1
+Nominee:       1
+Cheadle        1
+robbery        1
+unrealistic    1
+
+Примеры фильмов:
+                    title                               genres                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1829  Out of Sight (1998)  Comedy|Crime|Drama|Romance|Thriller  Steven Soderbergh erlend's DVDs seen the cinema George Clooney chemistry between actors love Bibliothek based book Jennifer Lopez seen more once reviewed FBI Tumey's DVDs kidnapping Edgar Award (Best Motion Picture) Don Cheadle bank robbery unrealistic prison escape seen 2012 music heist Oscar Nominee: Adapted Screenplay dysku police Elmore Leonard comedy romance prison bank robbers love first sight

@@ -1,0 +1,29 @@
+Анализ подкластера 30 в кластере 0
+Размер подкластера: 35 фильмов
+Средний рейтинг: 3.32
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama          19
+Comedy         10
+Documentary     7
+Crime           5
+Romance         5
+
+Топ-5 тегов:
+tag
+multiple    4
+library     3
+12/09       3
+care        3
+politics    3
+
+Примеры фильмов:
+                                                 title    rating                                genres                                                                                                                                                                                    tag
+11941                Night of the Generals, The (1967)  3.348101      Crime|Drama|Mystery|Thriller|War  01/11 04/11 06/11 12/09 06/10 09/09 See 11/10 thriller 11/11 war 12/10 Omar Sharif 08/10 05/10 09/10 10/10 10/11 Peter O'Toole 05/11 07/10 03/11 12/11 World War 02/11 Anatole Litvak
+11942  Comedy of Power (Ivresse du pouvoir, L') (2006)  2.866667                                 Drama                                                                                                                                                                                    NaN
+11943                             Gui Si (Silk) (2006)  3.235294  Drama|Horror|Mystery|Sci-Fi|Thriller                                                                                                                                                            overly dramatic predictable
+11944               Breaking News (Daai si gin) (2004)  3.183333                    Action|Crime|Drama                                                                                               media politics hostages long takes gunfight siege crime action criminals hostage Johnnie
+11945              In Search of a Midnight Kiss (2007)  3.707547                        Comedy|Romance      atmospheric Alex Holdridge unresolved great dialouge loneliness color version great dialogue prospect misanthrope best viewed black and white funny bittersweet realistic netflix

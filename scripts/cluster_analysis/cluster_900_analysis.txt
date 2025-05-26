@@ -1,0 +1,21 @@
+Анализ кластера 900
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Drama       1
+
+Топ-10 тегов:
+tag
+Walter     1
+Lang       1
+Shirley    1
+Temple     1
+Betamax    1
+based      1
+book       1
+
+Примеры фильмов:
+                           title          genres                                            tag
+900  Little Princess, The (1939)  Children|Drama  Walter Lang Shirley Temple Betamax based book

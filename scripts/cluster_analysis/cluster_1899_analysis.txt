@@ -1,0 +1,23 @@
+Анализ кластера 1899
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+DVDs                2
+killer              2
+Myers               2
+nudity              1
+suspenseful         1
+subgenre:slasher    1
+slasher             1
+Classic             1
+Horror              1
+Jamie               1
+
+Примеры фильмов:
+                 title  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+1899  Halloween (1978)  Horror  nudity (topless) erlend's DVDs serial killer horror don't want see National Film Registry Donald Pleasence remade silent killer Nancy Kyes AFI 100 (Thrills) Netflix Finland low budget Kyle Richards franchise John Carpenter Tumey's DVDs classic subgenre:slasher slasher Classic Horror Jamie Lee Curtis CAV teens character:Michael Myers murder suspenseful Nudity (Topless) halloween Michael Myers scary hell Charles Cyphers intense acting debut btaege seen Halloween

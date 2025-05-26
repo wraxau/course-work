@@ -1,0 +1,29 @@
+Анализ подкластера 680 в кластере 1
+Размер подкластера: 25 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.81
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy       5
+Thriller     5
+Romance      4
+Crime        4
+
+Топ-5 тегов:
+tag
+Criterion    4
+bad          3
+acting       2
+Satyajit     2
+Ray          2
+
+Примеры фильмов:
+                                title    rating                 genres                                                                                        tag
+23413         Ghost Adventures (2004)  2.166667            Documentary                                                                                        NaN
+23421          Vampire Academy (2014)  2.720721  Action|Comedy|Fantasy  young adult bad acting Zoey Deutch vampires bad script chick flick high school based book
+23424  Which Way to the Front? (1970)  1.500000             Comedy|War                                                                                        NaN
+23427           Brick Mansions (2014)  2.896552     Action|Crime|Drama                                        satellite undercover cop police bomb gentrification
+23430              Bright Road (1953)  3.000000                  Drama                                                                                        NaN

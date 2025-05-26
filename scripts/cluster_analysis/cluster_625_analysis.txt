@@ -1,0 +1,24 @@
+Анализ кластера 625
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+Spanish      1
+Civil        1
+War          1
+socialism    1
+Ken          1
+Loach        1
+war          1
+movie        1
+George       1
+Orwell       1
+
+Примеры фильмов:
+                                           title     genres                                                            tag
+625  Land and Freedom (Tierra y libertad) (1995)  Drama|War  Spanish Civil War socialism Ken Loach war movie George Orwell

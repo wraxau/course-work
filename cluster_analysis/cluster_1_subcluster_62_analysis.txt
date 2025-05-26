@@ -1,0 +1,29 @@
+Анализ подкластера 62 в кластере 1
+Размер подкластера: 70 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.47
+
+Топ-5 жанров:
+genres
+Drama        26
+Comedy       20
+Action       13
+Thriller     11
+Adventure    10
+
+Топ-5 тегов:
+tag
+comedy       4
+the          4
+fun          4
+reviewed     3
+adventure    3
+
+Примеры фильмов:
+                                                        title    rating       genres                                                                                tag
+23507                                   Into the Storm (2009)  3.583333    Drama|War  history politics reviewed World War Churchill Brendan Gleeson Thaddeus O'Sullivan
+23512                                            Viola (2012)  4.000000        Drama                                                                     Matías Piñeiro
+23514             Gods of the Plague (Götter der Pest) (1970)  3.000000  Crime|Drama                                                 Rainer Werner Fassbinder Criterion
+23516             Redes (Fishermen's Nets) (Wave, The) (1936)  3.500000        Drama                                       Emilio Gómez Muriel Criterion Fred Zinnemann
+23523  Walter Defends Sarajevo (Valter brani Sarajevo) (1972)  3.500000          War                                                                   Hajrudin Krvavac

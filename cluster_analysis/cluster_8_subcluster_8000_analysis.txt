@@ -1,0 +1,29 @@
+Анализ подкластера 8000 в кластере 8
+Размер подкластера: 529 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.05
+Дисперсия рейтинга: 0.82
+
+Топ-5 жанров:
+genres
+Drama                 160
+Comedy                119
+(no genres listed)     86
+Thriller               69
+Action                 60
+
+Топ-5 тегов:
+tag
+comedy      10
+reviewed     8
+time         8
+movie        7
+acting       7
+
+Примеры фильмов:
+                                       title    rating         genres              tag
+26196  Maniac Cop 3: Badge of Silence (1993)  2.500000  Action|Horror              NaN
+26223               Jungle Man-Eaters (1954)       NaN      Adventure       Lee Sholem
+26227          Valley of Head Hunters (1953)       NaN      Adventure    William Berke
+26255    Tell Them Willie Boy is Here (1969)  2.500000  Drama|Western              NaN
+26259     Kevin Hart: Seriously Funny (2010)  3.666667         Comedy  Shannon Hartman

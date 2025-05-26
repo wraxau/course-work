@@ -1,0 +1,29 @@
+Анализ подкластера 127 в кластере 3
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.10
+
+Топ-5 жанров:
+genres
+Drama          5
+Horror         2
+Documentary    2
+Romance        1
+Thriller       1
+
+Топ-5 тегов:
+tag
+game      2
+video     2
+queer     2
+gay       2
+cancer    1
+
+Примеры фильмов:
+                                                               title    rating                 genres                                                                                                           tag
+20544                                             Now Is Good (2012)  3.574627          Drama|Romance                                                                           cancer Dakota Fanning Jeremy Irvine
+20545       Haunting in Connecticut 2: Ghosts of Georgia, The (2013)  2.695122  Drama|Horror|Thriller                                                                                                        btaege
+20546                                      Adonis Factor, The (2010)  2.875000            Documentary                                                                                                     queer gay
+20547  Resident Evil: Degeneration (Baiohazâdo: Dijenerêshon) (2008)  3.087719       Animation|Horror                              resident evil animation franchise based video game video game adaptation zombies
+20548                                           Call Me Kuchu (2012)  3.312500            Documentary  documentary politics Malika Zouhali-Worrall uganda Katherine Fairfax Wright activist queer Uganda Africa gay

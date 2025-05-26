@@ -1,0 +1,29 @@
+Анализ подкластера 10 в кластере 3
+Размер подкластера: 60 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama        24
+Comedy       21
+Thriller     13
+Action       12
+Adventure    10
+
+Топ-5 тегов:
+tag
+the           13
+movie         12
+ending        11
+soundtrack    10
+book          10
+
+Примеры фильмов:
+                                        title    rating                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+4477  Bill & Ted's Excellent Adventure (1989)  3.358199   Adventure|Comedy|Sci-Fi  comedy history History soundtrack short Keanu Reeves Bechdel Test:Fail Excrutiating teenager buddy movie teen rock and roll dumb fun dumb but funny dude comedy satirical Stephen Herek Everything Leong Bad Music dumb movie see sci-fi Awful hair/outfits circle excellent! time travel might like future fun history George Carlin great soundtrack adventure btaege Alex Winter Time Travel phone booth high school well-done time travel
+4491                   Dream Team, The (1989)  3.226695                    Comedy                                                                                                                                                                                                                                                                                                                                               Peter Boyle Howard Zieff doctors Michael Keaton Mental Patients Can't remember Christopher Lloyd
+4497                   Erik the Viking (1989)  3.277482  Adventure|Comedy|Fantasy                                                                                                                                                                                                                                                                                                                              vikings Dungeons Dragons Monty Python has Eartha Kitt that cancels any cheesiness rate down Satire Can't remember
+4498                      Experts, The (1989)  2.225352                    Comedy                                                                                                                                                                                                                                                                                                                                                                                                                    John Travolta Kelly Preston
+4500              Farewell to the King (1989)  2.871212                Action|War                                                                                                                                                                                                                                                                                                                                                                                                                                      World War

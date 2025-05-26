@@ -1,0 +1,29 @@
+Анализ подкластера 40 в кластере 1
+Размер подкластера: 104 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.61
+
+Топ-5 жанров:
+genres
+Drama       45
+Comedy      34
+Action      18
+Thriller    17
+Crime       14
+
+Топ-5 тегов:
+tag
+French       6
+comedy       4
+science      4
+Film         3
+animation    3
+
+Примеры фильмов:
+                                                           title    rating                         genres                                                                                                                        tag
+23045                                    Amish Murder, An (2013)  2.964286             Action|Crime|Drama  strong female lead soundtrack amish The flow artistry female heroine plot twist Neve Campbell depth character originality
+23087                                        Bitter Feast (2010)  3.000000         Comedy|Horror|Thriller                                                                                                                        NaN
+23094                            The Pursuit of Happiness (1971)  3.875000                          Drama                                                                                                                        NaN
+23098  Inspector Palmu's Error (Komisario Palmun erehdys) (1960)  3.350000  Comedy|Crime|Mystery|Thriller                                                                                                              Matti Kassila
+23108                                         Dorian Gray (1970)  3.000000                   Drama|Horror                                                                Oscar Wilde adapted from:book based book author:Oscar Wilde

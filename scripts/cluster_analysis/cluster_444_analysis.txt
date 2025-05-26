@@ -1,0 +1,23 @@
+Анализ кластера 444
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+crash         2
+death         2
+Weir          1
+slow          1
+Bridges       1
+Jeff          1
+car           1
+psychology    1
+cheating      1
+Top           1
+
+Примеры фильмов:
+               title genres                                                                                                                                                                                                                       tag
+444  Fearless (1993)  Drama  Peter Weir might like accident easily confused with other movie(s) (title) Isabella Rossellini airplane crash boring Death Nostalgia Critic's Top death cheating death psychology car crash Jeff Bridges slow depression

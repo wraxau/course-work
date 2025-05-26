@@ -1,0 +1,26 @@
+Анализ кластера 1657
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Horror      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+horror        2
+crap          2
+movie         2
+serial        1
+lousy         1
+Comedy        1
+parody        1
+BD-Video      1
+unoriginal    1
+horrible      1
+
+Примеры фильмов:
+                title                          genres                                                                                                                                                                                                                                                                  tag
+1657  Scream 2 (1997)  Comedy|Horror|Mystery|Thriller  serial killer horror seen the cinema crap horror Rubbish ewww scream bullshit Teen movie unknown calls Wes Craven spoof school Bad Movies slasher Comedy parody BD-Video unoriginal horrible lousy story sequel bad Great movie crap ending kinda ruined self-aware

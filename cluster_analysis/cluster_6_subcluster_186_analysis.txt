@@ -1,0 +1,29 @@
+Анализ подкластера 186 в кластере 6
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.09
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Drama          5
+Crime          2
+Comedy         2
+Thriller       1
+Documentary    1
+
+Топ-5 тегов:
+tag
+Kôji           1
+Wakamatsu      1
+video          1
+games          1
+competition    1
+
+Примеры фильмов:
+                                                  title    rating                genres                      tag
+23284                                    Moebius (2013)  2.916667                 Drama                      NaN
+23286  Pool Without Water, A (Mizu no nai puuru) (1982)  2.500000           Crime|Drama           Kôji Wakamatsu
+23287                                 Blood Ties (2013)  3.500000  Crime|Drama|Thriller                      NaN
+23288                   Wetlands (Feuchtgebiete) (2013)  3.177419          Comedy|Drama                      NaN
+23289                               Free to Play (2014)  3.416667           Documentary  video games competition

@@ -1,0 +1,29 @@
+Анализ подкластера 185 в кластере 8
+Размер подкластера: 36 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.24
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama      23
+Comedy     11
+Romance     9
+Musical     6
+Crime       4
+
+Топ-5 тегов:
+tag
+gay          3
+drug         2
+action       2
+Gay          2
+Character    2
+
+Примеры фильмов:
+                             title    rating                  genres                   tag
+18262  Moonlight and Cactus (1944)  3.000000  Comedy|Musical|Western                   NaN
+18264  Easier with Practice (2009)  3.500000           Drama|Romance  Kyle Patrick Alvarez
+18265  I Was an Adventuress (1940)  3.000000            Comedy|Crime                   NaN
+18266          Safe in Hell (1931)  2.333333                   Drama       William Wellman
+18267             Millhaven (2010)  3.500000               Animation                   NaN

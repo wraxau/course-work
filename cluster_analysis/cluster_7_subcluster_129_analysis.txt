@@ -1,0 +1,24 @@
+Анализ подкластера 129 в кластере 7
+Размер подкластера: 7 фильмов
+Средний рейтинг: 2.59
+Медиана рейтинга: 2.64
+Дисперсия рейтинга: 1.24
+
+Топ-5 жанров:
+genres
+Drama       3
+Action      2
+Comedy      1
+Romance     1
+Children    1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                                                          title    rating                 genres  tag
+32565                                           SuperBob (2015)  2.642857  Action|Comedy|Romance  NaN
+32566                                              David (1997)  1.500000               Children  NaN
+32567                                      Word of Honor (2003)  2.500000         Drama|Thriller  NaN
+32568                                               Howl (2015)  2.750000                 Horror  NaN
+32569  Barbie & Her Sisters in the Great Puppy Adventure (2015)  0.965517              Animation  NaN

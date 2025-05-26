@@ -1,0 +1,23 @@
+Анализ кластера 1879
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Oscar         3
+(Best         2
+age           1
+theme         1
+social        1
+commentary    1
+Bruce         1
+Beresford     1
+slow          1
+plot          1
+
+Примеры фильмов:
+                          title genres                                                                                                                                                                                                                                                                                                                                     tag
+1879  Driving Miss Daisy (1989)  Drama  USA product placement 1950s Dan Aykroyd rasicm action boring brillant artists Oscar poverty Morgan Freeman unlikely friendships based play Jessica Tandy old age Southern theme social commentary Bruce Beresford slow plot segregation Oscar (Best Picture) Drama friendship racism stage Oscar (Best Actress) AFI 100 (Cheers) aging

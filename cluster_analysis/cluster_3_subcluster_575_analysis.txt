@@ -1,0 +1,29 @@
+Анализ подкластера 575 в кластере 3
+Размер подкластера: 58 фильмов
+Средний рейтинг: 3.00
+Медиана рейтинга: 3.11
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama        26
+Comedy       15
+Adventure    10
+Horror       10
+Sci-Fi        8
+
+Топ-5 тегов:
+tag
+the        13
+DVDs        8
+and         7
+Betamax     7
+(Best       6
+
+Примеры фильмов:
+                                               title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+5355                                  Pumpkin (2002)  3.065306   Comedy|Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    biting mental illness Amy Adams irreverent deadpan quirky vday indecisive bizarre disability hulu satirical
+5366  Crocodile Hunter: Collision Course, The (2002)  2.352469       Adventure|Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Sequel fever environmental dialogue entertaining acting stopped watching script Steve Irwin espionage action
+5368                        Road to Perdition (2002)  3.681386            Crime|Drama  Coming Age Hollywood Sam Mendes getdvd child actor father-son relationship revenge memasa's movies DVD Netflix Finland honor boring violent Saturn Award (Best Performance Younger Actor) Tumey's DVDs assassin This bloody movie. Yet would call family movie. Tom Hanks cars based comic Favorites 1930s Revenge Own Oscar bait gangsters holes00s Can't remember father and son children cinematography Daniel Craig movies language Tyler Hoechlin Paul Newman Eric's Dvds Jude Law mafia R-rated See: The Limey comic book father son relationship family organized crime gangster bad ending Oscar (Best Cinematography) gangs violence
+5395                   Eddy Duchin Story, The (1956)  3.358974  Drama|Musical|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  George Sidney
+5402                      Red Beard (Akahige) (1965)  4.034139                  Drama                                                                                                                                                                                                                                                                                                                                                                                             poignant inner growth altruism long medicine Akira Kurosawa Toshirô Mifune poverty shopping list meaning life selflessness Japan Toshiro Mifune intimate sad ToshirÃ´ Mifune black and white Takashi Shimura Criterion compassionate Netflix queue

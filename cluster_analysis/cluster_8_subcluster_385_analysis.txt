@@ -1,0 +1,29 @@
+Анализ подкластера 385 в кластере 8
+Размер подкластера: 33 фильмов
+Средний рейтинг: 3.16
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.24
+
+Топ-5 жанров:
+genres
+Drama       26
+Thriller     9
+Comedy       8
+Romance      4
+Action       4
+
+Топ-5 тегов:
+tag
+Nudity    6
+movie     5
+see       5
+based     5
+book      4
+
+Примеры фильмов:
+                                                      title    rating                                   genres                                                                                                                                                                           tag
+11483                             Facts of Life, The (1960)  3.125000                     Comedy|Drama|Romance                                                                                                                                                                           NaN
+11516                                   Lost Horizon (1973)  2.500000  Adventure|Drama|Fantasy|Musical|Romance                                                                                                                                                                           NaN
+11528                 Decameron, The (Decameron, Il) (1971)  3.325000                             Comedy|Drama                                                                                                             Pier Paolo Pasolini BD-Video Criterion painter jus+san based book
+11530  When the Levees Broke: A Requiem in Four Acts (2006)  3.821101                              Documentary  toplist06 documentary history 12/09 06/10 11/10 long 03/10 spike lee 08/10 01/10 natural disaster 05/10 09/10 10/10 Bush bashing Spike Lee 07/10 hurricane 02/10 New Orleans
+11531                       Intruder, The (L'intrus) (2004)  3.033333                                    Drama                                                                                                                                                                    non-linear

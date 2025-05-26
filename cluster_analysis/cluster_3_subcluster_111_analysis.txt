@@ -1,0 +1,29 @@
+Анализ подкластера 111 в кластере 3
+Размер подкластера: 24 фильмов
+Средний рейтинг: 3.40
+Медиана рейтинга: 3.58
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama        16
+Romance       9
+Thriller      7
+Adventure     4
+Comedy        4
+
+Топ-5 тегов:
+tag
+DVDs      12
+the        9
+good       9
+comedy     7
+Nudity     7
+
+Примеры фильмов:
+                                         title    rating                           genres                                                                                                                                                                                                                                                                                                                                        tag
+2842                    Brief Encounter (1946)  3.969689                    Drama|Romance                                                                                erlend's DVDs adultery poignant FilmAffinity top pick holes40s Noel Coward understated Tumey's DVDs Celia Johnson based play BRIEF ENCOUNTERS David Lean Golden Palm intimate affectionate Trevor Howard imdb top 250 Criterion seen 2011 bittersweet Janus
+2847                     Days of Heaven (1978)  3.952811                            Drama  overrated erlend's DVDs atmospheric photography Sam Shepard National Film Registry Betamax Ennio Morricone slow boring understated austere somber 70mm meditative Terrence Malick cinematography Richard Gere lyrical library Sven's see list Spherical Blow-Up Criterion facebook rec period piece dreamlike Oscar (Best Cinematography)
+2848  Fire Within, The (Feu follet, Le) (1963)  3.612319                            Drama                                                                                                                                                                                                                                                                       Louis Malle boring ambient Criterion melancholic Paris about nothing
+2851                 Sullivan's Travels (1941)  4.054181         Adventure|Comedy|Romance                                                                                                                               comedy holes40s satire afi reviewed class issues movies about movies National Film Registry Tumey's DVDs Criterion poverty social commentary Preston Sturges AFI 100 (Laughs) Veronica Lake AFI 100 (Cheers)
+2855                              Gilda (1946)  3.908246  Drama|Film-Noir|Mystery|Romance                                                               erlend's DVDs Charles Vidor adultery burlesque love/hate nightclub Bechdel Test:Fail setting:Argentina sexuality vday noir setting:nightclub/casino intrigue Glenn Ford Related:Notorious (1946) murder femme fatale Rita Hayworth sexual tension film noir Criterion casino

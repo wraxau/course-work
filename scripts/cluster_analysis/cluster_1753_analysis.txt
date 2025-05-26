@@ -1,0 +1,26 @@
+Анализ кластера 1753
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+plot       3
+cliched    2
+con        2
+acting     2
+the        2
+CONS       1
+David      1
+Mamet      1
+idiot      1
+hero       1
+
+Примеры фильмов:
+                             title                        genres                                                                                                                                                                                                                                                                                                                                                   tag
+1753  Spanish Prisoner, The (1997)  Crime|Drama|Mystery|Thriller  unbelievable trust one slow con men twist ending netflix mystery Nueve Reinas NO_FA_GANES the plot Steve Martin ridiculous plot terrible acting Rebecca Pidgeon preposterous premise cliched plot David Mamet cliched idiot hero the acting Predictable implausible CONS AND SCAMS library vhs Netflix queue contrived Hitchcock wannabe con artists

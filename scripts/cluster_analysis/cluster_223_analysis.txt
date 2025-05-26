@@ -1,0 +1,14 @@
+Анализ кластера 223
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Thriller    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                title    genres  tag
+223  Dream Man (1995)  Thriller  NaN

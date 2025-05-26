@@ -1,0 +1,29 @@
+Анализ подкластера 147 в кластере 8
+Размер подкластера: 24 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.46
+
+Топ-5 жанров:
+genres
+Drama          14
+Documentary     6
+Crime           4
+Action          4
+Thriller        3
+
+Топ-5 тегов:
+tag
+movie       4
+3-D         3
+Scorsese    3
+Moretz      3
+Grace       3
+
+Примеры фильмов:
+                                                                     title    rating         genres                                                                       tag
+18186  Lavatory Lovestory (Ubornaya istoriya - lyubovnaya istoriya) (2007)  3.222222      Animation                                                                       NaN
+18187           Fall of the House of Usher, The (Zánik domu Usheru) (1982)  3.437500      Animation                                                            Jan Svankmajer
+18188                                                Woman Obsessed (1959)  1.500000  Drama|Romance                                                                       NaN
+18189                                      Heirloom, The (Zhai Ban) (2005)  2.833333   Drama|Horror                                                                       NaN
+18190                 George Harrison: Living in the Material World (2011)  3.747423    Documentary  reviewed rock and roll Martin Scorsese musicians Beatles George Harrison

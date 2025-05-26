@@ -1,0 +1,24 @@
+Анализ кластера 73
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+girlie         1
+movie          1
+Mary           1
+Stuart         1
+Masterson      1
+predictable    1
+chick          1
+flick          1
+bit            1
+too            1
+
+Примеры фильмов:
+                  title         genres                                                                               tag
+73  Bed of Roses (1996)  Drama|Romance  girlie movie Mary Stuart Masterson predictable chick flick bit too sweet Romance

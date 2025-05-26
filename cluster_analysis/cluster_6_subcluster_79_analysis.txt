@@ -1,0 +1,29 @@
+Анализ подкластера 79 в кластере 6
+Размер подкластера: 29 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama          11
+Documentary    11
+Comedy          8
+Thriller        4
+Horror          3
+
+Топ-5 тегов:
+tag
+soundtrack     2
+advertising    2
+police         2
+action         2
+Charlie        1
+
+Примеры фильмов:
+                             title    rating                genres                                                                                                           tag
+24159       One I Love, The (2014)  3.678899  Comedy|Drama|Romance  Charlie McDowell relationships reviewed alternate reality marriage GANES magical realism etaege Mark Duplass
+24160        Passenger Side (2009)  3.250000          Comedy|Drama                                                             unconventional ending indie music siblings unique
+24161        Piripäiväkirja (2014)  3.000000           Documentary                                                                                                           NaN
+24162  Among Us (Onder Ons) (2011)  2.000000                 Drama                                                                                                           NaN
+24163  See You Next Tuesday (2013)  1.666667          Comedy|Drama                                                                                                           NaN

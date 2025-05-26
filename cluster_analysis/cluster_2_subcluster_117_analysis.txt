@@ -1,0 +1,29 @@
+Анализ подкластера 117 в кластере 2
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.87
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 1.57
+
+Топ-5 жанров:
+genres
+Comedy      4
+Drama       3
+Thriller    2
+Mystery     1
+Crime       1
+
+Топ-5 тегов:
+tag
+Africa       2
+coming       1
+john         1
+screwball    1
+mystery      1
+
+Примеры фильмов:
+                                                                      title    rating                   genres                                                                                           tag
+18997                                                           Spud (2010)  3.909091                   Comedy  coming age boarding school South Africa heartfelt growing innocence funny Africa john cleese
+18998                                        Black Sun (Kuroi taiyô) (1964)  3.250000           Drama|Thriller                                                                  Criterion Koreyoshi Kurahara
+18999  Murderer Lives at Number 21, The (L'assassin habite... au 21) (1942)  3.366667  Comedy|Mystery|Thriller                                                            murder mystery screwball detective
+19000                                             Judgment in Berlin (1988)  3.666667              Crime|Drama                                                                                           NaN
+19002                                     Marc Pease Experience, The (2009)  2.500000     Comedy|Drama|Musical                                                                                           NaN

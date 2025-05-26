@@ -1,0 +1,25 @@
+Анализ кластера 51
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+erlend's    1
+seen        1
+Woody       1
+adoption    1
+1995        1
+watched     1
+cinema      1
+the         1
+Actress)    1
+DVDs        1
+
+Примеры фильмов:
+                      title                genres                                                                                                                        tag
+51  Mighty Aphrodite (1995)  Comedy|Drama|Romance  erlend's DVDs Mira Sorvino prostitution Oscar (Best Supporting Actress) seen the cinema watched 1995 adoption Woody Allen

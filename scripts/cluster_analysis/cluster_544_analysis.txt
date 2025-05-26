@@ -1,0 +1,19 @@
+Анализ кластера 544
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Can't       1
+remember    1
+Charlie     1
+Sheen       1
+
+Примеры фильмов:
+                        title                   genres                           tag
+544  Terminal Velocity (1994)  Action|Mystery|Thriller  Can't remember Charlie Sheen

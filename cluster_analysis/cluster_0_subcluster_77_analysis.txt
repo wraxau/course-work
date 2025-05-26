@@ -1,0 +1,29 @@
+Анализ подкластера 77 в кластере 0
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.39
+Медиана рейтинга: 3.45
+Дисперсия рейтинга: 0.10
+
+Топ-5 жанров:
+genres
+Comedy      8
+Fantasy     3
+Drama       2
+Romance     2
+Children    1
+
+Топ-5 тегов:
+tag
+Laurel       4
+Oliver       4
+Stan         4
+Hardy        4
+Criterion    3
+
+Примеры фильмов:
+                                            title    rating                        genres                                                                                                                tag
+11270                            Ritz, The (1976)  3.214286                        Comedy                                                                                                     Richard Lester
+11271                            My Geisha (1962)  2.666667                        Comedy                                                                                                         Technirama
+11272                        Blithe Spirit (1945)  3.535714  Comedy|Drama|Fantasy|Romance                     David Lean Noel Coward ghosts/afterlife ghosts Criterion not available from Netflix based play
+11273                       Music Box, The (1932)  3.533333                        Comedy                                                    short James Parrott delivery Stan Laurel slapstick Oliver Hardy
+11274  Red Balloon, The (Ballon rouge, Le) (1956)  3.886010              Children|Fantasy  lighthearted Albert Lamorisse Betamax Criterion childhood movies every kid should see--Entertainment Weekly Paris

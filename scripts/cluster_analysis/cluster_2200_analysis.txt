@@ -1,0 +1,23 @@
+Анализ кластера 2200
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+racism     1
+class      1
+issues     1
+strong     1
+woman      1
+sad        1
+poverty    1
+Shekhar    1
+Kapur      1
+foreign    1
+
+Примеры фильмов:
+                    title genres                                                                 tag
+2200  Bandit Queen (1994)  Drama  racism class issues strong woman sad poverty Shekhar Kapur foreign

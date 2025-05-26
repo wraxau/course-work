@@ -1,0 +1,25 @@
+Анализ кластера 657
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+War       1
+
+Топ-10 тегов:
+tag
+Kusturica     2
+cynical       1
+World         1
+ganes         1
+great         1
+music         1
+Goran         1
+Bregović      1
+library       1
+irreverent    1
+
+Примеры фильмов:
+                  title            genres                                                                                                                                                                                                                                                                                              tag
+657  Underground (1995)  Comedy|Drama|War  cynical biting harsh sweeping Lazar Ristovski Kusturica too long surreal madcap history epic unorthodox drama cerebral Golden Palm 1990s Yugoslavia surrealism crazy ganes great music Goran Bregović library irreverent World War goran bregovic Miki Manojlovic Emir Kusturica emir kusturica

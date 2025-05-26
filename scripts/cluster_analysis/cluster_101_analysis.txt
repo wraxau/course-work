@@ -1,0 +1,16 @@
+Анализ кластера 101
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Mystery     1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Forgettable    1
+
+Примеры фильмов:
+                    title                   genres          tag
+101  Unforgettable (1996)  Mystery|Sci-Fi|Thriller  Forgettable

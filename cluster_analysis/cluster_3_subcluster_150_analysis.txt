@@ -1,0 +1,29 @@
+Анализ подкластера 150 в кластере 3
+Размер подкластера: 13 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.07
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama      7
+Horror     3
+Romance    3
+Comedy     3
+Action     2
+
+Топ-5 тегов:
+tag
+James       2
+reviewed    2
+Finland     2
+Netflix     2
+nudity      1
+
+Примеры фильмов:
+                                                    title    rating                           genres                                                                          tag
+19923                               28 Hotel Rooms (2012)  2.833333                            Drama                                       nudity (topless) infidelity small cast
+19924                                      Citadel (2012)  3.025000            Drama|Horror|Thriller                                                                          NaN
+19925                           Dangerous Liaisons (2012)  3.071429            Drama|Mystery|Romance                                     communism etaegeshelf chinese womanizing
+19926                                    Bloodtide (1982)  2.166667                           Horror  nuns James Earl Jones virgin sacrifice scuba diving Greek mythology Othello
+19927  Scorpion King 3: Battle for Redemption, The (2012)  2.875000  Action|Adventure|Comedy|Fantasy                                 Billy Zane overacting Ron Perlman funny kung

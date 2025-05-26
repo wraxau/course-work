@@ -1,0 +1,29 @@
+Анализ подкластера 126 в кластере 5
+Размер подкластера: 6 фильмов
+Средний рейтинг: 2.95
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Comedy      2
+Action      2
+Crime       2
+Drama       2
+Thriller    2
+
+Топ-5 тегов:
+tag
+comedy        5
+corruption    3
+social        2
+Zach          2
+police        2
+
+Примеры фильмов:
+                             title    rating                genres                                                                                                                                                                                                                                             tag
+13993            Visioneers (2008)  3.122727                Comedy  corporate America off-beat comedy Zach Galifinakis Zach Galifianakis epidemic Jared Drake Jeffers Morning quirky directorial debut depressing satire social commentary dull workplace despair dystopia black comedy social control dark comedy
+13994  Vault of Horror, The (1973)  3.625000        Horror|Mystery                                                                                                                                                              serial killer amicus anthology justice vampires painter slow paced revenge classic
+13995    Dark Backward, The (1991)  3.083333                Comedy                                                                                                                                                                                                         dark humor black comedy stand-up comedy
+13996             Blue City (1986)  2.500000    Action|Crime|Drama                                                                                                                                                                                      corruption small town Brat Pack Betamax Florida based book
+13997            Judas Kiss (1998)  3.071429  Crime|Drama|Thriller                                                                                                                                                                                                                           nudity (full frontal)

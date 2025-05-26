@@ -1,0 +1,24 @@
+Анализ подкластера 168 в кластере 1
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.00
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Comedy      4
+Romance     3
+Thriller    2
+Drama       2
+Horror      1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                                                title  rating                  genres  tag
+26945                     Un Piede in paradiso (1991)     3.0                  Comedy  NaN
+26946                                 Mandrake (2010)     3.0  Horror|Sci-Fi|Thriller  NaN
+26947                   Greetings to the Devil (2011)     3.0                Thriller  NaN
+26948  In the Line of Duty: The F.B.I. Murders (1988)     3.0      Action|Crime|Drama  NaN
+26949                             It's My Turn (1980)     2.0          Comedy|Romance  NaN

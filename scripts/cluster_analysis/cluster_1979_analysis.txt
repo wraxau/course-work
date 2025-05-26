@@ -1,0 +1,15 @@
+Анализ кластера 1979
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                      title         genres  tag
+1979  Governess, The (1998)  Drama|Romance  NaN

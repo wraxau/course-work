@@ -1,0 +1,29 @@
+Анализ подкластера 64 в кластере 5
+Размер подкластера: 26 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama       16
+Comedy       7
+Romance      5
+Thriller     3
+Crime        3
+
+Топ-5 тегов:
+tag
+not          13
+Netflix       8
+from          7
+available     7
+DVD           3
+
+Примеры фильмов:
+                                      title    rating             genres                                                                                                       tag
+13966           Open Water 2: Adrift (2006)  2.434783     Drama|Thriller                                                                                                     ocean
+13967                      Possessed (2000)  2.437500       Drama|Horror                                    Jonathan Malen Christianity Catholicism religion Steven Souza exorcism
+13968                     Group, The (1966)  3.218750              Drama                                                                        not DVD not available from Netflix
+13969                          Senso (1954)  3.710526  Drama|Romance|War  Farley Granger melodrama bitter ending Criterion Luchino Visconti not available from Netflix Alida Valli
+13970  Slap Shot 2: Breaking the Ice (2002)  2.057692             Comedy                                                                     hockey sequel sports sport:ice hockey

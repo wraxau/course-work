@@ -1,0 +1,26 @@
+Анализ кластера 1175
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Horror       1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+Award        7
+(Best        7
+Saturn       6
+space        5
+better       4
+sequel       3
+the          3
+Sigourney    2
+Weaver       2
+not          2
+
+Примеры фильмов:
+              title                          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+1175  Aliens (1986)  Action|Adventure|Horror|Sci-Fi  Want ROBOTS AND ANDROIDS special edition Bechdel Test:Pass EVIL ALIENS visceral Watched space Futuristmovies.com franchise realistic tough female Bill Paxton science fiction tense acting aliens Sigourney Weaver not good the first disobeying orders CAV space craft story dvd Eric's Dvds This the archetypal 'good Sci-Fi action' movie. simply doesn't get better this. Michael Biehn dialogue terror spaceflight rescue sci alien queen overrated erlend's DVDs horror egg better original script long Saturn Award (Best Science Fiction Film) violent Paul Reiser TIME SLEEPERS scifi newt Saturn Award (Best Supporting Actor) ensemble cast sci-fi action-packed The Nucleus imdb top 250 greedy executive theme forceful warfare intense Spherical Blow-Up female hero Hugo Award atmospheric Best Rotten Tomatoes: All Time androids Alien Colonial marines better the first characters action alins menacing sassy alien SPACE TRAVEL Tumey's DVDs Alien Quadrilogy game over Frightening Katso Sanna! Oscar (Best Effects Visual Effects) Lance Henriksen gruesome monster scary Saturn Award (Best Writing) torrential downpour crappy sequel special effects computer Quotable foul language James Cameron design space station memasa's movies Highly Quotable HEROIC MISSION PAL VHS Saturn Award (Best Performance Younger Actor) want sequel better original suspense classic 70mm strong femal lead Saturn Award (Best Supporting Actress) girl mkv DVD Collection space horror Did not leave much impression Saturn Award (Best Special Effects) Best Performance: Sigourney Weaver Ellen Ripley mother-daughter themes nudity sequel space colony queen military planet

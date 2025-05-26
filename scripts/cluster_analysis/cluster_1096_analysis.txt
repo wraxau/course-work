@@ -1,0 +1,23 @@
+Анализ кластера 1096
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nudity        1
+(topless)     1
+sobriety      1
+addiction     1
+recovery      1
+alcoholism    1
+based         1
+play          1
+chemical      1
+dependency    1
+
+Примеры фильмов:
+              title genres                                                                                     tag
+1096  Drunks (1995)  Drama  nudity (topless) sobriety addiction recovery alcoholism based play chemical dependency

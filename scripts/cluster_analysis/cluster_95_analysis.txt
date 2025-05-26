@@ -1,0 +1,24 @@
+Анализ кластера 95
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+Drama    1
+
+Топ-10 тегов:
+tag
+still              2
+French             2
+DVDs               2
+class              1
+racism             1
+disturbing         1
+mathieu            1
+kassovitz          1
+paris              1
+confrontational    1
+
+Примеры фильмов:
+                      title       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       tag
+95  Hate (Haine, La) (1995)  Crime|Drama  erlend's DVDs cynical Vincent Cassel biting French 3.5 memasa's movies Amazing! missing gun 90s gritty MOLT_AVORRIDA Tumey's DVDs verlan ominous realistic Cannes: Best Director bleak classic Mathieu Kassovitz co-production social commentary vincent cassel disturbing mathieu kassovitz paris confrontational classique angry riot black and white racism French Film still relevant still current Criterion ghetto COM DOCUMENTAL BLANC NEGRE drugs french class conflict violence

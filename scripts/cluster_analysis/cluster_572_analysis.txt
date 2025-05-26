@@ -1,0 +1,18 @@
+Анализ кластера 572
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Drama        1
+
+Топ-10 тегов:
+tag
+George    1
+Miller    1
+seal      1
+
+Примеры фильмов:
+            title                    genres                 tag
+572  Andre (1994)  Adventure|Children|Drama  George Miller seal

@@ -1,0 +1,15 @@
+Анализ кластера 1816
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+
+Топ-10 тегов:
+tag
+artistic    1
+
+Примеры фильмов:
+                             title           genres       tag
+1816  Passion in the Desert (1998)  Adventure|Drama  artistic

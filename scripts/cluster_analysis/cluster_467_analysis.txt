@@ -1,0 +1,23 @@
+Анализ кластера 467
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+business      2
+the           2
+antagonist    2
+coen          2
+THE           2
+comedy        1
+Comedy        1
+Robbins       1
+Tim           1
+Business      1
+
+Примеры фильмов:
+                           title  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+467  Hudsucker Proxy, The (1994)  Comedy  comedy corruption business the antagonist 1950s hula hoop idea See netflixq fish out water Capra-esque RAGS RICHES SUCCESS THE BEST REVENGE quirky rags riches madcap Fantasy Tumey's DVDs coen brothers NO_FA_GANES funny cheesy whimsical satirical UNDERDOGS New Year's Eve witty Didn't finish Comedy snow business Business the antagonist Tim Robbins coen bros BOARDROOM JUNGLE Romance Drama VHS FIGHTING THE SYSTEM urbane btaege Coen Brothers easygoing stupid Underrated

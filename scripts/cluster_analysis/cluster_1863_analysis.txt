@@ -1,0 +1,24 @@
+Анализ кластера 1863
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Oscar       3
+(Best       3
+black       1
+Ernest      1
+Mann        1
+Delbert     1
+bachelor    1
+maid        1
+old         1
+Betamax     1
+
+Примеры фильмов:
+             title         genres                                                                                                                                                                                        tag
+1863  Marty (1955)  Drama|Romance  black and white Plain Jane Golden Palm Oscar (Best Directing) National Film Registry Ernest Borgnine dance Oscar (Best Actor) Betamax old maid bachelor Delbert Mann Oscar (Best Picture)

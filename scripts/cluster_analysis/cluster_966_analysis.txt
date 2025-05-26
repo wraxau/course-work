@@ -1,0 +1,15 @@
+Анализ кластера 966
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                            title        genres  tag
+966  Pompatus of Love, The (1996)  Comedy|Drama  NaN

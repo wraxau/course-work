@@ -1,0 +1,29 @@
+Анализ подкластера 413 в кластере 1
+Размер подкластера: 47 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.53
+
+Топ-5 жанров:
+genres
+Drama       23
+Comedy      11
+Thriller     6
+Horror       6
+Romance      5
+
+Топ-5 тегов:
+tag
+the          6
+book         5
+ending       5
+nudity       4
+(topless)    4
+
+Примеры фильмов:
+                                                                                                               title    rating          genres                                                                                                                          tag
+23705                                                                       Human Capital (Il capitale umano) (2013)  3.526316           Drama                                                                                      nudity (topless) based book Paolo Virzì
+23710  Sudden Wealth of the Poor People of Kombach, The (Der plötzliche Reichtum der armen Leute von Kombach) (1971)  3.333333           Drama                                                                                                           Volker Schlöndorff
+23711                                                                                                  Bambou (2009)  2.000000          Comedy                                                                      French Film French piano not funny France Pierre Arditi
+23713                                                                                      Outlaw, The (Lope) (2010)  3.250000           Drama  history Spanish culture Madrid sword fight theatrical people/inside the theatre cinema/actors acting theatre Lisbon Theater
+23714                                                                                   Saving Grace B. Jones (2009)  2.000000  Drama|Thriller                                                                                                                          NaN

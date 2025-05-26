@@ -1,0 +1,21 @@
+Анализ кластера 2079
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+children's    1
+story         1
+Nostalgia     1
+Critic        1
+fantasy       1
+adventure     1
+
+Примеры фильмов:
+                                                   title                      genres                                                  tag
+2079  NeverEnding Story II: The Next Chapter, The (1990)  Adventure|Children|Fantasy  children's story Nostalgia Critic fantasy adventure

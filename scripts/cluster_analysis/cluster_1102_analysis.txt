@@ -1,0 +1,24 @@
+Анализ кластера 1102
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Clouseau    2
+comedy      2
+hell        1
+Sellers     1
+Peter       1
+Accents     1
+retarded    1
+fnxc        1
+farce       1
+(series)    1
+
+Примеры фильмов:
+                                       title        genres                                                                                                                                                                            tag
+1102  Return of the Pink Panther, The (1975)  Comedy|Crime  Clouseau classic comedy goofy comedy seen more once Blake Edwards Clousseau Disguises Funny hell Inspector Clouseau (series) farce fnxc retarded Accents Peter Sellers series

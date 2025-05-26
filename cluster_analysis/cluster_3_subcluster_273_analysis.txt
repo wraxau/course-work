@@ -1,0 +1,29 @@
+Анализ подкластера 273 в кластере 3
+Размер подкластера: 73 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama       39
+Comedy      24
+Romance     10
+Action      10
+Thriller     8
+
+Топ-5 тегов:
+tag
+movie        12
+DVDs         12
+nudity       12
+Nudity        9
+(topless)     9
+
+Примеры фильмов:
+                                                             title    rating           genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+3082                                             Easy Rider (1969)  3.699421  Adventure|Drama                                                                                                                                                                  motorcycle road trip United States humorous National Film Registry Nudity (Topless Brief) notable soundtrack Atmospheric Classic gritty injustice quirky hallucination Tumey's DVDs wired greatest soundtracks Jack Nicholson road movie stoner movie classic Music BD-Video social commentary drugs music murder Hippies Peter Fonda WANDERLUST counterculture sex reflective library deliberate AFI 100 100 Greatest Movies Criterion drugs AFI #88 Dennis Hopper freedom marijuana
+3096  Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (1999)  3.895550      Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Errol Morris John Best Rotten Tomatoes: All Time
+3100                                      Girl, Interrupted (1999)  3.571253            Drama  Bechdel Test:Pass biography melodramatic Clea DuVall Annemari Nudity (Topless Brief) rated-R Borderline Personality Disorder Suicide James Mangold psychology true story Mental Hospital Jared Leto Jolie asylum angelina jolie 70s acting Brittany Murphy Partly seen drama mental health unconvincing Winona bipolar mental hospital girlie movie borderline movies 60s changed the book TOO much Sanity dumbed down Angelina Jolie depression Winona Ryder winona ryder Drama Whoopi Goldberg mental illness Oscar (Best Supporting Actress) Vanessa Redgrave book was better disrespectful author based true story Interesting suicide psychiatry
+3101                                                  Trans (1998)  2.450000            Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    NaN
+3102                  Life and Times of Hank Greenberg, The (1998)  3.676380      Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         baseball Biography Baseball anti-Semitism Aviva Kempner sports

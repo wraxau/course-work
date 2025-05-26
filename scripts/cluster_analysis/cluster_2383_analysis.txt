@@ -1,0 +1,26 @@
+Анализ кластера 2383
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Eco                3
+Nudity             2
+book               2
+nudity             1
+adapted            1
+setting:library    1
+MTSKAF             1
+amateur            1
+detective          1
+dvr                1
+
+Примеры фильмов:
+                                                  title                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+2383  Name of the Rose, The (Name der Rose, Der) (1986)  Crime|Drama|Mystery|Thriller  nudity (topless) erlend's DVDs Umberto Eco Betamax Eco rated-R Ron Perlman 14th Century Murray Abraham based book Self-Mutilation Sean Connery Christian Slater book DIVX medieval monastery investigation inquisition 70mm setting:library MTSKAF amateur detective dvr murder setting:monastery whodunit adapted from:book Jean-Jacques Annaud Nudity (Topless) author:Umberto Eco Nudity (Full Frontal Notable) dvd censorship religion

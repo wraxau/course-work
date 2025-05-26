@@ -1,0 +1,24 @@
+Анализ кластера 1068
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+war        7
+Oscar      4
+(Best      4
+movies     3
+AFI        3
+War        3
+Vietnam    3
+library    2
+best       2
+Stone      2
+
+Примеры фильмов:
+               title     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1068  Platoon (1986)  Drama|War  overrated history Want Vietnam war BEST PICTURE USA horrors war rated-R Oliver Stone the best war movies Charlie Sheen Bechdel Test:Fail memasa's movies Planes AFI 100 (Thrills) cameo:Oliver Stone violence action Vietnam War Vietnam Netflix Finland war cinematographer:Robert Richardson Oscar (Best Directing) seen more once willem dafoe Tumey's DVDs Anamorphic Blow-Up Oscar (Best Sound) DIVX Tom Berenger acting narrated AFI #83 70mm drama John McGinley vietnam willem defoe movies dvr 1960s Willem Dafoe criticada Oscar (Best Picture) oliver stone severity war psychological Best War Films Drama library imdb top 250 innocence lost PITJOR QUE SES ALTRES DEL VIETNAM best war film AFI 100 Forest Whitaker Oscar (Best Editing) library vhs military btaege own war movie anti-war War

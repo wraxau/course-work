@@ -1,0 +1,25 @@
+Анализ кластера 1185
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Fantasy    1
+Romance    1
+
+Топ-10 тегов:
+tag
+DVDs         2
+and          2
+Wim          2
+computer     1
+Criterion    1
+lyrical      1
+mostly       1
+black        1
+white        1
+Berlin       1
+
+Примеры фильмов:
+                                                 title                 genres                                                                                                                                                                                                                                                                                                                                                                         tag
+1185  Wings of Desire (Himmel über Berlin, Der) (1987)  Drama|Fantasy|Romance  computer erlend's DVDs atmospheric Betamax remade artistic Spiritual poemlike Netflix Finland poetic boring angel surreal Tumey's DVDs circus Favorites somber Wim Wnders wall meditative Wim Wenders wistful dvr poetry holes80s lyrical mostly black and white Berlin enigmatic Peter Falk Criterion Deutsch Nick Cave and the Bad Seeds Slow German dreamlike low speed

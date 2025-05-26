@@ -1,0 +1,29 @@
+Анализ подкластера 59 в кластере 1
+Размер подкластера: 8 фильмов
+Средний рейтинг: 2.97
+Медиана рейтинга: 2.92
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Comedy     4
+Romance    3
+Musical    2
+Drama      2
+Horror     1
+
+Топ-5 тегов:
+tag
+comedy           2
+nudity           1
+travel           1
+Irani            1
+reincarnation    1
+
+Примеры фильмов:
+                                        title    rating          genres                                                                                    tag
+22952                  Me tulemme taas (1953)  3.000000  Comedy|Musical                                                                                    NaN
+22953                          Cavemen (2013)  3.300000  Comedy|Romance                                  nudity (topless) Camilla Belle romantic comedy comedy
+22954     Station, The (Blutgletscher) (2013)  2.681818          Horror                                                            sci german creature feature
+22970          Journey, The (El viaje) (1992)  4.500000           Drama  quirky dark humor imaginative Fernando Solanas beautiful scenery whimsical coming age
+22974  Bickford Shmeckler's Cool Ideas (2006)  2.666667  Comedy|Romance                                                                                    NaN

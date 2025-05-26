@@ -1,0 +1,16 @@
+Анализ кластера 1394
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Nudity      1
+(Topless    1
+Notable)    1
+
+Примеры фильмов:
+                  title genres                       tag
+1394  Angel Baby (1995)  Drama  Nudity (Topless Notable)

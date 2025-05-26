@@ -1,0 +1,23 @@
+Анализ кластера 1895
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+nudity             2
+Jason              2
+alternate          1
+character:Jason    1
+ending             1
+twist              1
+real               1
+not                1
+murder             1
+retconned          1
+
+Примеры фильмов:
+                                               title  genres                                                                                                                                                                                               tag
+1895  Friday the 13th Part V: A New Beginning (1985)  Horror  nudity (topless) Jason subgenre:slasher boring slasher nudity franchise serial killer torrential downpour alternate reality retconned murder not real Jason twist ending character:Jason Vorhees

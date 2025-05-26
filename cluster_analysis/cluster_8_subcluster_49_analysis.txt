@@ -1,0 +1,29 @@
+Анализ подкластера 49 в кластере 8
+Размер подкластера: 68 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       39
+Comedy      26
+Thriller    16
+Crime       15
+Romance     12
+
+Топ-5 тегов:
+tag
+Nudity    21
+movie     20
+see       15
+book      13
+ending    12
+
+Примеры фильмов:
+                            title    rating                      genres                                    tag
+11946  Alice in Wonderland (1985)  2.590909  Adventure|Children|Fantasy                           Harry Harris
+11955        Knock on Wood (1954)  3.300000                      Comedy  Norman Panama Melvin Frank Danny Kaye
+11959               Uranus (1990)  3.100000                Comedy|Drama                         alcoholic hero
+11960     American Friends (1991)  3.500000               Drama|Romance                                    NaN
+11963         Alan & Naomi (1992)  2.666667              Children|Drama                                    NaN

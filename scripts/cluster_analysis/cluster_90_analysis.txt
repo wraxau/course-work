@@ -1,0 +1,25 @@
+Анализ кластера 90
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Jekyll      2
+and         2
+Hyde        2
+what        1
+with        1
+Robert's    1
+bangs       1
+this        1
+movie?!     1
+GRR         1
+
+Примеры фильмов:
+                 title                 genres                                                                                                                      tag
+90  Mary Reilly (1996)  Drama|Horror|Thriller  Jekyll and Hyde what with Robert's bangs this movie?! GRR John Malkovich Can't remember related:Dr. Jekyll and Mr. Hyde

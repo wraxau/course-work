@@ -1,0 +1,29 @@
+Анализ подкластера 104 в кластере 7
+Размер подкластера: 135 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.22
+
+Топ-5 жанров:
+genres
+Drama                 38
+Comedy                37
+(no genres listed)    25
+Thriller              23
+Animation             14
+
+Топ-5 тегов:
+tag
+comedy       3
+fatale       3
+obsession    3
+spoiled      3
+brat         3
+
+Примеры фильмов:
+                           title    rating                     genres                                            tag
+29901   Rover Dangerfield (1991)  2.500000  Animation|Children|Comedy                        farm animation animated
+29902  Night of the Demon (1980)  2.000000                     Horror                                            NaN
+29908   The Second Mother (2015)  4.076087                      Drama  social commentary horas ela volta regina casé
+29910               Noobz (2013)  3.500000           Adventure|Comedy                                            NaN
+29913               Storm (1999)  2.000000                   Thriller                                            NaN

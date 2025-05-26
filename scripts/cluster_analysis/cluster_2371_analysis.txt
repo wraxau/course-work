@@ -1,0 +1,26 @@
+Анализ кластера 2371
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Sci-Fi      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+horror       2
+DVDs         2
+scientist    2
+erlend's     1
+tragedy      1
+tense        1
+romance      1
+Can't        1
+remember     1
+insects      1
+
+Примеры фильмов:
+                title                        genres                                                                                                                                                                                                                                                                                                                                                                            tag
+2371  Fly, The (1986)  Drama|Horror|Sci-Fi|Thriller  erlend's DVDs horror Saab Betamax Nudity (Topless Brief) See etaege mad scientist Jeff Goldblum body horror remake effects better the old version Tumey's DVDs EXPERIMENTS GONE AWRY science fiction tense romance Can't remember insects creepy tragic hero tragedy gruesome sci-fi changing species fly Geena Davis transformation teleportation David Cronenberg scientist

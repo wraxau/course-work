@@ -1,0 +1,18 @@
+Анализ кластера 1813
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+satire       1
+based        1
+book         1
+
+Примеры фильмов:
+                    title  genres                                 tag
+1813  Cousin Bette (1998)  Comedy  nudity (topless) satire based book

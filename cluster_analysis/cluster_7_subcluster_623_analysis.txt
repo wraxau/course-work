@@ -1,0 +1,29 @@
+Анализ подкластера 623 в кластере 7
+Размер подкластера: 20 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.07
+Дисперсия рейтинга: 1.11
+
+Топ-5 жанров:
+genres
+Thriller              5
+Drama                 5
+(no genres listed)    4
+Comedy                4
+Horror                3
+
+Топ-5 тегов:
+tag
+80s             1
+resurrection    1
+gypsy           1
+gold            1
+western         1
+
+Примеры фильмов:
+                                                   title    rating                   genres                                                                                       tag
+28001                              Urban Warriors (1987)       NaN       (no genres listed)                                                                                 80s video
+28003  The Aztec Mummy Against the Humanoid Robot (1958)  1.333333  Adventure|Horror|Sci-Fi                                                                                       NaN
+28006                          The Lazarus Effect (2015)  2.513699          Horror|Thriller  Olivia Wilde boring super-natural science dog minimalistic laboratory campy resurrection
+28007                           The Walking Hills (1949)  3.500000                  Western                                            greed Randolph Scott Death Valley western gold
+28013                               Cose da pazzi (2005)  3.500000       (no genres listed)                                                                                       NaN

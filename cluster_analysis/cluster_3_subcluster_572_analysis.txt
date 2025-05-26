@@ -1,0 +1,29 @@
+Анализ подкластера 572 в кластере 3
+Размер подкластера: 21 фильмов
+Средний рейтинг: 3.57
+Медиана рейтинга: 3.74
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Comedy     10
+Drama       8
+Romance     4
+Musical     4
+Crime       3
+
+Топ-5 тегов:
+tag
+AFI        16
+100        13
+classic    11
+Film       10
+DVDs        8
+
+Примеры фильмов:
+                                            title    rating               genres                                                                                                                                                                                 tag
+857  Shadow of Angels (Schatten der Engel) (1976)  3.011111                Drama                                                                                                                                                                                 NaN
+859                        Nothing to Lose (1994)  3.430147   Action|Crime|Drama                                                                                                                                                                                 NaN
+861                             Girls Town (1996)  3.151429         Comedy|Drama                                                                                                                                                                                 NaN
+864              Island of Dr. Moreau, The (1996)  2.493630      Sci-Fi|Thriller  boing dumb silly and much more crap Futuristmovies.com island Marlon Brando related:The Island Dr. Moreau (book) H.G. Wells adapted from:book author:H. Wells pointless based book
+869                            Bulletproof (1996)  3.079244  Action|Comedy|Crime                                                                                                                                                       Ernest Dickerson Adam Sandler

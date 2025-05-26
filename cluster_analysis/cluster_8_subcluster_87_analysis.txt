@@ -1,0 +1,29 @@
+Анализ подкластера 87 в кластере 8
+Размер подкластера: 14 фильмов
+Средний рейтинг: 3.34
+Медиана рейтинга: 3.46
+Дисперсия рейтинга: 0.14
+
+Топ-5 жанров:
+genres
+Drama          8
+Romance        3
+Documentary    2
+Fantasy        1
+Musical        1
+
+Топ-5 тегов:
+tag
+romance    3
+nudity     2
+the        2
+book       2
+worse      2
+
+Примеры фильмов:
+                                       title    rating       genres                                                           tag
+17126                     High School (1968)  3.687500  Documentary                                             Frederick Wiseman
+17127                 White Lightnin' (2009)  2.875000        Drama                                                Dominic Murphy
+17128             To the Sea (Alamar) (2009)  3.550000        Drama                                                           NaN
+17129  To Faro (Mein Freund aus Faro) (2008)  3.500000        Drama                                                       lesbian
+17130                     Bloomington (2010)  3.333333        Drama  professor lesbian may december romance ending college growth

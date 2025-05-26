@@ -1,0 +1,29 @@
+Анализ подкластера 61 в кластере 3
+Размер подкластера: 133 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama       74
+Comedy      40
+Romance     20
+Thriller    16
+Action      13
+
+Топ-5 тегов:
+tag
+300        16
+ratings    16
+less       15
+(Best      14
+good       13
+
+Примеры фильмов:
+                         title    rating                                           genres                                                                                                                                                                                                                                                                                       tag
+7822   It Had to Be You (2000)  3.037500                                   Comedy|Romance                                                                                                                                                                                                                                                                                  marriage
+7827    To Each His Own (1946)  3.437500                                            Drama                                                                                                                                                                                                                 drama tear jerker exceptional acting Mitchell Leisen Oscar (Best Actress)
+7828       Heiress, The (1949)  3.902299                                    Drama|Romance  great performances erlend's DVDs biting atmospheric William Wyler National Film Registry Playlist talky See Classic amazing cinematography beautifully enigmatic Montgomery Clift Olivia Havilland literate 19th century Great b&w movie film adaptation urbane Oscar (Best Actress) Old
+7831    Executive Suite (1954)  3.477778                                            Drama                                                                                                                                                                                                                                                                               Robert Wise
+7839  Northwest Passage (1940)  3.559140  Action|Adventure|Drama|Romance|Thriller|Western                                                                                                                                                                                                                                     less 300 ratings King Vidor W.S. Van Dyke Jack Conway

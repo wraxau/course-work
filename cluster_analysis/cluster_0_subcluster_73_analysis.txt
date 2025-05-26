@@ -1,0 +1,29 @@
+Анализ подкластера 73 в кластере 0
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Drama       27
+Comedy      14
+Romance     11
+Thriller    10
+Crime        8
+
+Топ-5 тегов:
+tag
+Nudity       12
+ClearPlay    11
+300          10
+ratings      10
+less          9
+
+Примеры фильмов:
+                                                     title    rating                genres                                                                                                                                                                                                    tag
+12125                         Bubble, The (Ha-Buah) (2006)  3.291667         Drama|Romance                                                                                                                                                            Tel Aviv Israel Gays Hebrew gay romance gay
+12126                             27 Missing Kisses (2000)  3.500000  Comedy|Drama|Romance                                                                                                                                                                                                    NaN
+12127                                Brooklyn Rules (2007)  3.157143   Crime|Drama|Romance  Christmas class society New York City friendship hair obsession relationships board game college mafia Catholicism nightclub relationship drama with mob twist mobster hair 1980s Underrated whipping
+12128                          Unreasonable Man, An (2006)  3.721053           Documentary                                                                              democracy documentary history politics Ralph Nader youtube activism business 08/09 Henriette Mantel Steve Skrovan netflix
+12129  Vengeance is Mine (Fukushu suruwa wareniari) (1979)  3.508475           Crime|Drama                                                                                                                                                       VistaVision Shôhei Imamura 07/10 Criterion 08/10

@@ -1,0 +1,18 @@
+Анализ кластера 1722
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Nex        1
+Mexican    1
+cinema     1
+Jorfe      1
+Fons       1
+
+Примеры фильмов:
+                                    title genres                            tag
+1722  Callejón de los milagros, El (1995)  Drama  Nex Mexican cinema Jorfe Fons

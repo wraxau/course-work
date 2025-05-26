@@ -1,0 +1,23 @@
+Анализ кластера 359
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Nazis          1
+documentary    1
+movie          1
+business       1
+Biography      1
+perrot         1
+library        1
+Ray            1
+Müller         1
+FILMMAKING     1
+
+Примеры фильмов:
+                                                                                                  title       genres                                                                                                                                  tag
+359  Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)  Documentary  Nazis documentary movie business Biography perrot library Ray Müller FILMMAKING biography propaganda Holocaust Netflix queue German

@@ -1,0 +1,23 @@
+Анализ кластера 123
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Leoni         2
+David         1
+want          1
+Patricia      1
+sex           1
+gratuitous    1
+Fitzgerald    1
+Glenn         1
+cast          1
+ensemble      1
+
+Примеры фильмов:
+                             title  genres                                                                                                                                                                                      tag
+123  Flirting With Disaster (1996)  Comedy  David Russell Screwball Comedy TÃ©a Leoni watch the credits Nudity (Topless Brief) Ben Stiller want see again Téa Leoni ensemble cast Glenn Fitzgerald gratuitous sex Patricia Arquette

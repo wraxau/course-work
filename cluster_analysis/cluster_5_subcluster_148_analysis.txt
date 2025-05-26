@@ -1,0 +1,29 @@
+Анализ подкластера 148 в кластере 5
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.43
+Дисперсия рейтинга: 0.39
+
+Топ-5 жанров:
+genres
+Drama      8
+Comedy     6
+Crime      4
+Romance    2
+Action     2
+
+Топ-5 тегов:
+tag
+great      4
+ending     3
+Hughes     3
+trilogy    3
+Netflix    3
+
+Примеры фильмов:
+                                                                                     title    rating          genres                                                                                   tag
+14692                                                                     Twogether (1994)  2.500000    Comedy|Drama                                                                                   NaN
+14693                                                              Enid Is Sleeping (1990)  1.750000          Comedy                                                                                   NaN
+14694                                                                        10 MPH (2007)  3.750000     Documentary                                         Hunter Weeks Follow your dream youtube Segway
+14695  Prophet, the Gold and the Transylvanians, The (Profetul, aurul si Ardelenii) (1979)  3.750000  Comedy|Western  Romanian-speaking black gold digger Mormon Romanian Western Red Western Transylvania
+14696                                                                     Leap Year (2010)  3.220276  Comedy|Romance                                      boring Amy Adams seen 2010 Ireland Matthew Goode

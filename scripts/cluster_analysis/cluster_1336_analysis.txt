@@ -1,0 +1,25 @@
+Анализ кластера 1336
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Comedy       1
+
+Топ-10 тегов:
+tag
+Dalmations    2
+Disney        2
+comedy        1
+(1996)        1
+Jeff          1
+Daniels       1
+dogs          1
+adapted       1
+from:book     1
+Glenn         1
+
+Примеры фильмов:
+                      title                     genres                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1336  101 Dalmatians (1996)  Adventure|Children|Comedy  comedy glen close meaningful script based book House with more make-up Dalmatians Disney remake animal movie animals Anamorphic Blow-Up acting funny Stephen Herek 70mm Disney animated feature children 17th century Jeff Daniels dogs adapted from:book Glenn Close cartoon remadeAs:101 Dalmations (1996) fun dialogue Joely Richardson remakeOf:101 Dalmations (1961) seen Cute! animation remade live action

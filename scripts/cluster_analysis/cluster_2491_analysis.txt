@@ -1,0 +1,23 @@
+Анализ кластера 2491
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Erick      1
+buy        1
+Frontal    1
+(Full      1
+Nudity     1
+LUCK       1
+THEIR      1
+DOWN       1
+talky      1
+ROMANCE    1
+
+Примеры фильмов:
+                                                          title genres                                                                                                                                                                                     tag
+2491  Dreamlife of Angels, The (Vie rêvée des anges, La) (1998)  Drama  Erick Zonca gritty strange boring drab understated intimate WOMEN'S FRIENDSHIP compassionate downbeat buy SELF-DESTRUCTIVE ROMANCE talky DOWN THEIR LUCK Nudity (Full Frontal Notable)

@@ -1,0 +1,29 @@
+Анализ подкластера 243 в кластере 3
+Размер подкластера: 90 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama      37
+Comedy     35
+Romance    16
+Action     15
+Sci-Fi      9
+
+Топ-5 тегов:
+tag
+Betamax    13
+movie      12
+Nudity     10
+nudity      9
+DVDs        9
+
+Примеры фильмов:
+                             title    rating                          genres                                                                                                                                                      tag
+4028             Innerspace (1987)  3.260981  Action|Adventure|Comedy|Sci-Fi  70mm miniaturization trapped human body Martin Short 80's cult movie Joe Dante Katso Sanna! Spherical Blow-Up Meg Ryan seen Dennis Quaid Can't remember
+4029               Ironweed (1987)  3.151316                           Drama                                                                             homeless depression era 1910s tragic Betamax alcoholism Jack Nicholson 1930s
+4032         Leonard Part 6 (1987)  1.534632                   Comedy|Sci-Fi                                                                          Golden Raspberry (Worst Picture) imdb bottom 100 Golden Raspberry (Worst Actor)
+4034  Like Father, Like Son (1987)  2.375380                          Comedy                                                                                                      easily confused with other movie(s) (title) Betamax
+4037          Maid to Order (1987)  2.373626                  Comedy|Fantasy                                                                                                                                 switching places Betamax

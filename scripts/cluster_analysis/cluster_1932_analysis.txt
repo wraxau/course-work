@@ -1,0 +1,21 @@
+Анализ кластера 1932
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+
+Топ-10 тегов:
+tag
+Disney       2
+flubber      1
+fantasy      1
+Fred         1
+MacMurray    1
+studios      1
+
+Примеры фильмов:
+                                    title                   genres                                                   tag
+1932  Absent-Minded Professor, The (1961)  Children|Comedy|Fantasy  Disney flubber fantasy Fred MacMurray Disney studios

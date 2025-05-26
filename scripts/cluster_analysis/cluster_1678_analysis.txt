@@ -1,0 +1,18 @@
+Анализ кластера 1678
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+action    1
+homage    1
+Disney    1
+good      1
+
+Примеры фильмов:
+                    title        genres                        tag
+1678  Men of Means (1999)  Action|Drama  action homage Disney good

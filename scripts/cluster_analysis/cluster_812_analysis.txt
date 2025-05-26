@@ -1,0 +1,15 @@
+Анализ кластера 812
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+John         1
+Malkovich    1
+
+Примеры фильмов:
+                                title genres             tag
+812  Convent, The (O Convento) (1995)  Drama  John Malkovich

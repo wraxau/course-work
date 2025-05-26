@@ -1,0 +1,26 @@
+Анализ кластера 1372
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Comedy       1
+Crime        1
+
+Топ-10 тегов:
+tag
+funny     2
+based     2
+movie     2
+series    2
+show      2
+road      1
+Best      1
+very      1
+Stupid    1
+Hell      1
+
+Примеры фильмов:
+                                       title                            genres                                                                                                                                                                                                                                                                                         tag
+1372  Beavis and Butt-Head Do America (1996)  Adventure|Animation|Comedy|Crime  road trip franchise beaten death animated adapted from:TV series idiotic stupidity mike judge immature MTV buddy movie based series directorial debut Based show Buddy movie funny very funny Stupid Hell animation Best War Films based show great soundtrack Mike Judge stupid dry humor

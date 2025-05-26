@@ -1,0 +1,24 @@
+Анализ кластера 976
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+italian     3
+Tony        2
+cooking     2
+family      1
+Minnie      1
+music       1
+Italian     1
+Shalhoub    1
+seen        1
+2015        1
+
+Примеры фильмов:
+                title        genres                                                                                                                                                                                                                                                                                                                                                                                                                tag
+976  Big Night (1996)  Comedy|Drama  family dynamics Campbell Scott Tony Shalub 1950s Allison Janney italians italian cooking failing business timpano italian immigrant immigrants Ian Holm Stanley Tucci chelsea pier siblings kitchen new jersey NO_FA_GANES italian music Italian Tony Shalhoub seen 2015 R:language brothers food restaurant Minnie Driver ian holm keystone Isabella Rossellini cooking charming great soundtrack Liev Schreiber

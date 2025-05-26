@@ -1,0 +1,17 @@
+Анализ кластера 615
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+André        1
+Téchiné      1
+
+Примеры фильмов:
+                         title genres                             tag
+615  My Favorite Season (1993)  Drama  nudity (topless) André Téchiné

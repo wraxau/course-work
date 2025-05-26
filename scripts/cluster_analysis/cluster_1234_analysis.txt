@@ -1,0 +1,26 @@
+Анализ кластера 1234
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Drama        1
+War          1
+
+Топ-10 тегов:
+tag
+war       3
+escape    3
+War       3
+prison    3
+movie     3
+story     2
+DVDs      2
+true      2
+World     2
+cast      2
+
+Примеры фильмов:
+                         title                      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1234  Great Escape, The (1963)  Action|Adventure|Drama|War  motorcycle erlend's DVDs related:The Great Escape All time World War Classic prison break sweeping visceral best war films POW AFI 100 (Thrills) action true story Richard Attenborough long gritty Legenda PT-BR rousing great cast excellent world war historical Tumey's DVDs want tunnels tunnel escape DIVX tense suspense classic Steve McQueen runaway Evergreen good old movie prison escape escape WWII John Sturges dvr movie see ensemble cast concentration camp netflix queue library imdb top 250 forceful prisoners war barbed wire prison World War based true story btaege POWs movie Charles Bronson James Coburn War

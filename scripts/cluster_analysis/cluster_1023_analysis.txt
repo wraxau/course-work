@@ -1,0 +1,24 @@
+Анализ кластера 1023
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+music        2
+band         2
+nostalgic    1
+satire       1
+Music        1
+light        1
+Katso        1
+Sanna!       1
+tom          1
+hanks        1
+
+Примеры фильмов:
+                          title        genres                                                                                                                                                                                                                                                                                            tag
+1023  That Thing You Do! (1996)  Comedy|Drama  soundtrack music business one hit wonder seen more once upbeat rock and roll Tom Hanks The Beatles muscial band cinematographer:Tak Fujimoto Oscar Nominee satire Music light Katso Sanna! tom hanks nostalgic music bright boy band Seen 2013 period piece musicians afternoon section sweet

@@ -1,0 +1,24 @@
+Анализ кластера 824
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+sequel      1
+Beverley    1
+Mitchell    1
+Nudity      1
+(Topless    1
+Brief)      1
+comic       1
+book        1
+gothic      1
+adapted     1
+
+Примеры фильмов:
+                                title           genres                                                                                   tag
+824  Crow: City of Angels, The (1996)  Action|Thriller  sequel Beverley Mitchell Nudity (Topless Brief) comic book gothic adapted from:comic

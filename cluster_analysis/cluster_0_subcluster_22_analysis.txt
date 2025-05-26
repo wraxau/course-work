@@ -1,0 +1,29 @@
+Анализ подкластера 22 в кластере 0
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.09
+
+Топ-5 жанров:
+genres
+Drama      10
+Romance     5
+Comedy      4
+Musical     1
+Action      1
+
+Топ-5 тегов:
+tag
+game      4
+movie     4
+based     3
+sequel    3
+space     3
+
+Примеры фильмов:
+                                                         title    rating                        genres                                                                                                                                                                                                                          tag
+10576                              Romance & Cigarettes (2005)  2.946970  Comedy|Drama|Musical|Romance                                                                                                                                                                                       erlend's DVDs james gandolfini redhead
+10582                               Stratton Story, The (1949)  3.200000                 Drama|Romance                                                                                                                                                                                                  add prospects list Sam Wood
+10587  Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)  3.634615                  Comedy|Drama                                                                                                                                          erlend's DVDs addition Aki Kaurismäki Criterion proletariat trilogy Aki KaurismÃ¤ki
+10589                                          Highball (1997)  2.916667                  Comedy|Drama                                                                                                                                                                                                                          NaN
+10592                                      Just Friends (2005)  3.096620                Comedy|Romance  Unrequited Love Anna Faris romantic comedy netflix teen romance funny Julie Andrews Sad but true small town New Jersey reunion movie see Christmas worst movie ever Movies Roger Kumble Amy Smart high school Ryan Reynolds

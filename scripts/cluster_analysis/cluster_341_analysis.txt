@@ -1,0 +1,24 @@
+Анализ кластера 341
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+drag              3
+men               3
+road              2
+dressing          2
+trip              2
+movie             2
+cross-dressing    2
+cross             2
+happy             1
+transvestites     1
+
+Примеры фильмов:
+                                                        title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+341  Adventures of Priscilla, Queen of the Desert, The (1994)  Comedy|Drama  road trip erlend's DVDs eyesore musical hilarious lgbt unusual parent reunites with (or meets) their estranged grown-up child character development queer remade cross-dressing men Guy Pearce test dance along Australia homosexuality Drag cross dressing watch the credits drag queens men drag road movie GLBT transvestites small town LGBT* cross dressing men transgender disco Hugo Weaving Terence Stamp watched 2007 drag queen movie happy subgenre:road trip cross-dressing touching gender identity Stephan Elliott gay

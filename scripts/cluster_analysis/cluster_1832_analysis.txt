@@ -1,0 +1,20 @@
+Анализ кластера 1832
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+11/11       1
+05/11       1
+06/11       1
+03/11       1
+12/11       1
+Manoel      1
+Oliveira    1
+
+Примеры фильмов:
+                                                                           title genres                                            tag
+1832  Voyage to the Beginning of the World (Viagem ao Princípio do Mundo) (1997)  Drama  11/11 05/11 06/11 03/11 12/11 Manoel Oliveira

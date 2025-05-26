@@ -1,0 +1,26 @@
+Анализ кластера 1522
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+action        3
+Cage          2
+John          2
+erlend's      1
+(Nic          1
+ridiculous    1
+Romance       1
+Travolta      1
+Drama         1
+Drive         1
+
+Примеры фильмов:
+                title                       genres                                                                                                                                                                                                                                                                                                                                      tag
+1522  Face/Off (1997)  Action|Crime|Drama|Thriller  erlend's DVDs guns identity Gina Gershon seen the cinema revenge switching places Divx1 action John Woo well choreographed Nicholas Cage corny Tumey's VHS cheesy ending transplants ridiculous Romance John Travolta Drama Drive Nudity (Nic Cage) deep want see again good action action packed afternoon section Nicolas Cage stupid

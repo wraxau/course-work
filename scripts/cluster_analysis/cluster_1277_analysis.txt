@@ -1,0 +1,25 @@
+Анализ кластера 1277
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+long          1
+VHS           1
+Much          1
+Cut.          1
+Director's    1
+the           1
+For           1
+German        1
+Trilogy       1
+Netflix       1
+
+Примеры фильмов:
+                                                          title                  genres                                                                                                                                   tag
+1277  Until the End of the World (Bis ans Ende der Welt) (1991)  Adventure|Drama|Sci-Fi  long VHS Futuristmovies.com Wim Wenders MOLT_AVORRIDA not available from Netflix Trilogy German For the Director's Cut. Much better.

@@ -1,0 +1,29 @@
+Анализ подкластера 661 в кластере 8
+Размер подкластера: 39 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.35
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       17
+Comedy      16
+Thriller     9
+Romance      8
+Action       7
+
+Топ-5 тегов:
+tag
+story      6
+comedy     6
+See        6
+based      6
+ratings    4
+
+Примеры фильмов:
+                                                     title    rating                                genres                                                                                                                                                                                    tag
+11941                    Night of the Generals, The (1967)  3.348101      Crime|Drama|Mystery|Thriller|War  01/11 04/11 06/11 12/09 06/10 09/09 See 11/10 thriller 11/11 war 12/10 Omar Sharif 08/10 05/10 09/10 10/10 10/11 Peter O'Toole 05/11 07/10 03/11 12/11 World War 02/11 Anatole Litvak
+11943                                 Gui Si (Silk) (2006)  3.235294  Drama|Horror|Mystery|Sci-Fi|Thriller                                                                                                                                                            overly dramatic predictable
+11947  Mystery of Picasso, The (Le mystère Picasso) (1956)  3.583333                           Documentary                                                                                                                                                                                    NaN
+11958                             Woman Chaser, The (1999)  3.666667                                Comedy                                                                                                                                                                                    NaN
+11961                              Within Our Gates (1920)  3.611111                         Drama|Romance                                                                                                                                                                                    NaN

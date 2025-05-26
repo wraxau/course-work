@@ -1,0 +1,29 @@
+Анализ подкластера 159 в кластере 6
+Размер подкластера: 13 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 2.88
+Дисперсия рейтинга: 0.67
+
+Топ-5 жанров:
+genres
+Action         5
+Thriller       4
+Documentary    3
+Sci-Fi         2
+Drama          2
+
+Топ-5 тегов:
+tag
+gun         2
+blood       2
+nude        2
+Way         2
+baseball    1
+
+Примеры фильмов:
+                                title    rating                  genres                                                                                                    tag
+23840    Ultimate Warrior, The (1975)  2.166667  Action|Sci-Fi|Thriller                                                                                      Yul Brynner scifi
+23841                   Ra.One (2011)  2.450000   Action|Musical|Sci-Fi                                            video games cameos crude humor ShahRukh Khan seen superhero
+23842                Gun Woman (2014)  2.928571         Action|Thriller  nude fight blood covered blood assassin nude with gun gun revenge female protagonist Nudity (Topless)
+23843  Rebel, The (Le Rebelle) (1980)       NaN                   Drama                                                                                           Gérard Blain
+23844              Watercolors (2008)  2.333333           Drama|Romance                                                                                                    NaN

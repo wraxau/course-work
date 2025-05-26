@@ -1,0 +1,29 @@
+Анализ подкластера 113 в кластере 8
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama     16
+Comedy    12
+Action    10
+Sci-Fi     8
+Horror     7
+
+Топ-5 тегов:
+tag
+plot        7
+social      6
+dialogue    5
+ending      5
+acting      5
+
+Примеры фильмов:
+                                        title    rating                genres                         tag
+18869                 Casa de mi Padre (2012)  2.600000                Comedy  Will Ferrell Matt Piedmont
+18871        Tropical Fish (Re dai yu) (1995)  3.500000          Comedy|Drama                         NaN
+18872  Prom Queen: The Marc Hall Story (2004)  5.000000          Comedy|Drama                         NaN
+18873                          Evolver (1995)  2.666667  Action|Horror|Sci-Fi                         NaN
+18874                      Listy do M. (2011)  3.388889        Comedy|Romance  romance children christmas

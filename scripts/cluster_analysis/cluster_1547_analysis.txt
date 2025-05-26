@@ -1,0 +1,23 @@
+Анализ кластера 1547
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+
+Топ-10 тегов:
+tag
+superhero    2
+looks        1
+bad          1
+garbage      1
+Horrible     1
+O'Neal       1
+Shaquille    1
+Felner       1
+George       1
+spinoff      1
+
+Примеры фильмов:
+             title  genres                                                                                                                                                            tag
+1547  Steel (1997)  Action  looks bad but i'm curious Comics Richard Roundtree Nostalgia Critic superman spinoff George Felner Shaquille O'Neal Horrible garbage superhero see: superhero

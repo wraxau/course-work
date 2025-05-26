@@ -1,0 +1,29 @@
+Анализ подкластера 201 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.11
+
+Топ-5 жанров:
+genres
+Drama       6
+Comedy      3
+Romance     3
+Mystery     1
+Thriller    1
+
+Топ-5 тегов:
+tag
+book       3
+based      3
+Added      2
+Nora       2
+Roberts    2
+
+Примеры фильмов:
+                                   title    rating                  genres                                                                         tag
+17197  Neon Flesh (Carne de neón) (2010)  2.666667            Comedy|Drama                                                                         NaN
+17198               Carolina Moon (2007)  3.000000   Drama|Mystery|Romance                                               Added based book Nora Roberts
+17199                 Angels Fall (2007)  3.000000  Drama|Romance|Thriller                                               Added based book Nora Roberts
+17200           Persona non grata (2005)  2.750000                   Drama                                                                         NaN
+17201                 Soul Surfer (2011)  3.493590            Action|Drama  surfing sharks lost arm Sean McNamara faith must see! inspiring true story

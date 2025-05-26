@@ -1,0 +1,19 @@
+Анализ кластера 1819
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+generation    1
+Bibliothek    1
+indie         1
+entirely      1
+dialogue      1
+
+Примеры фильмов:
+                              title         genres                                            tag
+1819  Dream for an Insomniac (1996)  Drama|Romance  generation Bibliothek indie entirely dialogue

@@ -1,0 +1,25 @@
+Анализ кластера 1228
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Musical    1
+War        1
+
+Топ-10 тегов:
+tag
+100                   3
+AFI                   3
+Marx                  2
+spy                   2
+DVDs                  2
+imdb                  1
+250                   1
+kid                   1
+should                1
+see--Entertainment    1
+
+Примеры фильмов:
+                 title              genres                                                                                                                                                                                                                                                                                                                                     tag
+1228  Duck Soup (1933)  Comedy|Musical|War  erlend's DVDs musical political National Film Registry Betamax funny humanly possible Annemari Emerson must see slapstick Tumey's DVDs Marx brothers Marx Brothers Leo McCarey movies every kid should see--Entertainment Weekly satire spy team AFI 100 (Laughs) AFI #85 spy black and white imdb top 250 100 Greatest Movies AFI 100

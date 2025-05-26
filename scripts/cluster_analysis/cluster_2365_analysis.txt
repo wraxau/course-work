@@ -1,0 +1,25 @@
+Анализ кластера 2365
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Comedy       1
+
+Топ-10 тегов:
+tag
+trash        1
+can          1
+fashion      1
+guilty       1
+pleasure     1
+Nostalgia    1
+Critic       1
+Betamax      1
+puppets      1
+Acting       1
+
+Примеры фильмов:
+                                    title                     genres                                                                                                   tag
+2365  Garbage Pail Kids Movie, The (1987)  Adventure|Children|Comedy  trash can fashion guilty pleasure Nostalgia Critic Betamax puppets Acting 80s cult film campy cheesy

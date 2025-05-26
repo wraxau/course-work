@@ -1,0 +1,25 @@
+Анализ кластера 2300
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Drama        1
+
+Топ-10 тегов:
+tag
+comedy       3
+animal       3
+animals      2
+children     2
+bacon        1
+animation    1
+dark         1
+scirpt       1
+humor        1
+Hugo         1
+
+Примеры фильмов:
+                             title                    genres                                                                                                                                                                                                                                                                                                                                                                                                           tag
+2300  Babe: Pig in the City (1998)  Adventure|Children|Drama  bacon comedy lighthearted animated animal:pig different cute pigs babe children comedy comedy for kids animal sympathy Children pig based book George Miller animal movie animals good Masterpiece animal rights acting funny encantadora dark scirpt children humor Hugo Weaving dumb talking animals Animals animation Babe sleeper dialogue steak cinematographer:Andrew Lesnie farm crap well done Cute!

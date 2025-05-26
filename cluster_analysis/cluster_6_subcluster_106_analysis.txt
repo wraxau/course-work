@@ -1,0 +1,29 @@
+Анализ подкластера 106 в кластере 6
+Размер подкластера: 61 фильмов
+Средний рейтинг: 2.73
+Медиана рейтинга: 2.67
+Дисперсия рейтинга: 0.84
+
+Топ-5 жанров:
+genres
+Drama        28
+Action       14
+Adventure    14
+Comedy       13
+Thriller     12
+
+Топ-5 тегов:
+tag
+nudity    4
+(full     2
+John      2
+James     2
+Ryan      1
+
+Примеры фильмов:
+                                       title  rating                                   genres                  tag
+26276           In His Father's Shoes (1997)     1.5                           Children|Drama                  NaN
+26277  Jim Norton: Please Be Offended (2012)     3.5                                   Comedy          Ryan Polito
+26278       The Secret of Dr. Kildare (1939)     2.5                                    Drama                  NaN
+26279                  The Sky Dragon (1949)     NaN  Adventure|Comedy|Crime|Mystery|Thriller      Lesley Selander
+26280           The Man Without a Map (1968)     NaN                                  Mystery  Hiroshi Teshigahara

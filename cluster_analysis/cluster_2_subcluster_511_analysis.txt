@@ -1,0 +1,29 @@
+Анализ подкластера 511 в кластере 2
+Размер подкластера: 38 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.23
+
+Топ-5 жанров:
+genres
+Drama       22
+Comedy      15
+Romance      8
+Thriller     5
+Action       5
+
+Топ-5 тегов:
+tag
+spy        3
+noir       3
+history    3
+film       3
+comedy     2
+
+Примеры фильмов:
+                                                                                                                       title    rating                     genres                                                                                                                                                 tag
+18093                                                                                                        Puncture (2011)  3.339080                      Drama    might like Adam Kassen sad ending Mark Kassen david and goliath underdog drugs inspirational chris evans inspiring depressing lawyers true story
+18095                                                                                         Little Bit of Heaven, A (2011)  3.094595       Comedy|Drama|Romance                                                                                           cancer the guy wasn't even that attractive cheesy disease
+18102                                                                                           Johnny English Reborn (2011)  3.072973  Adventure|Comedy|Thriller  secret service comedy spy thriller unrealistic Funny gadget car sequel Rowan Atkinson Rosamund Pike assassin predictable Oliver Parker gadgets spy
+18107                                                                                                Marseillaise, La (1938)  3.250000                  Drama|War                                                                                                   French Revolution history long Jean Renoir France
+18109  Love Affair, or the Case of the Missing Switchboard Operator (Ljubavni slucaj ili tragedija sluzbenice P.T.T.) (1967)  3.285714                      Drama                                                                                                                  bloggers Dusan Makavejev Criterion

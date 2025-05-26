@@ -1,0 +1,29 @@
+Анализ подкластера 20 в кластере 1
+Размер подкластера: 111 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.53
+
+Топ-5 жанров:
+genres
+Drama          51
+Comedy         32
+Thriller       24
+Action         21
+Documentary    15
+
+Топ-5 тегов:
+tag
+comedy    8
+music     6
+French    6
+acting    6
+drama     6
+
+Примеры фильмов:
+                                                           title  rating                         genres                                                          tag
+23084                          Always Leave Them Laughing (1949)   2.500                   Comedy|Drama                                                          NaN
+23087                                        Bitter Feast (2010)   3.000         Comedy|Horror|Thriller                                                          NaN
+23094                            The Pursuit of Happiness (1971)   3.875                          Drama                                                          NaN
+23098  Inspector Palmu's Error (Komisario Palmun erehdys) (1960)   3.350  Comedy|Crime|Mystery|Thriller                                                Matti Kassila
+23108                                         Dorian Gray (1970)   3.000                   Drama|Horror  Oscar Wilde adapted from:book based book author:Oscar Wilde

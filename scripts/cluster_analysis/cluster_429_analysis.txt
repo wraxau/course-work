@@ -1,0 +1,21 @@
+Анализ кластера 429
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+best          1
+comedy        1
+'90           1
+Mick          1
+Jackson       1
+short-term    1
+memory        1
+loss          1
+
+Примеры фильмов:
+                  title  genres                                                  tag
+429  Clean Slate (1994)  Comedy  best comedy '90 Mick Jackson short-term memory loss

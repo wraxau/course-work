@@ -1,0 +1,29 @@
+Анализ подкластера 88 в кластере 6
+Размер подкластера: 15 фильмов
+Средний рейтинг: 2.85
+Медиана рейтинга: 3.07
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Drama        9
+Comedy       6
+Horror       3
+Crime        1
+Film-Noir    1
+
+Топ-5 тегов:
+tag
+Award         2
+Academy       2
+2015          2
+Dardenne      2
+Nomination    1
+
+Примеры фильмов:
+                                        title    rating                   genres                                                  tag
+24119  Happy New Year (La Bonne Année) (1973)  3.500000       Comedy|Crime|Drama           added dialogue Lino Ventura Claude Lelouch
+24120                     Are You Here (2014)  2.689189                   Comedy  nudity (topless) drama mental illness disappointing
+24121                   Alligator Eyes (1990)  3.250000  Drama|Film-Noir|Mystery                                                  NaN
+24122           Clown and the Kid, The (1961)  3.000000                    Drama                                                  NaN
+24123              Welcome to New York (2014)  3.071429                    Drama                       Abel Ferrara strong raw unique

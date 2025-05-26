@@ -1,0 +1,15 @@
+Анализ кластера 1705
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                    title        genres  tag
+1705  Mass Transit (1998)  Comedy|Drama  NaN

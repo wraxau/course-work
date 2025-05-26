@@ -1,0 +1,29 @@
+Анализ подкластера 30 в кластере 3
+Размер подкластера: 56 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.43
+
+Топ-5 жанров:
+genres
+Drama       35
+Crime       14
+Comedy      10
+Thriller    10
+Romance      8
+
+Топ-5 тегов:
+tag
+story     6
+love      4
+nudity    4
+like      3
+(full     3
+
+Примеры фильмов:
+                            title    rating              genres                                                                                                                    tag
+19117   Phyllis and Harold (2008)  4.000000         Documentary                                                                                                                    NaN
+19118       Letters to God (2010)  3.500000      Children|Drama                                                                                                                    NaN
+19119               Bernie (2011)  3.429005  Comedy|Crime|Drama  funeral home black comedy mockumentary mathew mcconaughey Jack Black Richard Linklater Texas true story Gay Character
+19120            Desi Boyz (2011)  2.937500        Comedy|Drama                                                                  orphan London male prostitute bollywood gigolo Indian
+19121  Ten North Frederick (1958)  3.500000       Drama|Romance                                                                                                           Philip Dunne

@@ -1,0 +1,25 @@
+Анализ кластера 2032
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+good          3
+plot          2
+voodoo        2
+Lucas         2
+DVDs          2
+movie         2
+mythology     2
+treasure      2
+Collection    1
+DVD           1
+
+Примеры фильмов:
+                                            title                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+2032  Indiana Jones and the Temple of Doom (1984)  Action|Adventure|Fantasy  erlend's DVDs Want John Williams jb's dvds not good Amrish Puri Indiana Jones father-son relationship archaeology treasure treasure hunt mythology action torture thriller good but one sadistic scene very funny! franchise joseph campbell's study mythology influenced india mind control want voodoo doll Tumey's DVDs Anamorphic Blow-Up owned Short Round classic 70mm pulp plot point:solving riddles/puzzles Roshan Seth voodoo Lucas archeology George Lucas story BD-Video seen 2015 heart ripped out interesting Oscar (Best Effects Visual Effects) DVD Collection spielberg dvd Harrison Ford indiana sequel orientalist offensive adventure good movie Steven Spielberg Kate Capshaw intentionally annoying heroine idiot plot old movie mediocre Jonathan Quan tomb raiding child labor

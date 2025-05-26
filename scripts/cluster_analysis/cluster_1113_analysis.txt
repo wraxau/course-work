@@ -1,0 +1,25 @@
+Анализ кластера 1113
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+comedy      5
+python      3
+funny       3
+british     2
+own         2
+Comedy      2
+monty       2
+British     2
+quotable    2
+ending      2
+
+Примеры фильмов:
+                                       title                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+1113  Monty Python and the Holy Grail (1975)  Adventure|Comedy|Fantasy  humorous english absurd Watched Terry Gilliam slow funniest movies spoof Biblical middle ages directorial debut king arthur Graham Chapman humor parody Terry Jones breaking the fourth wall cult film Good dialogues Favorite this best movie world don't remember 1970s humour overrated see: comedy disc Monty Python Fun doune monty python 70s funny satire witty British comedy MontyPython Eric Idle british comedy imdb top 250 ending holy grail religion own high school excellent dialogue extremely funny Old comedy history multiple roles Hilarious intelligent Gilliam monthy python surreal seen more once mob Silly Christianity Tumey's DVDs knights goofy monty python alumni quirky but good ruined nerds Gfei own VHS inventive Arthurian legend England Myth quotable kupienia bizarre ending irreverant Classic Comedy john cleese Highly quotable Quotable hilarious accents off-beat comedy British John Cleese frantic Michael Palin rabbits influential NO_FA_GANES Divx awesome medieval satirical very funny classic Comedy BD-Video Funny hell King Arthur ridiculous silly irreverent chivalry british humour

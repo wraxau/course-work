@@ -1,0 +1,25 @@
+Анализ кластера 12
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+
+Топ-10 тегов:
+tag
+dogs        2
+muista      1
+animated    1
+dogsled     1
+wolves      1
+sort        1
+boring      1
+Simon       1
+Wells       1
+talking     1
+
+Примеры фильмов:
+           title                        genres                                                                                    tag
+12  Balto (1995)  Adventure|Animation|Children  muista animated dogsled wolves sort boring dogs Simon Wells talking animals sled dogs

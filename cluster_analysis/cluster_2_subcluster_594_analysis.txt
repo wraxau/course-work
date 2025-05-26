@@ -1,0 +1,29 @@
+Анализ подкластера 594 в кластере 2
+Размер подкластера: 21 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama          9
+Comedy         7
+Romance        4
+Documentary    3
+Horror         3
+
+Топ-5 тегов:
+tag
+Best         2
+Tomatoes:    2
+All          2
+Time         2
+Rotten       2
+
+Примеры фильмов:
+                                                                       title    rating                   genres                                                                                    tag
+16508                                                             Mág (1988)  3.000000                    Drama                                                                                    NaN
+16512                                             Order of Myths, The (2008)  3.785714              Documentary                                          Best Rotten Tomatoes: All Time Margaret Brown
+16513                                                      Waste Land (2010)  3.782828              Documentary  Best Rotten Tomatoes: All Time João Jardim Lucy Walker 06/11 poverty Karen Harley art
+16523                                       Cirque du Soleil: Dralion (2001)  3.357143  Fantasy|Musical|Mystery                                                                   circus Cirque Soleil
+16526  Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him?) (2010)  3.656250              Documentary                                                            John Scheinfeld 11/11 01/12

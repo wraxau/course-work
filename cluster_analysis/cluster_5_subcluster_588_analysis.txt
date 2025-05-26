@@ -1,0 +1,29 @@
+Анализ подкластера 588 в кластере 5
+Размер подкластера: 32 фильмов
+Средний рейтинг: 2.86
+Медиана рейтинга: 2.93
+Дисперсия рейтинга: 0.51
+
+Топ-5 жанров:
+genres
+Drama          16
+Thriller        7
+Comedy          7
+Documentary     5
+Horror          3
+
+Топ-5 тегов:
+tag
+boring     4
+drama      4
+story      4
+history    3
+plot       3
+
+Примеры фильмов:
+                                                                   title    rating                genres                                                           tag
+19773                                                   Four Sons (1940)  3.000000             Drama|War                                                           NaN
+19782                                        King Leopold's Ghost (2006)  3.500000           Documentary  colonialism documentary history Pippa Scott Congo Oreet Rees
+19790                                       Paranormal Activity 4 (2012)  2.438776           Horror|IMAX                    found footage plot scary IMAX Digital only
+19800  Strange Case of the End of Civilization as We Know It, The (1977)  2.500000  Comedy|Crime|Mystery                                            John Cleese absurd
+19824                                         Like Dandelion Dust (2009)  3.357143                 Drama                                                      Jon Gunn

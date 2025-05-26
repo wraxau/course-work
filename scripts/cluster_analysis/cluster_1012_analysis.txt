@@ -1,0 +1,25 @@
+Анализ кластера 1012
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Musical      1
+
+Топ-10 тегов:
+tag
+live                2
+motorcycle          1
+adapted             1
+(UK)                1
+action/animation    1
+BD-Video            1
+WWII                1
+Angela              1
+Lansbury            1
+Roddy               1
+
+Примеры фильмов:
+                                title                      genres                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1012  Bedknobs and Broomsticks (1971)  Adventure|Children|Musical  motorcycle Bechdel Test:Pass (barely) musical setting:WWII British animal:rabbit David Tomlinson evil churchman seen more once Disney sport:soccer football setting:England library (scene) animal:cat animation live action interact London setting:London (UK) live action/animation BD-Video WWII Angela Lansbury Roddy McDowall 1970s adapted from:book Robert Stevenson magic related:The Island Dr. Moreau (book) family author:Mary Norton

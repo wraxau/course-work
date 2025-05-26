@@ -1,0 +1,29 @@
+Анализ подкластера 178 в кластере 8
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.48
+Медиана рейтинга: 3.53
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama        10
+Film-Noir     3
+Mystery       3
+Romance       2
+Thriller      2
+
+Топ-5 тегов:
+tag
+great           5
+relationship    4
+acting          4
+adapted         4
+Oscar           4
+
+Примеры фильмов:
+                                                title    rating                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+17915                                    Taxi! (1932)  2.571429       Crime|Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+17916                Tinker Tailor Soldier Spy (2011)  3.624294  Drama|Film-Noir|Thriller  Colin Firth photography atmospheric Beautifully shot Oscar nom incoherent based book clever thriller homoerotic Benedict Cumberbatch Tom Hardy author:John CarrÃ© Cold War Mark Strong spies slow paced atmosphere instagram look acting BAr suspense espionage seventies John Carre John Hurt opaque London Spies great direction spy drama cinematography confusing Double agent loneliness Tomas Alfredson sentimentality dvr intelligence cold war otherness adapted from:book spændende. helvedes til author:John CarrÃ© (David John Moore Cornwell) convoluted story betrayal spy duty Gary Oldman BAdapted Screenplay MI6 Sparingly told prospect England confusing plot confusion
+17917  Separation, A (Jodaeiye Nader az Simin) (2011)  3.955384                     Drama                                                                                                                                                                                                               photography Oscar nom great acting Farsi society Asghar Farhadi script realism foreign great story depth reviewed courtroom drama Oscar Oscar (Best Foreign Language Film) modern tense acting Middle East persia realistic drama BOriginal Screenplay morally complex social commentary iran abortion simplicity Alzheimer's disease toplist11 Poor People veil lies husband-wife relationship imdb top 250 Persian divorce Iran foreign language religion open ending BFLF
+17918                      Dangerous Method, A (2011)  3.206278            Drama|Thriller                                                                                                                                                                                                                                                                                                                                                             history adultery Micahel Fassbender old setting Michael Fassbender psychology complicated relationship sexuality adapted from:book play biopic Viggo Mortensen Keira Knightley Screenplay sexuality:BDSM adapted from:play adapted from:book psychoanalaysis Direction Psychoanalysis period piece David Cronenberg infidelity
+17919                             Man's Castle (1933)  3.800000             Drama|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Frank Borzage

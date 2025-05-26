@@ -1,0 +1,29 @@
+Анализ подкластера 185 в кластере 3
+Размер подкластера: 52 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.59
+
+Топ-5 жанров:
+genres
+Drama          21
+Comedy         18
+Thriller       11
+Action         11
+Documentary     7
+
+Топ-5 тегов:
+tag
+bad       12
+ending    12
+IMAX       8
+comedy     8
+plot       7
+
+Примеры фильмов:
+                                                      title    rating                      genres                                                          tag
+21255                                           Eden (2012)  3.541667                 Crime|Drama                   Jamie Chung modern slavery sex trafficking
+21256                Days of Grace (Días de gracia) (2011)   2.071429                    Thriller                                                          NaN
+21257                          Place at the Table, A (2012)  3.538462                 Documentary                                                      poverty
+21258  Fullmetal Alchemist: The Sacred Star of Milos (2011)  3.686747  Action|Adventure|Animation             Magic Steampunk Brothers Alchemy Teenagers Anime
+21259                                American Idiots (2013)  1.000000              Comedy|Romance  nudity (topless) road trip low budget bad acting bad script

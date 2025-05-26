@@ -1,0 +1,23 @@
+Анализ кластера 2216
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+musical      1
+Funny        1
+brilliant    1
+fraud        1
+Wilder       1
+Gene         1
+Brooks       1
+Mel          1
+Broadway     1
+Theater      1
+
+Примеры фильмов:
+                      title  genres                                                                                                                                                                                                                                                tag
+2216  Producers, The (1968)  Comedy  musical Below National Film Registry remade Friends Should See reviewed directorial debut funny show business perfect comedy Funny hell theater AFI 100 (Laughs) nazis Theater Broadway Mel Brooks Gene Wilder fraud brilliant sdfsdfsdfsdfsdfsdf

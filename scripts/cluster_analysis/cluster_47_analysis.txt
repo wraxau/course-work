@@ -1,0 +1,27 @@
+Анализ кластера 47
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Drama        1
+Musical      1
+Romance      1
+
+Топ-10 тегов:
+tag
+Disney         3
+Oscar          2
+Music          2
+Original       2
+(Best          2
+the            2
+romance        2
+sidekicks      2
+interracial    1
+for            1
+
+Примеры фильмов:
+                title                                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+47  Pocahontas (1995)  Animation|Children|Drama|Musical|Romance  Oscar (Best Music Original Song) Mel Gibson musical soundtrack princess series David Ogden Stiers Super 1.85 Blow-Up Irene Bedard Native Americans Skinny Pocahontas 1600s Disney Related:Pocahontas (1995) indians get 90s kid NO_FA_GANES Ø§Ø­Ø³Ø§Ø³Ø§ØªÙŠ Oscar (Best Music Original Score) romance too short stereotypes 70mm Disney animated feature Russell Means nostalgic story talking animals interracial romance Disney Renaissance animation sidekicks for the sidekicks strong female lead Not according the truth Cartoon Judy Kuhn dialogue Eric Goldberg Mike Gabriel Katottava historically inaccurate John Kassir

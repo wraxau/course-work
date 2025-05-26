@@ -1,0 +1,29 @@
+Анализ подкластера 64 в кластере 0
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.48
+Медиана рейтинга: 3.43
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama       9
+Thriller    3
+Comedy      3
+Romance     3
+War         2
+
+Топ-5 тегов:
+tag
+the      8
+story    8
+great    8
+based    8
+Oscar    7
+
+Примеры фильмов:
+                                      title    rating            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+10572                        Jarhead (2005)  3.471073  Action|Drama|War  nudity (topless) Jamie Foxx MOLT_CRITICADA Gulf War History Desert Storm Brett Northcutt watched 2006 Sam Mendes Seen 2007 memasa's movies dani2005 jake gylenhaal based book true story Biography war Legenda PT-BR biopic Cool. But Drama MOLT_AVORRIDA vhs Jake Gyllenhaal Middle East too artsy pacifist naive look war; half-baked script sniper not war movie. male bonding real rap the end hard plot follow Modern war iraq Netflix queue 1980s what's the point? anti-war War
+10574      Holy Guests (Ha-Ushpizin) (2004)  3.647059             Drama                                                                                                                                                                                                                                                                                                                                                         gentle comedy Sukkot Israeli past life hasidim Jewish houseguest Jerusalem israel religion Giddi Dar not available from Netflix
+10577                   Al otro lado (2004)  5.000000             Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Gustavo Loza
+10579  Joyeux Noël (Merry Christmas) (2005)  3.800839         Drama|War                                                                           French Diane Kruger german moving true story foreign fraternization with the enemy PG-13 war Xmas theme(?) But What Did They After New Years: Resolve Kill ALL Enemies Tumey's DVDs Pastelon humane multinational settings France Daniel BrÃ¼hl Christmas Oscar Nominated Best Movie Animation Mejor Enemigo (2005) French Film library singing 1910s World War based true story Christian Carion french PG13
+10581              Brides of Dracula (1960)  3.150000            Horror                                                                                                                                                                                                                                                                                                                                                                                                         deceptive title vampires Hammer Horror Peter Cushing Van Helsing monster hunter

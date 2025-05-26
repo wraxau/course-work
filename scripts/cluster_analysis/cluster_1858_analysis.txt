@@ -1,0 +1,23 @@
+Анализ кластера 1858
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+(Best                     2
+library                   2
+Oscar                     2
+vhs                       1
+Shakespeare               1
+playwright:Shakespeare    1
+play                      1
+based                     1
+from:play                 1
+adapted                   1
+
+Примеры фильмов:
+              title genres                                                                                                                                                                                               tag
+1858  Hamlet (1948)  Drama  Laurence Olivier stage library adultery Hamlet Tumey's DVDs Criterion Oscar (Best Actor) library vhs murder adapted from:play based play playwright:Shakespeare Shakespeare Oscar (Best Picture)

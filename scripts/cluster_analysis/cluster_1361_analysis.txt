@@ -1,0 +1,24 @@
+Анализ кластера 1361
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+social          1
+100             1
+disgusting      1
+Underrated      1
+done            1
+well            1
+Performances    1
+Female          1
+Essential       1
+abortion        1
+
+Примеры фильмов:
+                    title        genres                                                                                                                                                  tag
+1361  Citizen Ruth (1996)  Comedy|Drama  social satire Alexander Payne directorial debut want see again abortion 100 Essential Female Performances well done Underrated disgusting pregnancy

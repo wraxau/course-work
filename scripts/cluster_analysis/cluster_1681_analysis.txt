@@ -1,0 +1,20 @@
+Анализ кластера 1681
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+Howie           1
+Long            1
+firefighters    1
+Firefighters    1
+fire            1
+
+Примеры фильмов:
+                 title                     genres                                        tag
+1681  Firestorm (1998)  Action|Adventure|Thriller  Howie Long firefighters Firefighters fire

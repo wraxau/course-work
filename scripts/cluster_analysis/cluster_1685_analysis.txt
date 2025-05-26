@@ -1,0 +1,18 @@
+Анализ кластера 1685
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Romance    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+less         1
+300          1
+ratings      1
+
+Примеры фильмов:
+                        title   genres                                tag
+1685  Leading Man, The (1996)  Romance  nudity (topless) less 300 ratings

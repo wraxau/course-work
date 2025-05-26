@@ -1,0 +1,25 @@
+Анализ кластера 2231
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy      1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+horror        2
+Jennifer      1
+Tilly         1
+dolls         1
+franchise     1
+dark          1
+humor         1
+Chucky        1
+Ronny         1
+explosions    1
+
+Примеры фильмов:
+                                        title                  genres                                                                                                 tag
+2231  Bride of Chucky (Child's Play 4) (1998)  Comedy|Horror|Thriller  Jennifer Tilly horror dolls franchise dark humor Chucky Ronny explosions bad horror serial killers

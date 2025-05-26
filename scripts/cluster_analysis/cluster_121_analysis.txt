@@ -1,0 +1,25 @@
+Анализ кластера 121
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Mystery    1
+Romance    1
+
+Топ-10 тегов:
+tag
+Wong          3
+good          2
+Wai           2
+love          2
+loneliness    1
+ironic        1
+scenic        1
+lyrical       1
+Faye          1
+cops          1
+
+Примеры фильмов:
+                                             title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+121  Chungking Express (Chung Hing sam lam) (1994)  Drama|Mystery|Romance  Tony Leung Chiu Wai Wong Kar-wai sunglasses ticket great acting MISTAKEN IDENTITIES nocturnal birthday amelie-esque Movielens QuickPick jukebox very good script love wong kar wai OPPOSITES ATTRACT jogging indians Wong Kar Wai love story shopping list Chungking Mansions May narrated pineapple BRIEF ENCOUNTERS plot light good music stewardess cinematography airport melancholy Takeshi Kaneshiro fanciful loneliness dvr cops Faye Wong lyrical scenic ironic smuggling reflective excellent urbane BREAKUPS AND DIVORCES foggy time Criterion library vhs HongKong Hong Kong obsession dreamlike stylized

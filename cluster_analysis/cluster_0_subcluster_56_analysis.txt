@@ -1,0 +1,29 @@
+Анализ подкластера 56 в кластере 0
+Размер подкластера: 22 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama       12
+Comedy       9
+Horror       5
+Sci-Fi       4
+Thriller     4
+
+Топ-5 тегов:
+tag
+the        7
+movie      5
+watched    4
+ghosts     4
+horror     4
+
+Примеры фильмов:
+                                                                                                  title    rating                                  genres                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+9420                       Resurrection of the Little Match Girl (Sungnyangpali sonyeoui jaerim) (2002)  3.142857                    Action|Comedy|Sci-Fi                                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+9425                                                                            Ju-on: The Curse (2000)  3.509615                                  Horror                                                                                                                                                                                                                                                                                                                                                                                                vengeful spirit revenge ghosts
+9455                               Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004)  3.738960  Action|Animation|Drama|Sci-Fi|Thriller  atmospheric better the first visually appealing easily confused with other movie(s) (title) amazing artwork crime dialogue driven cyberpunk ghosts philosophical dialouge driven not good the first conscience cerebral controversial artificial intelligence 2D/3D hybrid Animation Theme escape reality Mamoru Oshii sci-fi animation anime alternate reality more plotline the first robots btaege Better the First Anime
+9465                                      Far Side of the Moon, The (Face cachée de la lune, La) (2003)  3.229167                                   Drama                                                                                              multiple roles Russia telemarketing deceased family member cosmonauts space program sauna fish losers brother-brother relationship satire melancholy mother-son relationship dvr childhood workplace tattoo brothers elevator 1960s liars moon weatherman Robert Lepage gay couple drugs astronauts suicide Canada Gay Character
+9472  Easy Riders, Raging Bulls: How the Sex, Drugs and Rock 'N' Roll Generation Saved Hollywood (2003)  3.487179                             Documentary                                                                                                                                                                                                                                                                                                                                                                                                             04/11 03/11 02/11

@@ -1,0 +1,17 @@
+Анализ кластера 209
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Mike      1
+Figgis    1
+might     1
+like      1
+
+Примеры фильмов:
+                            title genres                     tag
+209  Browning Version, The (1994)  Drama  Mike Figgis might like

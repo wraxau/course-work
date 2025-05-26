@@ -1,0 +1,25 @@
+Анализ кластера 1865
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+Romance      1
+
+Топ-10 тегов:
+tag
+Oscar         2
+(Best         2
+Directing)    1
+Tony          1
+Richardson    1
+british       1
+new           1
+wave          1
+British       1
+adapted       1
+
+Примеры фильмов:
+                 title                    genres                                                                                                     tag
+1865  Tom Jones (1963)  Adventure|Comedy|Romance  Oscar (Best Directing) Tony Richardson british new wave British adapted from:book Oscar (Best Picture)

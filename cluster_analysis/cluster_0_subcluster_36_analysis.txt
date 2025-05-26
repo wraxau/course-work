@@ -1,0 +1,29 @@
+Анализ подкластера 36 в кластере 0
+Размер подкластера: 81 фильмов
+Средний рейтинг: 3.24
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama        47
+Comedy       32
+Action       17
+Adventure     9
+Crime         9
+
+Топ-5 тегов:
+tag
+ratings    13
+book       13
+300        13
+the        12
+based      10
+
+Примеры фильмов:
+                                                        title    rating           genres                                                                                                                                                                                                                                                                                                                 tag
+9572            Sexual Dependency (Dependencia sexual) (2003)  3.333333            Drama                                                                                                                                                                                                                                                                                                                 NaN
+9576                                Hell Is for Heroes (1962)  3.430000        Drama|War                                                                                                                                                                                                                                                         less 300 ratings Don Siegel FEWER 300 ratings Steve McQueen
+9580                      Goodbye, Dragon Inn (Bu san) (2003)  3.425373     Comedy|Drama                                                                                                                                                                                                                                                                                                                 NaN
+9586  Blood and Black Lace (Sei donne per l'assassino) (1964)  3.234043  Horror|Thriller                                                                                                                                                                           Mystery stylish Slasher fashion Fashion House soundtrack lighting bad dub fashion industry Models main character Killer Giallo Mario Bava
+9601                       Love Song for Bobby Long, A (2004)  3.582412            Drama  Louisiana deceased family member Scarlett Johansson seen 2010 based book coming age professor creative plot perrot library seen more once writers university alcoholism romance drama Music interesting characters dvr must see John Travolta want see again Netflix queue Gabriel Macht New Orleans Shainee Gabel

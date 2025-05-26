@@ -1,0 +1,28 @@
+Анализ подкластера 136 в кластере 1
+Размер подкластера: 11 фильмов
+Средний рейтинг: 2.75
+Медиана рейтинга: 2.85
+Дисперсия рейтинга: 1.39
+
+Топ-5 жанров:
+genres
+Comedy                5
+Children              3
+Drama                 3
+Horror                2
+(no genres listed)    1
+
+Топ-5 тегов:
+tag
+01/15    1
+04/15    1
+03/15    1
+02/15    1
+
+Примеры фильмов:
+                                    title    rating                               genres                      tag
+26721               The Family Way (1966)  4.000000                               Comedy                      NaN
+26722            The Moving Finger (1985)  2.500000                   (no genres listed)                      NaN
+26723  Kevin Smith: Too Fat For 40 (2010)  2.846154                               Comedy  01/15 04/15 03/15 02/15
+26724                      SeaFood (2012)  4.500000  Adventure|Animation|Children|Comedy                      NaN
+26725              Reign of Terror (1949)  3.250000                                Drama                      NaN

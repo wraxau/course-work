@@ -1,0 +1,29 @@
+Анализ подкластера 97 в кластере 8
+Размер подкластера: 17 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.15
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama          9
+Thriller       5
+Documentary    4
+Comedy         3
+Mystery        2
+
+Топ-5 тегов:
+tag
+cinematography    3
+family            3
+acting            3
+bad               3
+soundtrack        2
+
+Примеры фильмов:
+                                                                 title    rating                          genres                                                                                                                                                                                                                                       tag
+18057  Last Days of Pompeii, The (Gli ultimi giorni di Pompeii) (1913)  2.500000                 Adventure|Drama                                                                                                                                                                                   Romans Pompeii TOGA silent volcano Isis Special Effects
+18058                                             Catching Hell (2011)  3.833333                     Documentary                                                                                                                                                                       baseball media collusion. Innocent victim sports btaege Alex Gibney
+18059                                                 Footloose (2011)  3.097826            Comedy|Drama|Musical                                                                                                                                                  fav small town remake Christianity rock and roll dance teen religion high school dancing
+18060                                                Thing, The (2011)  3.146429  Horror|Mystery|Sci-Fi|Thriller  inferior original horror alien invasion continuity practical effects lens flare remake Norwegian Antarctica aliens lame score Mary Elizabeth Winstead space ship claustrophobic snow clean cinematography polar sci-fi paranoia research
+18061                                                     Lemmy (2010)  3.475000                     Documentary                                                                                                                                                         erlend's DVDs heavy metal talking heads rock and roll superficial 01/12 unfocused

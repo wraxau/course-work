@@ -1,0 +1,24 @@
+Анализ кластера 2268
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+good           3
+nudity         1
+cast           1
+soundtracks    1
+vision         1
+Lawrence       1
+Kasdan         1
+acting         1
+Zim            1
+ensemble       1
+
+Примеры фильмов:
+                      title        genres                                                                                                                                                                                                                                                                                                                       tag
+2268  Big Chill, The (1983)  Comedy|Drama  nudity (topless) funeral villain nonexistent not needed for good story notable soundtrack Charles drugdealers complex characters Parzen good unlikely friendships wired greatest soundtracks vision Lawrence Kasdan good acting Zim ensemble cast Glenn Close Nudity (Topless) friendship inspiration. Criterion suicide

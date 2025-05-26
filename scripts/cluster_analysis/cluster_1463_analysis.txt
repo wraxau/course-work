@@ -1,0 +1,23 @@
+Анализ кластера 1463
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+All         1
+Sudden      1
+You         1
+Feel        1
+Guilty      1
+About       1
+Bangin'     1
+Yer         1
+Own         1
+Daughter    1
+
+Примеры фильмов:
+                 title genres                                                                      tag
+1463  Traveller (1997)  Drama  All Sudden You Feel Guilty About Bangin' Yer Own Daughter Why Stop Now?

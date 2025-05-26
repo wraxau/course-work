@@ -1,0 +1,29 @@
+Анализ подкластера 195 в кластере 6
+Размер подкластера: 9 фильмов
+Средний рейтинг: 2.52
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.37
+
+Топ-5 жанров:
+genres
+Drama        6
+Adventure    3
+Romance      2
+Thriller     2
+War          2
+
+Топ-5 тегов:
+tag
+John        1
+Boulting    1
+Harold      1
+Bucquet     1
+Also        1
+
+Примеры фильмов:
+                                 title    rating                            genres                                               tag
+26542             The Magic Box (1951)       NaN                             Drama                                     John Boulting
+26543   The Adventures of Tartu (1943)  3.000000        Drama|Romance|Thriller|War  Harold Bucquet Also known title "Sabotage Agent"
+26544      Knight Without Armor (1937)  2.000000  Adventure|Drama|Romance|Thriller                                               NaN
+26545            Winning Streak (2012)  3.166667                             Drama    based real facts Spain roulette Chinese casino
+26546  The Flesh and the Fiends (1961)  1.500000                            Horror                                               NaN

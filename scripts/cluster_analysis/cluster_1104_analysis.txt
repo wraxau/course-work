@@ -1,0 +1,26 @@
+Анализ кластера 1104
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+submarine            2
+dogfight             1
+sci-fi               1
+thought-provoking    1
+Collection           1
+DVD                  1
+Ocean                1
+Deep                 1
+first                1
+Harris               1
+
+Примеры фильмов:
+                  title                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1104  Abyss, The (1989)  Action|Adventure|Sci-Fi|Thriller  first contact amazing photography rating very dependent version ocean Super-35 Blow-Up James Cameron Plastic Alien Ship Nudity (Topless Brief) submarine Dynamic CGI Action memasa's movies See storyline Saturn Award (Best Director) too long Futuristmovies.com alien seen more once effects Mary Elizabeth Mastrantonio aliens Aliens 70mm submarine dogfight Deep Ocean DVD Collection thought-provoking sci-fi Harris water Underwater Michael Biehn paranoia ending classic sci lengthy POT_ESTAR_BE Technology Interesting don't remember Visual Effects Underrated

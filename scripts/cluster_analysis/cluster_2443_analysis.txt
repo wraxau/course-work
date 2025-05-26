@@ -1,0 +1,26 @@
+Анализ кластера 2443
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Sci-Fi      1
+Thriller    1
+Western     1
+
+Топ-10 тегов:
+tag
+sci-fi        3
+androids      2
+robots        2
+suspense      1
+infidelity    1
+cyborgs       1
+Crichton      1
+Michael       1
+fiction       1
+Historic      1
+
+Примеры фильмов:
+                 title                          genres                                                                                                                                                                                                                                                                          tag
+2443  Westworld (1973)  Action|Sci-Fi|Thriller|Western  Yul Brynner androids good soundtrack out control androids Futuristmovies.com michael chrichton downbeat Tumey's DVDs wissenschaftliche sci-fi suspense Richard Benjamin 70s sci-fi sci-fi might like Historic fiction Michael Crichton robots cyborgs infidelity sex robots

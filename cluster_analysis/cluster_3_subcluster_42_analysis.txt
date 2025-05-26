@@ -1,0 +1,29 @@
+Анализ подкластера 42 в кластере 3
+Размер подкластера: 35 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama       16
+Comedy      15
+Crime        4
+Thriller     4
+Children     3
+
+Топ-5 тегов:
+tag
+book       9
+adapted    6
+Nudity     6
+70mm       5
+based      5
+
+Примеры фильмов:
+                               title    rating                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+3044  Bonfire of the Vanities (1990)  2.445181       Comedy|Crime|Drama                                                                                                                                                                                                                                                                                                                                               70mm Brian Palma courtroom drama Super-35 Blow-Up Morgan Freeman media Bruce Willis Tom Hanks adapted from:book underrated
+3071            Stuart Little (1999)  2.891186  Children|Comedy|Fantasy                                                                                                                                                                                                                                                comedy Rob Minkoff kids movie mouse based book cats childre miniatures cheesy kids hugh laurie talking mouse kids and family talking animals Michael Fox animation bad family Hugh Laurie adoption high school E.B. White
+3085          Room at the Top (1959)  3.817680                    Drama                                                                                                                                                                                                                                                                                                                                                      perrot library adultery british new wave Jack Clayton Simone Signoret Oscar (Best Actress) hulu Laurence Harvey Old
+3089             Galaxy Quest (1999)  3.581777  Adventure|Comedy|Sci-Fi  comedy Tim Allen watched 2006 Dean Parisot screwball comedy Bechdel Test:Fail space muista alien spoof seen more once plot point:fantasy ship made real Good story and funny. Tony Shalhoub funny conventions aliens spaceship Sigourney Weaver satire death/fatality parody foqam Star Trek should have sucked but didn't sci-fi star trek space opera unlikely hero actor protagonist Allen Rickman Alan Rickman Sam Rockwell feel-good hilarious! standard tim allen
+3095                    Titus (1999)  3.641194                    Drama                                                                                                nudity (topless) Worst movie ever! shakespeare visually appealing rome Jessica Lange Shakespeare perrot library Julie Taymor tense updated classics based play scope Classical Studies anachronistic Nostalgia Critic's Top Nudity (Topless) Anthony Hopkins Alan Cumming Costuming 100 Essential Female Performances good score adapted from:play playwright:Shakespeare

@@ -1,0 +1,29 @@
+Анализ подкластера 598 в кластере 5
+Размер подкластера: 62 фильмов
+Средний рейтинг: 2.84
+Медиана рейтинга: 3.11
+Дисперсия рейтинга: 0.73
+
+Топ-5 жанров:
+genres
+Drama          25
+Comedy         17
+Action         13
+Horror         11
+Documentary    10
+
+Топ-5 тегов:
+tag
+characters    5
+btaege        5
+based         4
+violence      4
+bad           4
+
+Примеры фильмов:
+                                                       title    rating                      genres                                                                                                                                                                                                                                                                                                                                                                 tag
+21113  Fast & Furious 6 (Fast and the Furious 6, The) (2013)  3.371678  Action|Crime|Thriller|IMAX  Michelle Rodriguez Justin Lin Gal Gadot Narcissistic Dwayne Johnson action Unrealistic animation boring franchise too much Sung Kang For children crime Cheesy Car Chases cars Gina Carano Ridiculous tank diverse cast fast furious Paul walker airplane Jason Statham IMAX DMR ensemble cast dialogue family btaege Dominic Toretto IMAX Digital only Vin Diesel
+21119                                       Rink, The (1916)  3.153846                      Comedy                                                                                                                                                                                                                                                                                                                                                     Charles Chaplin
+21128                                     Twonky, The (1953)  3.250000               Comedy|Sci-Fi                                                                                                                                                                                                                                                                                                                                                      VHS television
+21133               Life Back Then (Antoki no inochi) (2011)  2.000000               Drama|Romance                                                                                                                                                                                                                                                                                                death/fatality slow rythm japanese death bad ending weird characters
+21153                                       3096 Days (2013)  3.150000                       Drama                                                                                                                                                                                                                                                                                                                                         based true story kidnapping

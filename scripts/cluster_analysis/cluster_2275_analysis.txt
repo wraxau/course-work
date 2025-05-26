@@ -1,0 +1,23 @@
+Анализ кластера 2275
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+British      3
+plot         2
+Bechdel      1
+character    1
+Jones        1
+lottery      1
+tickets      1
+'Didn't      1
+This         1
+Already      1
+
+Примеры фильмов:
+                                             title  genres                                                                                                                                                                                                                                                                                                                                                                                                                tag
+2275  Waking Ned Devine (a.k.a. Waking Ned) (1998)  Comedy  Bechdel Test:Pass (barely) Ireland British wonderful light touch Irish NOT British plot point:lottery ticket quirky funny town vs. country plot revolves around troublesome dead body death/fatality feel good movie Kirk Jones lottery tickets 'Didn't This Already Happen Bernie?' significant character wheelchair feel-good phone booth irish comedy plot:small British community comes together heartwarming

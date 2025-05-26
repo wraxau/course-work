@@ -1,0 +1,29 @@
+Анализ подкластера 5 в кластере 2
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.48
+
+Топ-5 жанров:
+genres
+Drama          13
+Comedy          8
+Documentary     5
+Action          4
+Horror          4
+
+Топ-5 тегов:
+tag
+medical    2
+family     2
+hockey     2
+Betamax    2
+soldier    2
+
+Примеры фильмов:
+                                                      title    rating                genres                                           tag
+18746  Mozart's Sister (Nannerl, la soeur de Mozart) (2011)  3.363636         Drama|Romance               Mozart 18th century Renet Feret
+18758                              Poppy Shakespeare (2008)  3.500000                 Drama                                           NaN
+18761                I Saw Mommy Kissing Santa Claus (2002)  2.500000       Children|Comedy  Christmas comedy family christmas Xmas theme
+18763                                  Zone Troopers (1985)  2.800000     Action|Sci-Fi|War                             80s video Betamax
+18768      Life of Another, The (La vie d'une autre) (2012)  2.812500  Comedy|Drama|Mystery                                           NaN

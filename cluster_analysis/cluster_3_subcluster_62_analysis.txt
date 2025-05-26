@@ -1,0 +1,29 @@
+Анализ подкластера 62 в кластере 3
+Размер подкластера: 128 фильмов
+Средний рейтинг: 3.39
+Медиана рейтинга: 3.47
+Дисперсия рейтинга: 0.18
+
+Топ-5 жанров:
+genres
+Drama       66
+Comedy      40
+Thriller    24
+Romance     23
+Action      20
+
+Топ-5 тегов:
+tag
+DVDs         18
+based        17
+300          15
+Criterion    15
+ratings      15
+
+Примеры фильмов:
+                                                                    title    rating                          genres                                                                                                                                                                                                                                                                                                                                                                                               tag
+7364                                                     Fail-Safe (1964)  3.932065              Drama|Thriller|War  strategic air command author:Harvey Wheeler USA nuclear general author:Eugene Burdick Bechdel Test:Fail bomber rational Futuristmovies.com Friends Should See Henry Fonda Cold War president Frightening Sidney Lumet Joseph McCarthy adapted from:book Mutually Assured Destruction dramatic Larry Hagman Anxiety provoking! compare:Fail-Safe nuclear attack Walter Matthau Friday night movie
+7375                                            Blue Gardenia, The (1953)  3.272727  Crime|Drama|Film-Noir|Thriller                                                                                                                                                                                                                                                                                                                                                                                               NaN
+7387                                                    Summertime (1955)  3.702479                   Drama|Romance                                                                                                           adultery Bechdel Test:Pass awakening sexuality romance perrot library sexuality Katharine Hepburn Venice stereotypes David Lean middle-age romance katharine hepburn holiday romance Italy Romance setting:Venice protagonist photographer Criterion Rossano Brazzi Janus setting:Italy
+7388  Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje) (1977)  3.693038              Drama|Thriller|War                                                                                                                                                                                                                                                                gritty powerful war forceful netherlands Paul Verhoeven sweeping european Treason World War stylized tense ominous espionage dutch
+7395                                                       Chaplin (1992)  3.605687                           Drama                                                      nudity (topless) Marisa Tomei biography Robert Downey Richard Attenborough movie business Biography biographical biopic Charlie Chaplin topic:Charlie Chaplin Nudity (Topless Notable) hulu Nudity (Topless) changed life Drama Anthony Hopkins Robert Downey Jr. character based real person:Charlie Chaplin based true story Netflix queue

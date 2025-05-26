@@ -1,0 +1,17 @@
+Анализ кластера 132
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Craig      1
+Baldwin    1
+illegal    1
+art        1
+
+Примеры фильмов:
+                    title       genres                        tag
+132  Sonic Outlaws (1995)  Documentary  Craig Baldwin illegal art

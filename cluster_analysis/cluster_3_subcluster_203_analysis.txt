@@ -1,0 +1,29 @@
+Анализ подкластера 203 в кластере 3
+Размер подкластера: 40 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama        23
+Comedy       19
+Romance       8
+Adventure     5
+Horror        5
+
+Топ-5 тегов:
+tag
+Nudity    8
+movie     8
+comedy    7
+love      7
+family    7
+
+Примеры фильмов:
+                                     title    rating                                     genres                                                                                                                                                                                                                                                                                                                                                                           tag
+7136        Chitty Chitty Bang Bang (1968)  3.285379  Adventure|Children|Comedy|Fantasy|Musical  Dick Van Dyke musical Betamax Ken Hughes inventor author:Ian Fleming Bechdel Test:Fail single father based book flying car independent film fictional European country Child Catcher freaky funny classic 70mm Didn't finish Super Panavision screenwriter:Roald Dahl music movie see child abuse toy maker vehicle:car gadget car Oscar Nominee: Music Original Song family
+7138                    Plaza Suite (1971)  3.151163                                     Comedy                                                                                                                                                                                                                                                                                                                                         Neil Simon based play anthology hotel
+7142                             It (1927)  3.253731                             Comedy|Romance                                                                                                                                                                                                                                                                                                      Clarence Badger VHS Clara Bow National Film Registry Josef von Sternberg
+7144  Win a Date with Tad Hamilton! (2004)  2.858484                             Comedy|Romance                                                                                                                                                                                                                                            one-dimensional characters Comedy cute Josh Duhamel sexist maybe best friends Topher Grace funny love Bibliothek seen 2010 Romance
+7149                    Latter Days (2003)  3.569444                       Comedy|Drama|Romance                                                                                                                                        Los Angeles Mary Kay Place low budget christianity Jacqueline Bisset comedy romance Gay Interest Mormon less 300 ratings FEWER 300 ratings Romance religion homophobia Teddy Award Jay Cox religious oppression Gay Lead Character gay

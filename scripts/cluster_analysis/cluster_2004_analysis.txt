@@ -1,0 +1,26 @@
+Анализ кластера 2004
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Fantasy      1
+Musical      1
+
+Топ-10 тегов:
+tag
+Barrie       3
+Peter        2
+Disney       2
+based        2
+adapted      2
+racial       2
+adventure    1
+from:play    1
+London       1
+animated     1
+
+Примеры фильмов:
+                 title                              genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+2004  Peter Pan (1953)  Animation|Children|Fantasy|Musical  racial stereotype island pirates Tim Conway cute 'And Just What You Think You're Doing Mr. Smeee?' Captain Hook playwright:J.M. Barrie racial stereotypes characters mermaids based book coming age Fairie Animated Classic author:J.M. Barrie Disney Bill Thompson Lost Boys Can't remember based play Hans Conried crocodile London Disney animated feature children politically incorrect Indians sword fight BD-Video Kathryn Beaumont Tinker Bell SeeAlso:Hook (1991) J.M. Barrie childhood music adapted from:book Peter Sellers Clyde Geronimi animation fun Cartoon adventure coming-of-age Peter Pan adapted from:play Robert Driscoll

@@ -1,0 +1,27 @@
+Анализ кластера 143
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Comedy      1
+Crime       1
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+movie      3
+action     3
+comedy     2
+will       1
+Florida    1
+Buddy      1
+funny      1
+Michael    1
+Bay        1
+Miami      1
+
+Примеры фильмов:
+               title                              genres                                                                                                                                                                                                                                                                                                        tag
+143  Bad Boys (1995)  Action|Comedy|Crime|Drama|Thriller  will smith comedy bad movie Just for fun. action comedy action easily confused with other movie(s) (title) buddy movie directorial debut TÃ©a Leoni martin lawrence Matrin Lawrecne Buddy movie funny Michael Bay Miami Will Smith Florida police bÃ¶se jungs Martin Lawrence drugs good action car chase

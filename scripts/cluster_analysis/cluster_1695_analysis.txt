@@ -1,0 +1,25 @@
+Анализ кластера 1695
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+good          2
+it's          2
+bad           2
+witty         1
+disc          1
+Famke         1
+funny         1
+characters    1
+ridiculous    1
+Sommers       1
+
+Примеры фильмов:
+                   title                genres                                                                                                                                                                          tag
+1695  Deep Rising (1998)  Action|Horror|Sci-Fi  witty dated interesting monsters surprise octopus good gore usage over-the-top action disc bad it's good Stephen Sommers ridiculous characters bad it's funny Famke Janssen

@@ -1,0 +1,23 @@
+Анализ кластера 1311
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+horror           2
+70s              1
+oliver           1
+reed             1
+psychological    1
+predictable      1
+dan              1
+curtis           1
+slow             1
+build            1
+
+Примеры фильмов:
+                       title  genres                                                                                          tag
+1311  Burnt Offerings (1976)  Horror  70s horror oliver reed psychological horror predictable dan curtis slow build haunted house

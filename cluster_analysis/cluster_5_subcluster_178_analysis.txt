@@ -1,0 +1,29 @@
+Анализ подкластера 178 в кластере 5
+Размер подкластера: 242 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 3.10
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Drama          109
+Comedy          57
+Thriller        40
+Action          39
+Documentary     39
+
+Топ-5 тегов:
+tag
+gay       13
+plot      13
+nudity    12
+bad       11
+IMAX      10
+
+Примеры фильмов:
+                                                                  title    rating                 genres                     tag
+20671  As Long as You've Got Your Health (Tant qu'on a la santé) (1966)  2.875000                 Comedy  Pierre Étaix Criterion
+20674                                 Last Exorcism Part II, The (2013)  2.612903        Horror|Thriller       first person view
+20690                                              Net 2.0, The (2006)   2.458333  Action|Drama|Thriller                     NaN
+20691                                 Satan's Blood (Escalofrío) (1978)  3.000000                 Horror                     NaN
+20696                   Land of Milk and Honey (Pays de cocagne) (1971)  3.000000            Documentary  Pierre Étaix Criterion

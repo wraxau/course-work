@@ -1,0 +1,24 @@
+Анализ кластера 1244
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+War      1
+
+Топ-10 тегов:
+tag
+Karl       3
+(Best      3
+Oscar      3
+George     3
+Michael    2
+Best       2
+pro        2
+War        2
+AFI        2
+Scott      2
+
+Примеры фильмов:
+              title     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+1244  Patton (1970)  Drama|War  history foul language pro america History Stephen Young AFI #89 great acting biography National Film Registry BEST PICTURE patriotic Franklin Schaffner Morgan Paull true story DVD Carey Loftin Biography George Scott boring war Oscar (Best Directing) Karl Michael Vogler biopic Karl Malden 70mm BD-Video Nostalgia Critic's Top WWII movie see Michael Strong Karl Maldin Oscar (Best Picture) Best Performance: George Scott General George Patton Jr. pro military Best War Films strong leadership imdb top 250 AFI 100 Dimension-150 Oscar (Best Actor) collectible World War holes70s Leadership BGAB LRC

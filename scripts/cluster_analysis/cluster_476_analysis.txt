@@ -1,0 +1,26 @@
+Анализ кластера 476
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Sci-Fi       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+the        8
+(Best      7
+that       6
+action     6
+for        5
+science    4
+book       4
+Award      4
+Saturn     4
+good       4
+
+Примеры фильмов:
+                    title                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+476  Jurassic Park (1993)  Action|Adventure|Sci-Fi|Thriller  the best Jurassic Park Sci-Fi humorous USA seen the cinema 90s classic low Richard Attenborough rawr Futuristmovies.com dinosaur nostalgia franchise good science fiction tense cgi Dinosaurs CGI [bugÂ¿] you think that cares about the bugs related accÃ©nted characters? Suspense CAV predictable pseudoscience bad hollywood science explanation Drive Téa Leoni does not star this movie science Steven Spielberg popcorn very good for kids and adults biology dynamic cgi action good for rainy day there nothing the box island horror simple plot egg Wayne Knight [bugÂ¿] truÃ© that impossible delete tags â??those with accents for example â?? break multÃ®ple parts the tagging syÅ?tem then should fix that bug mainstream laura dern Oscar (Best Effects Sound Effects Editing) AFI 100 (Thrills) Divx1 Saturn Award (Best Director) annoying kids Saturn Award (Best Science Fiction Film) bad science dinosaurs gone wild Oscar (Best Sound) groundbreaking effects funny richard attenborough drama happy end scifi children foqam herds CGI animals boooo power outage steven speilberg amazing sci-fi ian's fav rated from memory fun intense Speilberg great soundtrack steven spielberg entertaining prehistoric fantasy author:Michael Crichton Cult monsanto characters [bugÂ¿] Ä°s true that tags that canÃ±ot deleted make impossible view other tÃ£gs? action menacing wonder Jeff Goldblum cloning chaos spielberg/lucas book Tumey's DVDs Laura Dern not that good movies every kid should see--Entertainment Weekly jurassic park exciting creepy read the book death Oscar (Best Effects Visual Effects) Business the antagonist adapted from:book tyrannosaurus rex mistakes spielberg not for kids scary save the kids Saturn Award (Best Writing) gmo shallow plot samuel jackson adventure amazing cgi Oscar Winner jeff goldblum from novel blockbuster stylized special effects big budget violence fantasy experiments gone awry John Williams action thriller outdated apocalyptic childish dinosaurs design Dynamic CGI Action based book true story thriller michael chrichton slick Cool but freaky rate Action effects intense action IMAX DMR 3-D reissue 2013 ominous Dimensionalized 2-D 3-D for reissue 2013 cheesy suspense deus machina thrilling classic illogical action classic BD-Video book adaptation velocoraptors buy genetics Saturn Award (Best Special Effects) scenic dinnosaurs implausible sequel Michael Crichton want see again family pg-13:sci-fi action violence Dinosaur Sam Neill theme park

@@ -1,0 +1,25 @@
+Анализ кластера 990
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+Fantasy      1
+
+Топ-10 тегов:
+tag
+disney           1
+telepathy        1
+Ray              1
+Milland          1
+superstitious    1
+hicks            1
+Betamax          1
+UFO              1
+ESP              1
+aliens           1
+
+Примеры фильмов:
+                               title                      genres                                                                                                            tag
+990  Escape to Witch Mountain (1975)  Adventure|Children|Fantasy  disney telepathy Ray Milland superstitious hicks Betamax UFO ESP aliens animal:cat telekinesis Disney studios

@@ -1,0 +1,24 @@
+Анализ кластера 1039
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Love              5
+and               2
+soundtrack        2
+claire            2
+cinematography    2
+Social            1
+BD-Video          1
+Drama             1
+Quirky            1
+cover             1
+
+Примеры фильмов:
+                                            title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1039  William Shakespeare's Romeo + Juliet (1996)  Drama|Romance  Social Differences lazy Baz Luhrmann soundtrack postmodern USA Bechdel Test:Pass True Love shakespeare romantic Rivalry memasa's movies California action Violent Content clever Shakespeare Quite Romantic amazing cinematography Claire Danes boring colourful PG-13 Leonardo DiCaprio claire danes claire daines Spectacular Tumey's DVDs Realistic Suburbs Youth william goldman updated classics romance based play fascinating how conversation and two people keep you interested classic different view cinematography BD-Video Drugs and Alcohol music Love 1990's cover Quirky Drama leonardo dicaprio Red Curtain trilogy Amazing Cinematography Young Lovers great soundtrack Stylized creative FORBIDDEN LOVE Tragic Love own beautiful adapted from:play Forbidden Love playwright:Shakespeare 20th Century Fall Love

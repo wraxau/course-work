@@ -1,0 +1,29 @@
+Анализ подкластера 52 в кластере 6
+Размер подкластера: 55 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.14
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama       35
+Comedy      17
+Thriller    12
+Romance     10
+Action       9
+
+Топ-5 тегов:
+tag
+based        7
+nudity       7
+book         6
+story        6
+(topless)    6
+
+Примеры фильмов:
+                                                                       title    rating                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+14034                                                        Obsessed (2009)  2.571429              Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+14040                                     G.I. Joe: The Rise of Cobra (2009)  2.840240  Action|Adventure|Sci-Fi|Thriller  good evil childish Sienna Miller Byung-hun Lee brainless fun script action silly plot terrible dialogue infantile bad plot Joseph Gordon-Levitt acting ninja cheesy audience intelligence underestimated Special Effects style over substance guilty pleasure infantil sci-fi Dennis Quaid story Christopher Eccleston plot holes 80s nostalgia fun torrential downpour Channing Tatum dialogue explosions military Rachel Nichols good versus evil shallow characters special effects
+14041                                                       Séraphine (2008)  3.768382                         Drama|War                                                                                                                                                                                                                                                                                                                                                                                                                           Netflix Streaming biography Martin Provost painter true story
+14045                               Silent Night, Deadly Night Part 2 (1987)  1.928571                     Comedy|Horror                                                                                                                                                                                                                                                                                                                                                                                                                eyebrows unintentional comedy Eric Freeman christmas breasts=death funny
+14048  Left-Hand Side of the Fridge, The (Moitié gauche du frigo, La) (2000)  3.500000                            Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Philippe Falardeau

@@ -1,0 +1,25 @@
+Анализ кластера 899
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+protagonist    3
+comedy         2
+Bechdel        2
+royal          2
+day            2
+princess       2
+love           2
+Italy          1
+it's           1
+good           1
+
+Примеры фильмов:
+                    title                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+899  Roman Holiday (1953)  Comedy|Drama|Romance  comedy positive royal pretends commoner protagonist royal William Wyler National Film Registry Betamax setting:Rome Bechdel Test:Fail enjoyable slapstick romantic comedy princess netflixq Audrey Hepburn seen more once erlend's dvds love story elegant love romance classic need own mostly about single day zest for life notable:taxi driver (scene) theme:elevation through self-sacrifice protagonist young princess heir Bechdel test:pass (barely) Rome audrey hepburn good it's day Italy black and white Gregory Peck drug use imdb top 250 royalty protagonist journalist/reporter gregory peck italy lovely Oscar (Best Actress) movie

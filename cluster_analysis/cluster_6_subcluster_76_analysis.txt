@@ -1,0 +1,29 @@
+Анализ подкластера 76 в кластере 6
+Размер подкластера: 92 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.37
+Дисперсия рейтинга: 0.40
+
+Топ-5 жанров:
+genres
+Drama       43
+Comedy      25
+Action      20
+Romance     18
+Thriller    17
+
+Топ-5 тегов:
+tag
+bad        12
+plot       12
+story      12
+book        9
+science     7
+
+Примеры фильмов:
+                                                    title    rating                       genres                                                                                                                                                                                                                                       tag
+14495                               Ninja Assassin (2009)  3.134542  Action|Crime|Drama|Thriller  stylized violence ShÃ´ Kosugi ninjas between fantastic realistic Fun extremely gory boring not intense enough ninja martial arts poor lighting gore poor plot dark Rain predictable blood plot poor action scenes Naomie Harris violence
+14508                                  Until Death (2007)  3.333333        Action|Drama|Thriller                                                                                                                                                                                                                                       NaN
+14510  Carnival in Flanders (La kermesse héroïque) (1935)  3.500000               Comedy|Romance                                                                                                                                                                                                                            Jacques Feyder
+14513                                 Patriot, The (1998)  2.990909              Action|Thriller                                                                                                                                                                                               easily confused with other movie(s) (title)
+14514                                       Ticker (2001)  1.416667        Action|Crime|Thriller                                                                                                                                                                   boring bad science bad acting bad script tension silly sentences thrill

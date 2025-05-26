@@ -1,0 +1,26 @@
+Анализ кластера 1564
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Film-Noir    1
+Mystery      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+noir         3
+ending       3
+Police       3
+detective    2
+want         2
+great        2
+thriller     2
+DVDs         2
+Crime        2
+Fighting     2
+
+Примеры фильмов:
+                         title                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+1564  L.A. Confidential (1997)  Crime|Film-Noir|Mystery|Thriller  Los Angeles complicated USA Nudity (Topless Brief) Guy Pearce twists turns California twist ending james cromwell Thriller predictable ending Fighting Crime Sexual Content noir thriller multiple viewings noirish Serious anti-hero RENT predictable femme fatale story Eric's Dvds Kevin Spacey Based Book director Mile" 20th Century erlend's DVDs corruption Tense Hollywood neo-noir DVD mystery boring detective thriller get Danny DeVito conspiracy rape victim guy pearce 1930s great ending Crime drama scope Police Investigation dvr ensemble cast complex Drama Oscar (Best Supporting Actress) Ambition imdb top 250 Gang old hollywood police corruption bit far-fetched nudity (topless) Dishonesty Prostitution great acting short-term memory loss detective muista 2.5 Uncover Truth Tumey's DVDs crime Cynical noir Russell Crowe almost favorite Murder ClearPlay Gloomy Rough Police Fighting the System Film Theory Criticism film noir Police Detective Curtis Hanson complicated plot 1950's Rivalry visually appealing 1950s delights Kim Basinger Clever want NO_FA_GANES Realistic suspense dark corrupt cops confusing James Cromwell All Star Cast homoerotic subtext want see again BFI modern classic pointless

@@ -1,0 +1,29 @@
+Анализ подкластера 28 в кластере 5
+Размер подкластера: 10 фильмов
+Средний рейтинг: 3.44
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama       7
+Romance     3
+Comedy      3
+Thriller    1
+Fantasy     1
+
+Топ-5 тегов:
+tag
+French    6
+Film      3
+France    3
+Jules     2
+Sitruk    2
+
+Примеры фильмов:
+                          title    rating          genres                                                                                                     tag
+22880  Just Like a Woman (2012)  3.000000           Drama                                                                                                     NaN
+22883   Man of the World (1931)  3.250000   Drama|Romance                                                                                                     NaN
+22884    Aliyah (Alyah) (2012)   3.750000           Drama                                                                                            Elie Wajeman
+22891             Crave  (2012)  3.214286  Drama|Thriller                                    nudity (topless) blackmail inner monologue sexuality justice fantasy
+22905  Viper in the Fist (2004)  3.666667           Drama  French Film French author:HervÃ© Bazin adapted from:book France Catherine Frot Jules Sitruk based book

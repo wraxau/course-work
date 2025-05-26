@@ -1,0 +1,27 @@
+Анализ кластера 1998
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Animation    1
+Children     1
+Comedy       1
+Musical      1
+Romance      1
+
+Топ-10 тегов:
+tag
+Disney        4
+soundtrack    3
+Oscar         2
+Music         2
+Original      2
+animated      2
+cute          2
+(Best         2
+ocean         2
+kid           2
+
+Примеры фильмов:
+                           title                                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1998  Little Mermaid, The (1989)  Animation|Children|Comedy|Musical|Romance  Oscar (Best Music Original Song) witch animated soundtrack cute princess series ocean Betamax poor unfortunate souls Super-35 Blow-Up Watched kid flick fish out water Excellent soundtrack Disney Bearable Disney the ocean Oscar (Best Music Original Score) movies every kid should see--Entertainment Weekly funny Ursula 70mm almost favorite Disney animated feature underwater guilty pleasure cute girl supporting characters mermaid BD-Video teenage rebellion CAV Ron Clements cloying 1st ever childhood music John Musker adapted from:book talking animals Disney Renaissance animation library songs Cartoon happy ending great soundtrack own well done

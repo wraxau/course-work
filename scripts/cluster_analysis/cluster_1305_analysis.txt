@@ -1,0 +1,24 @@
+Анализ кластера 1305
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+monster    2
+space      1
+Classic    1
+campy      1
+song       1
+theme      1
+remade     1
+jersey     1
+new        1
+outer      1
+
+Примеры фильмов:
+                 title         genres                                                                                                                                           tag
+1305  Blob, The (1958)  Horror|Sci-Fi  monster Steve McQueen diner monster:blob Criterion Irvin Yeaworth Jr. outer space new jersey remade theme song campy Classic monster classic

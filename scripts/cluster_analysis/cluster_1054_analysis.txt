@@ -1,0 +1,25 @@
+Анализ кластера 1054
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+book            2
+house           2
+erlend's        1
+governess       1
+ghosts          1
+ominous         1
+austere         1
+creepy          1
+Author:Henry    1
+James           1
+
+Примеры фильмов:
+                      title                 genres                                                                                                                                                                                                                                                                                         tag
+1054  Innocents, The (1961)  Drama|Horror|Thriller  erlend's DVDs atmospheric better the book Betamax GHOST STORIES Jack Clayton based book ghost story understated Edgar Award (Best Motion Picture) eerie ghosts ominous austere creepy Author:Henry James governess scary deliberate old house Criterion gothic Netflix queue haunted house

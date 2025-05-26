@@ -1,0 +1,26 @@
+Анализ кластера 1689
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Drama       1
+Fantasy     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Demon                   1
+setting:Philadelphia    1
+religion                1
+LRC                     1
+BGAB                    1
+Ending                  1
+Epic                    1
+Angel                   1
+Fallen                  1
+Owned                   1
+
+Примеры фильмов:
+              title                        genres                                                                                                                                                                                                                                                              tag
+1689  Fallen (1998)  Crime|Drama|Fantasy|Thriller  Demon Gregory Hoblit unreliable narrators too long John Goodman boring smoking should've got more attention brilliant Philadelphia setting:Philadelphia satan movie see Denzel Washington Bob*ola Owned Fallen Angel Epic Ending BGAB LRC religion supernatural

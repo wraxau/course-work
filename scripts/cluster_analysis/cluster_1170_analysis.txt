@@ -1,0 +1,23 @@
+Анализ кластера 1170
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+stoner       2
+puff         1
+Cheech       1
+Nudity       1
+marijuana    1
+Movies       1
+Funniest     1
+weed         1
+purile       1
+drugs        1
+
+Примеры фильмов:
+                                      title  genres                                                                                                                                                            tag
+1170  Cheech and Chong's Up in Smoke (1978)  Comedy  puff away Marijuana inane hilarious Tommy Chong stoner comedy Betamax hippie Cheech Marin stoner drugs purile weed Funniest Movies marijuana Nudity (Topless)

@@ -1,0 +1,29 @@
+Анализ подкластера 75 в кластере 3
+Размер подкластера: 48 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.52
+
+Топ-5 жанров:
+genres
+Drama          24
+Comedy         13
+Thriller        9
+Documentary     8
+Horror          7
+
+Топ-5 тегов:
+tag
+subgenre:police    10
+Criterion           6
+detective           5
+procedural          5
+corruption          4
+
+Примеры фильмов:
+                                                title   rating                      genres                                              tag
+19456       Je, tu, il, elle (I, You, He, She) (1976)  3.70000                       Drama                        Chantal Akerman Criterion
+19457          Cinderella II: Dreams Come True (2002)  2.56000  Animation|Children|Fantasy                                           Disney
+19458                               Dark Horse (2011)  2.70000                       Drama                                              NaN
+19459                             Black Roses (1988)   3.00000              Horror|Musical                                              NaN
+19460  6 Days to Air: The Making of South Park (2011)  3.59322                 Documentary  parody documentary behind the scenes south park

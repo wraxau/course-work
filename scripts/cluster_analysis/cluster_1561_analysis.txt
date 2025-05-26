@@ -1,0 +1,18 @@
+Анализ кластера 1561
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+VHS              1
+homosexuality    1
+lgbt             1
+queer            1
+Frank            1
+
+Примеры фильмов:
+                title  genres                                 tag
+1561  In & Out (1997)  Comedy  VHS homosexuality lgbt queer Frank

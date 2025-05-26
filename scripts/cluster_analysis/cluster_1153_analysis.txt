@@ -1,0 +1,25 @@
+Анализ кластера 1153
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Fantasy    1
+Romance    1
+
+Топ-10 тегов:
+tag
+nudity         1
+(topless)      1
+Nudity         1
+(Topless       1
+Notable)       1
+melancholy     1
+imaginative    1
+fanciful       1
+wistful        1
+music          1
+
+Примеры фильмов:
+                                                                   title                 genres                                                                                                                                                                                                                                                                                                                                                 tag
+1153  Double Life of Veronique, The (Double Vie de Véronique, La) (1991)  Drama|Fantasy|Romance  nudity (topless) erlend's DVDs Irene Jacob memasa's movies singular Quite Romantic DVD doppelganger Krzysztof Kieslowski 2.5 surreal quirky beautiful colours intellectual meditative Nudity (Topless Notable) melancholy imaginative fanciful wistful music magical lyrical TWINS AND LOOKALIKES enigmatic Criterion great soundtrack melancholic

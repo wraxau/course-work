@@ -1,0 +1,23 @@
+Анализ кластера 1872
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+(Best       4
+Oscar       4
+custody     2
+single      2
+nudity      1
+Actress)    1
+Robert      1
+Benton      1
+dentist     1
+1970s       1
+
+Примеры фильмов:
+                         title genres                                                                                                                                                                                                                                                                                                                                                                                       tag
+1872  Kramer vs. Kramer (1979)  Drama  nudity (topless) Betamax spindle father-son relationship custody single father moral ambiguity implausible ending Oscar (Best Directing) DIVX acting drama custody battle Nudity (Topless Notable) legal system Robert Benton dentist 1970s Oscar (Best Picture) Oscar (Best Supporting Actress) divorce Meryl Streep Oscar (Best Actor) single parent ethics Dustin Hoffman bittersweet

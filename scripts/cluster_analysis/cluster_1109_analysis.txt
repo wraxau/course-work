@@ -1,0 +1,23 @@
+Анализ кластера 1109
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Drama         1
+emmanuelle    1
+(Full         1
+Nudity        1
+DVDs          1
+Tumey's       1
+sad           1
+book          1
+Nathalie      1
+from          1
+
+Примеры фильмов:
+                                               title genres                                                                                                                                          tag
+1109  Manon of the Spring (Manon des sources) (1986)  Drama  Drama emmanuelle beart Dramatic Claude Berri French nudity (full frontal) actress from Nathalie book sad Tumey's DVDs Nudity (Full Frontal)

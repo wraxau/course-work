@@ -1,0 +1,23 @@
+Анализ кластера 730
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+related:007    1
+(series)       1
+Leslie         1
+Nielsen        1
+spoof          1
+parody         1
+slapstick      1
+humor          1
+Rick           1
+Friedberg      1
+
+Примеры фильмов:
+               title  genres                                                                                                 tag
+730  Spy Hard (1996)  Comedy  related:007 (series) Leslie Nielsen spoof parody slapstick humor Rick Friedberg Can't remember spy

@@ -1,0 +1,29 @@
+Анализ подкластера 238 в кластере 3
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.33
+Медиана рейтинга: 3.43
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Comedy         5
+Drama          3
+Adventure      2
+Documentary    2
+Sci-Fi         2
+
+Топ-5 тегов:
+tag
+study         2
+music         2
+disturbing    2
+slow          2
+female        2
+
+Примеры фильмов:
+                                                             title    rating                  genres                                                                                                                                                                                                                                                                                                                                                                                                                         tag
+19556  Pearls of the Crown, The (Les perles de la couronne) (1937)  3.000000                  Comedy                                                                                                                                                                                                                                                                                                                                                                                                      Sacha Guitry Criterion
+19557                                          Suicide Club (2010)  3.500000  Adventure|Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                         NaN
+19558                                   Under African Skies (2012)  4.000000             Documentary                                                                                                                                                                                                                                                                                                                                                           documentary Joe Berlinger South Africa musicians music paul simon
+19559                                           Lola Versus (2012)  3.208333          Comedy|Romance                                                                                                                                                                                                                                                                                                                                                                                                                Greta Gerwig
+19560                                           Master, The (2012)  3.431911                   Drama  great performances Cult underwhelming ending visually appealing Nothing Happens not audience friendly odd slow toplist12 Netflix Finland nothing happens Panavision System acting character study 70mm Full Frontal Nudity Amy Adams seen 2014 cinematography confusing disturbing music disturbing Philip Seymour Hoffman unique Paul Thomas Anderson strange bloggers Character study religion beautiful Joaquin Phoenix

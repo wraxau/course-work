@@ -1,0 +1,29 @@
+Анализ подкластера 158 в кластере 5
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama          7
+Thriller       4
+Mystery        3
+Documentary    3
+Crime          2
+
+Топ-5 тегов:
+tag
+for        5
+made       5
+nudity     2
+Roberts    2
+Sam        2
+
+Примеры фильмов:
+                                                      title  rating                        genres                                                            tag
+14131  Shadow Warriors 2 (Assault on Devil's Island) (1997)  2.5000     Action|Adventure|Thriller                                               nudity (topless)
+14132                        The Shadow of the Eagle (1932)  3.0000  Crime|Drama|Mystery|Thriller  ventriloquist carnival John Wayne car chase Serial convoluted
+14133                          Cinematographer Style (2006)  3.3125                   Documentary                                                            NaN
+14134                                    Cell 2, The (2009)  1.9000        Horror|Sci-Fi|Thriller                 nudity (topless) sequel made for serial killer
+14135                                  Summer School (2006)  3.2500                        Horror                                                            NaN

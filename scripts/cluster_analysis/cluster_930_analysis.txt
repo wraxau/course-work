@@ -1,0 +1,24 @@
+Анализ кластера 930
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+comedy       2
+screwball    2
+classic      1
+Eugene       1
+Pallette     1
+awesome      1
+romance      1
+Alice        1
+Brady        1
+Gregory      1
+
+Примеры фильмов:
+                     title          genres                                                                                                                                                                                                                                                                                                                      tag
+930  My Man Godfrey (1936)  Comedy|Romance  homeless comedy William Powell National Film Registry Gail Patrick screwball comedy butler Mischa Auer Alan Mowbray Carole Lombard Great Depression Friends Should See screwball Eugene Pallette awesome romance Alice Brady Gregory Cava classic ECCENTRIC FAMILIES AFI 100 (Laughs) wealth great depression Criterion

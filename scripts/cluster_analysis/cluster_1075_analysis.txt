@@ -1,0 +1,25 @@
+Анализ кластера 1075
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Drama       1
+Sci-Fi      1
+
+Топ-10 тегов:
+tag
+(Best        6
+100          5
+AFI          5
+good         4
+Spielberg    3
+Saturn       3
+Oscar        3
+Award        3
+but          2
+Drew         2
+
+Примеры фильмов:
+                                  title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 tag
+1075  E.T. the Extra-Terrestrial (1982)  Children|Drama|Sci-Fi  Henry Thomas erlend's DVDs comedy jb's dvds dated Ethan Hawke USA villain nonexistent not needed for good story National Film Registry sexual inuendo anti-government paranoia space Divx1 AFI 100 (Thrills) Drew Barrymore good Spielberg Classic strong director horas might dislike Futuristmovies.com fish out water alien boring Saturn Award (Best Science Fiction Film) spielberg/lucas children vs. parents Oscar (Best Music Original Score) Oscar (Best Sound) cute alien acting anti-religious movies every kid should see--Entertainment Weekly aliens Aliens stranded drama classic 70mm children space ship Extra-Terrestrials AFI #25 sad Oscar (Best Effects Visual Effects) dvr infantil Drew Barrymore Saturn Award (Best Special Effects) emotional sci-fi evil government foul langauage dvd Spielberg VHS spielberg Saturn Award (Best Writing) E.T. BORING! happy ending Spherical Blow-Up AFI 100 Speilberg good movie family 100 Greatest Movies Steven Spielberg intense AFI 100 (Movie Quotes) AFI 100 (Cheers) sad but good fantasy Very sweet but too childish fabulus

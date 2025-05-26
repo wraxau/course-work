@@ -1,0 +1,29 @@
+Анализ подкластера 128 в кластере 6
+Размер подкластера: 41 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.25
+
+Топ-5 жанров:
+genres
+Drama       26
+Thriller    10
+Comedy       9
+Romance      7
+Crime        6
+
+Топ-5 тегов:
+tag
+funny      3
+netflix    3
+not        3
+movie      3
+East       3
+
+Примеры фильмов:
+                                              title    rating                            genres                                                                                                      tag
+15149                    Farewell to Arms, A (1957)  3.375000                 Drama|Romance|War                                                        author:Ernest Hemingway adapted from:book Betamax
+15151       Reclaim Your Brain (Free Rainer) (2007)  3.326923        Comedy|Crime|Drama|Romance                                                                                                   german
+15152         When Dinosaurs Ruled the Earth (1970)  2.375000  Adventure|Fantasy|Romance|Sci-Fi                                                                    prehistoric cavemen Ballard dinosaurs
+15177                               Disgrace (2008)  3.579545                             Drama  nudity (topless) complex Jessica Haines deep South Africa Steve Jacobs John Malkovich Africa based book
+15183  Lego: The Adventures of Clutch Powers (2010)  2.750000                  Action|Animation                                                                                                      NaN

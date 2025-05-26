@@ -1,0 +1,29 @@
+Анализ подкластера 448 в кластере 3
+Размер подкластера: 39 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.26
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama      24
+Comedy     10
+Action      7
+Sci-Fi      6
+Romance     6
+
+Топ-5 тегов:
+tag
+seen      12
+the       10
+Nudity     8
+book       8
+based      7
+
+Примеры фильмов:
+                                     title    rating                genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1340  Star Trek: The Motion Picture (1979)  3.080615      Adventure|Sci-Fi                                                                                                                                                                                 spinoff odd-numbered movie seen the cinema Betamax bizarre Robert Wise space slow too self-aware too long Score franchise noise space costumes Based show lame name Can't remember aliens 70mm Enterprise artificial intelligence Space Star Trek BD-Video wormhole sci-fi space opera Green screen Leonard Nimoy DeForest Kelley William Shatner Science Fiction based show
+1351               Marked for Death (1990)  2.740253          Action|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           nudity (topless) Dwight Little Steven Seagal unintentionally funny
+1359            My Fellow Americans (1996)  3.262715                Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          James Garner politics Dan Aykroyd Jack Lemmon President Peter Segal
+1360                  Mars Attacks! (1996)  2.957502  Action|Comedy|Sci-Fi  comedy erlend's DVDs Marlon Brando off-beat comedy alien invasion smart DVD Parody seen more once mars glenn close funny Jack Nicholson aliens Pam Grier nice cgi satire Martin Short cow killing Pierce Brosnan Didn't finish parody Tim Burton ensemble cast dog killing Lame ending sci-fi special effects domination doesn't always require more intelligence just better guns crazy Michael Fox Sarah Jessica Parker two hours suck Natalie Portman animation annette bening adapted from:game Saturn Award (Best Music) Tom Jones quirky humor stupid
+1389               Hearts and Minds (1996)  3.826316                 Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                         easily confused with other movie(s) (title) racism Ralph Ziman Netflix queue Vietnam

@@ -1,0 +1,24 @@
+Анализ кластера 938
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+100        6
+AFI        6
+top        4
+comedy     3
+Cary       3
+Hepburn    3
+Grant      2
+Howard     2
+and        2
+Hawkes     1
+
+Примеры фильмов:
+                       title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+938  Bringing Up Baby (1938)  Comedy|Romance  comedy Best Performance: Cary Grant Dr. David Huxley Howard Hawks Cary Grant humorous sunny National Film Registry AFI #97 Emerson must see related:Bringing Baby (1938) Katherine Hepburn OPPOSITES ATTRACT romantic comedy Bibliothek Classic AFI top 100 laughs (#14) Talks too much. quirky Katharine Hepburn screwball Tumey's DVDs dialogue driven animal:dog animals romance Can't remember setting:golf course (scene) classic witty baby genre:romantic comedy wonderfully warm and amusing Cary Grant&Katherine Hepburn subgenre:screwball farce AFI 100 (Laughs) animal:leopard Howard Hawkes black and white Screwball Comedy imdb top 250 irreverent funny hell OTHERWISE ENGAGED urbane madc Favorite 100 Greatest Movies AFI 100 AFI top 100 (#97) paleontologist protagonist leopard psychiatrist character easygoing plot point:dinosaur skeleton subgenre:slapstick (mild) AFI top 100 passions (#51)

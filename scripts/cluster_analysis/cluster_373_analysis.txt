@@ -1,0 +1,25 @@
+Анализ кластера 373
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action      1
+Romance     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+action            3
+seen              2
+good              2
+plot              2
+Keanu             2
+exciting          1
+suspense          1
+acting            1
+claustrophobic    1
+Watch             1
+
+Примеры фильмов:
+            title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+373  Speed (1994)  Action|Romance|Thriller  Want fast paced chase seen the cinema Sandra Bullock Keanu Reeves romantic visceral Don't get dead Bechdel Test:Fail AFI 100 (Thrills) action should not like Keanu Reaves Thriller boring seen more once highway rousing Action want bomb tense bus injuries predictable plot suspense exciting good acting claustrophobic Watch with kids sandra bullock space opera Romance Full adrenaline. must watch heart pumping movie shallow plot forceful intense speed Wooden Acting good action explosions Dennis Hopper action packed Jan Bont

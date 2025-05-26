@@ -1,0 +1,16 @@
+Анализ кластера 1030
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+Drama          1
+
+Топ-10 тегов:
+tag
+Pacino         1
+Shakespeare    1
+
+Примеры фильмов:
+                           title             genres                 tag
+1030  Looking for Richard (1996)  Documentary|Drama  Pacino Shakespeare

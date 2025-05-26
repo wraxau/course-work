@@ -1,0 +1,29 @@
+Анализ подкластера 27 в кластере 0
+Размер подкластера: 24 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Drama        13
+Romance       8
+Comedy        8
+Adventure     3
+Sci-Fi        3
+
+Топ-5 тегов:
+tag
+music      4
+travel     3
+book       3
+bad        3
+Tumey's    3
+
+Примеры фильмов:
+                                         title    rating                                   genres                                                                                                                                                                                                                                                                                                                                                          tag
+11429            The Butterfly Effect 2 (2006)  2.580940  Adventure|Drama|Romance|Sci-Fi|Thriller                                                                                                                                                                                                                                                                                                                     predictable time travel greed bad sequel
+11430  Charge of the Light Brigade, The (1936)  3.086957             Action|Adventure|Romance|War                                                                                                                                                                                                                                                                                                                                         06/11 Michael Curtiz
+11431                Platform (Zhantai) (2000)  3.363636                                    Drama                                                                                                                                                                                                                                                                                                                                           TIFF Top the 2000s
+11432                   Lunacy (Sílení) (2006)  3.232143                         Animation|Horror                                                                                                                                                                                                                                                                                  Jan Svankmajer mental illness mental hospital psychology Mental Institution
+11433                      Flushed Away (2006)  3.394704                         Animation|Comedy  Aardman Below Kate Winslet Sam Fell romantic slapstick london David Bowers Wallace Gromit Tumey's DVDs bad plot DIVX parodies funny London Bill Nighy Andy Serkis movie see rich and poor singing slugs Jean Reno 31-3-2007 Animation talking animals rats animation Dreamworks Ian McKellen musical parodies Tom Jones England beautiful smart humor class

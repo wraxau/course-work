@@ -1,0 +1,29 @@
+Анализ подкластера 233 в кластере 3
+Размер подкластера: 30 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Drama        17
+Comedy       11
+Romance       7
+Thriller      6
+Adventure     5
+
+Топ-5 тегов:
+tag
+Nudity      11
+nudity      10
+good         7
+remember     7
+comedy       6
+
+Примеры фильмов:
+                                                   title    rating                          genres                                                                                                                                                                                                                                                                                                                                                                                   tag
+423                                 Boxing Helena (1993)  2.530737  Drama|Mystery|Romance|Thriller                                                                                                                                                                                                                                                    nudity (topless) skipped this sick story Nudity (Topless Notable) doctors erotic thriller Bill Paxton 80s Kurtwood Smith obsession
+428  City Slickers II: The Legend of Curly's Gold (1994)  2.714123        Adventure|Comedy|Western                                                                                                                                                                                                                                                                                        Daniel Stern Jack Palance Jon Lovitz NO_FA_GANES Billy Crystal treasure hunt lame Paul Weiland
+430                                   Cliffhanger (1993)  3.046029       Action|Adventure|Thriller                                                                                                                     mountain climbing mountains Sylvester Stallone remember from childhood Harlin muista Thriller Action colorado Anamorphic Blow-Up kickass action flick 70mm Explosions John Lithgow money Renny Harlin watch-fully wintry Clint Eastwood good action action packed
+431                                     Coneheads (1993)  2.571291                   Comedy|Sci-Fi                                                                                                                                                                                                                                                     Steve Barron Saturday Night Live Dan Aykroyd snl alien invasion Based show dan akroyd Coen Brothers seen aliens stupid based show
+438                                Demolition Man (1993)  3.019290         Action|Adventure|Sci-Fi  Los Angeles cryonics comedy all the time hilarious seen the cinema Sandra Bullock Sylvester Stallone Prophetic action Futuristmovies.com Benjamin Bratt action groovy funny Can't remember Wesley Snipes cryonics not time travel satire futuristic Business the antagonist sci-fi time travel dystopia dumb dystopia Denis Leary future Owned Marco Brambilla taco bell good action

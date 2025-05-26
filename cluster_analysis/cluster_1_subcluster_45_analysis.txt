@@ -1,0 +1,29 @@
+Анализ подкластера 45 в кластере 1
+Размер подкластера: 83 фильмов
+Средний рейтинг: 2.88
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.76
+
+Топ-5 жанров:
+genres
+Drama       37
+Comedy      26
+Romance     15
+Thriller    11
+Action       9
+
+Топ-5 тегов:
+tag
+acting    5
+comedy    5
+great     4
+nudity    3
+added     3
+
+Примеры фильмов:
+                                                                                                title    rating                 genres                                                                                                           tag
+23715  Sexual Chronicles of a French Family (Chroniques sexuelles d'une famille d'aujourd'hui) (2012)  2.192308           Comedy|Drama  prostitution sexuality nudity (full frontal) erection unsimulated sex France ejaculation dogme95 male nudity
+23729                                                                            Money as Debt (2006)  3.833333  Animation|Documentary                                                                     documentary short Paul Grignon money debt
+23731                                                                    I See a Dark Stranger (1946)  2.833333       Romance|Thriller                                                                                       Silliness Frank Launder
+23736                                                                          Doc of the Dead (2014)  3.318182            Documentary                                                                                                       zombies
+23741                                                               Trials of Cate McCall, The (2013)  3.088235            Crime|Drama                                                                                                           NaN

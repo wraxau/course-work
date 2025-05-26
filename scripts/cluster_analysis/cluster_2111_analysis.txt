@@ -1,0 +1,25 @@
+Анализ кластера 2111
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+Brian         2
+corruption    2
+DVDs          2
+crime         2
+Kevin         2
+Capone        2
+seen          2
+script        2
+police        2
+erlend's      1
+
+Примеры фильмов:
+                         title              genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   tag
+2111  Untouchables, The (1987)  Action|Crime|Drama  erlend's DVDs corruption Want foul language Chicago Gangster Robert Niro Ennio Morricone memasa's movies script gansters Bibliothek DVD Sean Connery Oscar (Best Supporting Actor) Charles Martin Smith re-watch seen more once 1920s historical Tumey's DVDs crime NO_FA_GANES Anamorphic Blow-Up very good edition DIVX Top ever not seen acting robert niro gangsters 1930s over the top oscar (best directing) 70mm character based real person:Al Capone ClearPlay law enforcement Brian Palma post-modern sean connery David Mamet Andy Garcia excellent script Gfei own gangsterfilm story Capone Mafia Kevin Spacey library mafia Prohibition police police corruption period drama Kevin Costner Brian DePalma organized crime historically inaccurate kevin costner brian depalma violence

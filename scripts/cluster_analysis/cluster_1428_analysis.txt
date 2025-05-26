@@ -1,0 +1,22 @@
+Анализ кластера 1428
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+
+Топ-10 тегов:
+tag
+John         1
+Singleton    1
+Netflix      1
+queue        1
+Eric's       1
+Dvds         1
+Don          1
+Cheadle      1
+
+Примеры фильмов:
+                title        genres                                                   tag
+1428  Rosewood (1997)  Action|Drama  John Singleton Netflix queue Eric's Dvds Don Cheadle

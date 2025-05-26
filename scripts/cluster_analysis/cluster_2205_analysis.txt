@@ -1,0 +1,25 @@
+Анализ кластера 2205
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+film        3
+Altman      2
+business    2
+movie       2
+funny       2
+comedy      1
+Crime       1
+(Best       1
+Motion      1
+Picture)    1
+
+Примеры фильмов:
+                   title              genres                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+2205  Player, The (1992)  Comedy|Crime|Drama  comedy Robert Altman cynical biting USA tim Robbins Hollywood Nudity (Topless Brief) robert altman cameo:Bruce Willis talky not funny based book bruce willis Meta movie business dry funny topic:Hollywood industry Edgar Award (Best Motion Picture) cameo-fest Can't remember hollywood satirical Crime satire deadpan business RENT julia roberts movie see kino film urbane Altman satire:Hollywood insiders paranoid sardonic film film

@@ -1,0 +1,14 @@
+Анализ кластера 1664
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                    title genres  tag
+1664  Full Speed (À toute vitesse) (1996)  Drama  NaN

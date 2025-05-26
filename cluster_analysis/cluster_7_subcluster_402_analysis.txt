@@ -1,0 +1,29 @@
+Анализ подкластера 402 в кластере 7
+Размер подкластера: 36 фильмов
+Средний рейтинг: 2.87
+Медиана рейтинга: 3.12
+Дисперсия рейтинга: 1.15
+
+Топ-5 жанров:
+genres
+Comedy         18
+Drama           9
+Documentary     4
+Crime           4
+Adventure       4
+
+Топ-5 тегов:
+tag
+comedy        5
+greek         3
+Claude        2
+dark          2
+characters    2
+
+Примеры фильмов:
+                                        title  rating                       genres                                tag
+27580              The Last Gladiators (2011)     3.6                  Documentary  ice hockey hockey fighting sports
+27598                     Loose Screws (1985)     NaN                       Comedy                   nudity (topless)
+27605  Jim Norton: American Degenerate (2013)     3.5                       Comedy       cynicism cynical dark comedy
+27622                            Ricco (1973)     1.0  Action|Crime|Drama|Thriller                                NaN
+27624                    Hard Promises (1991)     2.5               Comedy|Romance                                NaN

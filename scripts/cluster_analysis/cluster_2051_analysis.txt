@@ -1,0 +1,25 @@
+Анализ кластера 2051
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+Sci-Fi     1
+
+Топ-10 тегов:
+tag
+Robert     2
+teen       2
+school     2
+Downey     2
+comedy     1
+teens      1
+nerds      1
+Jr.        1
+80's       1
+classic    1
+
+Примеры фильмов:
+                     title                 genres                                                                                                                                                                                                                                                                       tag
+2051  Weird Science (1985)  Comedy|Fantasy|Sci-Fi  comedy Chicago watch again Betamax old school Nudity (Topless Brief) Robert Downey Anthony Michael Hall teen Bill Paxton adaptedInto:Television series geeks teen movie teens nerds Robert Downey Jr. 80's classic Kelly LeBrock John Hughes high school for katie 1980s

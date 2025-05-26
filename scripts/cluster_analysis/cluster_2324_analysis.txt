@@ -1,0 +1,18 @@
+Анализ кластера 2324
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+70mm         1
+sequel       1
+Spherical    1
+Blow-Up      1
+
+Примеры фильмов:
+                          title         genres                            tag
+2324  Cocoon: The Return (1988)  Comedy|Sci-Fi  70mm sequel Spherical Blow-Up

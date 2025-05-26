@@ -1,0 +1,29 @@
+Анализ подкластера 184 в кластере 1
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.11
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Drama          4
+Crime          3
+Thriller       2
+Sci-Fi         2
+Documentary    2
+
+Топ-5 тегов:
+tag
+Bauer     2
+Fritzi    2
+sci-fi    1
+Dutt      1
+Arshad    1
+
+Примеры фильмов:
+                          title    rating              genres                                           tag
+28734   Beyond the Reach (2014)  2.595238            Thriller                                           NaN
+28735            Nuntius (2014)  3.833333              Sci-Fi  sci-fi experimental silent movie psychedelic
+28736   Atari: Game Over (2014)  3.281250         Documentary              video games computers true story
+28737           Einstein (2015)  4.500000  (no genres listed)      romance unsurprising dysfunctinal genius
+28738  Broken Glass Park (2013)  3.000000               Drama   Drama Jasni Fritzi Bauer Jasna Fritzi Bauer

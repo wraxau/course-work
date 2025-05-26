@@ -1,0 +1,23 @@
+Анализ кластера 1777
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+life          2
+long          1
+meditative    1
+dialogue      1
+deliberate    1
+enigmatic     1
+lyrical       1
+nihilistic    1
+PAST          1
+THE           1
+
+Примеры фильмов:
+                                        title genres                                                                                                                                                                                                                                tag
+1777  Taste of Cherry (Ta'm e guilass) (1997)  Drama  long takes SUICIDE Abbas Kiarostami life reflection avante garde OBSESSIVE QUESTS life understated colors austere meditative Golden Palm intellectual HAUNTED THE PAST nihilistic lyrical enigmatic deliberate dialogue Criterion

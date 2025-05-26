@@ -1,0 +1,23 @@
+Анализ кластера 1082
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Oscar          3
+(Best          3
+AFI            3
+Supporting     2
+Actress)       2
+Leigh          2
+100            2
+Orleans        2
+Williams       2
+performance    2
+
+Примеры фильмов:
+                                 title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+1082  Streetcar Named Desire, A (1951)  Drama  Louisiana atmospheric Tennessee Williams Marlon Brando Bechdel Test:Pass National Film Registry poignant Emerson must see DVD moody Oscar (Best Supporting Actor) Vivian Leigh downbeat playwright:Tennessee Williams Karl Malden based play amazing performance Elia Kazan exceptional acting adapted from:play Vivien Leigh setting:New Orleans mental illness Oscar (Best Supporting Actress) stage forceful imdb top 250 AFI 100 AFI 100 (Movie Quotes) best male performance ever sexual AFI #45 Oscar (Best Actress) New Orleans

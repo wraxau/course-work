@@ -1,0 +1,18 @@
+Анализ кластера 1435
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Comedy    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+Dean    1
+Cain    1
+
+Примеры фильмов:
+                title                     genres        tag
+1435  Best Men (1997)  Action|Comedy|Crime|Drama  Dean Cain

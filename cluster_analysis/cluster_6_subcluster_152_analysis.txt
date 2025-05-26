@@ -1,0 +1,29 @@
+Анализ подкластера 152 в кластере 6
+Размер подкластера: 15 фильмов
+Средний рейтинг: 2.86
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.53
+
+Топ-5 жанров:
+genres
+Drama          8
+Horror         4
+Sci-Fi         3
+Documentary    3
+Action         2
+
+Топ-5 тегов:
+tag
+Christianity    3
+Henry           3
+religion        2
+religious       2
+Michael         2
+
+Примеры фильмов:
+                      title    rating                genres                                                                                                                                                                                                                                                                          tag
+23357   Trancers III (1992)  2.750000  Action|Horror|Sci-Fi                                                                                                                                                                                                                                                                          NaN
+23358       16 Acres (2012)  3.333333           Documentary                                                                                                                                                                                                                                            New York City 9/11 Richard Hankin
+23359     Shenandoah (2012)  2.125000           Documentary                                                                                                                                                                                                                                                                          NaN
+23360        Calvary (2014)  3.727730          Comedy|Drama  nature Ireland John Michael McDonagh Brendan Gleeson revenge Chris O'Dowd Aiden Gillen Irish powerful priesthood Christianity Catholicism sacrifice despair netflix queue child abuse reconciliation irish Bob*ola loss family prospect religion suicide proxy black comedy
+23361  Iran Job, The (2012)  3.400000           Documentary                                                                                                                                                                                                                             Iran sports Middle East Till Schauder basketball

@@ -1,0 +1,29 @@
+Анализ подкластера 71 в кластере 0
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.36
+Медиана рейтинга: 3.42
+Дисперсия рейтинга: 0.12
+
+Топ-5 жанров:
+genres
+Documentary    5
+Drama          5
+Thriller       3
+Crime          3
+Romance        2
+
+Топ-5 тегов:
+tag
+Waugh     3
+series    3
+ending    3
+see       2
+black     2
+
+Примеры фильмов:
+                                title    rating                genres                               tag
+12878    Steal a Pencil for Me (2007)  3.200000   Documentary|Romance                  less 300 ratings
+12879          Shotgun Stories (2007)  3.479592        Drama|Thriller       Jeff Nichols Berlinale 2007
+12880  Watching the Detectives (2007)  3.189655        Comedy|Romance           Cillian Murphy Lucy Liu
+12881          Mr. Untouchable (2007)  3.571429     Crime|Documentary                             drugs
+12882         Blast of Silence (1961)  3.516129  Crime|Drama|Thriller  might like Allen Baron Criterion

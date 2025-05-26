@@ -1,0 +1,19 @@
+Анализ кластера 41
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Crime     1
+Drama     1
+
+Топ-10 тегов:
+tag
+Eric's     1
+Dvds       1
+bank       1
+robbery    1
+
+Примеры фильмов:
+                     title              genres                       tag
+41  Dead Presidents (1995)  Action|Crime|Drama  Eric's Dvds bank robbery

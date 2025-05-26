@@ -1,0 +1,29 @@
+Анализ подкластера 539 в кластере 1
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.28
+Медиана рейтинга: 3.44
+Дисперсия рейтинга: 0.59
+
+Топ-5 жанров:
+genres
+Drama          23
+Comedy         12
+Romance         8
+Documentary     8
+Western         4
+
+Топ-5 тегов:
+tag
+2015       6
+Academy    6
+Award      6
+drama      5
+nudity     4
+
+Примеры фильмов:
+                                                   title  rating                  genres                                                  tag
+23529                                   Palo Alto (2013)    3.50                   Drama  nudity (topless) drama Gia Coppola teen high school
+23550                                  Top Banana (1954)    4.00  Comedy|Musical|Romance                                                  NaN
+23582                               Brony Tale, A (2014)    3.25             Documentary                                          Brent Hodge
+23604                  Shoot-Out at Medicine Bend (1957)    3.00                 Western                                                  NaN
+23623  Unreal Dream: The Michael Morton Story, An (2013)    3.50             Documentary       John Dean Reinert wrongly accused prison Texas

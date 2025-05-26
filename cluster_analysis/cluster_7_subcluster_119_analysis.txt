@@ -1,0 +1,29 @@
+Анализ подкластера 119 в кластере 7
+Размер подкластера: 21 фильмов
+Средний рейтинг: 2.68
+Медиана рейтинга: 2.75
+Дисперсия рейтинга: 1.08
+
+Топ-5 жанров:
+genres
+Drama      10
+Comedy      5
+Horror      5
+Action      3
+Romance     3
+
+Топ-5 тегов:
+tag
+atrocious    2
+lesbians     1
+lesbian      1
+jane         1
+birkin       1
+
+Примеры фильмов:
+                              title  rating                   genres       tag
+30800                 Jinnah (1998)   4.000                Drama|War       NaN
+30801  L'arte della felicità (2013)   1.750  Animation|Drama|Fantasy       NaN
+30802      Going By The Book (2007)   3.625      Action|Comedy|Crime       NaN
+30803       Art Of The Devil (2004)   3.500           Horror|Mystery       NaN
+30804         Camp Belvidere (2014)   3.750       (no genres listed)  lesbians

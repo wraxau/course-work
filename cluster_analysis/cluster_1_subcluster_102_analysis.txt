@@ -1,0 +1,27 @@
+Анализ подкластера 102 в кластере 1
+Размер подкластера: 15 фильмов
+Средний рейтинг: 2.17
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 1.19
+
+Топ-5 жанров:
+genres
+Drama        5
+Thriller     3
+Comedy       3
+Children     3
+Animation    3
+
+Топ-5 тегов:
+tag
+talking     1
+animals     1
+animated    1
+
+Примеры фильмов:
+                                               title  rating                genres  tag
+26732                            Once a Thief (1965)     3.5  Crime|Drama|Thriller  NaN
+26733  House Party 4: Down to the Last Minute (2001)     0.5                Comedy  NaN
+26734                           Race to Space (2002)     3.5        Children|Drama  NaN
+26735                        White Line Fever (1975)     2.0                Action  NaN
+26736                              Snow Queen (2012)     3.0     Animation|Fantasy  NaN

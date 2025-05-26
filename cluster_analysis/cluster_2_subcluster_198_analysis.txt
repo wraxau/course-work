@@ -1,0 +1,29 @@
+Анализ подкластера 198 в кластере 2
+Размер подкластера: 59 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama       29
+Comedy      17
+Crime        8
+Romance      8
+Thriller     8
+
+Топ-5 тегов:
+tag
+nudity    4
+Nudity    3
+comedy    3
+Pedro     3
+based     3
+
+Примеры фильмов:
+                                           title    rating                genres                                                                                   tag
+17171              Parking Lot Movie, The (2010)  3.750000           Documentary                                                                                   NaN
+17176            Robber, The (Der Räuber) (2010)  3.333333           Crime|Drama                                                            German Benjamin Heisenberg
+17178  Idiot Returns, The (Návrat idiota) (1999)  2.333333  Comedy|Drama|Romance                                                                                   NaN
+17187            High Cost of Living, The (2010)  3.500000                 Drama                                                                                   NaN
+17202                  Something Borrowed (2011)  3.093985  Comedy|Drama|Romance  comedy John Krasinski based off book horrible ending lame romance shallow characters

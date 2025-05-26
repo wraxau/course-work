@@ -1,0 +1,29 @@
+Анализ подкластера 168 в кластере 7
+Размер подкластера: 43 фильмов
+Средний рейтинг: 2.93
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.92
+
+Топ-5 жанров:
+genres
+Drama                 20
+Comedy                12
+Thriller               9
+Crime                  7
+(no genres listed)     6
+
+Топ-5 тегов:
+tag
+Great             4
+music             2
+cinematography    2
+comedy            2
+acting            2
+
+Примеры фильмов:
+                                                           title    rating                  genres              tag
+27576  Back to the Garden, Flower Power Comes Full Circle (2009)       NaN             Documentary  Kevin Tomlinson
+27588                                Min så kallade pappa (2014)  3.500000      (no genres listed)              NaN
+27591               Blue Mountains, or Unbelievable Story (1984)  4.000000      (no genres listed)              NaN
+27595                                       The Green Van (1983)  3.000000  Adventure|Comedy|Drama              NaN
+27601                  Kevin Hart: I'm a Grown Little Man (2009)  3.678571                  Comedy              NaN

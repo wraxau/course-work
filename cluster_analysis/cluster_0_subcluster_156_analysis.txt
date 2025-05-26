@@ -1,0 +1,29 @@
+Анализ подкластера 156 в кластере 0
+Размер подкластера: 21 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Comedy      12
+Drama       10
+Romance      4
+Thriller     4
+Action       3
+
+Топ-5 тегов:
+tag
+movie    7
+the      6
+book     6
+see      5
+based    5
+
+Примеры фильмов:
+                                            title    rating                 genres                                                                                                                         tag
+12005                  Sterile Cuckoo, The (1969)  3.318182           Comedy|Drama                                                                                                                         NaN
+12006                  When the Wind Blows (1986)  3.629032          Animation|War            01/11 VHS Jimmy Murakami animation old age 05/11 nuclear war death Betamax 03/11 Raymond Briggs based book 02/11
+12007  Dawn Patrol, The (Flight Commander) (1930)  3.714286       Action|Drama|War                                                                                                     might like Howard Hawks
+12008        Lives of a Bengal Lancer, The (1935)  3.283333        Adventure|Drama  colonialism 01/11 Gary Cooper 04/11 11/11 05/11 09/10 07/10 06/11 03/11 10/10 12/10 Henry Hathaway 08/10 11/10 India 02/11
+12009      Piano Tuner of Earthquakes, The (2005)  3.125000  Drama|Fantasy|Romance                                                                                                                         NaN

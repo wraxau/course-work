@@ -1,0 +1,29 @@
+Анализ подкластера 478 в кластере 7
+Размер подкластера: 35 фильмов
+Средний рейтинг: 2.92
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.48
+
+Топ-5 жанров:
+genres
+Drama        11
+Comedy       10
+Action        8
+Sci-Fi        4
+Adventure     4
+
+Топ-5 тегов:
+tag
+animation      2
+comedy         2
+short          2
+bittersweet    2
+skeleton       1
+
+Примеры фильмов:
+                                        title   rating                     genres                              tag
+29628               Flatfoot in Africa (1978)  2.75000  Action|Comedy|Crime|Drama                              NaN
+29631            The Last White Knight (2012)  2.00000         (no genres listed)                              NaN
+29636                      Mercenaries (2011)  3.50000               Action|Drama                              NaN
+29640               The Skeleton Dance (1929)  3.34375                  Animation   skeleton music graveyard dance
+29641  A.C.A.B.: All Cops Are Bastards (2012)  4.00000         Action|Crime|Drama  vigilantism dirty cops violence

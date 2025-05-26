@@ -1,0 +1,29 @@
+Анализ подкластера 444 в кластере 8
+Размер подкластера: 58 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama       33
+Comedy      18
+Romance     14
+Action      11
+Thriller     8
+
+Топ-5 тегов:
+tag
+Nudity       10
+ratings       9
+300           9
+ClearPlay     7
+less          6
+
+Примеры фильмов:
+                                                      title    rating                               genres                                                                                                                                        tag
+11784                                  Firehouse Dog (2007)  2.389831                        Action|Comedy                                                                                                                                        NaN
+11802                                  Goya's Ghosts (2006)  3.250000                                Drama                                                              Milos Forman Nudity (Topless Brief) BGAB LRC memasa's movies Nudity (Topless)
+11805                                     Pathfinder (2007)  2.591575  Action|Adventure|Drama|Thriller|War  Karl Urban Needs Pick Better Projects Needs Pick-Up His Sword Bob*ola Indians Native Americans ClearPlay Clancy Brown KAF Vikings cliched
+11825  Prisoner, The (Island of Fire) (Huo shao dao) (1990)  3.500000                   Action|Crime|Drama                                                                                                                                        NaN
+11842                                          21 Up (1977)  3.949546                          Documentary                                                                                                   (series) The Series Michael Apted series

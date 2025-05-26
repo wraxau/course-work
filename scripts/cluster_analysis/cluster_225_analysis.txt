@@ -1,0 +1,15 @@
+Анализ кластера 225
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Las      1
+Vegas    1
+
+Примеры фильмов:
+                                 title  genres        tag
+225  Destiny Turns on the Radio (1995)  Comedy  Las Vegas

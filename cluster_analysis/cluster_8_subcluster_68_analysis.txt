@@ -1,0 +1,29 @@
+Анализ подкластера 68 в кластере 8
+Размер подкластера: 59 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Drama       30
+Comedy      15
+Thriller    13
+Romance     11
+Action      10
+
+Топ-5 тегов:
+tag
+movie     12
+nudity    11
+Nudity     9
+ending     9
+see        9
+
+Примеры фильмов:
+                                      title    rating                           genres                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+12446  Prisoner of Shark Island, The (1936)  3.500000                            Drama                                                                                                                                                                                                                                                                                                                                                                                                                                  John Ford
+12454                    Fool's Gold (2008)  2.953397  Action|Adventure|Comedy|Romance                                                                                                                                                                                                                                                                      Kate Hudson Alexis Dziena Ewen Bremner Matthew McConaughey can this easy can this reeal easy it's called magic hour Donald Sutherland Ray Winstone movie see treasure
+12467              Definitely, Maybe (2008)  3.582442             Comedy|Drama|Romance  stilted not great politics cute Below sunny sexy leading actresses ending lame child actor less 300 ratings Rachel Weisz love romantic comedy seen 2010 father daughter relationship Elizabeth Banks clinton seen more once Adam Brooks seen 2014 overlong PARENTHOOD New York marriage bad acting viegla jauka filmiÅ†a new york city movie see Abigail Breslin disappointing child acting Kevin Kline divorce Ryan Reynolds Isla Fisher
+12470             Air I Breathe, The (2007)  3.310219     Crime|Drama|Romance|Thriller                                                                                                                                           nudity (topless) broken hearts PROSTITUTES Brendan Fraser life philosophy See seeing the future beginning mobsters life death gangsters suicide attempt ClearPlay thought-provoking Andy Garcia unique inspirational Kevin Bacon life choices Forest Whitaker Sarah Michelle Gellar Emile Hirsch
+12472                   Street Thief (2006)  3.583333                Crime|Documentary                                                                                                                                                                                                                                                                                                                                                                                                                           ambiguous ending

@@ -1,0 +1,20 @@
+Анализ кластера 457
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+nudity       1
+(topless)    1
+lesbian      1
+Teddy        1
+Award        1
+Chicago      1
+
+Примеры фильмов:
+              title         genres                                           tag
+457  Go Fish (1994)  Drama|Romance  nudity (topless) lesbian Teddy Award Chicago

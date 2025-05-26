@@ -1,0 +1,29 @@
+Анализ подкластера 83 в кластере 7
+Размер подкластера: 25 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.28
+
+Топ-5 жанров:
+genres
+Comedy                9
+Drama                 8
+Horror                4
+Action                4
+(no genres listed)    3
+
+Топ-5 тегов:
+tag
+based        2
+animation    2
+union        1
+factory      1
+sports       1
+
+Примеры фильмов:
+                                                  title    rating                       genres            tag
+32682              The Exorcism of Molly Hartley (2015)  1.583333                       Horror            NaN
+32683                                  Camarades (1970)       NaN                        Drama  union factory
+32684                            United Passions (2015)  2.250000                        Drama  sports soccer
+32685                                     Terror (1981)  1.000000                       Horror            NaN
+32686  Detective K: Secret of the Virtuous Widow (2011)  3.000000  Action|Comedy|Crime|Mystery            NaN

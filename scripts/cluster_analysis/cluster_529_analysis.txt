@@ -1,0 +1,26 @@
+Анализ кластера 529
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Fantasy      1
+Mystery      1
+
+Топ-10 тегов:
+tag
+atomic     1
+bomb       1
+see:       1
+1930s      1
+Koepp      1
+David      1
+Mulcahy    1
+Russell    1
+hero       1
+pulp       1
+
+Примеры фильмов:
+                  title                            genres                                                                                                                                                                   tag
+529  Shadow, The (1994)  Action|Adventure|Fantasy|Mystery  atomic bomb Alec Baldwin mind control character development psychic powers Comic Book adaption bad script pulp hero Russell Mulcahy David Koepp 1930s see: superhero

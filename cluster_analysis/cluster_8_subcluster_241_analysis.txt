@@ -1,0 +1,28 @@
+Анализ подкластера 241 в кластере 8
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.15
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.49
+
+Топ-5 жанров:
+genres
+Drama          5
+Action         1
+Adventure      1
+Documentary    1
+
+Топ-5 тегов:
+tag
+John         1
+Carpenter    1
+american     1
+legal        1
+system       1
+
+Примеры фильмов:
+                                                 title    rating                  genres                                                             tag
+17500                                     Elvis (1979)  3.318182                   Drama                                                  John Carpenter
+17501  Time Stood Still (Il tempo si è fermato) (1959)  4.000000                   Drama                                                             NaN
+17502                                200 M.P.H. (2011)  2.200000  Action|Adventure|Drama                                                             NaN
+17503                                Hot Coffee (2011)  3.765957             Documentary  american legal system corporate America Susan Saladoff lawyers
+17504                       To Sleep with Anger (1990)  3.142857                   Drama                                                             NaN

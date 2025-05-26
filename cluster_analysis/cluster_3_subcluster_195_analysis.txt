@@ -1,0 +1,29 @@
+Анализ подкластера 195 в кластере 3
+Размер подкластера: 16 фильмов
+Средний рейтинг: 2.76
+Медиана рейтинга: 2.97
+Дисперсия рейтинга: 1.12
+
+Топ-5 жанров:
+genres
+Drama       9
+Comedy      4
+Romance     4
+Crime       4
+Thriller    4
+
+Топ-5 тегов:
+tag
+school      2
+Mifune      2
+crime       1
+japanese    1
+Shion       1
+
+Примеры фильмов:
+                                                  title    rating                 genres                                                                                                                                                                                                                tag
+19906  All About Actresses (Le bal des actrices) (2009)  4.000000           Comedy|Drama                                                                                                                                                                                                                NaN
+19907                                  Goal! III (2009)  1.800000          Drama|Romance                                                                                                                                                                                                                NaN
+19908                                     Stolen (2012)  2.671569  Action|Crime|Thriller                                                                                                                                                                             crime music revenge heist Nicolas Cage
+19909                                      Amour (2012)  3.808668          Drama|Romance  Emmanuelle Riva Psichological French depress Sad slow Oscar 2013 acting sorrow cinematography death sacrifice emotional Jean-Louis Trintignant sadistic heartbreaking Michael Haneke beautiful french weak ending
+19910                     Something's Gonna Live (2010)  4.000000            Documentary                                                                                                                                                                                                               MUBI

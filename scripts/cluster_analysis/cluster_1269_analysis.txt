@@ -1,0 +1,24 @@
+Анализ кластера 1269
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Musical    1
+
+Топ-10 тегов:
+tag
+music        5
+classic      3
+rock         3
+good         2
+scary        2
+animated     2
+cult         2
+childhood    2
+great        2
+Rock         2
+
+Примеры фильмов:
+                            title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+1269  Pink Floyd: The Wall (1982)  Drama|Musical  family dynamics music business Musical must see stoned visceral seize artistic psychology pinkfloyd MUSICIAN'S LIFE symbolism rock and roll school institutions Anamorphic Blow-Up groupie sometimes scary poet classic rock music cult film Rock Opera Nudity (Topless) riot train Pink Floyd cult classic strange prejudice erlend's DVDs horror hotel Betamax music video anti-authoritarian playground smoking disturbed kid rebellion depressing drama anti-war commentary progressive social commentary hallucinatory animated sequence Bob Geldof great music flowers trippy loss not very good great soundtrack adolescence own rock institutionalization dreamlike Acid movie that sucks nudity (topless) psychedelic history musical intelligent dont know mindfuck surreal Scary Rock movies materialism Tumey's DVDs owned television childhood decent Alan Parker Obstination animation scary Music Movie foggy psychodellic World War drugs need watch whole thing desert wedding Decadence social control Fantastic! guitar love animated segments grieving war teacher Cartoons for Big Kids The Wall propaganda masterpiece Stoner Movie classic 70mm dark good music traumatic childhood loneliness nazis very little dialogue rape racism blood MISFITS AND OUTSIDERS swimming pool

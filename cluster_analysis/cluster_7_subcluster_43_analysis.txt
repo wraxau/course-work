@@ -1,0 +1,29 @@
+Анализ подкластера 43 в кластере 7
+Размер подкластера: 340 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.69
+
+Топ-5 жанров:
+genres
+Drama                 113
+Comedy                 77
+Thriller               56
+Documentary            51
+(no genres listed)     43
+
+Топ-5 тегов:
+tag
+documentary    6
+romance        5
+love           4
+reviewed       4
+nudity         4
+
+Примеры фильмов:
+                                                      title    rating                       genres          tag
+28136                                The Dark Knight (2011)  3.166667  Action|Crime|Drama|Thriller          NaN
+28139  That Gal... Who Was in That Thing: That Guy 2 (2015)  2.833333                  Documentary  Ian Roumain
+28142                                Half-Breed, The (1916)  3.000000                Drama|Western          NaN
+28146                                          Hotel (2013)  3.500000                        Drama         2015
+28147                                       Alphabet (2013)  3.166667                  Documentary         2014

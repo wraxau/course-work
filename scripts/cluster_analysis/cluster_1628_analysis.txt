@@ -1,0 +1,21 @@
+Анализ кластера 1628
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+want             1
+own              1
+Jewish           1
+identity         1
+disappointing    1
+Jude             1
+Law              1
+
+Примеры фильмов:
+                                  title         genres                                              tag
+1628  I Love You, I Love You Not (1996)  Drama|Romance  want own Jewish identity disappointing Jude Law

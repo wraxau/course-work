@@ -1,0 +1,24 @@
+Анализ кластера 1002
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+
+Топ-10 тегов:
+tag
+baseball           1
+tear               1
+jerker             1
+disney             1
+sports             1
+feel-good          1
+adoption           1
+sport:baseball?    1
+William            1
+Dear               1
+
+Примеры фильмов:
+                              title           genres                                                                                                                tag
+1002  Angels in the Outfield (1994)  Children|Comedy  baseball tear jerker disney sports feel-good adoption sport:baseball? William Dear Christopher Lloyd heartwarming

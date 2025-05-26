@@ -1,0 +1,29 @@
+Анализ подкластера 115 в кластере 0
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.26
+Медиана рейтинга: 3.36
+Дисперсия рейтинга: 0.07
+
+Топ-5 жанров:
+genres
+Drama          3
+Animation      2
+Documentary    2
+Mystery        1
+Thriller       1
+
+Топ-5 тегов:
+tag
+truth      2
+Netflix    2
+Nudity     2
+history    1
+11/11      1
+
+Примеры фильмов:
+                                           title    rating                          genres                                                                                                                                                                                                                                                                                                         tag
+12514                          Chicago 10 (2007)  3.434211           Animation|Documentary                                                                                                                                                                                                                                                history politics perrot library Brett Morgen courtroom 1960s
+12515                  Romulus, My Father (2007)  3.093023                           Drama                                                                                                                                                                                                                                                                     Nudity (Topless) Nudity (Topless Brief)
+12516                 Woman in White, The (1948)  2.800000                Mystery|Thriller                                                                                                                                                                                                                                                                                                         NaN
+12517                Zeitgeist: The Movie (2007)  3.513184                 Documentary|War  documentary conspiracy theory 9/11 30% truth 70% story bullshit eye-opening awful truth Conspiracy Theory Netflix Finland low budget Christianity Bullshit controversial anti-Semitism Netflix Streaming youtube business Pretentious financial power inaccurate Peter Joseph Biased religion Fiction Lies
+12518  Terkel in Trouble (Terkel i knibe) (2004)  3.450980  Animation|Comedy|Drama|Musical                                                                                                                                                                 11/11 black humour 12/10 06/11 12/11 music bela Kresten Vestbjerg Andersen Stefan Fjeldmark Thorbjørn Christoffersen 01/12 mobbing violence

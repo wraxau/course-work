@@ -1,0 +1,29 @@
+Анализ подкластера 65 в кластере 0
+Размер подкластера: 28 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.47
+
+Топ-5 жанров:
+genres
+Drama       19
+Romance      8
+Comedy       6
+Crime        4
+Thriller     3
+
+Топ-5 тегов:
+tag
+based        4
+story        4
+true         4
+ClearPlay    3
+drama        3
+
+Примеры фильмов:
+                                        title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+12562                        Joysticks (1983)  0.500000                        Comedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                           NaN
+12565              Youth Without Youth (2007)  3.005747          Drama|Romance|Sci-Fi                                                                                                                                                                                                                                                                                                                                                               nudity (topless) ClearPlay cinematography Francis Ford Coppola dialogue Tim Roth schizophrenia Nudity (Topless)
+12566                               21 (2008)  3.499621  Crime|Drama|Romance|Thriller  Laurence Fishburne title sequence con artist smart characters Below cards genius counting cards true story based book embellished Black Jack Jim Sturgess Matt Damon strong start weak finish netflix young Massachusetts Institute Technology Kate Bosworth nonfiction Las Vegas Robert Luketic loosely based true story mathematics book adaptation con artists predictable movie see poker Kevin Spacey casinos ending fiction based true story gambling casino blackjack
+12567                     Smart People (2008)  3.088472          Comedy|Drama|Romance                                                                                                                                                                                                                                                                                                                                                    Sarah Jessica Parker father daughter relationship desperation ClearPlay quirky Thomas Haden Church Ellen Page Dennis Quaid
+12568  Last Hangman, The (Pierrepoint) (2005)  3.718750                         Drama                                                                                                                                                                                                                                                                                                                                                                                                                      drama 04/11 11/11 reviewed 12/11 01/12 based real events

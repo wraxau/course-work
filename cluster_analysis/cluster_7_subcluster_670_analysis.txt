@@ -1,0 +1,24 @@
+Анализ подкластера 670 в кластере 7
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.90
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.46
+
+Топ-5 жанров:
+genres
+Thriller     2
+Drama        2
+Horror       1
+Action       1
+Adventure    1
+
+Топ-5 тегов:
+Series([], )
+
+Примеры фильмов:
+                                                   title  rating                genres  tag
+30370  Grave Secrets: The Legacy of Hilltop Drive (1992)    3.50       Horror|Thriller  NaN
+30388                            Gross Misconduct (1993)    3.75        Drama|Thriller  NaN
+30391                                Callie & Son (1981)    2.50                 Drama  NaN
+30397                                Counterpoint (1967)    2.50  Action|Adventure|War  NaN
+30409                               Bombay Velvet (2015)    2.25    (no genres listed)  NaN

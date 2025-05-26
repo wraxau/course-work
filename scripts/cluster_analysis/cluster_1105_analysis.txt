@@ -1,0 +1,23 @@
+Анализ кластера 1105
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+ghost         1
+story         1
+kids          1
+Holbrook      1
+Hal           1
+Lighthouse    1
+remade        1
+funny         1
+it's          1
+bad           1
+
+Примеры фильмов:
+                title  genres                                                                                                                                                                      tag
+1105  Fog, The (1980)  Horror  ghost story low budget Atmospheric horror slow cinematography John Carpenter Jamie Lee Curtis Betamax zombies bad it's funny remade Lighthouse Hal Holbrook kids creepy

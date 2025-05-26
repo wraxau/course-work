@@ -1,0 +1,29 @@
+Анализ подкластера 74 в кластере 5
+Размер подкластера: 68 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.03
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          28
+Documentary    16
+Comedy         13
+Thriller        9
+Romance         8
+
+Топ-5 тегов:
+tag
+Japan        5
+business     4
+music        4
+Criterion    3
+slow         3
+
+Примеры фильмов:
+                                                                                                                 title    rating                  genres                                                                                                                                                                                    tag
+20672                                                                                     Jack the Giant Slayer (2013)  3.011111  Adventure|Fantasy|IMAX  cliche fantasy Ewan McGregor Giants bad cgi fairy tale wholesome giants IMAX DMR 3-D Watched knights btaege crude humor romance Stereoscopic 3-D audience intelligence underestimated
+20679  Unintentional Kidnapping of Mrs. Elfriede Ott, The (Die Unabsichtliche Entführung der Frau Elfriede Ott) (2010)  2.875000                  Comedy                                                                                    austria original friendship dialect good acting humor very funny realistic twist ending dark comedy
+20687                                                                                           Grand Amour, Le (1969)  3.600000          Comedy|Romance                                                                                                                                                                 Pierre Étaix Criterion
+20688                                                                                                Sound City (2013)  3.794393             Documentary                                                                                                                                     musicians rock and roll music business David Grohl
+20693                                                                                        Fog City Mavericks (2007)  3.500000             Documentary                                                                                                                                                           movie business San Francisco

@@ -1,0 +1,23 @@
+Анализ кластера 520
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+football         2
+sports           2
+inspirational    2
+ending           2
+David            1
+private          1
+true             1
+(Cheers)         1
+100              1
+AFI              1
+
+Примеры фильмов:
+           title genres                                                                                                                                                                                                                                     tag
+520  Rudy (1993)  Drama  David Anspaugh sport:American football college inspiring sports movie great acting biography happy ending notre dame private school Sean Astin sports Underdog inspirational AFI 100 (Cheers) football true story inspirational ending

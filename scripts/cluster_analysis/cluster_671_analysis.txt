@@ -1,0 +1,23 @@
+Анализ кластера 671
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+
+Топ-10 тегов:
+tag
+Tavernier       2
+Bertrand        1
+corruption      1
+POLICE          1
+CRIMINALS       1
+UNLIKELY        1
+AFFAIRS         1
+EXTRAMARITAL    1
+SPREES          1
+CRIME           1
+
+Примеры фильмов:
+                                    title genres                                                                                                                                                                                                tag
+671  Coup de torchon (Clean Slate) (1981)  Crime  Bertrand Tavernier CULTURE CLASH cynical witty humorous COLONIALISM quirky Criterion police corruption satirical Tavernier CRIME SPREES EXTRAMARITAL AFFAIRS UNLIKELY CRIMINALS POLICE CORRUPTION

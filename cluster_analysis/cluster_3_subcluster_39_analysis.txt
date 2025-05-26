@@ -1,0 +1,29 @@
+Анализ подкластера 39 в кластере 3
+Размер подкластера: 78 фильмов
+Средний рейтинг: 3.10
+Медиана рейтинга: 3.11
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Comedy      30
+Drama       28
+Thriller    15
+Children    14
+Horror      14
+
+Топ-5 тегов:
+tag
+Oscar     35
+(Best     30
+the       23
+movie     20
+comedy    16
+
+Примеры фильмов:
+                                                  title    rating                   genres                                                                                                                                                                                                                       tag
+1758                                 He Got Game (1998)  3.361666                    Drama                                                                                                  nudity (topless) corruption Tumey's DVDs want see again family sports nude black women Holds Nudity (Topless) basketball
+1761                     Slappy and the Stinkers (1998)  2.477778          Children|Comedy                                                                                                                                                                                                                 childhood
+1763                                 Zero Effect (1998)  3.714404  Comedy|Mystery|Thriller  Los Angeles blackmail sherlock holmes parody eccentricity USA off-beat comedy directorial debut Jake Kasdan health club private detective Ben Stiller Bill Pullman characters own Portland investigation noir Underrated
+1765                                     Ratchet (1996)  2.800000           Drama|Thriller                                                                                                                                                                                                                       NaN
+1771  Alan Smithee Film: Burn Hollywood Burn, An (1997)  1.947531                   Comedy                                                                                                                                                                                          Golden Raspberry (Worst Picture)

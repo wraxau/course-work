@@ -1,0 +1,29 @@
+Анализ подкластера 466 в кластере 1
+Размер подкластера: 55 фильмов
+Средний рейтинг: 2.61
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.54
+
+Топ-5 жанров:
+genres
+Drama        18
+Comedy       11
+Children     11
+Adventure    10
+Action        7
+
+Топ-5 тегов:
+tag
+female     2
+Michael    2
+Andy       2
+action     2
+John       2
+
+Примеры фильмов:
+                                            title    rating                             genres              tag
+26164                                Tapia (2013)       NaN                        Documentary    Eddie Alcazar
+26171                     The Gift of Love (1978)       NaN                      Drama|Romance      Don Chaffey
+26175  Katt Williams: Priceless: Afterlife (2014)  3.700000                             Comedy  stand-up comedy
+26176                    Take a Giant Step (1959)       NaN                              Drama   Philip Leacock
+26188    Stuart Little 3: Call of the Wild (2005)  2.444444  Animation|Children|Comedy|Fantasy              NaN

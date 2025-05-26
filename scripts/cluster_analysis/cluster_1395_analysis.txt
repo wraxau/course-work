@@ -1,0 +1,26 @@
+Анализ кластера 1395
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Comedy       1
+Thriller     1
+
+Топ-10 тегов:
+tag
+you've      2
+seen        2
+Chan        2
+Jackie      2
+movie       1
+one         1
+When        1
+Kong        1
+Hong        1
+fighting    1
+
+Примеры фильмов:
+                                                                                              title                            genres                                                                                                                              tag
+1395  First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo) (1996)  Action|Adventure|Comedy|Thriller  you've seen them all. Martial Arts Stanley Tong Lots fighting Jackie Chan Hong Kong When you've seen one Jackie Chan movie kung

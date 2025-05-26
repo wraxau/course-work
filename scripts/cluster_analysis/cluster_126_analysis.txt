@@ -1,0 +1,15 @@
+Анализ кластера 126
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+Michel        1
+Negroponte    1
+
+Примеры фильмов:
+                     title       genres                tag
+126  Jupiter's Wife (1994)  Documentary  Michel Negroponte

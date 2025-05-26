@@ -1,0 +1,29 @@
+Анализ подкластера 141 в кластере 5
+Размер подкластера: 23 фильмов
+Средний рейтинг: 2.81
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.58
+
+Топ-5 жанров:
+genres
+Drama          11
+Thriller        5
+Crime           5
+Action          4
+Documentary     3
+
+Топ-5 тегов:
+tag
+reviewed         2
+btaege           1
+action           1
+controversial    1
+documentary      1
+
+Примеры фильмов:
+                            title    rating                  genres                           tag
+20270      Collection, The (2012)  3.169355  Action|Horror|Thriller                        btaege
+20286  Soldiers of Fortune (2012)  2.538462        Action|Adventure                           NaN
+20290               Stevie (2008)  2.500000            Drama|Horror                           NaN
+20292      Misérables, Les (1958)  3.222222                   Drama  Jean-Paul Chanois Technirama
+20294      Big Street, The (1942)  2.500000           Drama|Romance                        etaege

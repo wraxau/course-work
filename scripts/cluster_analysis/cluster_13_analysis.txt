@@ -1,0 +1,23 @@
+Анализ кластера 13
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+based         2
+true          2
+story         2
+corruption    1
+Historical    1
+own           1
+Hopkins       1
+Anthony       1
+drama         1
+political     1
+
+Примеры фильмов:
+           title genres                                                                                                                                                                                                                                                                          tag
+13  Nixon (1995)  Drama  corruption politics biography Wooohoo Oliver Stone President true story cinematographer:Robert Richardson biographical biopic Tumey's VHS character based real person:Richard Nixon president Drama political drama Anthony Hopkins based true story own Historical opinion

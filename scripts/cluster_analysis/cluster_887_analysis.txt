@@ -1,0 +1,24 @@
+Анализ кластера 887
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+det         4
+den         4
+med         3
+AFI         3
+meget       3
+til         3
+thriller    3
+see         2
+stewart     2
+noir        2
+
+Примеры фильмов:
+                  title            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+887  Rear Window (1954)  Mystery|Thriller  serial killer muder James Stewart neighbors slow Classic Edgar Award (Best Motion Picture) tense Alfred Hitchcock One Hitcocks best Thelma Ritter noir thriller hitchcock psychological thriller Jimmy Stewart apartment urbane significant character wheelchair AFI 100 expected more erlend's DVDs phobias Hollywood Grace Kelly james stewart AFI 100 (Thrills) VOYEURS AFI #42 long mystery jimmy stewart AMATEUR SLEUTHS voyeurism old claustrophobic amateur detective murder dvr imdb top 250 Hitchcock remadeAs:Disturbia (2007) Top ever Best Rotten Tomatoes: All Time wheelchair National Film Registry Judith Evelyn Emerson must see det var sgu meget fin lille film, fint lille set menacing Tumey's DVDs WITNESSING CRIME noir Frightening netflix queue remakeOf:Rear Window (1954) alone wry havde lidt lyst til udvise forsoning tendenser med alfred, give den 4'er, men den kunne ikke helt strækkes til det. den strakte sig anelse for langt anden halvdel filmen obsession Film Noir photography mvlc identity Wendell Corey 1950s vild med set-up'et. det minder meget teaterscene: helt stiliseret simpel. det virker næsten bevidst overbelyst. visually appealing memasa's movies thriller photographer DIVX det sjovt, jeg sad ventede objektet ville returne the gaze, hvilket skete til sidst morderen opdager han bliver beskuet. suspense thrilling classic BD-Video kan godt lide ham der spiller hoved rollen. generelt sige skuespillet meget mere nuanceret fint end jeg huskede hitchcock. breakupet med hans kæreste, den stakkels kvinde, var faktisk ret rørerende suspenseful movie see Inadvertently named after anal sex Raymond Burr assassination

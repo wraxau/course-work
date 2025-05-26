@@ -1,0 +1,25 @@
+Анализ кластера 325
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Drama        1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+show            2
+franchise       2
+odd-numbered    1
+time            1
+Enterprise      1
+Star            1
+Trek            1
+BD-Video        1
+ruined          1
+the             1
+
+Примеры фильмов:
+                             title                  genres                                                                                                                                                                                                                                                                                                                       tag
+325  Star Trek: Generations (1994)  Adventure|Drama|Sci-Fi  odd-numbered movie Sci-Fi space Futuristmovies.com beloved character dies pointlessly franchise seen more once trekie Gene Roddenberry Based show Brent Spiner Trekkie Patrick Stewart Enterprise Star Trek BD-Video ruined the franchise STTNG time travel Whoopi Goldberg sequel far future William Shatner based show

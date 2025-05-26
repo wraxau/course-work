@@ -1,0 +1,24 @@
+Анализ кластера 2067
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+
+Топ-10 тегов:
+tag
+culture        2
+Africa         2
+comedy         1
+provoking      1
+bittersweet    1
+exotic         1
+btaege         1
+adventure      1
+Uys            1
+Jamie          1
+
+Примеры фильмов:
+                               title            genres                                                                                                                                                                                                                  tag
+2067  Gods Must Be Crazy, The (1980)  Adventure|Comedy  comedy Botswana Betamax values spindle culture clash slapstick see: suggested scenery Africa South Africa thought provoking unique silly natives Jamie Uys adventure btaege exotic culture bittersweet heartwarming

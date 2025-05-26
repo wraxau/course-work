@@ -1,0 +1,25 @@
+Анализ кластера 1993
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Mystery     1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Take          2
+disturbing    2
+Nudity        2
+Your          2
+Isabella      2
+(Full         2
+You           2
+DVDs          2
+suburbia      1
+SUBURBAN      1
+
+Примеры фильмов:
+                   title                  genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tag
+1993  Blue Velvet (1986)  Drama|Mystery|Thriller  overrated erlend's DVDs atmospheric serial killer nudity (full frontal) looooooooong delirium disturbing bad way visual glamour Betamax love this movie 'It's Not Where Your Dreams Take You But Who You Take Your Dreams' hahaha! Emerson must see memasa's movies zizek's pick AFI 100 (Thrills) neo-noir slow David Lynch menacing mystery boring AMATEUR SLEUTHS surreal sexuality quirky weird Fucked Tumey's DVDs mise-en-scene suburbia SUBURBAN DYSFUNCTION voyeurism self indulgent ominous classic dark Isabella Rosselini art house disturbing hallucinatory femme fatale Nudity (Full Frontal) Nudity (Full Frontal Notable) lynch scary WOMEN JEOPARDY strange INNOCENCE LOST Kyle MacLachlan Isabella Rossellini library Wooden acting sexual Dennis Hopper pointless dreamlike color

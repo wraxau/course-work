@@ -1,0 +1,24 @@
+Анализ кластера 1714
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+cinematographer:Bojan    1
+Bazelli                  1
+NYC                      1
+stylish                  1
+crime                    1
+drugs                    1
+Christopher              1
+Walken                   1
+gangster                 1
+Abel                     1
+
+Примеры фильмов:
+                        title          genres                                                                                                             tag
+1714  King of New York (1990)  Crime|Thriller  cinematographer:Bojan Bazelli NYC stylish crime drugs Christopher Walken gangster Abel Ferrara gangsters Crime

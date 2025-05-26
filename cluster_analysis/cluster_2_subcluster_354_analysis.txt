@@ -1,0 +1,29 @@
+Анализ подкластера 354 в кластере 2
+Размер подкластера: 25 фильмов
+Средний рейтинг: 3.27
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.33
+
+Топ-5 жанров:
+genres
+Drama      16
+Comedy      6
+Romance     5
+Musical     4
+Sci-Fi      3
+
+Топ-5 тегов:
+tag
+animated    3
+hair        3
+nudity      2
+IMAX        2
+based       2
+
+Примеры фильмов:
+                                                               title    rating          genres                                                                                   tag
+16162                                                 Tribute (1980)  2.500000    Comedy|Drama                                                                                   NaN
+16166                                   Dark and Stormy Night (2009)  4.000000  Comedy|Mystery                                                                                   NaN
+16168                                       Jack Goes Boating (2010)  3.265432  Comedy|Romance  beautiful performances pat touching story Philip Seymour Hoffman oppl hurried ending
+16171                                  Million Dollar Mermaid (1952)  3.500000   Drama|Musical                                                                                   NaN
+16174  1990: The Bronx Warriors (1990: I guerrieri del Bronx) (1982)  2.964286   Action|Sci-Fi                                     camp weird Betamax post-apocalyptic cult film gay

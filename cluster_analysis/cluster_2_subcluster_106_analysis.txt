@@ -1,0 +1,29 @@
+Анализ подкластера 106 в кластере 2
+Размер подкластера: 71 фильмов
+Средний рейтинг: 3.04
+Медиана рейтинга: 3.20
+Дисперсия рейтинга: 0.68
+
+Топ-5 жанров:
+genres
+Drama       30
+Comedy      18
+Action      14
+Thriller     9
+Sci-Fi       9
+
+Топ-5 тегов:
+tag
+ending    10
+acting     6
+space      6
+plot       6
+anime      4
+
+Примеры фильмов:
+                                                title    rating                  genres                                                        tag
+18742                               Live Music (2009)  0.500000               Animation                                                        NaN
+18751                             Wrong Turn 4 (2011)  2.758065  Action|Horror|Thriller  nudity (topless) slasher prequel nude black women mutants
+18754  Munekata Sisters, The (Munekata kyôdai) (1950)  3.333333                   Drama                                               Yasujirô Ozu
+18760     Price of Forgiveness, The (Ndeysaan) (2001)  3.000000                   Drama                                                        NaN
+18764             Ice Rink, The (La patinoire) (1998)  3.000000          Comedy|Romance                    hockey slapstick Bruce Campbell skating

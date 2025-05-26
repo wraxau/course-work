@@ -1,0 +1,29 @@
+Анализ подкластера 198 в кластере 6
+Размер подкластера: 8 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.86
+
+Топ-5 жанров:
+genres
+Documentary    3
+Thriller       2
+Action         1
+Comedy         1
+Western        1
+
+Топ-5 тегов:
+tag
+music           2
+science         2
+computer        1
+intelligence    1
+otherness       1
+
+Примеры фильмов:
+                                                                     title    rating                 genres                                                                                                                                                                                                                                                                                                                                       tag
+23302                                                   Border Feud (1947)  3.000000  Action|Comedy|Western                                                                                                                                                                                                                                                                                                                                       NaN
+23303                                        Border Run (Mule, The) (2012)  2.000000         Crime|Thriller                                                                                                                                                                                                                                                                                                                                       NaN
+23304                                                  Machine, The (2013)  3.245856        Sci-Fi|Thriller  computer android(s)/cyborg(s) androids Turing test combat robots evolution human/machine relationships pace created life low budget war bad science ambient music science fiction lightning dark artificial intelligence experiment music otherness sci-fi dystopia psychological lighting loss machines robot military cyborgs research
+23305                   Loves of Pharaoh, The (Das Weib des Pharao) (1922)  3.000000      Drama|Romance|War                                                                                                                                                                                                                                                                                                                                       NaN
+23306  NATO's Secret Armies (Gladio: L'esercito segreto della Nato) (2010)  4.000000            Documentary                                                                                                                                                                                                                                                                                                                                       NaN

@@ -1,0 +1,27 @@
+Анализ кластера 582
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Comedy       1
+Musical      1
+
+Топ-10 тегов:
+tag
+Disney    5
+kids      3
+comedy    2
+seen      2
+family    2
+Oscar     2
+own       2
+magic     2
+rate      2
+hard      2
+
+Примеры фильмов:
+              title                                       genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+582  Aladdin (1992)  Adventure|Animation|Children|Comedy|Musical  comedy Oscar (Best Music Original Song) musical arabs animated soundtrack seen the cinema fairy tale young kids lamp Watched artistic hard rate (personal) Divx1 Classic coming age disney seen more once Disney rags riches Action Fantasy Bearable Disney genie Oscar (Best Music Original Score) hard rate magic carpet want own funny kids aliens stereotypes Robin Williams middle east family comedy Disney animated feature children princess who doesn't like being princess Ron Clements BD-Video kids and family CAV marriage holes90s prince abubu avi music DVD Collection Aladdin heterosexuality Disney Renaissance djinn animation cartoon excellent magic Animation Disney fun (s)vcd wishes Cartoon adventure own good versus evil Katottava Arabian Nights

@@ -1,0 +1,23 @@
+Анализ кластера 2367
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Horror    1
+
+Топ-10 тегов:
+tag
+practical     1
+idiotic       1
+Special       1
+suburbia      1
+fun           1
+disturbing    1
+Dorff         1
+Stephen       1
+Hand          1
+Eye           1
+
+Примеры фильмов:
+                 title  genres                                                                                                                                                                                            tag
+2367  Gate, The (1987)  Horror  practical idiotic Betamax creature feature boring weird Metal Demons SUBURBAN DYSFUNCTION Hell stop motion creepy Tibor Takács Eye Hand Stephen Dorff disturbing fun suburbia Special Effects

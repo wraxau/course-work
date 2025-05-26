@@ -1,0 +1,22 @@
+Анализ кластера 500
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action    1
+Drama     1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+Futuristmovies.com    1
+corruption            1
+Stuart                1
+Wilson                1
+Ray                   1
+Liotta                1
+prison                1
+
+Примеры фильмов:
+                title               genres                                                            tag
+500  No Escape (1994)  Action|Drama|Sci-Fi  Futuristmovies.com corruption Stuart Wilson Ray Liotta prison

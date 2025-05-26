@@ -1,0 +1,29 @@
+Анализ подкластера 153 в кластере 7
+Размер подкластера: 23 фильмов
+Средний рейтинг: 2.70
+Медиана рейтинга: 2.80
+Дисперсия рейтинга: 1.01
+
+Топ-5 жанров:
+genres
+Comedy      8
+Drama       8
+Horror      7
+Thriller    6
+Action      4
+
+Топ-5 тегов:
+tag
+effects       2
+sex           1
+practical     1
+artificial    1
+hackers       1
+
+Примеры фильмов:
+                                   title  rating                         genres  tag
+29643             Alien vs. Ninja (2010)     2.5  Action|Horror|Sci-Fi|Thriller  NaN
+29652    Mariage chez les Bodin's (2008)     3.5                         Comedy  NaN
+29653  Amélie au pays des Bodin's (2010)     3.5                         Comedy  NaN
+29654                    Obsessed (2002)     3.0                 Drama|Thriller  NaN
+29657                    Guardian (2001)     1.0     Action|Drama|Horror|Sci-Fi  NaN

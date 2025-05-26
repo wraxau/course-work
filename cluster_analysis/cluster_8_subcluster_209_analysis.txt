@@ -1,0 +1,29 @@
+Анализ подкластера 209 в кластере 8
+Размер подкластера: 31 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.42
+
+Топ-5 жанров:
+genres
+Drama       13
+Comedy       8
+Horror       7
+Thriller     7
+Romance      5
+
+Топ-5 тегов:
+tag
+netflix    3
+French     3
+comedy     2
+single     2
+romance    2
+
+Примеры фильмов:
+                                                   title    rating                genres                                                                                                                             tag
+18913                            Osmosis (Osmose) (2003)  3.500000  Comedy|Drama|Romance                                                                                                                             NaN
+18914                Clay Bird, The (Matir moina) (2002)  2.833333                 Drama                                                                                                                             NaN
+18915                   Dupes, The (Al-makhdu'un) (1973)  3.333333                 Drama                                                                                                                             NaN
+18916  Romantics Anonymous (Les émotifs anonymes) (2010)  3.606250        Comedy|Romance  comedy French Film French shyness romantic unique romantic comedy Jean-Pierre Améris Chronic shyness France Very funny netflix
+18917      Unknown Woman, The (Tuntematon emäntä) (2011)  2.750000           Documentary                                                                                                                         Finnish

@@ -1,0 +1,25 @@
+Анализ кластера 2065
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Fantasy    1
+Horror     1
+
+Топ-10 тегов:
+tag
+visual     1
+effects    1
+absurd     1
+Betamax    1
+ghosts     1
+funny      1
+cheesy     1
+haunted    1
+house      1
+Special    1
+
+Примеры фильмов:
+             title                 genres                                                                              tag
+2065  House (1986)  Comedy|Fantasy|Horror  visual effects absurd Betamax ghosts funny cheesy haunted house Special Effects

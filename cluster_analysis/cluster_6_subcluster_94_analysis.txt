@@ -1,0 +1,29 @@
+Анализ подкластера 94 в кластере 6
+Размер подкластера: 15 фильмов
+Средний рейтинг: 3.06
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama      8
+Mystery    4
+Comedy     4
+Crime      4
+Action     3
+
+Топ-5 тегов:
+tag
+plot      6
+action    4
+bad       4
+IMAX      2
+book      2
+
+Примеры фильмов:
+                                          title    rating                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                              tag
+24032  Blade on the Feather (Deep Cover) (1980)       NaN                  Mystery                                                                                                                                                                                                                                                                                                                                                                                                                                                Richard Loncraine
+24034                       Free Samples (2012)  3.625000             Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN
+24035                          Quicksand (2003)  2.750000     Crime|Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN
+24036                  Jupiter Ascending (2015)  2.656680  Action|Adventure|Sci-Fi                                                                                                     MOLT_CRITICADA Deus machina Lana Wachowski good evil childish dynasty anti-right-wing disappointing space love Andy Wachowski action Dull Space Opera war oligarchy delightfully awful science fiction wachowskis the same plot twice? really? spaceship bad acting Mila Kunis sci-fi awful script Jupiter royalty dialogue industry obvious special effects
+24037       Teenage Mutant Ninja Turtles (2014)  2.559759  Action|Adventure|Comedy  superhero team superheroes childish Dimensionalized 2-D 3-D characters action TNMT missed chance bring subversive integrity the TMNT movie line poor action bad script martial arts ninja cgi audience intelligence underestimated blew IMAX DMR 3-D wish this movie didnt exist silly superhero talking animals disapointment Megan Fox plot holes reporter few action scenes robot samurai fun CGI timelapse comic book new story dumb plot IMAX Digital only

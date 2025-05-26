@@ -1,0 +1,23 @@
+Анализ кластера 973
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+irish         2
+reviewed      1
+Ireland       1
+accent        1
+Julia         1
+Roberts       1
+biography     1
+historical    1
+Neil          1
+Jordan        1
+
+Примеры фильмов:
+                      title genres                                                                                              tag
+973  Michael Collins (1996)  Drama  irish reviewed Ireland irish accent Julia Roberts biography historical Neil Jordan Alan Rickman

@@ -1,0 +1,24 @@
+Анализ кластера 335
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+romantic       3
+identity       2
+cute           2
+good           2
+comedy         2
+cliche         1
+romance        1
+rom            1
+com            1
+predictable    1
+
+Примеры фильмов:
+                              title          genres                                                                                                                                                                                                                                                                                                                                                                                                                                                tag
+335  While You Were Sleeping (1995)  Comedy|Romance  identity cute Sandra Bullock frivolous romantic ambitioned Bechdel Test:Fail chemistry between actors romantic comedy boring mistaken identity Good Romantic Comedies good NO_FA_GANES owned it's alright. coma seen 2015 feel good movie loneliness cute romance rom com predictable Jon Turteltaub unoriginal Romance cliche nicy romantic comedy avuncular grandfather-figure feel-good Bill Pullman chick flick sandra 'boring' bullock sweet

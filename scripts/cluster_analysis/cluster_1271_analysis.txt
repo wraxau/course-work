@@ -1,0 +1,24 @@
+Анализ кластера 1271
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+Nudity          2
+loss            1
+mother-son      1
+relationship    1
+wistful         1
+childhood       1
+village         1
+dogs            1
+affectionate    1
+dysku           1
+
+Примеры фильмов:
+                                            title        genres                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1271  My Life as a Dog (Mitt liv som hund) (1985)  Comedy|Drama  gentle erlend's DVDs Betamax 1950s boxing absent fathers tomboy seasons poignant child nudity coming age teenagers grieving puberty sexuality NO_FA_GANES rural Sweden flashbacks terminal illness witty Nudity (Topless Notable) mother-son relationship wistful childhood village dogs affectionate dysku friendship soccer reflective loss Nudity (Full Frontal Brief) Criterion library vhs seen 2011 wry uncle Swedish Lasse Hallström

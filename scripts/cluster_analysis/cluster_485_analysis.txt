@@ -1,0 +1,19 @@
+Анализ кластера 485
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Richard     1
+Benjamin    1
+Whoopi      1
+Goldberg    1
+Ted         1
+Danson      1
+
+Примеры фильмов:
+                      title  genres                                          tag
+485  Made in America (1993)  Comedy  Richard Benjamin Whoopi Goldberg Ted Danson

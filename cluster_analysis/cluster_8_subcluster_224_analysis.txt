@@ -1,0 +1,29 @@
+Анализ подкластера 224 в кластере 8
+Размер подкластера: 36 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.22
+
+Топ-5 жанров:
+genres
+Drama       22
+Romance     12
+Thriller    10
+Comedy       8
+Action       7
+
+Топ-5 тегов:
+tag
+Nudity    9
+movie     6
+see       6
+Oscar     6
+nudity    5
+
+Примеры фильмов:
+                                                                     title    rating                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+11544  Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006)  3.421053             Action|Drama  poison Yimou Zhang landscape Seen 2007 stepmother massacre Classical Chinese Oscar Nom 2007 Netflix Finland Oscar Nominee: Costume Design rebellion weak characters martial arts R:violence visually stunning based play banquet Jay Chou Emperor scope cinematography Zhang Yimou sword fight China calligraphy political intrigues secrets royalty library china 9th century queen power struggle emperor adapted from:play stylized
+11547                                              Good German, The (2006)  3.025915   Drama|Mystery|Thriller                                                                                                                                                            Steven Soderbergh Potsdam Conference Nudity (Topless Brief) George Clooney Oscar Nom 2007 mystery Potential Oscar Nom perrot library War Criminal historical Oscar bait intrigue ClearPlay Beau Bridges WWII pretentious Berlin Tobey Maguire Cate Blanchett World War retro
+11550                                          Presenting Lily Mars (1943)  3.250000   Comedy|Musical|Romance                                                                                                                                                                                                                                                                                                                                                                                                                                     NaN
+11551                                               Black Christmas (2006)  2.001471   Action|Horror|Thriller                                                                                                                                                                                                                                                                                                                                                             Christmas ClearPlay remake Nudity (Topless Brief) Glen Morgan Lacey Chabert
+11557                                     Arthur and the Invisibles (2007)  3.126518  Action|Children|Fantasy                                                                                                                                                                                                                                                                                                                                                           narrator animated predictable ending Netflix queue Luc Besson fantasy gadgets

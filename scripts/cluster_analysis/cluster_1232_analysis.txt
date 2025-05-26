@@ -1,0 +1,25 @@
+Анализ кластера 1232
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Film-Noir    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+top        3
+DVDs       2
+Peter      2
+Lorre      2
+classic    2
+Best       2
+250        2
+the        2
+whistle    1
+old        1
+
+Примеры фильмов:
+         title                    genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          tag
+1232  M (1931)  Crime|Film-Noir|Thriller  whistle erlend's DVDs computer atmospheric serial killer Best Rotten Tomatoes: All Time great acting FilmAffinity top pick whistling Emerson must see talky very good Scary Movies See Halloween the Hall the Mountain King tcm google video menacing BFI classic Tumey's DVDs child killing german expressionism Best Performance: Peter Lorre Hans Beckert top 250 IMDB grim bleak creepy classic old age need own chilly Fritz Lang disturbing pedofile Peter Lorre black and white police investigation VHS mental illness imdb top 250 Criterion library vhs oninous open ending Janus

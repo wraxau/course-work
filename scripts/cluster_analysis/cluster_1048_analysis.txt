@@ -1,0 +1,24 @@
+Анализ кластера 1048
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Film-Noir    1
+
+Топ-10 тегов:
+tag
+Edward      1
+Dmytryk     1
+should      1
+thriller    1
+noir        1
+bleak       1
+grim        1
+See         1
+ominous     1
+tense       1
+
+Примеры фильмов:
+                 title           genres                                                                                                                             tag
+1048  Crossfire (1947)  Crime|Film-Noir  Edward Dmytryk anti-Semitism Edgar Award (Best Motion Picture) visceral tense ominous See grim bleak noir thriller should like

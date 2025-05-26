@@ -1,0 +1,19 @@
+Анализ кластера 1673
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+character       1
+study           1
+Bibliothek      1
+interweaving    1
+stories         1
+
+Примеры фильмов:
+                 title         genres                                              tag
+1673  Afterglow (1997)  Drama|Romance  character study Bibliothek interweaving stories

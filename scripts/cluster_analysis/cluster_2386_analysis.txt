@@ -1,0 +1,24 @@
+Анализ кластера 2386
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Comedy       1
+
+Топ-10 тегов:
+tag
+New           1
+remember      1
+flick         1
+chick         1
+adventure     1
+australian    1
+Kozlowski     1
+Linda         1
+(Rear)        1
+Nudity        1
+
+Примеры фильмов:
+                        title            genres                                                                                                                                                                                                                                            tag
+2386  Crocodile Dundee (1986)  Adventure|Comedy  New York City humorous culture clash Paul Hogan transphobia Australia thats not knife cross dressing funny Can't remember crocodile guilty pleasure outback Peter Faiman Nudity (Rear) Linda Kozlowski australian adventure chick flick 1980s

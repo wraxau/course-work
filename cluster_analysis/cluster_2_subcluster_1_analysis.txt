@@ -1,0 +1,29 @@
+Анализ подкластера 1 в кластере 2
+Размер подкластера: 38 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.49
+
+Топ-5 жанров:
+genres
+Drama          17
+Documentary    10
+Comedy          7
+Action          7
+Crime           6
+
+Топ-5 тегов:
+tag
+the       3
+based     3
+funny     3
+bad       3
+school    2
+
+Примеры фильмов:
+                                                                                             title    rating               genres                                                        tag
+18498                                                                     Time Without Pity (1957)  2.750000  Crime|Drama|Mystery                                               Joseph Losey
+18512                                                                            You and Me (1938)  3.166667        Crime|Romance                                                 Fritz Lang
+18513                                                    Nazis: A Warning from History, The (1997)  3.700000      Documentary|War  bbc produced history Tilman Remme holocaust Laurence Rees
+18538                                                 Go Get Some Rosemary (Daddy Longlegs) (2009)  3.100000         Comedy|Drama                                                        NaN
+18541  Street Mobster (a.k.a. Modern Yakuza: Outlaw Killer) (Gendai yakuza: hito-kiri yota) (1972)  3.250000         Action|Crime                                             Kinji Fukasaku

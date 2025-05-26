@@ -1,0 +1,24 @@
+Анализ кластера 1882
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Sci-Fi    1
+
+Топ-10 тегов:
+tag
+dark          2
+comedy        2
+cult          2
+Los           1
+Alex          1
+Cox           1
+macguffin     1
+futuristic    1
+setting:LA    1
+movie         1
+
+Примеры фильмов:
+                title         genres                                                                                                                                                                                                                                                                                                                                                                                                             tag
+1882  Repo Man (1984)  Comedy|Sci-Fi  Los Angeles nudity (topless) punk rock music breakthroughs notable soundtrack Dick Rude punks surreal dark humor Tumey's DVDs wired greatest soundtracks cars aliens Emilio Estevez disambiguation:Repo Man/Repo Men television Alex Cox macguffin futuristic setting:LA movie see cult film evil government Nudity (Topless) VHS cult classic redefining the 80s Criterion black comedy car chase dark comedy

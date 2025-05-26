@@ -1,0 +1,23 @@
+Анализ кластера 2336
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+classic     2
+good        2
+wax         2
+Weekly      1
+John        1
+Avildsen    1
+underdog    1
+DivX        1
+Ralph       1
+Macchio     1
+
+Примеры фильмов:
+                       title genres                                                                                                                                                                                                                                                                                                                                                                                              tag
+2336  Karate Kid, The (1984)  Drama  Pat Morita comedy Elisabeth Shue childish culture clash Kate Divx1 coming age Netflix Finland training montage bad but good get good Underdog martial arts movies every kid should see--Entertainment Weekly classic John Avildsen underdog DivX Ralph Macchio 80s inspirational mentor wax wax off bullying 1980s 80's classic Feel Good seen AFI 100 (Cheers) Karate paint the fence violence

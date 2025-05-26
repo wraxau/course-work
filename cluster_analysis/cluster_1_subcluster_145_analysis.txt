@@ -1,0 +1,29 @@
+Анализ подкластера 145 в кластере 1
+Размер подкластера: 22 фильмов
+Средний рейтинг: 2.80
+Медиана рейтинга: 2.81
+Дисперсия рейтинга: 0.55
+
+Топ-5 жанров:
+genres
+Drama       12
+Romance      6
+Thriller     6
+Comedy       4
+Crime        4
+
+Топ-5 тегов:
+tag
+Mamonov    2
+death      1
+player     1
+Pavel      1
+Lungin     1
+
+Примеры фильмов:
+                                   title  rating           genres                                                                             tag
+24761                  Still Life (2013)  3.8125            Drama  death Philosophical Loneliness British Uberto Pasolini depressing Eddie Marsan
+24771  The Emperor's Candlesticks (1937)  3.0000    Drama|Romance                                                                             NaN
+24776         Thirty Day Princess (1934)  2.7500   Comedy|Romance                                                                             NaN
+24778           Personal Property (1937)  2.5000   Comedy|Romance                                                                             NaN
+24779                Wolf Creek 2 (2013)  2.8800  Horror|Thriller                                                australia suspense serial killer

@@ -1,0 +1,29 @@
+Анализ подкластера 169 в кластере 6
+Размер подкластера: 28 фильмов
+Средний рейтинг: 2.89
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Animation    14
+Drama         5
+Comedy        5
+Horror        3
+Action        3
+
+Топ-5 тегов:
+tag
+Norman     6
+McLaren    6
+comedy     2
+music      2
+nudity     2
+
+Примеры фильмов:
+                                     title    rating                    genres                                                                                                            tag
+25532  The Curse of King Tut's Tomb (2006)  1.000000  Adventure|Fantasy|Horror                                                                                                            NaN
+25533                       Titanic (1996)  2.785714      Action|Drama|Romance                                                                                                            NaN
+25534                Butterfly Girl (2014)       NaN               Documentary                                                                                                      Cary Bell
+25535                     Mr. Jones (2013)  2.233333     Drama|Horror|Thriller                                         Boring Outsider Art Nightmare Found Footage Cave Nothing Happens Moody
+25536                      Top Five (2014)  3.149038                    Comedy  nudity (topless) Title movie business light Chris Rock cameo-fest prospect Rosario Dawson interracial romance

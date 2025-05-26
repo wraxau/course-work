@@ -1,0 +1,23 @@
+Анализ кластера 927
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+moral         1
+dilemma       1
+Shangri-La    1
+Ronald        1
+Colman        1
+1930s         1
+adapted       1
+from:book     1
+fantasy       1
+Frank         1
+
+Примеры фильмов:
+                   title genres                                                                                            tag
+927  Lost Horizon (1937)  Drama  moral dilemma Shangri-La Ronald Colman 1930s adapted from:book fantasy Frank Capra based book

@@ -1,0 +1,23 @@
+Анализ кластера 1778
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Foreign         2
+not             1
+father-son      1
+van             1
+Mike            1
+lawyers         1
+Underrated      1
+period          1
+time            1
+relationship    1
+
+Примеры фильмов:
+                            title genres                                                                                                                                                                tag
+1778  Character (Karakter) (1997)  Drama  not intresting enough Fantastic Foreign Films Oscar (Best Foreign Language Film) NO_FA_GANES father-son relationship time period Underrated lawyers Mike van Diem

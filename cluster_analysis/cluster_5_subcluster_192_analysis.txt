@@ -1,0 +1,29 @@
+Анализ подкластера 192 в кластере 5
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.23
+Дисперсия рейтинга: 0.10
+
+Топ-5 жанров:
+genres
+Drama      8
+Comedy     4
+Romance    2
+Musical    1
+Crime      1
+
+Топ-5 тегов:
+tag
+based        4
+book         3
+rock         2
+(topless)    2
+nudity       2
+
+Примеры фильмов:
+                               title    rating                      genres                                                                                                   tag
+14162  Paris 36 (Faubourg 36) (2008)  3.211538       Drama|Musical|Romance                                                                           drama paris musical theatre
+14163             Murder Ahoy (1964)  3.272727  Comedy|Crime|Drama|Mystery                                                                                        George Pollock
+14164              Witch Hunt (2008)  3.500000                 Documentary                                                                                                   NaN
+14165             Dog Year, A (2009)  3.166667                Comedy|Drama                                                                               writers dogs based book
+14166                    Good (2008)  3.242424                   Drama|War  Nazis intellectual Jewish friend Jason Isaacs The Shoah ethics Nazi Germany Kristallnacht euthanasia

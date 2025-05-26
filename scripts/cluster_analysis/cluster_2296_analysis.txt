@@ -1,0 +1,24 @@
+Анализ кластера 2296
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Crime     1
+
+Топ-10 тегов:
+tag
+Bobcat     1
+crime      1
+Lance      1
+Graf       1
+David      1
+police     1
+Gaynes     1
+George     1
+Winslow    1
+Michael    1
+
+Примеры фильмов:
+                                          title        genres                                                                                                                                                                                                                                               tag
+2296  Police Academy 3: Back in Training (1986)  Comedy|Crime  Bobcat Goldthwait comedy Betamax Post apocalyptic nostalgia franchise seen more once Bubba Smith Tim Kazurinsky Steve Guttenberg crime Marion Ramsey Leslie Easterbrook Art Metrano Michael Winslow George Gaynes police David Graf Lance Kinsey

@@ -1,0 +1,29 @@
+Анализ подкластера 159 в кластере 0
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 2.94
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Romance     4
+Comedy      3
+Thriller    3
+Drama       2
+Horror      1
+
+Топ-5 тегов:
+tag
+nudity         1
+(Rear)         1
+Cooper         1
+Bradley        1
+mcconaughey    1
+
+Примеры фильмов:
+                                                  title    rating                   genres                                                                                                               tag
+10875  Agata and the Storm (Agata e la tempesta) (2004)  3.600000     Comedy|Drama|Romance                                                                                                               NaN
+10876                                  Bongwater (1997)  2.526316           Comedy|Romance                                                                                                               NaN
+10877                                     Trauma (1993)  3.083333  Horror|Mystery|Thriller                                               nudity (topless) easily confused with other movie(s) (title) Giallo
+10878                      Election (Hak se wui) (2005)  3.487500     Crime|Drama|Thriller                                                         Triad Netflix Streaming organized crime Hong Kong Johnnie
+10879                                 Half Light (2006)  2.939759         Romance|Thriller  Demi Moore Hans Matheson ghost story death murder Kate Isitt predictable Henry Ian Cusick psychological thriller

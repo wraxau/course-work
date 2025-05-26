@@ -1,0 +1,15 @@
+Анализ кластера 1338
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                                        title          genres  tag
+1338  I Can't Sleep (J'ai pas sommeil) (1994)  Drama|Thriller  NaN

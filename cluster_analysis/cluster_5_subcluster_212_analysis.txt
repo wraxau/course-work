@@ -1,0 +1,29 @@
+Анализ подкластера 212 в кластере 5
+Размер подкластера: 9 фильмов
+Средний рейтинг: 2.88
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Comedy       3
+Drama        3
+Action       2
+Adventure    2
+Fantasy      2
+
+Топ-5 тегов:
+tag
+Added            1
+Full             1
+Moon             1
+Entertainment    1
+Zane             1
+
+Примеры фильмов:
+                                                         title    rating                                 genres                      tag
+15326          Esa ja Vesa - auringonlaskun ratsastajat (1994)  2.541667          Action|Adventure|Comedy|Crime                      NaN
+15327                              Adventures of Tarzan (1921)  3.000000                       Action|Adventure                      NaN
+15328                               Velvet Vampire, The (1971)  2.000000                         Fantasy|Horror                    Added
+15329  Puppet Master vs. Demonic Toys (Puppet Master 9) (2004)  2.500000  Comedy|Fantasy|Horror|Sci-Fi|Thriller  Full Moon Entertainment
+15330                              Ween Live in Chicago (2004)  3.125000                            Documentary               Zane Vella

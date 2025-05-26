@@ -1,0 +1,23 @@
+Анализ кластера 1265
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+Oscar       4
+(Best       4
+Ben         2
+Gandhi      2
+story       2
+true        2
+politics    2
+Howard      1
+peace       1
+Picture)    1
+
+Примеры фильмов:
+              title genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+1265  Gandhi (1982)  Drama  erlend's DVDs history politics terrorism Exceptional Acting Martin Sheen Story/charecters altered more cinamatic political biography accurate Ghandi world politics massacre Ben Kingsly true story Richard Attenborough Netflix Finland Mahatma Gandhi humanity biographical Oscar (Best Directing) biopic indians Anamorphic Blow-Up Gandhi colonialism 70mm insipiring Ben Kingsley youtube humane BD-Video topic:Ghandi Trevor Howard peace Oscar (Best Picture) dvd library imdb top 250 leadership Candice Bergen nonviolence Oscar (Best Actor) wars based true story religion btaege war protest trains own AFI 100 (Cheers) Anglo-Indian relations India Oscar (Best Cinematography) anti-war

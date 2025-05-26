@@ -1,0 +1,29 @@
+Анализ подкластера 629 в кластере 4
+Размер подкластера: 33 фильмов
+Средний рейтинг: 2.81
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.32
+
+Топ-5 жанров:
+genres
+Drama                 12
+Comedy                 7
+(no genres listed)     7
+Action                 6
+Documentary            5
+
+Топ-5 тегов:
+tag
+medicine       1
+National       1
+Kosheverova    1
+Nadezhda       1
+Shapiro        1
+
+Примеры фильмов:
+                                             title    rating         genres                                                                                                    tag
+32663         The Dark Glow of the Mountain (1985)  4.000000    Documentary                                                                                                    NaN
+32668  Halloween with the New Addams Family (1977)  2.000000  Comedy|Horror                                                                                                    NaN
+32676                            Concussion (2015)  3.386792          Drama  medicine National Football League Pittsburgh NFL neuroscience Will Smith prospect football true story
+32679                       Special Section (1975)  4.500000      Drama|War                                                                                                    NaN
+32683                             Camarades (1970)       NaN          Drama                                                                                          union factory

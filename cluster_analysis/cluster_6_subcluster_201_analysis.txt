@@ -1,0 +1,29 @@
+Анализ подкластера 201 в кластере 6
+Размер подкластера: 16 фильмов
+Средний рейтинг: 2.30
+Медиана рейтинга: 2.50
+Дисперсия рейтинга: 0.91
+
+Топ-5 жанров:
+genres
+Comedy       9
+Children     8
+Drama        4
+Adventure    3
+Western      2
+
+Топ-5 тегов:
+tag
+chimpanzee       2
+Christmas        2
+sports           1
+skateboarding    1
+skatebording     1
+
+Примеры фильмов:
+                                           title  rating                          genres  tag
+26367                Tomorrow You're Gone (2013)     1.0                        Thriller  NaN
+26369                          Killer Pad (2008)     2.5                   Comedy|Horror  NaN
+26370  What Did You Do in the War, Daddy? (1966)     0.5                      Comedy|War  NaN
+26371             Rachel and the Stranger (1948)     2.0                         Western  NaN
+26372                  The Indian Fighter (1955)     2.5  Action|Adventure|Drama|Western  NaN

@@ -1,0 +1,15 @@
+Анализ кластера 506
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+John         1
+Singleton    1
+
+Примеры фильмов:
+                     title genres             tag
+506  Poetic Justice (1993)  Drama  John Singleton

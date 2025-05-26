@@ -1,0 +1,14 @@
+Анализ кластера 981
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime    1
+
+Топ-10 тегов:
+tag
+netflix    1
+
+Примеры фильмов:
+              title genres      tag
+981  Curdled (1996)  Crime  netflix

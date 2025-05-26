@@ -1,0 +1,18 @@
+Анализ кластера 2045
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+ClearPlay     1
+dvd           1
+commentary    1
+heist         1
+crime         1
+
+Примеры фильмов:
+                title  genres                                   tag
+2045  Safe Men (1998)  Comedy  ClearPlay dvd commentary heist crime

@@ -1,0 +1,29 @@
+Анализ подкластера 98 в кластере 5
+Размер подкластера: 74 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.47
+
+Топ-5 жанров:
+genres
+Drama          24
+Comedy         20
+Documentary    17
+Action         12
+Thriller       10
+
+Топ-5 тегов:
+tag
+bad       8
+acting    8
+good      7
+IMAX      7
+police    6
+
+Примеры фильмов:
+                        title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+21149  Armageddon 2012 (2012)  2.400000                        Sci-Fi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        predictable ending FBI chase satellites Hamza Adam logical flaws earth's magnetic field Cameron Bright armageddon less 300 ratings tense CIA Julia Benson action
+21157        Privilege (1967)  3.333333                 Drama|Musical                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Peter Watkins
+21161      After Earth (2013)  2.321823  Action|Adventure|Sci-Fi|IMAX                                                                                                                                                                                                                                                                                                                                                                                                                      MOLT_CRITICADA teenage angst cheap Stilted Dialogue good effects father-son relationship space 2016 boring rangers there was potent inspirational message Night Shyamalan animal attacks aliens Shyamalan Blockbuster Earth bad acting IMAX DMR Will Smith doesn't add anything new the genre fear sci-fi enemy animals die shallow plot future far future Jaden Smith reception IMAX Digital only
+21167   Now You See Me (2013)  3.639961        Crime|Mystery|Thriller  MOLT_CRITICADA likeable cast Isla FIsher bland popcorn movie BEST_MOVIE_EVER twist creates plot holes character development cheats overcomplicated Louis Leterrier pseudo-intelligent Unexpected Ending twist ending clever illusions shaky camera Morgan Freeman Jesse Eisenberg Morgan Freemanm magic Mark Ruffalo humiliation suspense Dave Franco audience intelligence underestimated stage magic good music entertaining for idiots surprise ending predictable Michael Caine incredibly stupid "plot" heist smug jerks Robin Hood wannabe Woody Harrelson stupid ending trying smart and failing embarrassingly magic police CGI instead real tricks show plot police corruption MÃ©lanie Laurent COMPARABLE ALTRES S'ESTIL MAGIA morgan freeman btaege entertaining deception shallow characters Four Horsemen
+21173    Dark Circles (2013)   3.214286                        Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           young parents death exhausted

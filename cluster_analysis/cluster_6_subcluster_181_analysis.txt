@@ -1,0 +1,29 @@
+Анализ подкластера 181 в кластере 6
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.32
+Медиана рейтинга: 3.31
+Дисперсия рейтинга: 0.17
+
+Топ-5 жанров:
+genres
+Drama          27
+Comedy          9
+Romance         7
+Thriller        6
+Documentary     6
+
+Топ-5 тегов:
+tag
+book      5
+nudity    5
+art       4
+based     4
+redbox    4
+
+Примеры фильмов:
+                               title    rating                genres                                                                                                                                                                                                                                                                      tag
+15154                Affinity (2008)  3.437500         Drama|Romance                                                                                                                                                                                                                       author:Sarah Waters prison 19th century based book
+15160       Desperate Journey (1942)  3.583333             Drama|War                                                                                                                                                                                                                                                                      NaN
+15161      Death at a Funeral (2010)  3.052846                Comedy  comedy cheap jokes Tracy Morgan wheelchair funeral shot shot remake swearing Peter Dinklage Danny Glover remake martin lawrence funny humor bad remake death male nudity Nudity (Rear) family gatherings Martin Lawrence chris rock Chris Rock redbox drugs dark comedy
+15166  Hum Tumhare Hain Sanam (2002)  3.000000  Comedy|Drama|Romance                                                                                                                                                                                                                                                            K.S. Adiyaman
+15169              Caddy, The (1953)  3.142857        Comedy|Musical                                                                                                                                                                                                                                                                      NaN

@@ -1,0 +1,27 @@
+Анализ кластера 2345
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Drama        1
+Fantasy      1
+Thriller     1
+
+Топ-10 тегов:
+tag
+Ron          1
+Underwood    1
+Special      1
+2009         1
+Seen         1
+Firth        1
+Peter        1
+Theron       1
+Charlize     1
+Paxton       1
+
+Примеры фильмов:
+                        title                                   genres                                                                                                                           tag
+2345  Mighty Joe Young (1998)  Action|Adventure|Drama|Fantasy|Thriller  Ron Underwood Rade SerbedZija Brett Northcutt David Paymer Bill Paxton Charlize Theron Peter Firth Seen 2009 Special Effects

@@ -1,0 +1,29 @@
+Анализ подкластера 581 в кластере 6
+Размер подкластера: 25 фильмов
+Средний рейтинг: 3.22
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama        11
+Comedy        9
+Action        5
+Adventure     5
+Romance       4
+
+Топ-5 тегов:
+tag
+bad       10
+plot      10
+Oscar      8
+good       7
+Nudity     7
+
+Примеры фильмов:
+                                                                       title    rating            genres                                                                                                                  tag
+13622                                            Cheeky (Trasgredire) (2000)  2.964286      Comedy|Drama  Insanely Hot Actress Nudity (Rear) Bootytastic nudity (full frontal) Yuliya Mayarchuk Nudity (Full Frontal Notable)
+13639                              Pekka ja Pätkä lumimiehen jäljillä (1954)  2.083333            Comedy                                                                                                              finnish
+13648  Sanshiro Sugata Part Two (Judo Saga II) (Zoku Sugata Sanshirô) (1945)  3.166667  Action|Adventure                                                                                             Akira Kurosawa Criterion
+13650                            Superstar: The Karen Carpenter Story (1988)  3.459184     Drama|Musical         anorexia screenwriter:Cynthia Schneider director-screenwriter screenwriter:Todd Haynes illegal art cult film
+13652                                            Gardens of the Night (2008)  3.434783             Drama                                                                                                                  NaN

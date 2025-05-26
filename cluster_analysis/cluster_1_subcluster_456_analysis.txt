@@ -1,0 +1,29 @@
+Анализ подкластера 456 в кластере 1
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Comedy         9
+Drama          7
+Romance        3
+Thriller       3
+Documentary    2
+
+Топ-5 тегов:
+tag
+but            2
+large,         2
+wasn't         2
+photography    2
+Annakin        2
+
+Примеры фильмов:
+                                    title    rating                   genres                                                        tag
+25684  Nick Offerman: American Ham (2014)  3.181818                   Comedy                                                        NaN
+25714                        Ethel (2012)  4.000000              Documentary                                               Rory Kennedy
+25715                 Exit Smiling (1926)       NaN           Comedy|Romance                                                 Sam Taylor
+25716                        Fanny (2013)  3.700000                    Drama                     daniel auteuil marcel pagnol marseille
+25721                  Miss Minoes (2001)  3.500000  Children|Comedy|Fantasy  family film annie m.g. schmidt Dutch cat children's novel

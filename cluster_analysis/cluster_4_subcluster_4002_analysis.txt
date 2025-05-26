@@ -1,0 +1,29 @@
+Анализ подкластера 4002 в кластере 4
+Размер подкластера: 774 фильмов
+Средний рейтинг: 2.99
+Медиана рейтинга: 3.05
+Дисперсия рейтинга: 0.95
+
+Топ-5 жанров:
+genres
+Drama                 257
+Comedy                206
+Thriller              126
+(no genres listed)    106
+Horror                 93
+
+Топ-5 тегов:
+tag
+comedy         14
+for             9
+dark            8
+space           8
+documentary     8
+
+Примеры фильмов:
+                                     title    rating                   genres                                  tag
+27207                Stop Train 349 (1963)  2.500000                    Drama                                  NaN
+27208                Fährmann Maria (1936)  2.500000       (no genres listed)                                  NaN
+27213  Black Belly of the Tarantula (1971)  1.833333  Horror|Mystery|Thriller                                  NaN
+27236                      Kamikaze (2014)  3.500000                    Drama                                  NaN
+27237                  Planet Ocean (2012)  3.600000              Documentary  Michael Pitiot Yann Arthus-Bertrand

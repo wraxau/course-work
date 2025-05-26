@@ -1,0 +1,29 @@
+Анализ подкластера 75 в кластере 2
+Размер подкластера: 20 фильмов
+Средний рейтинг: 3.29
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.50
+
+Топ-5 жанров:
+genres
+Drama          13
+Documentary     5
+Comedy          3
+Romance         2
+Sci-Fi          2
+
+Топ-5 тегов:
+tag
+psychology    2
+arts          2
+martial       2
+characters    2
+Criterion     2
+
+Примеры фильмов:
+                                                                        title    rating                genres                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+17729                                                   Young One, The (1960)  3.187500                 Drama                                                                                                                                                                                                                                                                                                                                                                                                             Luis Buñuel
+17743  Recollections of the Yellow House (Recordações da Casa Amarela) (1989)  3.750000          Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                     João César Monteiro
+17745                                       Passing Fancy (Dekigokoro) (1933)  3.500000                 Drama                                                                                                                                                                                                                                                                                                                                                                                                  Yasujirô Ozu Criterion
+17753                                                    Another Earth (2011)  3.574357  Drama|Romance|Sci-Fi  soundtrack hippies easy life visually appealing felon characters psychology loner netflix stupid characters second chance low budget surreal Parallels worlds romance creepy writing redemption drags cinematography music Mike Cahill grungy parall story sci-fi twisted regret ending suffering not sci-fi DUI parallel universe Brit Marling Alfred Sloan Feature Film Prize plot melancholic Parallel worlds earth
+17758                                                 Cool School, The (2008)  3.000000           Documentary                                                                                                                                                                                                                                                                                                                                                                                                                     NaN

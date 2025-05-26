@@ -1,0 +1,18 @@
+Анализ кластера 1622
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Nostalgia    1
+Critic       1
+imdb         1
+bottom       1
+100          1
+
+Примеры фильмов:
+                             title  genres                               tag
+1622  Chairman of the Board (1998)  Comedy  Nostalgia Critic imdb bottom 100

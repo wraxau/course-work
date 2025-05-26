@@ -1,0 +1,25 @@
+Анализ кластера 2090
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Fantasy      1
+Sci-Fi       1
+
+Топ-10 тегов:
+tag
+but          2
+Auckland     1
+gem          1
+time         1
+emotional    1
+medieval     1
+trains       1
+blindfold    1
+Ward         1
+Vincent      1
+
+Примеры фильмов:
+                                           title                    genres                                                                                                                                                                              tag
+2090  Navigator: A Mediaeval Odyssey, The (1988)  Adventure|Fantasy|Sci-Fi  Auckland fantasy but serious VHS surreal but still realistic atmospheric photography plague hidden gem New Zealand Vincent Ward blindfold trains medieval emotional time travel

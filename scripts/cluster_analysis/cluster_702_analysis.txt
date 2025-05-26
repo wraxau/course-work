@@ -1,0 +1,25 @@
+Анализ кластера 702
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Mystery    1
+Western    1
+
+Топ-10 тегов:
+tag
+death          2
+life           2
+iggy           2
+road           1
+poetry         1
+melancholy     1
+interesting    1
+characters     1
+social         1
+commentary     1
+
+Примеры фильмов:
+               title                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+702  Dead Man (1995)  Drama|Mystery|Western  road trip atmospheric native american imagination irony visually appealing spiritual journey Bechdel Test:Fail Johnny Depp western Jim Jarmusch love affair life boring perrot library surreal quirky lethargic pace NO_FA_GANES spirituality life death visionary bleak John Hurt melancholy death interesting characters social commentary hallucinatory Lance Henriksen cult film iggy pop!!! poetry black and white iggy pop enigmatic strange americana great soundtrack BFI modern classic beautiful allegorical dreamlike anticolonial

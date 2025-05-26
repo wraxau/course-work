@@ -1,0 +1,29 @@
+Анализ подкластера 16 в кластере 6
+Размер подкластера: 165 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.34
+
+Топ-5 жанров:
+genres
+Drama       91
+Comedy      58
+Thriller    39
+Romance     25
+Action      22
+
+Топ-5 тегов:
+tag
+nudity    16
+based     15
+for       14
+book      14
+ending    13
+
+Примеры фильмов:
+                       title    rating              genres                                                                                                                                                                        tag
+13282           Hexed (1993)  2.450000              Comedy                                                                                                                                                           nudity (topless)
+13291         Impulse (2008)  2.937500    Mystery|Thriller                                                                  nudity (topless) Nudity (Rear) Nudity (Topless Notable) doppleganger psychological drama Nudity (Topless)
+13314        Defiance (2008)  3.588591  Drama|Thriller|War  germany slow TOPICA Nazis war jews AVORRIDA russia poor editing ClearPlay Daniel Craig Partisans movie see Edward Zwick Russian World War based true story TIPICA Belorus
+13316        Dr. Jack (1922)  3.000000              Comedy                                                                                                                                      Fred Newmeyer Sam Taylor Harold Lloyd
+13328  Shadow Company (2006)  3.350000     Documentary|War                                                                                   documentary war Iraq War warfare business documentary critique military Middle East Iraq

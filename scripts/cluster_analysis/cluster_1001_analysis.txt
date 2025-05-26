@@ -1,0 +1,23 @@
+Анализ кластера 1001
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+comedy        1
+Jon           1
+Latin         1
+America       1
+feel          1
+good          1
+movie         1
+Malik         1
+Yoba          1
+Turteltaub    1
+
+Примеры фильмов:
+                     title  genres                                                                                                                                                                                                                                                                                                     tag
+1001  Cool Runnings (1993)  Comedy  comedy Leon Robinson Jamaica family fun bobsled Olympics seen more once sport:bobsledding John Candy montage sports jamaica underdogs funny Surprise Octopus Latin America feel good movie Malik Yoba Jon Turteltaub inspirational confrontational NÃ£o conheco feel-good uplifting quotable Caribbean

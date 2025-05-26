@@ -1,0 +1,29 @@
+Анализ подкластера 41 в кластере 6
+Размер подкластера: 83 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.31
+
+Топ-5 жанров:
+genres
+Drama        38
+Comedy       21
+Thriller     15
+Romance      13
+Adventure    12
+
+Топ-5 тегов:
+tag
+based     12
+movie     10
+Oscar      9
+story      9
+ending     8
+
+Примеры фильмов:
+                                                       title    rating           genres                                                                                                                                                                                                                                                                                                                                        tag
+13033  Dead Man's Letters (Pisma myortvogo cheloveka) (1986)  3.500000  Drama|Film-Noir                                                                                                                                                                                                                                                                                dystopia dark atmospheric post-apocalyptic depressing bleak
+13047                  Part of the Weekend Never Dies (2008)  3.666667      Documentary                                                                                                                                                                                                                                                                                                                                        NaN
+13052                             KM 31: Kilometro 31 (2006)  3.058824           Horror                                                                                                                                                                                                                                                                                                                                        NaN
+13053                                    Duchess, The (2008)  3.538122    Drama|Romance  BBC Films adultery rich people biography Dominic Cooper melodramatic British feminism netflix nobility perrot library costumes romance Keira Knightley women's rights seen 2012 hair unhappy marriage not subtle 18th century costume drama royalty lives women heavy-handed period piece BGAB LRC England Ralph Fiennes ================
+13059                          Rachel Getting Married (2008)  3.347451    Drama|Romance                                  naturalism erlend's DVDs family dynamics drug rehabilitation meandering siblings realistic Connecticut Anne Hathaway ClearPlay Jonathan Demme cinematography neuroticism relatable depression relationships dysfunctional family mental illness cinema verite extroversion sisters Stamford wedding grief

@@ -1,0 +1,28 @@
+Анализ подкластера 173 в кластере 1
+Размер подкластера: 5 фильмов
+Средний рейтинг: 2.84
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 1.22
+
+Топ-5 жанров:
+genres
+Drama       4
+Crime       1
+Thriller    1
+Romance     1
+Comedy      1
+
+Топ-5 тегов:
+tag
+based       1
+book        1
+romantic    1
+aviation    1
+
+Примеры фильмов:
+                                                   title    rating                genres         tag
+30080                                Phantom Halo (2015)  3.200000  Crime|Drama|Thriller         NaN
+30081                        The Face of an Angel (2015)  2.400000                 Drama  based book
+30082                                  Manglehorn (2014)  3.083333                 Drama         NaN
+30083                               Old Fashioned (2014)  4.250000         Drama|Romance    romantic
+30084  Larry Gaye: Renegade Male Flight Attendant (2015)  1.250000                Comedy    aviation

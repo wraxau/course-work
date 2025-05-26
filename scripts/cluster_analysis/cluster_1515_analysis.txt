@@ -1,0 +1,27 @@
+Анализ кластера 1515
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Animation    1
+Children     1
+Comedy       1
+Musical      1
+
+Топ-10 тегов:
+tag
+mythology      3
+wrong          2
+cute           2
+Disney         2
+animation      1
+Classical      1
+Studies        1
+romance        1
+childhood      1
+predictable    1
+
+Примеры фильмов:
+                title                                       genres                                                                                                                                                                                                                                                                                                                                                                 tag
+1515  Hercules (1997)  Adventure|Animation|Children|Comedy|Musical  strong female character soundtrack cute Watched characters mythology heroes Meg rules misinformation disney Disney Michael Bolton Greek mythology Danny DeVito wrong. wrong Ron Clements Classical Studies cute romance childhood predictable wrong Disney Renaissance animation excellent villain greek mythology bittersweet heroine own Myth stylized formulaic

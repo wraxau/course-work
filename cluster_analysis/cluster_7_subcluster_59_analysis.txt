@@ -1,0 +1,29 @@
+Анализ подкластера 59 в кластере 7
+Размер подкластера: 70 фильмов
+Средний рейтинг: 2.70
+Медиана рейтинга: 2.81
+Дисперсия рейтинга: 1.06
+
+Топ-5 жанров:
+genres
+Drama                 22
+Comedy                14
+(no genres listed)    12
+Documentary            8
+Thriller               8
+
+Топ-5 тегов:
+tag
+Hodgson        2
+documentary    2
+Briatore       2
+sci-fi         2
+insightful     1
+
+Примеры фильмов:
+                                           title  rating                    genres  tag
+26891                              Topaze (1933)    3.00              Comedy|Drama  NaN
+26896  Unstable Fables: Tortoise vs. Hare (2008)    2.25  Animation|Children|Drama  NaN
+26900                The Spanish Gardener (1956)     NaN                     Drama  NaN
+26907             I Died a Thousand Times (1955)     NaN      Crime|Drama|Thriller  NaN
+26910                              TekWar (1994)    2.50                    Sci-Fi  NaN

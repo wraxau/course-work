@@ -1,0 +1,29 @@
+Анализ кластера 22
+Размер кластера: 696 фильмов
+Средний рейтинг: 3.18
+Медиана рейтинга: 3.27
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama       403
+Comedy      221
+Romance     135
+Thriller    126
+Crime       104
+
+Топ-5 тегов:
+tag
+based     79
+movie     78
+the       66
+comedy    65
+good      62
+
+Примеры фильмов:
+                                                               title    rating                          genres                                                                                                                                                                                                           tag
+10475                                       Beowulf & Grendel (2005)  3.027363  Action|Adventure|Drama|Fantasy                                                                                                                                        epic beautiful scenery heroic beautifully filmed Gerard Butler Iceland
+10476                            No Direction Home: Bob Dylan (2005)  3.955137                     Documentary  historical Bob Dylan folk music Catchy Score informative character based real person:Bob Dylan =============== biography toplist05 dylan biographical music Martin Scorsese documentary scored erlend's DVDs
+10477  Valerie and Her Week of Wonders (Valerie a týden divu) (1970)  3.439655         Adventure|Drama|Fantasy                                                                            01/12 Criterion Czechoslovak New Wave Jaromil Jires symbolism cinematography weird mesmerizing sexuality vampire surreal dreamlike
+10478                    Everybody's Fine (Stanno tutti bene) (1990)  3.807692                    Comedy|Drama                                                                                                                                                grandfather dysfunctional family Giuseppe Tornatore white lies
+10479                                Hail the Conquering Hero (1944)  3.730263                          Comedy                                                                                                                                                                       09/10 Preston Sturges 10/10 09/09 11/10

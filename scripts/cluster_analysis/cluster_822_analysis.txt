@@ -1,0 +1,25 @@
+Анализ кластера 822
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Children    1
+Comedy      1
+Fantasy     1
+
+Топ-10 тегов:
+tag
+comedy    3
+school    3
+funny     2
+family    2
+book      2
+movie     2
+Roald     2
+Dahl      2
+movie.    1
+magic     1
+
+Примеры фильмов:
+              title                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tag
+822  Matilda (1996)  Children|Comedy|Fantasy  comedy Roald Dahl fairy tale fable Mara Wilson Children inner strength Pam Ferris genius based book clever Embeth Davidtz teacher book Fantasy bad parents great translation school Danny DeVito nice movie funny adaptation drama children Comedy Rhea Perlman girl elementary school fgfdg Roald Dhal Cute movie. magic Drama funny and interesting strong female lead children's comedy good message private school Great movie telekenisis family adoption author:Roald Dahl your shirt look like curtain crap seen family friendly Cute! supernatural dark comedy

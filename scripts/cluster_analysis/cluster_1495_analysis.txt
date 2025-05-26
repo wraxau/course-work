@@ -1,0 +1,23 @@
+Анализ кластера 1495
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+elegiac        1
+humorous       1
+Jacques        1
+Doillon        1
+abandonment    1
+quirky         1
+understated    1
+death          1
+intimate       1
+childhood      1
+
+Примеры фильмов:
+               title genres                                                                                                           tag
+1495  Ponette (1996)  Drama  elegiac humorous Jacques Doillon abandonment quirky understated death intimate childhood cathartic dreamlike

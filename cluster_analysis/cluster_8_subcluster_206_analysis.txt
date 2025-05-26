@@ -1,0 +1,29 @@
+Анализ подкластера 206 в кластере 8
+Размер подкластера: 9 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.13
+
+Топ-5 жанров:
+genres
+Comedy     5
+Drama      4
+Action     2
+Romance    2
+Horror     1
+
+Топ-5 тегов:
+tag
+math         1
+AdriÃ¡       1
+coming       1
+Tschirner    1
+Nora         1
+
+Примеры фильмов:
+                               title    rating                genres                                  tag
+17716      Invisible Sign, An (2010)  3.416667          Comedy|Drama  math funny strange story beautifull
+17717                   Gantz (2011)  3.191489  Action|Horror|Sci-Fi                  Nudity (Rear Brief)
+17718              Blues Harp (1998)  3.000000           Crime|Drama                        Takashi Miike
+17719  From Beijing with Love (1994)  3.447368         Action|Comedy             Stephen Chow Lik-Chi Lee
+17720    Lady is Willing, The (1942)  2.500000  Comedy|Drama|Romance                                  NaN

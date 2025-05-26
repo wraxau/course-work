@@ -1,0 +1,29 @@
+Анализ подкластера 193 в кластере 2
+Размер подкластера: 23 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.33
+Дисперсия рейтинга: 0.16
+
+Топ-5 жанров:
+genres
+Drama       11
+Mystery      5
+Thriller     5
+Comedy       4
+Horror       4
+
+Топ-5 тегов:
+tag
+book            7
+3-D             5
+based           5
+soundtrack      3
+Stereoscopic    3
+
+Примеры фильмов:
+                                                      title    rating                            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            tag
+15907                    Blue Gold: World Water Wars (2008)  3.583333                       Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+15917                                IMAX: Hubble 3D (2010)  3.722222                  Documentary|IMAX                                                                                                                                                                                                                                                                                                                                                                                                                                      IMAX 3-D Leonardo DiCaprio science space Stereoscopic 3-D
+15918                Wall Street: Money Never Sleeps (2010)  3.083062                             Drama                                                                                                                                                                                                                                                                                                                                                    boring financial crisis finance ending business Annemari Carey Mulligan Michael Douglas Oliver Stone REDBOX money Shia LaBeouf stock market
+15923  Legend of the Guardians: The Owls of Ga'Hoole (2010)  3.262475  Adventure|Animation|Fantasy|IMAX                                                                                                                cute epic adventure childish epic battles visually appealing evil sibling pompous weak plot Stereoscopic 3-D based book journey Owls owls birds computer animation Based book weak story cgi cinematography david goliath stunning IMAX DMR 3-D predictable movie see direction talking animals cliche flying animation KAF adventure good versus evil Bats Zack Snyder fantasy
+15940                     It's Kind of a Funny Story (2010)  3.632576                      Comedy|Drama  soundtrack subtle Zach Galifianakis underdeveloped plot based book coming age quirky Lauren Graham generic Anna Boden pleasant clichÃ© ending underdeveloped female character funny teenage mental hospital bad acting fear failure Ryan Fleck dramedy predictable Emma Roberts Values depression cliche pretentious mental illness trying indie psychiatric ward Keir Gilchrist manic pixie dream girl Mental strenth Comedy Need See touching suicide bittersweet obvious far from the book

@@ -1,0 +1,29 @@
+Анализ подкластера 43 в кластере 1
+Размер подкластера: 216 фильмов
+Средний рейтинг: 3.01
+Медиана рейтинга: 3.08
+Дисперсия рейтинга: 0.63
+
+Топ-5 жанров:
+genres
+Drama          100
+Comedy          60
+Thriller        30
+Documentary     29
+Crime           26
+
+Топ-5 тегов:
+tag
+based     10
+IMAX       8
+book       7
+3-D        5
+comedy     5
+
+Примеры фильмов:
+                                      title    rating        genres                                                                                                               tag
+22939               Long Way Down, A (2014)  3.395349  Comedy|Drama     relationships serendipity friends friendship black comedy new year's eve Added suicide based book Nick Hornby
+22956  Agenda: Grinding America Down (2010)  2.666667   Documentary                                                                                            Curtis Bowers politics
+23002              Nightmare Factory (2011)  2.642857   Documentary  monster Donna Davies movie business effects zombies makeup effects gore behind-the-scenes aliens Special Effects
+23011       All the Light in the Sky (2012)  3.350000         Drama                                                                                             nudity (full frontal)
+23014                     Jamesy Boy (2014)  3.642857   Crime|Drama                                                                                           based true story prison

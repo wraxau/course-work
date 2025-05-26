@@ -1,0 +1,24 @@
+Анализ кластера 493
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+great      3
+own        2
+movie      2
+Denzel     1
+romance    1
+based      1
+play       1
+witty      1
+feel       1
+good       1
+
+Примеры фильмов:
+                             title          genres                                                                                                                                                                                                                                                                                                                                                                                                   tag
+493  Much Ado About Nothing (1993)  Comedy|Romance  comedy cute banter Keanu Reeves Playlist great movie Kate Beckinsale Emma Thompson Shakespeare Robert Sean Leonard great story great casting English quirky literature NO_FA_GANES seen part Tumey's VHS want own romance based play witty feel good movie ensemble cast Romance Denzel Washington Kenneth Branagh stage uneven acting own btaege beautiful adapted from:play playwright:Shakespeare

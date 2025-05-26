@@ -1,0 +1,29 @@
+Анализ подкластера 137 в кластере 5
+Размер подкластера: 51 фильмов
+Средний рейтинг: 2.87
+Медиана рейтинга: 2.92
+Дисперсия рейтинга: 0.75
+
+Топ-5 жанров:
+genres
+Drama          21
+Comedy         13
+Thriller        8
+Horror          8
+Documentary     8
+
+Топ-5 тегов:
+tag
+movie        3
+greek        3
+acting       3
+nudity       2
+Argentina    2
+
+Примеры фильмов:
+                                                  title    rating            genres                                                                                             tag
+21794                               Factory, The (2012)  3.100000  Mystery|Thriller  Mike dies serial killer stockholm syndrome baby factory kidnapping plot twist protagonist dies
+21802                           His Regeneration (1915)  1.000000           Western                                                                                             NaN
+21805                         Battle of the Year (2013)  2.500000           Musical                                                                                    cliche dance
+21806  Louis Theroux: Twilight of the Porn Stars (2012)  3.863636       Documentary                                                                    Louis Theroux movie business
+21808                   Naked Civil Servant, The (1975)  3.500000      Comedy|Drama                                                         Jack Gold heartbreaking human condition

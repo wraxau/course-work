@@ -1,0 +1,29 @@
+Анализ подкластера 25 в кластере 4
+Размер подкластера: 70 фильмов
+Средний рейтинг: 3.17
+Медиана рейтинга: 3.11
+Дисперсия рейтинга: 0.90
+
+Топ-5 жанров:
+genres
+Drama                 27
+Comedy                19
+(no genres listed)    13
+Romance                9
+Thriller               7
+
+Топ-5 тегов:
+tag
+music      5
+drama      4
+tamil      3
+romance    2
+school     2
+
+Примеры фильмов:
+                                 title   rating              genres  tag
+30450         All Eyes And Ears (2015)  2.50000  (no genres listed)  NaN
+30459                  13 Hours (2016)  2.97619               Drama  War
+30481          Come Dio comanda (2008)  4.00000  (no genres listed)  NaN
+30484  Unlikely Revolutionaries (2010)  2.50000  (no genres listed)  NaN
+30514          Gli equilibristi (2012)  3.50000               Drama  NaN

@@ -1,0 +1,29 @@
+Анализ подкластера 77 в кластере 3
+Размер подкластера: 46 фильмов
+Средний рейтинг: 3.30
+Медиана рейтинга: 3.50
+Дисперсия рейтинга: 0.45
+
+Топ-5 жанров:
+genres
+Documentary    22
+Drama          13
+Comedy          8
+Romance         5
+Horror          4
+
+Топ-5 тегов:
+tag
+Criterion    4
+Kevin        3
+scary        3
+3-D          2
+nudity       2
+
+Примеры фильмов:
+                                                    title    rating       genres                                                                         tag
+19671                         Glorious Technicolor (1998)  4.500000  Documentary                                                                         NaN
+19673                 Lon Chaney: A Thousand Faces (2000)  3.600000  Documentary                                                              Kevin Brownlow
+19674                        El tren de la memoria (2005)  4.000000  Documentary  working class immigrants emigration Spain Germany Franco's Spain Nuremberg
+19675       March of the Movies (Film Parade, The) (1933)  3.000000  Documentary                                                                         NaN
+19676  Rules of Single Life (Sinkkuelämän säännöt) (2011)  1.833333  Documentary                                                                         NaN

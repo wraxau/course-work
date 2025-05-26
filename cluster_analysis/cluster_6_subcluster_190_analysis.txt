@@ -1,0 +1,29 @@
+Анализ подкластера 190 в кластере 6
+Размер подкластера: 136 фильмов
+Средний рейтинг: 3.12
+Медиана рейтинга: 3.21
+Дисперсия рейтинга: 0.36
+
+Топ-5 жанров:
+genres
+Drama       77
+Comedy      47
+Thriller    31
+Romance     22
+Action      20
+
+Топ-5 тегов:
+tag
+book      14
+for       14
+ending    12
+nudity    11
+based     11
+
+Примеры фильмов:
+                                    title    rating                  genres                                                             tag
+13488             Bigger Than Life (1956)  3.613333  Drama|Mystery|Thriller  James Mason Nicholas Ray Criterion Walter Matthau Barbara Rush
+13499                  Moordwijven (2007)  3.071429                  Comedy                                            Bracha van Doesburgh
+13501  Gunfight at Dodge City, The (1959)  3.000000                 Western                                                             NaN
+13514                Big Lift, The (1950)  3.375000               Drama|War                                                             NaN
+13533                   Rebel, The (2006)  2.916667    Action|Drama|Romance               Colonialism Oppression Vietnam Fight Choreography

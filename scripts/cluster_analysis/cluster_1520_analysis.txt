@@ -1,0 +1,16 @@
+Анализ кластера 1520
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy     1
+Romance    1
+
+Топ-10 тегов:
+tag
+Cédric      1
+Klapisch    1
+
+Примеры фильмов:
+                                                     title          genres              tag
+1520  When the Cat's Away (Chacun cherche son chat) (1996)  Comedy|Romance  Cédric Klapisch

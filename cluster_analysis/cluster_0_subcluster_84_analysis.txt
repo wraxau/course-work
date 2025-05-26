@@ -1,0 +1,29 @@
+Анализ подкластера 84 в кластере 0
+Размер подкластера: 30 фильмов
+Средний рейтинг: 3.20
+Медиана рейтинга: 3.28
+Дисперсия рейтинга: 0.27
+
+Топ-5 жанров:
+genres
+Drama      15
+Comedy     14
+Romance     6
+Action      5
+Fantasy     4
+
+Топ-5 тегов:
+tag
+movie    10
+funny     8
+DVDs      5
+Nom       5
+Oscar     5
+
+Примеры фильмов:
+                                             title    rating                     genres                                                                                                                                                                                                                                                                tag
+11154                             Blackjack (1998)  2.700000            Action|Thriller                                                                                                                                                                                                                                                           John Woo
+11155                           Three Times (2005)  3.433333              Drama|Romance                                                                                                                                                                                                                          Hsiao-Hsien Hou multiple roles bab cinema
+11156                    Gumball Rally, The (1976)  3.071429           Adventure|Comedy                                                                                                                                                                                                                                            racing cars street race
+11157                              Wordplay (2006)  3.814565                Documentary  documentary topic:crossword tournament competition Potential Oscar Nom competition nerds crossword puzzles ummarti2006 Below Patrick Creadon game:(quick) crosswords gay propaganda topic:crossword construction topic:US culture smart games intelligent jonossa
+11158  Army of Shadows (L'armée des ombres) (1969)  3.960870  Action|Drama|Thriller|War                                                                           French New Wave erlend's DVDs Jean-Pierre Melville Tumey's DVDs Criterion French Resistance less 300 ratings World War FEWER 300 ratings France oppl france french action based book War

@@ -1,0 +1,29 @@
+Анализ подкластера 96 в кластере 6
+Размер подкластера: 43 фильмов
+Средний рейтинг: 2.61
+Медиана рейтинга: 2.75
+Дисперсия рейтинга: 0.75
+
+Топ-5 жанров:
+genres
+Action      15
+Thriller    13
+Comedy      12
+Drama       12
+Children     7
+
+Топ-5 тегов:
+tag
+Little     1
+Rascals    1
+samurai    1
+stop       1
+motion     1
+
+Примеры фильмов:
+                                        title  rating              genres             tag
+26415  The Little Rascals Save the Day (2014)     3.3     Children|Comedy  Little Rascals
+26416                       Ticket out (2012)     2.5            Thriller             NaN
+26417                     Oliver Twist (1999)     3.5  (no genres listed)             NaN
+26418                          S*P*Y*S (1974)     2.0       Action|Comedy             NaN
+26419               Older Than America (2008)     3.0      Drama|Thriller             NaN

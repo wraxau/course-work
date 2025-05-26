@@ -1,0 +1,23 @@
+Анализ кластера 160
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+documentary    1
+cynical        1
+wry            1
+queue          1
+Netflix        1
+book           1
+comic          1
+Criterion      1
+irreverent     1
+deliberate     1
+
+Примеры фильмов:
+            title       genres                                                                                                                                                                                                                    tag
+160  Crumb (1994)  Documentary  documentary cynical biography netflixq artist mind qube quirky biographical Fucked raunchy Terry Zwigoff disturbing counterculture mental illness deliberate irreverent Criterion comic book Netflix queue wry sexual

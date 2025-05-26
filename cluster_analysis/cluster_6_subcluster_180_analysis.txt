@@ -1,0 +1,29 @@
+Анализ подкластера 180 в кластере 6
+Размер подкластера: 14 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.06
+Дисперсия рейтинга: 0.42
+
+Топ-5 жанров:
+genres
+Action      6
+Comedy      5
+Thriller    4
+Drama       3
+Children    3
+
+Топ-5 тегов:
+tag
+Comedy             2
+Morris             2
+America            1
+photojournalism    1
+David              1
+
+Примеры фильмов:
+                                 title    rating                               genres                                                             tag
+26010                      Ishq (1997)  2.884615  Action|Comedy|Drama|Musical|Romance  Comedy Aamir Khan Comedy romance music Ajay Devgan Juhi Chawla
+26011                  Nurse 3D (2013)  2.600000                      Horror|Thriller                                                             NaN
+26012  Wrong Turn 5: Bloodlines (2012)  2.166667                      Horror|Thriller                                                nudity (topless)
+26013      How the West Was Fun (1994)  3.250000                     Children|Western                                                             NaN
+26014         A Cry in the Wild (1990)  3.750000            Action|Adventure|Thriller                        survival plane crash canadian wilderness

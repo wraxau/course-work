@@ -1,0 +1,29 @@
+Анализ подкластера 198 в кластере 3
+Размер подкластера: 12 фильмов
+Средний рейтинг: 3.23
+Медиана рейтинга: 3.34
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama     8
+Comedy    5
+Action    2
+Horror    2
+Sci-Fi    1
+
+Топ-5 тегов:
+tag
+characters       3
+relationships    2
+friends          2
+drama            2
+quirky           1
+
+Примеры фильмов:
+                                        title    rating         genres                                                                                                                                                tag
+21127               Surrender, Dorothy (2006)  3.500000          Drama                                                                                                                                                NaN
+21128                      Twonky, The (1953)  3.250000  Comedy|Sci-Fi                                                                                                                                     VHS television
+21129          Merchant of Venice, The (1980)  4.125000   Comedy|Drama                                                                                                 adapted from:play playwright:Shakespeare Jack Gold
+21130  Loss of a Teardrop Diamond, The (2008)  2.750000          Drama                                                                                                                     Chris Evans Tennessee Williams
+21131     Broken Circle Breakdown, The (2012)  3.896552          Drama  relationships drama Felix Van Groeningen Extreme emotion heartbreaking atheism passionate tragedy music religion romance emotional nonlinear 2015

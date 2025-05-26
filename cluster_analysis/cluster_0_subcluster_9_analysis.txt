@@ -1,0 +1,29 @@
+Анализ подкластера 9 в кластере 0
+Размер подкластера: 257 фильмов
+Средний рейтинг: 3.19
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.30
+
+Топ-5 жанров:
+genres
+Drama       147
+Comedy       75
+Action       51
+Romance      44
+Thriller     41
+
+Топ-5 тегов:
+tag
+nudity     23
+300        22
+ratings    22
+based      20
+book       19
+
+Примеры фильмов:
+                        title   rating                genres                                                                                                                                                   tag
+8389    Lady for a Day (1933)  3.47619                Comedy                                                                                                                                           Frank Capra
+8392  Vampire Bat, The (1933)  2.60000                Horror                                                                                                                    mad scientist Dwight Frye Fay Wray
+8415       These Three (1936)  3.50000         Drama|Romance                                                                                                                   might like based play William Wyler
+8427           Holiday (1938)  3.93290  Comedy|Drama|Romance  comedy Cary Grant Tumey's DVDs KATHARINE Hepburn Cary Grant&Katherine Hepburn dvr George Cukor screwball comedy New Year's Eve Katherine Hepburn Old
+8429          Gaslight (1940)  3.75000      Mystery|Thriller                                                                                                                              remade Thorold Dickinson

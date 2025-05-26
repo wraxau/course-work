@@ -1,0 +1,29 @@
+Анализ подкластера 148 в кластере 8
+Размер подкластера: 16 фильмов
+Средний рейтинг: 3.32
+Медиана рейтинга: 3.32
+Дисперсия рейтинга: 0.15
+
+Топ-5 жанров:
+genres
+Drama          10
+Thriller        3
+Romance         2
+Crime           2
+Documentary     2
+
+Топ-5 тегов:
+tag
+photography    2
+acting         2
+friendship     1
+holmes         1
+actors         1
+
+Примеры фильмов:
+                                                                  title    rating                 genres                                                                                                                                                                                              tag
+18210                                         House of Tolerance (2011)  3.234375                  Drama  friendship atmospheric Blood amazing photography Music brief graphic violence Prostitutes Historical period drama Courtesans beautiful Brothels Paris visually stunning great photography 1900s
+18211  Beats Being Dead (Dreileben - Etwas Besseres als den Tod) (2011)  3.300000                  Drama                                                                                                                                                                                              NaN
+18212                                         Deep Blue Sea, The (2011)  2.992647          Drama|Romance                                                                                                                                    Drama Great acting Terence Davies Tom Hiddleston Rachel Weisz
+18213                                     Killer (Tueur à gages) (1998)  3.500000  Action|Crime|Thriller                                                                                                                                                                                              NaN
+18214     My Mother and Her Guest (Sarangbang sonnimgwa eomeoni) (1961)  4.000000                  Drama                                                                                                                                                                                              NaN

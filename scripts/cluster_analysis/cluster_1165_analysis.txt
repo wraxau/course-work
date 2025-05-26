@@ -1,0 +1,23 @@
+Анализ кластера 1165
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Documentary    1
+
+Топ-10 тегов:
+tag
+corruption    2
+police        2
+Netflix       2
+Award         1
+Texas         1
+Morris        1
+Errol         1
+see           1
+movie         1
+queue         1
+
+Примеры фильмов:
+                           title       genres                                                                                                                                                                                                           tag
+1165  Thin Blue Line, The (1988)  Documentary  corruption racism VHS wrongly accused small town police 1980 National Film Registry police corruption Criterion Edgar Award (Best Motion Picture) Netflix queue movie see Errol Morris Texas Netflix Finland

@@ -1,0 +1,29 @@
+Анализ подкластера 28 в кластере 7
+Размер подкластера: 264 фильмов
+Средний рейтинг: 2.88
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.93
+
+Топ-5 жанров:
+genres
+Comedy                85
+Drama                 76
+Action                35
+(no genres listed)    34
+Thriller              33
+
+Топ-5 тегов:
+tag
+comedy      13
+Love         7
+stand-up     5
+bond         4
+02/15        3
+
+Примеры фильмов:
+                                                 title  rating                        genres                                                                                tag
+26665                  Astro-Zombies M3: Cloned (2010)    1.50            (no genres listed)                                                                                NaN
+26666                    Mystery of Edwin Drood (1935)    2.00  Drama|Horror|Mystery|Romance                                                                                NaN
+26668                            Snow in August (2001)    4.00                Children|Drama                                                                                NaN
+26670  St. Giuseppe Moscati: Doctor to the Poor (2007)    2.75            (no genres listed)                                                                                NaN
+26676                                The Escape (2013)    3.00                         Drama  communism Romania mathematics emigration treason Andrei Gruzsniczki secret police

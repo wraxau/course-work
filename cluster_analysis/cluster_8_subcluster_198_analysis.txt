@@ -1,0 +1,25 @@
+Анализ подкластера 198 в кластере 8
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.63
+Медиана рейтинга: 3.54
+Дисперсия рейтинга: 0.06
+
+Топ-5 жанров:
+genres
+Drama          3
+Thriller       3
+Documentary    2
+Comedy         2
+Romance        1
+
+Топ-5 тегов:
+tag
+fascinating    1
+
+Примеры фильмов:
+                                          title    rating           genres          tag
+16322             Breaking the Maya Code (2008)  3.583333      Documentary  fascinating
+16323                       Triple Agent (2004)  3.400000   Drama|Thriller          NaN
+16324                            Western (1997)  3.500000   Comedy|Romance          NaN
+16325        Doppelganger (Dopperugengâ) (2003)  3.541667  Comedy|Thriller          NaN
+16326  Days and Clouds (Giorni e nuvole) (2007)  3.500000            Drama          NaN

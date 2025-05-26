@@ -1,0 +1,29 @@
+Анализ подкластера 114 в кластере 5
+Размер подкластера: 11 фильмов
+Средний рейтинг: 3.09
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.48
+
+Топ-5 жанров:
+genres
+Drama        7
+Comedy       3
+Thriller     2
+Adventure    1
+Children     1
+
+Топ-5 тегов:
+tag
+Ancient    2
+Netflix    2
+Finland    2
+06/11      2
+bad        2
+
+Примеры фильмов:
+                                                                                                       title    rating                             genres                                                                                                                                                                                                                                                                                                                                                tag
+14779                                      Asterix at the Olympic Games (Astérix aux jeux olympiques) (2008)  2.534884  Adventure|Children|Comedy|Fantasy  stupid comedy history Frederic Forestier French not funny Vanessa Hessler Gerard Depardieu Michael Schumacher Brutus Olympics Roman Empire Ancient Rome assassin sports adapted from:comic parody Julius Caesar Thomas Langmann cameos adventure comic book family Ancient Greece Alain Delon mediocre fantasy Clovis Cornillac Benoit Poelvoorde
+14780                                                                        Chaser, The (Chugyeogja) (2008)  3.859935               Crime|Drama|Thriller                                                                                                                                                                                                              cruelty coincidences serial kill Korean serial killer police ex-cop 06/11 Hong-jin NO_FA_GANES pimp Whores pimps Dark Netflix Finland
+14781                                         Flock of Dodos: The Evolution-Intelligent Design Circus (2006)  3.607143                        Documentary                                                                                                                                                                                                                                                                                    science Christianity evolution religion biology Netflix Finland
+14782  My Sex Life... or How I Got Into an Argument (Comment je me suis disputé... (ma vie sexuelle)) (1996)  3.833333               Comedy|Drama|Romance                                                                                                                                                                                                                                                                                                                                  Arnaud Desplechin
+14783                                                                         Hannah Takes the Stairs (2007)  2.954545                              Drama                                                                                                                                                                                                                                                                                                                clever banter nudity (full frontal)

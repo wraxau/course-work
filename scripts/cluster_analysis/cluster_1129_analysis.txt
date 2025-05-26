@@ -1,0 +1,21 @@
+Анализ кластера 1129
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime        1
+Film-Noir    1
+Thriller     1
+
+Топ-10 тегов:
+tag
+Anthony     1
+Mann        1
+Richard     1
+Basehart    1
+Alfred      1
+Werker      1
+
+Примеры фильмов:
+                          title                    genres                                          tag
+1129  He Walked by Night (1948)  Crime|Film-Noir|Thriller  Anthony Mann Richard Basehart Alfred Werker

@@ -1,0 +1,29 @@
+Анализ подкластера 686 в кластере 5
+Размер подкластера: 27 фильмов
+Средний рейтинг: 2.84
+Медиана рейтинга: 3.07
+Дисперсия рейтинга: 1.03
+
+Топ-5 жанров:
+genres
+Comedy       10
+Drama         7
+Action        6
+Romance       5
+Adventure     5
+
+Топ-5 тегов:
+tag
+musicians      2
+comedy         2
+characters     2
+BD-Video       2
+Mississippi    2
+
+Примеры фильмов:
+                                     title    rating                   genres                     tag
+20830          18 Fingers of Death! (2006)  4.500000            Action|Comedy                     NaN
+20831                 Get2Gether, A (2005)  0.500000                   Comedy                     NaN
+20841            Night in Heaven, A (1983)  2.250000            Drama|Romance                     NaN
+20843                Dr. Dolittle 3 (2006)  1.611111  Children|Comedy|Fantasy                     NaN
+20845  Marvin Gaye: What's Going On (2005)  4.000000              Documentary  musicians rhythm blues

@@ -1,0 +1,29 @@
+Анализ подкластера 156 в кластере 6
+Размер подкластера: 6 фильмов
+Средний рейтинг: 3.81
+Медиана рейтинга: 3.38
+Дисперсия рейтинга: 0.88
+
+Топ-5 жанров:
+genres
+Documentary    3
+Sci-Fi         2
+Action         1
+Horror         1
+Thriller       1
+
+Топ-5 тегов:
+tag
+Alan         2
+Australia    2
+John         2
+Pilger       2
+Lowery       2
+
+Примеры фильмов:
+                                                       title    rating                  genres                                                                         tag
+23561                             Invaders from Space (1965)  3.500000           Action|Sci-Fi                                Starman alien invasion seen aliens superhero
+23562                                          Utopia (2013)  3.250000             Documentary                                            Australia John Pilger Aborigines
+23563  Paying the Price: Killing the Children of Iraq (2000)  5.000000             Documentary                                    Middle East Iraq Alan Lowery John Pilger
+23564                            Welcome to Australia (1999)  5.000000             Documentary                                                       Australia Alan Lowery
+23565                                       Afflicted (2013)  3.107692  Horror|Sci-Fi|Thriller  vampire low budget horror found footage good POV director-starred thriller

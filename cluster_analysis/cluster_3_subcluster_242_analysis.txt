@@ -1,0 +1,29 @@
+Анализ подкластера 242 в кластере 3
+Размер подкластера: 34 фильмов
+Средний рейтинг: 2.83
+Медиана рейтинга: 2.85
+Дисперсия рейтинга: 0.32
+
+Топ-5 жанров:
+genres
+Comedy     16
+Action      9
+Drama       8
+Romance     4
+Sci-Fi      4
+
+Топ-5 тегов:
+tag
+Betamax    9
+Michael    4
+classic    4
+based      4
+Can't      3
+
+Примеры фильмов:
+                              title    rating              genres                                                                                                                                            tag
+4372           Above the Law (1988)  2.801593  Action|Crime|Drama                                                                                                              Andrew Davis Aikido Steven Seagal
+4375  Appointment with Death (1988)  3.202899       Crime|Mystery                                                                                 character:Hercule Poirot author:Agatha Christie Hercule Poirot
+4384            Biloxi Blues (1988)  3.340664        Comedy|Drama  prostitution Mississippi boot camp Biloxi Stageplay Betamax Neil Simon World War gay soldiers military Mathew Broderick neil simon based play
+4387              Boost, The (1988)  3.133333               Drama                                                                                                                                            NaN
+4391             Casual Sex? (1988)  2.368881              Comedy                                                                                                                                guilty pleasure

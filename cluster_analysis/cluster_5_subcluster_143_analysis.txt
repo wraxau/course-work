@@ -1,0 +1,29 @@
+Анализ подкластера 143 в кластере 5
+Размер подкластера: 10 фильмов
+Средний рейтинг: 2.86
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.98
+
+Топ-5 жанров:
+genres
+Comedy     6
+Drama      5
+Romance    3
+Crime      2
+Action     1
+
+Топ-5 тегов:
+tag
+ending       5
+(topless)    3
+nudity       3
+mystery      2
+village      2
+
+Примеры фильмов:
+                                                     title    rating                     genres                                                                                                                                                                                                                                 tag
+14186                             Randy and the Mob (2007)  3.500000               Comedy|Crime                                                                                                                                                                                                                               Added
+14187                         Detective (Détective) (1985)  3.312500                Crime|Drama                                                                                                                                                                                                                    nudity (topless)
+14188                         Three Musketeers, The (1933)  2.700000  Action|Adventure|Thriller                                                                                                                                                                                                Serial flashback overload John Wayne
+14189                                 Seven Sinners (1940)  3.166667       Comedy|Drama|Romance                                                                                                                                                                                                                         Tay Garnett
+14190  Frequently Asked Questions About Time Travel (2009)  3.741578              Comedy|Sci-Fi  inconsistent Anna Faris english pub Chris O'Dowd fizzles out shit ending surreal watch the credits weird pacing funny Gareth Carrivick sci-fi british comedy time travel friendship nerds future great premise off-beat bad ending

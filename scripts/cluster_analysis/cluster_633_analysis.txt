@@ -1,0 +1,23 @@
+Анализ кластера 633
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Chazz         1
+Palminteri    1
+Nudity        1
+(Full         1
+Frontal       1
+Brief)        1
+remake        1
+Sharon        1
+Stone         1
+
+Примеры фильмов:
+                 title          genres                                                               tag
+633  Diabolique (1996)  Drama|Thriller  Chazz Palminteri Nudity (Full Frontal Brief) remake Sharon Stone

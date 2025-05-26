@@ -1,0 +1,29 @@
+Анализ подкластера 180 в кластере 5
+Размер подкластера: 7 фильмов
+Средний рейтинг: 3.50
+Медиана рейтинга: 3.52
+Дисперсия рейтинга: 0.06
+
+Топ-5 жанров:
+genres
+Drama          4
+Comedy         2
+War            1
+Documentary    1
+Musical        1
+
+Топ-5 тегов:
+tag
+Criterion      3
+Jean-Pierre    1
+netflix        1
+René           1
+06/11          1
+
+Примеры фильмов:
+                                            title    rating       genres                                          tag
+14211                           All's Well (1972)  3.312500        Drama  Jean-Pierre Gorin Jean-Luc Godard Criterion
+14212      Street of Shame (Akasen chitai) (1956)  3.769231        Drama                    Kenji Mizoguchi Criterion
+14213                        Padre padrone (1977)  3.815789        Drama                                        10/10
+14214  Travelling Players, The (O thiasos) (1975)  3.309524    Drama|War                                          NaN
+14215          Valentino: The Last Emperor (2008)  3.523256  Documentary                    biography fashion netflix

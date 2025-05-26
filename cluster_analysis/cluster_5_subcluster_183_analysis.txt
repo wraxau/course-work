@@ -1,0 +1,29 @@
+Анализ подкластера 183 в кластере 5
+Размер подкластера: 104 фильмов
+Средний рейтинг: 3.14
+Медиана рейтинга: 3.25
+Дисперсия рейтинга: 0.44
+
+Топ-5 жанров:
+genres
+Drama          37
+Comedy         35
+Documentary    23
+Action         14
+Romance        13
+
+Топ-5 тегов:
+tag
+nudity       8
+Nudity       7
+(topless)    7
+comedy       6
+funny        5
+
+Примеры фильмов:
+                                                  title    rating                     genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        tag
+19214                                 Nina Frisk (2007)  2.833333               Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        NaN
+19223                               Rock of Ages (2012)  2.942130  Comedy|Drama|Musical|IMAX                                                                                                                                                                                                                                                                                                                                                                                                                musical Malin Akerman Alec Baldwin rock and roll sloppy filming IMAX DMR musicians 70's stylized Tom Cruise Russell Brand IMAX Digital only
+19224  Seeking a Friend for the End of the World (2012)  3.406195       Comedy|Drama|Romance                                                                                                                                                                                                                        road trip Martin Sheen apocalyptic romantic love clever dark humor end the world romantic plot surprisingly touching Steve Carell could have been funnier romance depressing Keira Knightley Rob Corddry R:brief violence emotional sci-fi Lorene Scafaria sex could have been edgier drugs prospect chick flick meteor dark comedy
+19232                                        Ted (2012)  3.279498             Comedy|Fantasy  nudity (topless) overrated comedy Ted Danson bromantic comedy waste time Vulgar jokes cocaine crude humor Bechdel Test:Fail not funny Ray Romano storyline buddy movie boring Funny Flash Gordon references fart jokes directorial debut Patrick Stewart funny cgi vulgar boston accent Unfunny Comedy seen 2015 Tom Skerritt language cast Mark Wahlberg predictable bromance Teddy Bear Mila Kunis weed Nudity (Topless) imaginary friend animation Predictable unfunny wishes plot Waste time drugs bromantic Seth MacFarlane pointless fantasy Boston
+19246       Joffrey: Mavericks of American Dance (2012)  3.500000                Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             documentary ballet music dance

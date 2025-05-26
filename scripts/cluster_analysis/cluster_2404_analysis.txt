@@ -1,0 +1,25 @@
+Анализ кластера 2404
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Horror      1
+Thriller    1
+
+Топ-10 тегов:
+tag
+erlend's      1
+child         1
+creepy        1
+television    1
+disturbing    1
+HAUNTED       1
+THE           1
+PAST          1
+abuse         1
+DVDs          1
+
+Примеры фильмов:
+                   title                 genres                                                                                                                                                                                                                                                                       tag
+2404  Peeping Tom (1960)  Drama|Horror|Thriller  erlend's DVDs Karlheinz Boehm serial killer photography atmospheric British Michael Powell Scary Movies See Halloween VOYEURS understated voyeurism tense creepy television disturbing HAUNTED THE PAST child abuse reflective SERIAL KILLERS FATHERS AND SONS Criterion

@@ -1,0 +1,26 @@
+Анализ кластера 1790
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Crime      1
+Drama      1
+Romance    1
+War        1
+
+Топ-10 тегов:
+tag
+book          2
+Hugo          2
+adapted       2
+Uma           1
+Pacing        1
+Slow          1
+based         1
+Bibliothek    1
+better        1
+France        1
+
+Примеры фильмов:
+                       title                   genres                                                                                                                                                                                                                                                                    tag
+1790  Misérables, Les (1998)  Crime|Drama|Romance|War  Liam Neeson Victor Hugo Claire Danes changed the book TOO much library vhs Geoffrey Rush Bille August musical/book better adapted from:book adapted from:play/opera Bechdel Test:Fail classic author:Victor Hugo France Bibliothek based book Slow Pacing Uma Thurman

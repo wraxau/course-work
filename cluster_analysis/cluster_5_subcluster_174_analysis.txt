@@ -1,0 +1,29 @@
+Анализ подкластера 174 в кластере 5
+Размер подкластера: 48 фильмов
+Средний рейтинг: 2.95
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 0.57
+
+Топ-5 жанров:
+genres
+Drama          17
+Comedy         11
+Horror          9
+Documentary     9
+Action          7
+
+Топ-5 тегов:
+tag
+plot        3
+Nudity      2
+aliens      2
+childish    2
+space       2
+
+Примеры фильмов:
+                                                                    title    rating                                     genres                                                                                               tag
+21365                                                        Vile (2011)   2.210526                                     Horror                                                                                               NaN
+21391                                                   Brain Dead (1990)  3.451923                              Horror|Sci-Fi                                                                mindfuck social commentary surreal
+21396  Making a Killing: The Untold Story of Psychotropic Drugging (2008)  4.500000                                Documentary                                                                                             drugs
+21405                                                     R.I.P.D. (2013)  2.685216                      Action|Comedy|Fantasy                 Mary-Louise Parker police RIPD UNA MERDA Ryan Reynolds Jeff Bridges cgi afterlife
+21407                       Justice League: The Flashpoint Paradox (2013)  3.601485  Action|Adventure|Animation|Fantasy|Sci-Fi  original gritty Bob*ola blood childish Jay Oliva btaege barely PG-13 silly superhero time travel

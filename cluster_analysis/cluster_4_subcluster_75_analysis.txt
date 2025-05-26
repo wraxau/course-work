@@ -1,0 +1,29 @@
+Анализ подкластера 75 в кластере 4
+Размер подкластера: 43 фильмов
+Средний рейтинг: 3.03
+Медиана рейтинга: 3.00
+Дисперсия рейтинга: 1.14
+
+Топ-5 жанров:
+genres
+Comedy       15
+Drama        14
+Action       10
+Thriller      8
+Adventure     5
+
+Топ-5 тегов:
+tag
+comedy    3
+book      2
+Cheh      1
+Grace     1
+better    1
+
+Примеры фильмов:
+                                               title  rating                          genres                                        tag
+33237       Return of the One-Armed Swordsman (1969)     NaN                Action|Adventure                                 Cheh Chang
+33241                              Wild Times (1980)    4.50  Action|Adventure|Drama|Western                                        NaN
+33244                           Pápa Piquillo (1998)    4.00                          Comedy  drama comedy poverty Gipsy spanish family
+33258                     Richard Pryor: Icon (2014)    3.25                     Documentary                                        NaN
+33265  Anthony Jeselnik: Thoughts and Prayers (2015)    3.80                          Comedy                      offensive dark comedy

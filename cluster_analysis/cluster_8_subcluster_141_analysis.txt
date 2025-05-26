@@ -1,0 +1,29 @@
+Анализ подкластера 141 в кластере 8
+Размер подкластера: 75 фильмов
+Средний рейтинг: 3.25
+Медиана рейтинга: 3.30
+Дисперсия рейтинга: 0.21
+
+Топ-5 жанров:
+genres
+Drama        39
+Comedy       21
+Romance      17
+Adventure    12
+Thriller     11
+
+Топ-5 тегов:
+tag
+Nudity    12
+nudity    12
+movie     10
+see       10
+based      9
+
+Примеры фильмов:
+                                                               title    rating                                 genres                                                                                                                                                                                                                                                     tag
+12386                  Along the Ridge (Anche libero va bene) (2006)  4.166667                                  Drama                                                                                                                                                                                                               dsyfunctional family naturalistic setting
+12399                                      He Was a Quiet Man (2007)  3.525952                                  Drama                              less 300 ratings Suicide psychology Frank Cappello Surreal twist ending surreal rampage Imagination Christian Slater Identity Affair ClearPlay Elisha Cuthbert Recommend Personality change Watch Again suicide Underrated
+12409  Girl Who Leapt Through Time, The (Toki o kakeru shôjo) (2006)  3.913508  Animation|Comedy|Drama|Romance|Sci-Fi  original atmospheric japanese classical music See coming age school life teen school girl romance High School Japan drama Foriegn language Mamoru Hosoda Japanese time travel ======================== friendship japan anime Anime heartwarming sweet
+12419                                      Strange Wilderness (2008)  2.556452                                 Comedy                                                                                                                                                                                            nudity (topless) ClearPlay Jonah Hill Justin Long Steve Zahn
+12420                                      Over Her Dead Body (2008)  2.725309                 Comedy|Fantasy|Romance                                                                                                                                                                                          ghosts/afterlife death death spouse chick flick wedding ghosts

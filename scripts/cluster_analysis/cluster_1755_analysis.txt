@@ -1,0 +1,24 @@
+Анализ кластера 1755
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+
+Топ-10 тегов:
+tag
+New              2
+dialogue         2
+quotable         2
+York             2
+Criterion        1
+classy           1
+dry              1
+sophisticated    1
+Chris            1
+Eigeman          1
+
+Примеры фильмов:
+                               title        genres                                                                                                                                                                                                                                                                                                                                  tag
+1755  Last Days of Disco, The (1998)  Comedy|Drama  New York City Matt Keeslar DVD Netflix Nudity (Topless Brief) nightclub Kate Beckinsale intelligent clever netflix stor fille dialogue driven Chloe Sevigny quotable dialogue Chris Eigeman Whit Stillman classy drama cerebral 1980's intellectual New York disco Mackenzie Astin 1970s Criterion quotable sophisticated dry humor

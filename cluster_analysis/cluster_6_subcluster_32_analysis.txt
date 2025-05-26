@@ -1,0 +1,29 @@
+Анализ подкластера 32 в кластере 6
+Размер подкластера: 54 фильмов
+Средний рейтинг: 3.07
+Медиана рейтинга: 3.18
+Дисперсия рейтинга: 0.29
+
+Топ-5 жанров:
+genres
+Drama       29
+Comedy      16
+Romance     12
+Thriller    11
+Horror       8
+
+Топ-5 тегов:
+tag
+comedy      6
+nudity      5
+violence    3
+Mike        3
+3-D         3
+
+Примеры фильмов:
+                                           title    rating                 genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+15100                          Date Night (2010)  3.191117  Action|Comedy|Romance  Steve Carrell comedy cute missed the mark Tina Fey absurd screwball comedy strippers sexy girls action perrot library Kristen Wiig mistaken identity great comedians lousy movie William Fichtner great screenplay Steve Carell Mark Ruffalo tense derivative funny Common witty great comedians Leighton Meester better expected Taraji Henson Mark Wahlberg predictable dumb Mila Kunis silly pacing inappropriate group movie James Franco family redbox Netflix queue juvenile funny moments
+15120  Taqwacore: The Birth of Punk Islam (2009)  3.333333            Documentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               NaN
+15121                         Grim Reaper (2007)  2.166667                 Horror                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               NaN
+15127                             Peacock (2010)  2.994444               Thriller                                                                                                                                                                                                                                                                                                                                                                                                                Susan Sarandon small town Cillian Murphy annoying characters Ellen Page Josh Lucas
+15131                               Carne (1991)  3.458333         Drama|Thriller                                                                                                                                                                                                                                                                                                                                                                                                                     dark Blood new french extremity Gaspar NoÃ© gaspar noé Red existential french

@@ -1,0 +1,29 @@
+Анализ подкластера 405 в кластере 3
+Размер подкластера: 30 фильмов
+Средний рейтинг: 3.31
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama        21
+Comedy       10
+Crime         3
+Adventure     3
+Romance       3
+
+Топ-5 тегов:
+tag
+DVDs     12
+100      12
+AFI      11
+the       8
+movie     8
+
+Примеры фильмов:
+                                    title    rating              genres                                                                                                                                                                                                                                                                                                                                                                                                              tag
+3224                      Kid, The (1921)  3.910929        Comedy|Drama  erlend's DVDs orphans painter dream sequence Dream Sequence See slapstick charity criminal angel seen more once stone throwing Tumey's DVDs DIVX stardom movies every kid should see--Entertainment Weekly Charlie Chaplin illegitimate child seen 2012 child protection CAV devil black and white DOCTORS AND PATIENTS Charles Chaplin library imdb top 250 silent movie Criterion artists authority favourite
+3225         Man from Laramie, The (1955)  3.688797             Western                                                                                                                                                                                                                                                                                                                                                                                  Anthony Mann genre:western noir
+3236                     3 Strikes (2000)  2.368421              Comedy                                                                                                                                                                                                                                                                                                                                                                                                             Pooh
+3249                     Jail Bait (1954)  2.485075         Crime|Drama                                                                                                                                                                                                                                                                                                                                                                                                  imdb bottom 100
+3259  Charlie, the Lonesome Cougar (1967)  3.236842  Adventure|Children                                                                                                                                                                                                                                                                                                                                                                                                              NaN

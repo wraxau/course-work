@@ -1,0 +1,29 @@
+Анализ подкластера 453 в кластере 6
+Размер подкластера: 32 фильмов
+Средний рейтинг: 3.08
+Медиана рейтинга: 3.19
+Дисперсия рейтинга: 0.42
+
+Топ-5 жанров:
+genres
+Drama          16
+Comedy          9
+Documentary     4
+Horror          4
+Adventure       3
+
+Топ-5 тегов:
+tag
+nudity       4
+(topless)    3
+for          3
+made         3
+slow         2
+
+Примеры фильмов:
+                                         title    rating                                      genres                                                                                                                                                                                                                              tag
+14035            Race to Witch Mountain (2009)  2.825000  Adventure|Children|Fantasy|Sci-Fi|Thriller  preachy dog Dwayne Johnson script based book Carla Gugino boring acting funny aliens exciting dialgoue good acting Alexander Ludwig sci-fi evil government story alien assassin AnnaSophia Robb adventure REDBOX cliche villain
+14047                  The Sandwich Man (1983)       NaN                                       Drama                                                                                                                                                                                                                  Hsiao-Hsien Hou
+14063                     Okie Noodling (2001)  3.400000                                 Documentary                                                                                                                                                                                                         Bradley Beesley Oklahoma
+14067            Army Brats (Schatjes!) (1984)  2.833333                             Children|Comedy                                                                                                                                                                                                                              NaN
+14080  Goods: Live Hard, Sell Hard, The (2009)  2.832143                                      Comedy                                                                                                                                                                                                                  comedy underdog

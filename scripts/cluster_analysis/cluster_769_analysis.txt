@@ -1,0 +1,23 @@
+Анализ кластера 769
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama       1
+Thriller    1
+
+Топ-10 тегов:
+tag
+Stalking        1
+Baseball        1
+Tony            1
+Scott           1
+Niro's          1
+downfall        1
+Bibliothek      1
+related:Star    1
+Wars            1
+
+Примеры фильмов:
+               title          genres                                                                        tag
+769  Fan, The (1996)  Drama|Thriller  Stalking Baseball Tony Scott Niro's downfall Bibliothek related:Star Wars

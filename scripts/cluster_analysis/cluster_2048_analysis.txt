@@ -1,0 +1,23 @@
+Анализ кластера 2048
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama    1
+
+Топ-10 тегов:
+tag
+DVDs            2
+erlend's        1
+Bergman         1
+Ingmar          1
+tense           1
+Performances    1
+Female          1
+Essential       1
+100             1
+siblings        1
+
+Примеры фильмов:
+                                   title genres                                                                                                                                                               tag
+2048  Autumn Sonata (Höstsonaten) (1978)  Drama  erlend's DVDs reflective autumnal library claustrophobic deliberate Tumey's DVDs Criterion siblings 100 Essential Female Performances tense Ingmar Bergman bleak

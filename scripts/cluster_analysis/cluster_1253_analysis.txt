@@ -1,0 +1,25 @@
+Анализ кластера 1253
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+Drama     1
+War       1
+
+Топ-10 тегов:
+tag
+Chaplin      3
+DVDs         2
+250          2
+top          2
+black        2
+overrated    1
+(Laughs)     1
+Charlie      1
+classic      1
+Adolf        1
+
+Примеры фильмов:
+                           title            genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                               tag
+1253  Great Dictator, The (1940)  Comedy|Drama|War  overrated erlend's DVDs multiple roles banned movie humorous political National Film Registry dictatorship talky simplistic marx brothers smart etaege google video netflix Nazis holes40s Jews war Tumey's DVDs propaganda top 250 IMDB Nazi Germany barber Charlie Chaplin classic Adolf Hitler satire controversial drags Chaplin AFI 100 (Laughs) stars amnesia hitler black and white dysku Charles Chaplin imdb top 250 Criterion World War creative black comedy anti-war

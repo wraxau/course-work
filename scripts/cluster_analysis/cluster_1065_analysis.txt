@@ -1,0 +1,14 @@
+Анализ кластера 1065
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Musical    1
+
+Топ-10 тегов:
+tag
+nan    1
+
+Примеры фильмов:
+                        title   genres  tag
+1065  Madame Butterfly (1995)  Musical  NaN

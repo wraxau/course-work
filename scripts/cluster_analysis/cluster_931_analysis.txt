@@ -1,0 +1,25 @@
+Анализ кластера 931
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+Western    1
+
+Топ-10 тегов:
+tag
+AFI           2
+National      1
+#82           1
+earthy        1
+melancholy    1
+Elizabeth     1
+Taylor        1
+dvr           1
+oil           1
+Rock          1
+
+Примеры фильмов:
+            title                 genres                                                                                                                                                                                                                                                       tag
+931  Giant (1956)  Drama|Romance|Western  National Film Registry sweeping epic poignant Classic long Oscar (Best Directing) Tumey's DVDs realistic depressing George Stevens elegiac Rock Hudson earthy melancholy Elizabeth Taylor dvr AFI #82 oil Drama James Dean AFI 100 lavish stirring aging

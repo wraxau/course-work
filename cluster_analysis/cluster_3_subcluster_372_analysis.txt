@@ -1,0 +1,29 @@
+Анализ подкластера 372 в кластере 3
+Размер подкластера: 78 фильмов
+Средний рейтинг: 3.13
+Медиана рейтинга: 3.13
+Дисперсия рейтинга: 0.26
+
+Топ-5 жанров:
+genres
+Drama        35
+Comedy       28
+Action       12
+Romance      11
+Adventure     9
+
+Топ-5 тегов:
+tag
+300        13
+ratings    13
+less       12
+boring     10
+funny      10
+
+Примеры фильмов:
+                                   title    rating                        genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    tag
+6090                   Old School (2003)  3.606102                        Comedy                                                                                       nudity (topless) comedy hilarious mature watched 2006 Seann William Scott not funny Todd Phillips Funniest Movies Olympics quirky college seen more once fraternity nudity (rear) funny very funny Ellen Pompeo Will Ferrell Vince Vaughn Jeremy Piven Funny hell undressing beer midlife crisis Andy Dick Nudity (Topless) Elisha Cuthbert Juliette Lewis Luke Wilson Friday night movie stupid
+6099                       Spider (2002)  3.430965                 Drama|Mystery                                                                                                                                                                                                                              gloomy insanity Madness intelligent based book DVD perrot library understated MOLT_AVORRIDA The Tenant somber cerebral kumma meditative interesting sad disturbing hallucinatory LENTISSIMA delusion enigmatic mental illness deliberate David Cronenberg
+6102               Insignificance (1985)  3.506410                  Comedy|Drama                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Nicolas Roeg Criterion
+6116  Irreversible (Irréversible) (2002)  3.570486  Crime|Drama|Mystery|Thriller  Vincent Cassel nudity (full frontal) Gaspar NoÃ© constantly rotating filming brutal strobe effects revenge piece shit mindfuck reverse timeline Molt criticada Tumey's DVDs Gaspar Noé Monica Bellucci NC-17 dark controversial Nudity (Topless Notable) disturbing thought-provoking unique hard watch male nudity Nudity (Full Frontal) Nudity (Full Frontal Notable) graphic violence rape brutality stobe effects vengeance rape-revenge Simplement morbo nonlinear Gaspar NoÃƒÂ©
+6139      Glenn Miller Story, The (1953)  3.670769                         Drama                                                                                                                                                                                                                                                                                                                                                                                                                                         Anthony Mann James Stewart musicians biography

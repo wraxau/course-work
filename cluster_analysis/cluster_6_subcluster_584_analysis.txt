@@ -1,0 +1,29 @@
+Анализ подкластера 584 в кластере 6
+Размер подкластера: 52 фильмов
+Средний рейтинг: 3.21
+Медиана рейтинга: 3.29
+Дисперсия рейтинга: 0.28
+
+Топ-5 жанров:
+genres
+Drama      27
+Comedy     17
+Romance     7
+Action      7
+Crime       6
+
+Топ-5 тегов:
+tag
+Netflix      7
+adapted      6
+from:book    6
+book         5
+nudity       5
+
+Примеры фильмов:
+                                                                           title    rating               genres                                                               tag
+14501                                                            Wattstax (1973)  3.500000  Documentary|Musical                       Mel Stuart musicians rhythm blues vocalists
+14506                                      Last Remake of Beau Geste, The (1977)  2.857143     Adventure|Comedy                                                               NaN
+14519  Nine Ways to Approach Helsinki (Yhdeksän tapaa lähestyä Helsinkiä) (1982)  3.166667          Documentary                                                               NaN
+14520                                                  Fly, The (Légy, A) (1980)  3.214286     Animation|Comedy  easily confused with other movie(s) (title) short 10/10 animated
+14523                                                              Garage (2007)  3.600000                Drama                                                               NaN

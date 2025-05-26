@@ -1,0 +1,23 @@
+Анализ кластера 2163
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Demme        2
+nudity       1
+(topless)    1
+Didn't       1
+finish       1
+quirky       1
+charm        1
+Jonathan     1
+FBI          1
+Betamax      1
+
+Примеры фильмов:
+                          title  genres                                                                                                                               tag
+2163  Married to the Mob (1988)  Comedy  nudity (topless) Didn't finish quirky charm Jonathan Demme FBI Betamax delightful Michelle Pfeiffer Demme Nudity (Topless) Mafia

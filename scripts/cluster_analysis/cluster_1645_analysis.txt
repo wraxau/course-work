@@ -1,0 +1,24 @@
+Анализ кластера 1645
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Drama      1
+Romance    1
+
+Топ-10 тегов:
+tag
+Oscar     3
+acting    3
+Ben       2
+by)       2
+Great     2
+drama     2
+Matt      2
+movies    2
+school    2
+(Best     2
+
+Примеры фильмов:
+                         title         genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1645  Good Will Hunting (1997)  Drama|Romance  Ben Affleck need see math USA thoughtful personal insight psychology Friends genius Matt Damon acting character study intellectual Subscription inspirational excellent script Great screenplays combinatorics Minnie Driver Therapy Ben Affleck(written by) Matt Damon(written by) science private school autodidact simplistic heartwarming 1.5 matt damon smart Oscar (Best Supporting Actor) college university unlikely friendships Robin Williams drama movies boston DVDs emotional mentor self conciousness imdb top 250 How you like dem apples? own Gus Van Sant Boston robin williams great acting intelligent seen more once Stellan Skarsgard Great Screenplays owned exciting elliott smith ClearPlay mathematics exceptional acting Oscar (Best Writing Screenplay Written Directly for the Screen) psychiatrist protagonist academia class issues feel-good uplifting sucked didn't deserve Oscar memasa's movies Netflix Finland school drama want casey affleck Good Romantic Comedies romanc DIVX Oscar:screenplay Genius cheesy sappy tragic childhood classic BD-Video child abuse orphan friends Child Abuse friendship relations

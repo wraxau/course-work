@@ -1,0 +1,27 @@
+Анализ кластера 1172
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Comedy       1
+Fantasy      1
+Romance      1
+
+Топ-10 тегов:
+tag
+love        7
+classic     4
+fantasy     3
+Goldman     3
+true        2
+fighting    2
+Robin       2
+Elwes       2
+tale        2
+cult        2
+
+Примеры фильмов:
+                           title                                   genres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tag
+1172  Princess Bride, The (1987)  Action|Adventure|Comedy|Fantasy|Romance  true love story fantasy world humorous fencing fairytale modern fantasy See torture Classic screenwriter:William Goldman Peter Cook Billy Crystal nerdy Mandy Patinkin all ages love love story six-fingered man fanciful Christopher Guest dvd brilliant humor cult classic fighting comedy and adventure nothing all happy ending Peter Falk chearful must see classic overrated erlend's DVDs pirates wonderful unlikable love interest Wallace Shawn anti-death penalty 1980 fairy tale merry sword fighting Bechdel Test:Fail has everything love movie: romance true love quirky Rob Reiner Fairy tale Chris Sarandon funny whimsical satisfying LOVERS REUNITED witty fairy tales DARING RESCUES Robin Wright Penn Romance cult author:William Goldman imdb top 250 royalty fun own good versus evil must show Hugo Award comedy Oscar (Best Music Original Song) amazing cast revenge action princess clever seen more once rousing Fantasy swashbuckler Cult classic movies every kid should see--Entertainment Weekly romance William Goldman adapted from:book holes80s Robin Wright bride adorable feel-good coming-of-age jauka viegla filmiÅ†a quotable swords fantasy sweet original Highly quotable Quotable hilarious Must see pirates (minor) love subgenre:fable Inigo Montoya based book Netflix Finland cute cliche HEROIC MISSION Andre the Giant Cary Elwes Heartfelt want william goldman medieval cheesy classic ownable sword fight BD-Video Funny hell own this Quirky Carey Elwes ASSUMED IDENTITIES 1980s awesome fight choreography giant

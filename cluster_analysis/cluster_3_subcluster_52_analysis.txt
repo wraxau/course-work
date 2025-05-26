@@ -1,0 +1,29 @@
+Анализ подкластера 52 в кластере 3
+Размер подкластера: 42 фильмов
+Средний рейтинг: 3.02
+Медиана рейтинга: 3.17
+Дисперсия рейтинга: 0.42
+
+Топ-5 жанров:
+genres
+Comedy      18
+Drama       17
+Thriller     8
+Action       7
+Crime        7
+
+Топ-5 тегов:
+tag
+comedy     9
+Betamax    9
+based      7
+classic    7
+good       7
+
+Примеры фильмов:
+                                title    rating       genres                                                                                                                                                                                                                                                                                                                                                                                                                           tag
+2186      Century of Cinema, A (1994)  3.242857  Documentary                                                                                                                                                                                                                                                                      01/11 06/11 12/09 06/10 11/10 10/09 11/11 03/10 11/09 12/10 08/10 01/10 05/10 09/10 10/10 Not available from Netflix 05/11 07/10 03/11 12/11 02/10 02/11
+2218           My Cousin Vinny (1992)  3.566977       Comedy  comedy wrongly accused Marisa Tormei Marisa Tomei good grits you might laugh your head out. alabama Friday night fare lawyer enjoyable lawyers mystery Joe Pesci Funny pesci great Courtroom NO_FA_GANES Marissa Tomei courtroom funny Jonathan Lynn trial Alabama small town Law murder Ralph Macchio dvr never knew justice could funny. Try this one Oscar (Best Supporting Actress) show entertaining Oscar Winner court
+2228  Children of a Lesser God (1986)  3.719694        Drama                                                                                                                                                                                                                                                                        Nudity (Rear) deafness ClearPlay death penalty intense Betamax love story compelling unique Oscar (Best Actress) disability Marlee Matlin Randa Haines
+2239               Cruise, The (1998)  3.651822  Documentary                                                                                                                                                                                                                                                                                                                                                                    introspective directorial debut Bennett Miller indie artsy
+2249         Gods and Monsters (1998)  3.810085        Drama                                                                                                                                                                                                                                        erlend's DVDs Ian McKellen ClearPlay character study Ian McKellan Brendan Fraser Hollywood character development Nudity (Topless Brief) homophobia Netflix Finland See Bill Condon gay

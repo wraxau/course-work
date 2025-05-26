@@ -1,0 +1,26 @@
+Анализ кластера 460
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Action       1
+Adventure    1
+Crime        1
+Thriller     1
+
+Топ-10 тегов:
+tag
+Orleans        2
+Van            2
+Damme          2
+Louisiana      1
+arts           1
+asiaten        1
+action         1
+Jean-Claude    1
+New            1
+setting:New    1
+
+Примеры фильмов:
+                  title                           genres                                                                                                                                                                                      tag
+460  Hard Target (1993)  Action|Adventure|Crime|Thriller  Louisiana john woo human prey John Woo bad! Van Damme Lance Henriksen martial arts jean-claude van damme setting:New Orleans New Orleans Jean-Claude Van Damme action asiaten hollywood

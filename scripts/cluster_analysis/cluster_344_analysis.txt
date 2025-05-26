@@ -1,0 +1,23 @@
+Анализ кластера 344
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Comedy    1
+
+Топ-10 тегов:
+tag
+Oscar         7
+Nominee:      6
+Supporting    3
+Actor         1
+playwright    1
+Director      1
+Actress       1
+Broadway      1
+Jennifer      1
+Tilly         1
+
+Примеры фильмов:
+                            title  genres                                                                                                                                                                                                                                                                                                                                                            tag
+344  Bullets Over Broadway (1994)  Comedy  erlend's DVDs John Cusack New York City Johnny Depp Miramax Oscar Nominee: Costume Design Oscar Nominee: Art Direction 1930s Oscar Nominee: Supporting Actor theater playwright Oscar Nominee: Director Oscar Nominee: Supporting Actress Broadway Jennifer Tilly Oscar (Best Supporting Actress) Oscar Nominee: Original Screenplay Woody Allen mobster play

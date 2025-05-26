@@ -1,0 +1,21 @@
+Анализ кластера 1974
+Размер кластера: 1 фильмов
+
+Топ-10 жанров:
+genres
+Adventure    1
+Children     1
+
+Топ-10 тегов:
+tag
+Disney        2
+cats          1
+Fletcher      1
+Markle        1
+dogs          1
+studios       1
+animal:cat    1
+
+Примеры фильмов:
+                               title              genres                                                         tag
+1974  Incredible Journey, The (1963)  Adventure|Children  cats Disney Fletcher Markle dogs Disney studios animal:cat
